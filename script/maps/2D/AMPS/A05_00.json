@@ -562,7 +562,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#111",
      "jp": "ドックの職人：<R>……あれ？<W><H>だんな、ちょっと<R>荷物が多すぎますね。<W><H>この船の積載量は<R><V10,0,4>個までなんです。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーですね。<W><H>ジャンク屋かどこかで<R>荷物を売ってから<R>また来てくださいね。<W><E>",
-     "en": "Shipwright:<R>...Huh?<W><H>Boss, you've got a bit too much<R>cargo.<W><H>This ship's cargo capacity is <V10,0,4><R>items.<W><H>You're carrying <V11,0,4> items right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Please sell some cargo at a junk<R>dealer or somewhere, then come<R>back.<W><E>"
+     "en": "Shipwright:<R>...Huh?<W><H>Boss, you've got a bit too much<R>cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You're carrying <V11,0,4> right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Please sell some cargo at a junk<R>dealer or somewhere, then come<R>back.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#112",
@@ -582,7 +582,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#115",
      "jp": "ドックの職人：<R>……あれ？<W><H>だんな、ちょっと<R>荷物が多すぎるようだね。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": "Shipwright:<R>...Huh?<W><H>Boss, looks like you've got a bit<R>too much cargo.<W><H>This ship's cargo capacity is <V10,0,4><R>items.<W><H>You're carrying <V11,0,4> items right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere and come back.<W><E>"
+     "en": "Shipwright:<R>...Huh?<W><H>Boss, looks like you've got a bit<R>too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You're carrying <V11,0,4> right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere and come back.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#116",

@@ -447,67 +447,67 @@
     {
      "id": "2D/GMPS/G05_00@42000#88",
      "jp": "ノイパスク兵：<R>この星……ベルデセルバは<R>おまえたちのものだよ。<W><H>ゼクセル大佐のやり方が<R>強引すぎたんだ。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>This planet... Velldeselba belongs<R>to you people.<W><H>Colonel Zexel's methods were too<R>heavy-handed.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#89",
      "jp": "ノイパスク兵：<R>ゼクセル大佐のやり方が<R>強引すぎたんだ。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Colonel Zexel's methods were too<R>heavy-handed.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#90",
      "jp": "ノイパスク兵：<R>ゼクセル大佐のやり方が<R>強引すぎたんだ……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Colonel Zexel's methods were too<R>heavy-handed...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#91",
      "jp": "<F62>：<R>なあ、よかったら、<R>俺の船に乗らないか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, if you want, how about coming<R>aboard my ship?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#92",
      "jp": "ノイパスク兵：<R>おまえ、見た顔だが……<W><H>え？　まさかそんな……<W><H>バ・マッグをたすけてくれた<R>あのときの？<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>You... I've seen your face<R>before...<W><H>Huh? No, it can't be...<W><H>The one who saved Ba Magg that<R>time?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#93",
      "jp": "<F62>：<R>何だ、おまえ、<R>バ・マッグの知り合いか？<W><H>あいつも元気だぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What, you know Ba Magg?<W><H>He's doing just fine.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#94",
      "jp": "ノイパスク兵：<R>そうだな……あいつがいるん<R>だったら、行ってもいいな。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Well... if he's there, I wouldn't<R>mind going.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#95",
      "jp": "<F62>：<R>よし、決まった。<R>おまえの名は？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>All right, it's settled. What's<R>your name?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#96",
      "jp": "イッヒ：<R>わが名はイッヒ。<W><E>",
-     "en": ""
+     "en": "Ich:<R>My name is Ich.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#97",
      "jp": "<F62>：<R>ギダン軍の連中には<R>話をつけてある。<W><H>飛空港まで行っててくれ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I've already squared things with<R>the Gidan army folks.<W><H>Head on over to the airport.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#98",
      "jp": "<P13>イッヒが仲間になった。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Ich has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#99",
      "jp": "ノイパスク兵：<R>このまま本国に攻め込まれたら<R>ノイパスクはもうおしまいだ。<W><H>くそ、俺には何も<R>できないのか……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>If they invade the homeland like<R>this, it's all over for Noipask.<W><H>Damn it, is there nothing I can<R>do...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#100",
      "jp": "ノイパスク兵：<R>くそ、俺には何も<R>できないのか……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Damn it, is there nothing I can<R>do...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#101",
@@ -517,42 +517,42 @@
     {
      "id": "2D/GMPS/G05_00@42000#102",
      "jp": "<F62>：<R>できるさ。<R>俺といっしょに来ればな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Sure there is. Just come with<R>me.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#103",
      "jp": "ノイパスク兵：<R>ふん、何を言うか。<W><H>敵のために戦うことなど<R>できるか。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Hmph, what are you saying?<W><H>As if I could fight for the<R>enemy.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#104",
      "jp": "<F62>：<R>ギダンのためじゃない。<W><H>この戦争を終わらせるために<R>俺は戦っている。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>It's not for Gidan.<W><H>I'm fighting to end this war.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#105",
      "jp": "ノイパスク兵：<R>そんなこと信じられるか。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>As if I could believe that.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#106",
      "jp": "<F62>：<R>信じるかどうかは<R>おまえの自由だぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Believe it or not, that's up to<R>you.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#107",
      "jp": "ノイパスク兵：<R>……信じるわけではないが、<W><H>ここから出られるんだったら<R>いっしょに行こう……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>...Not that I believe you, but<W><H>if it gets me out of here, I'll go<R>with you...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#108",
      "jp": "<F62>：<R>よし、決まった。<W><H>おまえの名は？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>All right, it's settled.<W><H>What's your name?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#109",
      "jp": "ニッヒ：<R>わが名はニッヒ。<W><E>",
-     "en": ""
+     "en": "Nich:<R>My name is Nich.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#110",
@@ -562,92 +562,92 @@
     {
      "id": "2D/GMPS/G05_00@42000#111",
      "jp": "<P13>ニッヒが仲間になった。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Nich has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#112",
      "jp": "ノイパスク兵：<R>つかれた………<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>I'm so tired......<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#113",
      "jp": "ノイパスク兵：<R>ゼクセルさま<R>おたすけください……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Zexel-sama, please save us...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#114",
      "jp": "ノイパスク兵：<R>ゼクセルさまが玉砕されたなんて<R>……信じないぞ！<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Zexel-sama died in a last stand?<R>...I won't believe it!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#115",
      "jp": "ノイパスク兵：<R>もう戦う意味がないよ……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>There's no point in fighting<R>anymore...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#116",
      "jp": "ノイパスク兵：<R>本国に帰りたい……<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>I want to go back to the<R>homeland...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#117",
      "jp": "ノイパスク兵：<R>本国までがギダンにやられたんだ<R>って？　くそ、なんてことだ！<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Even the homeland's been taken by<R>Gidan? Damn it, how could this<R>happen!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#118",
      "jp": "ギダン兵：<R>やあ、カ・ジャルコ。<R>こんなところでなにやってんだ？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Hey, Ka Jarko. What are you doing<R>in a place like this?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#119",
      "jp": "ギダン兵：<R>ドックの設備がいかれちまった。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>The dock equipment's gone and<R>broken down.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#120",
      "jp": "ギダン兵：<R>ドックの設備が一部<R>壊れてるんだけど、<W><H>エンジンの改造だけだったら<R>できるぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Part of the dock equipment is<R>broken,<W><H>but I can still handle engine<R>modifications.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#121",
      "jp": "ギダン兵：<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Come again.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#122",
      "jp": "ギダン兵：<R>じゃ、気をつけてな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Well, take care.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#123",
      "jp": "ギダン兵：<R>あれ？<R>カ・ジャルコじゃないか。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Huh? Isn't that Ka Jarko?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#124",
      "jp": "ギダン兵：<R>悪いが応急処置しかできない<R>んだ。修理するかい？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Sorry, all I can do is patch jobs.<R>Want a repair?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#125",
      "jp": "ギダン兵：<R>修理が必要になったら<R>また来いよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>If you need repairs, come on<R>back.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#126",
      "jp": "ギダン兵：<R>これで何とか飛べるようには<R>なったかな？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>That oughta at least get you<R>flying, I think?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#127",
      "jp": "配給係：<R>何か用ですか？<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Can I help you?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#128",
      "jp": "配給係：<R>やあ、お疲れさま。<W><H>ずいぶんお給料がたまって<R>ますよ。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Hi, good work out there.<W><H>You've got quite a bit of pay<R>saved up.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#129",
@@ -657,7 +657,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#130",
      "jp": "配給係：<R>お疲れさま。<W><H>霧の中の飛行は疲れるでしょう？<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Good work out there.<W><H>Flying in fog must wear you out,<R>huh?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#131",
@@ -667,7 +667,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#132",
      "jp": "配給係：<R>樹海戦、お疲れさまでしたね。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Good work in the forest battle.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#133",
@@ -682,217 +682,217 @@
     {
      "id": "2D/GMPS/G05_00@42000#135",
      "jp": "ギダン兵：<R>まさかノイパスクの兵舎で<R>休めるとはな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Never thought we'd get to rest in<R>a Noipask barracks.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#136",
      "jp": "ギダン兵：<R>ちっ、もう出撃か。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Tch, sortie already?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#137",
      "jp": "ギダン兵：<R>なんだ！　あの霧は！<R>まともに戦えないぜ！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What is that fog!? We can't fight<R>properly in that!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#138",
      "jp": "ギダン兵：<R>２階の捕虜たち、何だか<R>かなり怒ってたぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>The prisoners on the second floor<R>seemed pretty angry about<R>something.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#139",
      "jp": "ギダン兵：<R>ノイパスク人は<R>いい生活してるなぁ………<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>The Noipask sure live the good<R>life......<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#140",
      "jp": "ギダン兵：<R>出撃の準備はいいか？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Ready to sortie?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#141",
      "jp": "ギダン兵：<R>ノイパスクのやつらめ！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Damn those Noipask!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#142",
      "jp": "ギダン兵：<R>上はノイパスク軍の捕虜で<R>いっぱいだよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Upstairs is packed with Noipask<R>army prisoners.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#143",
      "jp": "ギダン兵：<R>国の土産に何か<R>いただいていこうかな……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Maybe I'll help myself to a<R>souvenir for the folks back<R>home...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#144",
      "jp": "ギダン兵：<R>ゼクセル艦はさすがに<R>手ごわいな……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Zexel's ship sure is tough, I'll<R>give it that...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#145",
      "jp": "ギダン兵：<R>しかし趣味の悪い家具だね。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Talk about tacky furniture,<R>though.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#146",
      "jp": "ギダン兵：<R>何か金目のものはないかな？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Anything valuable lying around?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#147",
      "jp": "ギダン衛生兵：<R>ノイパスクの酒ってちょっと<R>消毒液臭いけど、いけますよ。<W><E>",
-     "en": ""
+     "en": "Gidan Medic:<R>Noipask liquor smells a bit like<R>disinfectant, but it goes down<R>fine.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#148",
      "jp": "ギダン衛生兵：<R>もう出撃か……<R>酒を何本かいただいていこう。<W><E>",
-     "en": ""
+     "en": "Gidan Medic:<R>Sortie already...? I'll help<R>myself to a few bottles of<R>liquor.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#149",
      "jp": "ギダン兵：<R>わははは、酒なら<R>なんだっていっしょだー！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Wahahaha, booze is booze, whatever<R>kind it is!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#150",
      "jp": "ギダン兵：<R>わははは、酒の勢いで、<R>出撃だあ！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Wahahaha, on a wave of booze,<R>let's sortie!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#151",
      "jp": "ギダン兵：<R>ここの酒は一杯でへろへろに<R>なってひまふれすろぉ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>One glash of the booze here and<R>you're all wobbly, I shwear.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#152",
      "jp": "ギダン兵：<R>あ、あしがふらつひて<R>たてなひへふ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>M-my legsh are wobbly, I can't<R>shtand up.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#153",
      "jp": "ガシザキノ大佐：<R>おお、<F62>！<W><H>よくがんばったな。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Oh, <F62>!<W><H>You did well.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#154",
      "jp": "ガシザキノ大佐：<R><F62>よ、<R>ここを足場にワンク島を攻略せよ、<R>というシデル提督の命令が出た。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R><F62>, Admiral Sidel has issued<R>orders: use this place as a<R>foothold and take Wanku Island.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#155",
      "jp": "<F62>：<R>ワンク島？<R>北西にある浮遊島か。<W><H>おいおい、いつまで浮遊島攻略<R>を続けるつもりなんだ？<W><H>このままノイパスク全土を<R>占領する気か？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Wanku Island? The floating island<R>to the northwest?<W><H>Come on, how long do you plan to<R>keep attacking floating islands?<W><H>Are you going to occupy all of<R>Noipask at this rate?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#156",
      "jp": "ガシザキノ大佐：<R>わからん。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>I don't know.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#157",
      "jp": "<F62>：<R>シデルのやってることを<R>国王は知らないのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Doesn't the King know what Sidel<R>is doing?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#158",
      "jp": "ガシザキノ大佐：<R>ご存じのはずだ。<W><H>ただ陛下も、もうお歳だ。<R>提督のなさることを<R>見守るしかないのであろう。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>He must know.<W><H>But His Majesty is getting on in<R>years. I suppose all he can do is<R>watch over what the Admiral<R>does.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#159",
      "jp": "<F62>：<R>これ以上戦うことに<R>意味があるとは思えないぜ。<W><H>国王の言ってた経済制裁で<R>じゅうぶんなんだろ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I don't see any point in fighting<R>any more.<W><H>The economic sanctions the King<R>talked about would be enough,<R>right?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#160",
      "jp": "ガシザキノ大佐：<R>俺もそう思うが………<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>I think so too, but......<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#161",
      "jp": "ギダン兵：<R>ノイパスクの飛空船です！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Noipask airships!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#162",
      "jp": "<F62>：<R>ちきしょう！<R>まだ戦うつもりか！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Damn it! They still want to<R>fight!?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#163",
      "jp": "ガシザキノ大佐：<R>ゼクセルめ、しぶといな。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Zexel, the stubborn devil.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#164",
      "jp": "ガシザキノ大佐：<R>そうだ、<F62>。<W><H>ノイパスクの兵士が多数<R>投降してきたんでな、<R>兵舎の２階に収容しておいた。<W><H>おまえの船にはノイパスク人が<R>何人かいるんだったな。<W><H>一人でも砲手がほしいだろう？<R>気にいった捕虜がいたら<R>連れてっていいぞ。<W><H>ただし、ちゃんと<R>俺に報告しろよ。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Oh yes, <F62>.<W><H>A lot of Noipask soldiers<R>surrendered, so I put them up on<R>the second floor of the<R>barracks.<W><H>You've got a few Noipask on your<R>ship, don't you?<W><H>You could use even one more<R>gunner, right? If there's a<R>prisoner you like, you can take<R>them along.<W><H>Just make sure you report it to<R>me.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#165",
      "jp": "ガシザキノ大佐：<R>準備を整えて来い！<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Get ready and come back!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#166",
      "jp": "ガシザキノ大佐：<R>タンデーク樹海に出撃せよ！<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Sortie to the Tandeek Forest!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#167",
      "jp": "ガシザキノ大佐：<R>補給をすませて出撃だ！<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Resupply, then sortie!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#168",
      "jp": "ガシザキノ大佐：<R>グラシアルは大きな町だぞ。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Glacial is a big city, you know.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#169",
      "jp": "ガシザキノ大佐：<R>がはははは、<R>スカウトに成功したか。<W><H>そろそろ出撃だ。<W><H>この空域には、非常に濃い<R>霧がたちこめている。<W><H>注意して迎撃に当たれ！<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Gahahaha, so your scouting paid<R>off.<W><H>It's almost time to sortie.<W><H>A very thick fog has settled over<R>this airspace.<W><H>Be careful as you intercept!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#170",
      "jp": "ガシザキノ大佐：<R>おお、<F62>。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Oh, <F62>.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#171",
      "jp": "<F62>：<R>このあたりはやっかいな<R>ところだな。<W><H>目隠しして戦ってる<R>みたいだよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>This area's a real pain.<W><H>It's like fighting blindfolded.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#172",
      "jp": "ガシザキノ大佐：<R>何か作戦を立てないとな……<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>We need to come up with some kind<R>of strategy...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#173",
      "jp": "ギダン兵：<R>またノイパスクです！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Noipask again!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#174",
      "jp": "ガシザキノ大佐：<R>もう来たのか！？<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Already!?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#175",
      "jp": "<F62>：<R>くっそう！<R>もう一度出る！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Dammit! I'm going out again!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#176",
      "jp": "ガシザキノ大佐：<R>待て、<F62>。<W><H>単独行動は危険だ。<R>イ・デム島から離れるな。<W><H>補給をすませて出撃だ！<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Wait, <F62>.<W><H>Acting alone is dangerous. Don't<R>stray from I-Dem Island.<W><H>Resupply, then sortie!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#177",
      "jp": "ガシザキノ大佐：<R><F62>、今、<R>バムス中佐が知らせてくれた。<W><H>ム連邦が動き出したそうだ。<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R><F62>, Lieutenant Colonel Bams<R>just informed me.<W><H>The Federation has started to<R>move.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#178",

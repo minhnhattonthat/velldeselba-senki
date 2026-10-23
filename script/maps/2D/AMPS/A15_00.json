@@ -447,147 +447,147 @@
     {
      "id": "2D/AMPS/A15_00@27800#88",
      "jp": "<F62>：<R>ここだと思ったんだが、<R>黒い飛空船がないな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I thought it'd be here, but<R>there's no black airship.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#89",
      "jp": "<F62>：<R>なにをしている！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What are you doing!<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#90",
      "jp": "覆面男：<R>なんだ、おまえは？<W><E>",
-     "en": ""
+     "en": "Masked Man:<R>What? Who are you?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#91",
      "jp": "ガークス：<R>陛下！<W><E>",
-     "en": ""
+     "en": "Garks:<R>Your Majesty!<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#92",
      "jp": "覆面：<R>ガークスか！？<R>やばい！<W><E>",
-     "en": ""
+     "en": "Masked Man:<R>Garks!? Damn it!<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#93",
      "jp": "<F62>：<R>まて！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Wait!<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#94",
      "jp": "<F62>：<R>くそ、開けろ！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Damn it, open up!<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#95",
      "jp": "ガークス：<R>陛下！<R>ご無事ですか。<W><E>",
-     "en": ""
+     "en": "Garks:<R>Your Majesty! Are you unharmed?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#96",
      "jp": "ギダン国王：<R>まったくどういうことなのだ。<R>余をら致するなどとは！<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>What is the meaning of this? To<R>think someone would abduct me!<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#97",
      "jp": "ガークス：<R>ご無事でなによりです。<W><E>",
-     "en": ""
+     "en": "Garks:<R>I am so relieved you are safe.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#98",
      "jp": "ギダン国王：<R>ガークスよ、<R>無礼者はつかまえたか？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Garks, did you catch the<R>scoundrel?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#99",
      "jp": "ガークス：<R>いえ、取り逃がしました。<W><E>",
-     "en": ""
+     "en": "Garks:<R>No, he got away from us.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#100",
      "jp": "ギダン国王：<R>この者は？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>And who is this?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#101",
      "jp": "ガークス：<R>陛下をさがすために飛空船を<R>提供してくれた方です。<W><E>",
-     "en": ""
+     "en": "Garks:<R>This is the one who provided an<R>airship to search for Your<R>Majesty.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#102",
      "jp": "ギダン国王：<R>そうか。<R>大儀じゃった。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>I see. You have served well.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#103",
      "jp": "<F62>：<R>「大儀」だなんて、<R>ずいぶんと偉そうだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>\"Served well\"? Pretty high and<R>mighty, aren't you?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#104",
      "jp": "ガークス：<R><F62>殿、<W><H>いままで黙っていて<R>もうしわけなかったが、<W><H>このお方は、スティルトーグ<R>・バ・ダスク・ド・ギダン<R>国王陛下なのです。<W><E>",
-     "en": ""
+     "en": "Garks:<R><F62>-dono,<W><H>forgive me for keeping silent<R>until now,<W><H>but this is His Majesty the King,<R>Stiltog Ba Dusk de Gidan.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#105",
      "jp": "<F62>：<R>え？<W><H>このじいさんが<R>ギダンの国王なの！？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh?<W><H>This old geezer is the King of<R>Gidan!?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#106",
      "jp": "ガークス：<R><F62>殿、<R>そのような乱暴な言葉は……<W><E>",
-     "en": ""
+     "en": "Garks:<R><F62>-dono, such coarse<R>language...<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#107",
      "jp": "ギダン国王：<R>はっはっはっ、まあよいわ。<W><H>この者をグラシアルに招き、<R>ほうびをとらそう。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Hahaha, never mind that.<W><H>I shall invite this one to Glacial<R>and bestow a reward.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#108",
      "jp": "ガークス：<R>かしこまりました。<W><H>すぐにそのように<R>手配いたします。<W><E>",
-     "en": ""
+     "en": "Garks:<R>As you wish.<W><H>I shall make the arrangements at<R>once.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#109",
      "jp": "ガークス：<R><F62>殿、<W><H>グラシアルから<R>迎えの船を呼ぶので、<W><H>ヤルスキルまで陛下を<R>乗せていってもらえない<R>でしょうか。<W><E>",
-     "en": ""
+     "en": "Garks:<R><F62>-dono,<W><H>we will call for a ship from<R>Glacial to collect him,<W><H>so might you carry His Majesty as<R>far as Yarskill?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#110",
      "jp": "<F62>：<R>ああ、もちろんかまわないさ。<W><H>さあ、乗った乗った！<R>送ってやるよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Sure, no problem at all.<W><H>Come on, hop in, hop in! I'll take<R>you.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#111",
      "jp": "<F62>：<R>しかしあの覆面の男は<R>何者だったんだ……？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>But who was that masked man...?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#112",
      "jp": "<F62>：<R>誰もいない。<W><H>ここから逃げたんだな。<W><H>裏に小型飛空船を<R>隠していたのか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nobody here.<W><H>So this is how he got away.<W><H>He had a small airship hidden out<R>back?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#113",
      "jp": "<F62>：<R>空き家か……<W><H>あれ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>An empty house...<W><H>Huh?<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#114",
      "jp": "<P07>ショック音弾を<R>１０個拾いました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Picked up 10 Shock Sound Shells.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#115",
      "jp": "<F62>：<R>持ち主はいないようだし、<R>もらっておくか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Doesn't look like anyone owns<R>these, so I'll help myself.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#116",
      "jp": "<F62>：<R>くそ、開かないか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Damn, it won't open.<W><E>"
     },
     {
      "id": "2D/AMPS/A15_00@27800#117",

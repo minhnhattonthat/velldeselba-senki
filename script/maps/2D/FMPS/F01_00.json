@@ -447,57 +447,57 @@
     {
      "id": "2D/FMPS/F01_00@4d800#88",
      "jp": "<F62>：<R>出発するか。<W><H>次はヌーヌルスだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Time to head out.<W><H>Next stop, Nunurus.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#89",
      "jp": "パック：<R>だんなじゃないですか！？<W><E>",
-     "en": ""
+     "en": "Pack:<R>Boss, is that you!?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#90",
      "jp": "<F62>：<R>パック？<R>ほんとにパックか？<W><H>ギダンにいたんじゃ……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Pack? Is that really you, Pack?<W><H>I thought you were in Gidan...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#91",
      "jp": "パック：<R>よくご無事で。<W><H>いつムノギイに？<W><E>",
-     "en": ""
+     "en": "Pack:<R>I'm so glad you're safe.<W><H>When did you get to Munogi?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#92",
      "jp": "<F62>：<R>さっき着いたばかりだよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Just got here.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#93",
      "jp": "グールド：<R>さっきって……まさか<R>ム連邦軍といっしょに？<W><E>",
-     "en": ""
+     "en": "Gould:<R>Just now...? Don't tell me you<R>came with the Federation army?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#94",
      "jp": "<F62>：<R>ああ。<W><H>ム連邦軍の士官として<R>パナスガルに行く途中さ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah.<W><H>I'm on my way to Panasgal as an<R>officer in the Federation army.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#95",
      "jp": "グールド：<R>ギダンの王様についていたと<R>思ったら今度はム連邦軍か？<W><E>",
-     "en": ""
+     "en": "Gould:<R>First you're with the King of<R>Gidan, and now it's the<R>Federation army?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#96",
      "jp": "パック：<R>節操がないですね、あははっ。<W><E>",
-     "en": ""
+     "en": "Pack:<R>You sure switch sides easily,<R>ahaha.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#97",
      "jp": "<F62>：<R>そう言うなよ、これでも<R>いろいろあって苦労したんだぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Don't say that. A lot happened,<R>and I've had it rough, you know.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#98",
      "jp": "パック：<R>それじゃあ、だんなを見こんで<R>ひとつお願いがあるんですが……<W><E>",
-     "en": ""
+     "en": "Pack:<R>Well then, Boss, since we trust<R>you, there's something we'd like<R>to ask...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#99",
@@ -507,72 +507,72 @@
     {
      "id": "2D/FMPS/F01_00@4d800#100",
      "jp": "グールド：<R>俺たちを軍隊で雇って<R>ほしいんだ！<W><E>",
-     "en": ""
+     "en": "Gould:<R>We want you to hire us into the<R>army!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#101",
      "jp": "<F62>：<R>正気か？　おまえたちが？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Are you nuts? You two?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#102",
      "jp": "グールド：<R>ああ。<W><H>実は、国境を越えようとしたとき<R>シデル親衛部隊っていうやつらが<R>追ってきて、<W><H>虎の子の飛空船をハチの巣に<R>されちまったんだ。<W><H>中立の旗を立てた商船を襲う<R>なんて、ひどい話だろ？<W><H>軍人の誇りも<R>地に落ちたものだよ。<W><E>",
-     "en": ""
+     "en": "Gould:<R>Yeah.<W><H>See, when we tried to cross the<R>border, some guys called Sidel's<R>Royal Guard units came after us,<W><H>and they shot our precious airship<R>full of holes.<W><H>Attacking a merchant ship flying a<R>neutral flag... Isn't that<R>awful?<W><H>Soldiers have no pride left at<R>all.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#103",
      "jp": "<F62>：<R>国境からここまで、どうやって<R>たどりついたんだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>So how did you make it all the way<R>here from the border?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#104",
      "jp": "パック：<R>軍人さんたちがドンパチ<R>やっている横を通り抜けて……<W><H>売り物の燃料も使ってしまって、<R>もう、命からがらでしたよ。<W><E>",
-     "en": ""
+     "en": "Pack:<R>We slipped right past the soldiers<R>while they were busy shooting at<R>each other...<W><H>We even burned the fuel we were<R>supposed to sell. We barely got<R>out alive.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#105",
      "jp": "グールド：<R>命と荷物はたすかったが、飛空船<R>はスクラップ場行きだ。<W><H>この先、飛空船もなしで商売は<R>続けられないよ。<W><E>",
-     "en": ""
+     "en": "Gould:<R>We saved our lives and our cargo,<R>but the airship's headed for the<R>scrapyard.<W><H>We can't keep doing business<R>without an airship.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#106",
      "jp": "パック：<R>わたしたちの飛空船の恨み……<W><H>このまま見過ごすわけには<R>いかないですよ！<W><E>",
-     "en": ""
+     "en": "Pack:<R>What they did to our airship...<W><H>We can't just let it go!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#107",
      "jp": "<F62>：<R>でもなあ、素人の<R>おまえたちに……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Still, you're amateurs...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#108",
      "jp": "パック：<R>お願いです！　だんなの船に<R>乗せてください！<W><E>",
-     "en": ""
+     "en": "Pack:<R>Please! Let us ride on your ship,<R>Boss!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#109",
      "jp": "グールド：<R>頼む！<W><E>",
-     "en": ""
+     "en": "Gould:<R>We're begging you!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#110",
      "jp": "<F62>：<R>しょうがないなあ……<R>しばらく乗せてやるか……<W><H>気が済んだら帰るんだぞ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh, all right... I guess you can<R>ride along for a while...<W><H>Once you've had your fill, you go<R>home.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#111",
      "jp": "グールド：<R>やった！<W><E>",
-     "en": ""
+     "en": "Gould:<R>All right!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#112",
      "jp": "パック：<R>ありがとうございます！<W><H>じゃあ、準備してきますからね！<W><E>",
-     "en": ""
+     "en": "Pack:<R>Thank you so much!<W><H>Well then, we'll go get ready!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#113",
      "jp": "<P13>パックとグールドが仲間に<R>なりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Pack and Gould joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#114",
@@ -582,97 +582,97 @@
     {
      "id": "2D/FMPS/F01_00@4d800#115",
      "jp": "男：<R>なにか、ご用ですか？<W><H>どのようなお品でも<R>ご用意いたしますよ。<W><E>",
-     "en": ""
+     "en": "Man:<R>May I help you?<W><H>We can provide goods of any<R>kind.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#116",
      "jp": "<F62>：<R>ふ～ん。<R>武器とかエンジンでも？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hmm. Even weapons or engines?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#117",
      "jp": "男：<R>ご冗談を！　ここは民間の<R>貿易会社ですよ。<W><H>ご用意できるのは、食料や木材、<R>宝石や洋服です。<W><E>",
-     "en": ""
+     "en": "Man:<R>Surely you jest! This is a private<R>trading company.<W><H>What we can provide is food,<R>lumber, jewels and clothing.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#118",
      "jp": "<F62>：<R>な～んだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Aw, is that all?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#119",
      "jp": "男：<R>そんなことをおっしゃらずに<R>こちらへ……<W><E>",
-     "en": ""
+     "en": "Man:<R>Oh, don't say that. Come this<R>way...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#120",
      "jp": "男：<R>わたし、貿易商の<R>ラウエルと申します。<W><H>見たところ、お客さまは<R>この国の方では<R>ないようですが……<W><H>ギダン人にもノイパスク人にも<R>似ていませんな。<W><H>商売柄この星じゅうを<R>旅しているのですが、<W><H>お客さまのような方は<R>見たことがありません。<W><H>実に興味深いですな。<R>どこのご出身ですか？<W><E>",
-     "en": ""
+     "en": "Man:<R>My name is Rauel. I am a trader.<W><H>By the look of you, sir, you are<R>not from this country...<W><H>You resemble neither the Gidan nor<R>the Noipask.<W><H>My trade has taken me all across<R>this planet,<W><H>yet I have never seen anyone quite<R>like you.<W><H>Truly fascinating. Where do you<R>hail from?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#121",
      "jp": "<F62>：<R>いや、まあ……<R>いいじゃないか……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Uh, well... Does it matter...?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#122",
      "jp": "秘書：<R>社長……実は……<R>ごにょごにょ。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>President... Actually... (whisper,<R>whisper)<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#123",
      "jp": "ラウエル：<R>ちょっと失礼。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Excuse me a moment.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#124",
      "jp": "秘書：<R>どうも失礼いたしました。<R>仕事が忙しいもので……<W><E>",
-     "en": ""
+     "en": "Secretary:<R>My sincere apologies, sir. He is<R>very busy with work...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#125",
      "jp": "<F62>：<R>ん？<R>あの写真は？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hm? What's that picture?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#126",
      "jp": "秘書：<R>ああ、<W><H>それは社長の<R>フィアンセでいらっしゃる<R>お方です。<W><H>お美しい方でしょう？<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Ah,<W><H>that is the President's fiancee.<W><H>Is she not lovely?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#127",
      "jp": "<F62>：<R>ゼシカに似ているなあ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>She looks like Zeshika...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#128",
      "jp": "秘書：<R>あの、たいへん<R>もうしわけないのですが、<W><H>社長はしばらく<R>もどれないと思います。<W><H>ご用件でしたらわたくしが<R>うけたまわりますが。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Er, I am terribly sorry, sir,<W><H>but I do not believe the President<R>will return for some time.<W><H>If you have business, I would be<R>glad to take care of it.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#129",
      "jp": "<F62>：<R>いや、別に用があったわけじゃ<R>ないから、いいんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nah, I didn't really have any<R>business. It's fine.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#130",
      "jp": "秘書：<R>そうですか……<W><E>",
-     "en": ""
+     "en": "Secretary:<R>I see...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#131",
      "jp": "秘書：<R>もうしわけありませんが<R>社長はしばらくもどりません。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>I am terribly sorry, sir, but the<R>President will not return for<R>some time.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#132",
      "jp": "管制員：<R>ムノギイは今日も<R>敵機なーし。<W><E>",
-     "en": ""
+     "en": "Controller:<R>No enemy craft over Munogi again<R>today.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#133",
      "jp": "ジャンク屋：<R>いらっしゃいまし。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Welcome, welcome.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#134",
@@ -682,7 +682,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#135",
      "jp": "ジャンク屋：<R>ありがとうございます。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Thank you kindly.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#136",
@@ -702,17 +702,17 @@
     {
      "id": "2D/FMPS/F01_00@4d800#139",
      "jp": "ドックの職人：<R>いい大砲があるよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>I've got some good cannons.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#140",
      "jp": "ドックの職人：<R>また来てくれ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Come back again.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#141",
      "jp": "ドックの職人：<R>じゃあ、いい旅を。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Well, have a good trip.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#142",
@@ -722,47 +722,47 @@
     {
      "id": "2D/FMPS/F01_00@4d800#143",
      "jp": "ム連兵：<R>前線から来たの？<R>たいへんだったね。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>You came from the front? Must've<R>been rough.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#144",
      "jp": "ム連兵：<R>俺もいつ前線送りに<R>なるのやら……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Wonder when they'll ship me off to<R>the front...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#145",
      "jp": "ム連兵：<R>大統領がギダン国王と<R>会談しているらしいよ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>I hear the President's in talks<R>with the King of Gidan.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#146",
      "jp": "ム連兵：<R>いやあ、ギダン国王が亡命して<R>くるなんて、おどろいたね。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Man, the King of Gidan defecting<R>to us... What a shock.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#147",
      "jp": "少女：<R>兵隊さん、がんばってね。<W><E>",
-     "en": ""
+     "en": "Girl:<R>Good luck, Mister Soldier.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#148",
      "jp": "老女：<R>ついにこの町にまで戦火の匂いが<R>するようになったか……<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>So the smell of war has finally<R>reached even this town...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#149",
      "jp": "老人：<R>大きな町だろ？<R>ム連邦の首都だからな。<W><E>",
-     "en": ""
+     "en": "Old Man:<R>Big town, eh? It's the capital of<R>the Federation, after all.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#150",
      "jp": "男：<R>軍人さんは生活の心配が<R>ないから気楽でいいね。<W><E>",
-     "en": ""
+     "en": "Man:<R>You soldiers have it easy. No need<R>to worry about making a living.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#151",
      "jp": "少年：<R>大きくなったらボク、<R>飛空船乗りになるんだ。<W><E>",
-     "en": ""
+     "en": "Boy:<R>When I grow up, I'm gonna fly<R>airships.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#152",
@@ -772,12 +772,12 @@
     {
      "id": "2D/FMPS/F01_00@4d800#153",
      "jp": "ム連兵：<R>パナスガルの次はアヤメミが<R>攻撃されてるんだって？<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>After Panasgal, now Ayamemi's<R>under attack?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#154",
      "jp": "ム連兵：<R>おい、知ってるか？<R>パナスガルが落ちたそうだぜ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Hey, you hear? Panasgal's<R>fallen.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#155",
@@ -787,127 +787,127 @@
     {
      "id": "2D/FMPS/F01_00@4d800#156",
      "jp": "ム連兵：<R>シデルの親衛部隊って<R>すごく強いんだな……<W><H>俺たち勝てるかなあ……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Sidel's Royal Guard units are<R>really tough...<W><H>Think we can win...?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#157",
      "jp": "<F62>：<R>……がんばるしかないさ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>...All we can do is give it our<R>best.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#158",
      "jp": "ム連兵：<R>そうだな、そうだよな。<W><H>うん、がんばるよ！<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Right. Yeah, that's right.<W><H>Okay, I'll do my best!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#159",
      "jp": "ム連兵：<R>がんばるしかないよな！<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>All we can do is give it our<R>best!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#160",
      "jp": "男：<R>兵隊さんたち、最近<R>忙しそうだね。<W><E>",
-     "en": ""
+     "en": "Man:<R>You soldiers seem busy lately.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#161",
      "jp": "<F62>：<R>どうしたんだ、<R>こんなところで？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What are you doing here?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#162",
      "jp": "ゼシカ大尉：<R>あら、ここは父の家よ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Oh, this is my father's house.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#163",
      "jp": "<F62>：<R>へえ、将軍の家って言うから、<W><H>もっとすごいの想像してたん<R>だけどなあ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh. When they said a general's<R>house,<W><H>I pictured something way<R>fancier.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#164",
      "jp": "ゼシカ大尉：<R>ここは、父のための仮住まいよ。<R>中央でのお仕事が多いから。<W><H>本当は田舎の方に<R>あなたがびっくりするほど<R>大きいお屋敷があるわ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>This is just a temporary residence<R>for my father. He has a lot of<R>work in the capital.<W><H>Out in the country, we have a<R>mansion so big it would astonish<R>you.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#165",
      "jp": "<F62>：<R>へえ……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#166",
      "jp": "ゼシカ大尉：<R>でも……<R>帰ってこなきゃよかったな。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>But... I wish I hadn't come<R>home.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#167",
      "jp": "<F62>：<R>どうしてさ。せっかくの親子<R>水入らずだったんだろ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Why's that? You finally got some<R>time alone with your dad, right?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#168",
      "jp": "ゼシカ大尉：<R>それどころじゃないわ！<W><H>父ったら、わたしに<R>結婚しろなんていうのよ。<W><H>全く何考えてるのかしら……<W><H>国がこんなにたいへんな時期に、<R>わたしだけ、のうのうと商人の<R>ところに嫁入りだなんて……<W><H>ああ、やだやだ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>That's the last thing on my<R>mind!<W><H>My father wants me to get<R>married.<W><H>What on earth is he thinking...<W><H>With the country in such a crisis,<R>I'm supposed to go off and marry<R>some merchant without a care in<R>the world...<W><H>Ugh, I hate it, I hate it.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#169",
      "jp": "<F62>：<R>乗り気じゃないみたいだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Doesn't sound like you're too<R>thrilled.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#170",
      "jp": "ゼシカ大尉：<R>あたりまえでしょ？<W><H>結婚相手ぐらい、<R>自分でさがします！<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Of course I'm not!<W><H>I can find a husband on my own!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#171",
      "jp": "<F62>：<R>あはは、そんなに怒るなよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Ahaha, don't get so worked up.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#172",
      "jp": "ゼシカ大尉：<R>あ！　笑ったわね！<R>もう……！<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Ah! You laughed! Honestly...!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#173",
      "jp": "ゼシカ大尉：<R>はやく、出撃命令が<R>出ないかしら。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>I wish they'd hurry up and give us<R>our sortie orders.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#174",
      "jp": "ゼシカ大尉：<R>そろそろ出発するみたいよ。<R>行きましょ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Looks like we're about to set out.<R>Let's go.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#175",
      "jp": "<F62>：<R>おい、親父さんには<R>あいさつしなくてもいいのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, don't you want to say goodbye<R>to your old man?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#176",
      "jp": "ゼシカ大尉：<R>いいの、いいの。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>It's fine, it's fine.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#177",
      "jp": "<F62>：<R>おい、待てよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, wait up.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#178",
      "jp": "商人：<R>いらっしゃいませ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Welcome.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#179",
      "jp": "商人：<R>お気をつけて。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Take care.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#180",
      "jp": "商人：<R>ありがとうございました。<R>では、お気をつけて。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Thank you very much. Now, take<R>care.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#181",
@@ -927,67 +927,67 @@
     {
      "id": "2D/FMPS/F01_00@4d800#184",
      "jp": "商人：<R>きれいな町だろ？　さすがは<R>ム連邦の首都だけあるな。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Pretty town, huh? Just what you'd<R>expect from the Federation's<R>capital.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#185",
      "jp": "ム連兵：<R>うちの大統領はちょっと<R>変わってるんだ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Our President's a bit of an odd<R>one.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#186",
      "jp": "ム連兵：<R>ギダン国王が亡命して来た……<R>いったい戦争はどうなるんだ？<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>The King of Gidan defected here...<R>What's going to happen with the<R>war?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#187",
      "jp": "ム連兵：<R>サロ将軍は国民に<R>とっても人気があるんだぜ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>General Saro is really popular<R>with the people.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#188",
      "jp": "ム連兵：<R>大統領府になにか<R>用があるのかい？<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Got some business at the<R>Presidential Office?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#189",
      "jp": "少女：<R>サロ将軍が久しぶりに大統領府に<R>いらしてるんですって？<W><E>",
-     "en": ""
+     "en": "Girl:<R>I heard General Saro came to the<R>Presidential Office for the<R>first time in ages.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#190",
      "jp": "老人：<R>ギダンの王様も<R>思い切ったことをするわい。<W><E>",
-     "en": ""
+     "en": "Old Man:<R>The King of Gidan sure did<R>something bold.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#191",
      "jp": "老女：<R>最近は物価が<R>あがってしまったわね。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>Prices have gone up lately,<R>haven't they?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#192",
      "jp": "男：<R>ゼシカ大尉、結婚するんだって？<W><E>",
-     "en": ""
+     "en": "Man:<R>Captain Zeshika's getting married,<R>I hear?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#193",
      "jp": "少年：<R>おじさん、飛空船乗り？<R>ボクも早く船に乗りたいな。<W><E>",
-     "en": ""
+     "en": "Boy:<R>Mister, do you fly airships? I<R>wanna ride a ship soon too.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#194",
      "jp": "ネコ：<R>にゃあ。<W><E>",
-     "en": ""
+     "en": "Cat:<R>Meow.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#195",
      "jp": "ネコ：<R>にゃ～お。<W><E>",
-     "en": ""
+     "en": "Cat:<R>Meeeow.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#196",
      "jp": "ゼシカ大尉：<R>かわいいでしょ？<R>わたしのネコよ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Cute, isn't it? That's my cat.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#197",
@@ -997,42 +997,42 @@
     {
      "id": "2D/FMPS/F01_00@4d800#198",
      "jp": "ネコ：<R>にゃお？<W><E>",
-     "en": ""
+     "en": "Cat:<R>Mew?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#199",
      "jp": "ネコ：<R>にゃおん。<W><E>",
-     "en": ""
+     "en": "Cat:<R>Mrrow.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#200",
      "jp": "ネコ：<R>みゃ～みゃみゃ～っ。<W><E>",
-     "en": ""
+     "en": "Cat:<R>Mew, mew-mew, mewww!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#201",
      "jp": "ネコ：<R>ふ～っ。<W><E>",
-     "en": ""
+     "en": "Cat:<R>Hsssss.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#202",
      "jp": "ネコ：<R>ふぎゃ～っ！<W><E>",
-     "en": ""
+     "en": "Cat:<R>Fsssh! Rowrr!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#203",
      "jp": "衛兵：<R>ここをくぐってまっすぐ行くと、<R>大統領府だよ。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Go through here and straight on,<R>and you'll reach the<R>Presidential Office.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#204",
      "jp": "衛兵：<R>立ってるだけってのも<R>たいくつだなぁ。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Just standing around all day sure<R>is boring.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#205",
      "jp": "<F62>：<R>あの大統領に会うのは<R>もうごめんだぜ……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I've had enough of meeting that<R>President...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#206",

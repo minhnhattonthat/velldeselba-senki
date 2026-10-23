@@ -90,6 +90,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ギダン司令官 / ギダン兵たち / ギダン兵士たち / おやじ | Gidan Commander / Gidan Soldiers / Gidan Soldiers / Shopkeeper | | wave 2 | |
 | 覆面男 / カフィの父 / カフィの母 / ワッタの祖母 / ワッタの父 | Masked Man / Kafi's Father / Kafi's Mother / Watta's Grandmother / Watta's Father | | wave 2 | |
 | 女たち / おねえさん | Women / Young Woman | | wave 2 | |
+| ノイパスク士官 / ノイパスク兵たち / ノイパスク軍少佐 / オルダナスピ衛兵 | Noipask Officer / Noipask Soldiers / Noipask Major / Oldanaspi Guard | | wave 3 | |
+| 国王の付き人 / 子供 / ム連邦民間人 / みやげもの屋 / ギター弾き / ダ・クダのかみさん | King's Attendant / Child / Federation Civilian / Souvenir Seller / Guitarist / Da Kuda's Wife | | wave 3 | |
+| ダ・クダのだんな / Xのだんな / 親分 | Boss Da Kuda / Mister X / Boss | | address forms | |
+| コステリフ・タカテリフ長官 / ム連邦大統領 / 管制塔員 / ギダン軍特使 / ギダン衛生兵 | Commanders Kosterif and Takaterif / Federation President / Tower Controller / Gidan Envoy / Gidan Medic | | wave 4 | |
+| ノイパスク司令官Ａ/Ｂ/Ｃ / パスク星 / アレイ | Noipask Commander A/B/C / the planet Pask / arei (wood) | | wave 4 | |
 
 ## Places / peoples
 | JP | EN | max | notes | Avoid |

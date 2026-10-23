@@ -837,97 +837,97 @@
     {
      "id": "2D/AMPS/A13_00@49800#166",
      "jp": "ガシザキノ：<R>聞いてくれ。次はダントに向か<R>うんだが……<W><H>時間がない。思い切って<R>マデルス峡谷を抜けようかと<R>思う。<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R>Listen. Next we head for Dant,<R>but...<W><H>we're out of time. I'm thinking we<R>take the plunge and cut through<R>Madels Gorge.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#167",
      "jp": "カカナン中佐：<R>入り組んでいて、わが軍でも<R>あまり利用しないルートだ。<W><H>しかも、待ち伏せされる<R>可能性が高い。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>It's a tangled route that even our<R>army seldom uses.<W><H>What's more, there's a high chance<R>of an ambush.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#168",
      "jp": "<F62>：<R>シデルの親衛隊が待ちかまえて<R>いるかもしれないってことか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Meaning Sidel's Royal Guard might<R>be lying in wait.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#169",
      "jp": "ダ・クダ：<R>なに、マデルスなら俺たちの<R>庭みたいなもんだ。<W><H>まかせておけ。<R>敵の守備隊を撃破し、<R>血路を開いてみせよう。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Bah, Madels is practically our own<R>backyard.<W><H>Leave it to us. We'll smash the<R>enemy garrison and carve you a way<R>through.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#170",
      "jp": "ガシザキノ：<R>心強いな。じゃあ決定だ。<W><H>出撃しよう！<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R>That's reassuring. Then it's<R>decided.<W><H>Let's move out!<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#171",
      "jp": "ギダン兵：<R>前線基地になんか<R>行きたくねえぞ～。うぃ～。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I don't wanna go to some<R>front-line base... Hic!<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#172",
      "jp": "ギダン兵：<R>相棒がブタをくっちまったから<R>村人が怒ってるんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>My buddy ate a pig, so the<R>villagers are mad at us.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#173",
      "jp": "ギダン兵：<R>何だ何だ、デゼの部隊が移動を<R>始めたのか？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What's this, what's this? Deze's<R>units have started moving?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#174",
      "jp": "ギダン兵：<R>あ、ここで飲んでるのはデゼの<R>軍人たちには内緒ですよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Ah, don't tell the soldiers in<R>Deze that we're drinking here,<R>okay?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#175",
      "jp": "ギダン兵：<R>もう、つまみはないのか？<R>しけた店だな……腹が減ったぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>No more snacks? What a stingy<R>dump... I'm starving.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#176",
      "jp": "ギダン兵：<R>どうしてム連軍とギダン軍が<R>いっしょにいるんだ？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Why are the Federation army and<R>the Gidan army together?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#177",
      "jp": "ギダン兵：<R>仕事をさぼって飲んでばかり<R>いたら捕虜になっちまった……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I slacked off and did nothing but<R>drink, and I ended up a<R>prisoner...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#178",
      "jp": "ギダン兵：<R>お袋に会いたいよ……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I miss my mom...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#179",
      "jp": "商人：<R>こののどかな町にいると、戦争<R>してるなんて信じられないよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>In a peaceful town like this, it's<R>hard to believe there's a war<R>on.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#180",
      "jp": "商人：<R>最近、デゼでシデル提督の<R>親衛隊をよくみかけるが……<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Lately I've been seeing a lot of<R>Admiral Sidel's Royal Guard in<R>Deze...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#181",
      "jp": "商人：<R>西の方で浮遊島が大陸を<R>横断してるんだって？<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I hear a floating island is<R>crossing the continent out west?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#182",
      "jp": "ペンキ屋：<R>俺は世界一の<R>船舶アーチストだ。<W><H>なんだったら、あんたの船を<R>好きな色にぬりかえてやっても<R>いいが。<W><E>",
-     "en": ""
+     "en": "Painter:<R>I'm the greatest ship artist in<R>the world.<W><H>If you like, I could repaint your<R>ship any color you want.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#183",
      "jp": "ペンキ屋：<R>はっはっは、<R>じゃな、また来いよ。<W><E>",
-     "en": ""
+     "en": "Painter:<R>Ha ha ha, see ya. Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#184",
      "jp": "ペンキ屋：<R>うん、われながら<R>なかなかのできだな。<W><E>",
-     "en": ""
+     "en": "Painter:<R>Yep, if I do say so myself, that's<R>fine work.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#185",

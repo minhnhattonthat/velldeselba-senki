@@ -67,6 +67,13 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   発明家 Inventor. 空賊さん as address -> "sky pirate" (no -san on common nouns).
 - Wave 2 forms: ギダン司令官 Gidan Commander; おやじ (shop label) Shopkeeper; 覆面男 Masked Man; 金 meaning money is
   "money" or the bare Z amount (Gold is the cargo item). The glossary table has the rest.
+- Wave 3 forms: ダ・クダのだんな Boss Da Kuda; other Xのだんな Mister X; 親分 Boss / "the boss"; 一同 Everyone;
+  ノイパスク士官 Noipask Officer; ノイパスク兵(士)たち Noipask Soldiers; 国王の付き人 King's Attendant; 子供 Child;
+  ム連邦民間人 Federation Civilian; 酒場のマスター Bartender. US spelling (rumors, mechanized, armor).
+- Wave 4 forms: コステリフ・タカテリフ長官 Commanders Kosterif and Takaterif; ム連邦大統領 Federation President;
+  管制塔員 Tower Controller; ギダン軍特使 Gidan Envoy; ギダン衛生兵 Gidan Medic; -kun kept like -san.
+  仲間になりました -> "X has joined the crew." A label 中佐 is "Lieutenant Colonel"; only direct address shortens
+  it to "Colonel".
 
 ## Consistency
 Never edit `glossary.md` or any file other than your output. For a recurring name or term not in the glossary, pick a

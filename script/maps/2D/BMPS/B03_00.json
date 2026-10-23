@@ -447,167 +447,167 @@
     {
      "id": "2D/BMPS/B03_00@34800#88",
      "jp": "ギダン兵：<R>最近、空賊が手当たり次第に<R>輸送船を襲っているんです。<W><H>よく、無事にたどり着け<R>ましたね。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Lately sky pirates have been<R>attacking transports left and<R>right.<W><H>You did well to make it here<R>safely.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#89",
      "jp": "ギダン兵：<R>へえ、あいつらは空賊じゃなくて<R>ただの強盗団だったんですか。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Huh, so those guys weren't sky<R>pirates, just a gang of robbers?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#90",
      "jp": "ギダン兵：<R>並んで並んで。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Line up, line up.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#91",
      "jp": "ギダン兵：<R>すげえぜ、たった一機で悪党を<R>たおしたのかい？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Amazing! You took down those<R>crooks with just one ship?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#92",
      "jp": "ギダン兵：<R>軍施設周辺をあまり<R>うろうろするなよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Don't go hanging around the<R>military facilities too much.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#93",
      "jp": "ギダン兵：<R>あー、これこれ、勝手に町に出て<R>はいかんぞ。<W><H>ここ「マクシララキ」での<R>滞在目的は何だね？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Now, now, you there, you can't<R>just wander into town.<W><H>What is your purpose for staying<R>here in \"Maxilaraki\"?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#94",
      "jp": "<F62>：<R>ダクから来たんだ。<W><H>ちょっと補給に寄らせて<R>もらった。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I came from Dak.<W><H>Just stopped by for some<R>supplies.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#95",
      "jp": "ギダン兵：<R>なんだ、ダクの商人か。<W><H>ここで商売をするなら、<R>並んで許可を受けるように。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Oh, a merchant from Dak.<W><H>If you're doing business here,<R>line up and get a permit.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#96",
      "jp": "<F62>：<R>いや、ここで仕事をする<R>つもりはないんだ。<W><H>ほんとに補給だけだって。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>No, I'm not planning to do any<R>business here.<W><H>Really, just supplies.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#97",
      "jp": "ギダン兵：<R>しょうがないな。<W><H>軍施設周辺をあまり<R>うろうろするなよ。<R>スパイと間違われるぞ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Fine, then.<W><H>Don't go hanging around the<R>military facilities too much.<R>You'll get taken for a spy.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#98",
      "jp": "商人：<R>空賊がわがもの顔で<R>のさばっている……<W><H>物騒なことになりましたな。<W><H>わたしはダナデウノまで行きたい<R>のですが、危ないので出発を<R>見合わせているのです。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Sky pirates swaggering around like<R>they own the place...<W><H>Things have gotten dangerous.<W><H>I want to go to Danadeuno, but<R>it's too risky, so I'm holding off<R>on leaving.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#99",
      "jp": "商人：<R>空賊がわがもの顔でのさばってい<R>る…物騒なことになりましたな。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Sky pirates lording it over the<R>place... Things have gotten<R>dangerous.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#100",
      "jp": "商人：<R>これでやっと出発できます。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Now I can finally set off.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#101",
      "jp": "商人：<R>わたしはこれから南の町、<R>ダナデウノに行くんだ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I'm heading to Danadeuno, the town<R>to the south.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#102",
      "jp": "商人：<R>軍基地のある町は、出入りの<R>チェックが厳しいなあ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Towns with army bases sure are<R>strict about checking who comes<R>and goes.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#103",
      "jp": "商人：<R>北の町、ガーを通って北航路を<R>行きたいんだが……足止めだよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I want to take the northern route<R>through Gar, the town to the<R>north... but I'm stuck here.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#104",
      "jp": "商人：<R>わたしはこれから北の町、ガーを<R>通って北航路を行くんだ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I'm heading through Gar, the town<R>to the north, and taking the<R>northern route.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#105",
      "jp": "女：<R>定期便が来なくなって、新鮮な<R>食料品まで不足してしまったわ。<W><H>ほんと、困っちゃったわね。<W><E>",
-     "en": ""
+     "en": "Woman:<R>The regular flights stopped<R>coming, so we're even short of<R>fresh food.<W><H>Honestly, what a mess.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#106",
      "jp": "<F62>：<R>民間輸送船まで襲ってるのか……<R>いったい、どこのどいつだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>They're attacking civilian<R>transports too...? Who on earth<R>is doing this?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#107",
      "jp": "女：<R>せっかく買い出しに来たのに……<W><H>困ったわ、今日の晩ご飯は<R>どうしましょう……<W><E>",
-     "en": ""
+     "en": "Woman:<R>And I came all this way to<R>shop...<W><H>Oh dear, what am I going to make<R>for dinner tonight...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#108",
      "jp": "女：<R>晩ごはんのおかずはどうしよう<R>かしら……<W><E>",
-     "en": ""
+     "en": "Woman:<R>What should I serve with dinner, I<R>wonder...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#109",
      "jp": "ギダン兵：<R>ちくしょう、空賊の連中め。<W><H>兵力が前線に集中している<R>からって、<W><H>ギダンの空をわがもの顔で<R>飛び回ってやがる……<W><H>いつか仕返ししてやるぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Damn those sky pirates.<W><H>Just because our forces are all at<R>the front,<W><H>they fly around Gidan's skies like<R>they own them...<W><H>Someday I'll pay them back.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#110",
      "jp": "ギダン兵：<R>ちくしょう、空賊の連中め。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Damn those sky pirates.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#111",
      "jp": "ギダン兵：<R>あんたならやってくれると<R>思ってたぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I knew you could pull it off.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#112",
      "jp": "ギダン兵：<R>勝手に入っちゃだめだよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>You can't just walk in here.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#113",
      "jp": "ギダン兵：<R>空賊が民間の商船を襲うなんて、<W><H>今まで聞いたことが<R>なかったのに。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Sky pirates attacking civilian<R>merchant ships...<W><H>I'd never heard of such a thing<R>before.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#114",
      "jp": "<F62>：<R>ふーん。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hmm.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#115",
      "jp": "ギダン兵：<R>やっぱり、賊には誇りも何も<R>ないんだよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I guess thieves really have no<R>pride at all.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#116",
      "jp": "ギダン兵：<R>空賊が商船を襲うなんて話は今<R>まで聞いたことがなかったのに。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I'd never heard of sky pirates<R>attacking merchant ships before.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#117",
      "jp": "ギダン兵：<R>兵士の大半は前線にかり出されて<R>しまったんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Most of the soldiers got dragged<R>off to the front.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#118",
      "jp": "ギダン兵：<R>飛空船さえあれば、今すぐにでも<R>飛び立っていって<W><H>空賊をけちらしてやるんだがな。<W><H>今、この基地のパトロール艇は<R>整備中なんだ。まったく……<W><H>今、司令部で<P07>空賊を退治してくれる<R>傭兵をさがしているんだけど、<P15>心当たりないか？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>If I only had an airship, I'd take<R>off right now<W><H>and scatter those sky pirates.<W><H>But this base's patrol boat is<R>under maintenance right now.<R>Honestly...<W><H>Right now headquarters is <P07>looking<R>for a mercenary to deal with the<R>sky pirates.<P15> Know anyone?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#119",
      "jp": "ギダン兵：<R>今、この基地のパトロール艇は<R>整備中なんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Right now this base's patrol boat<R>is under maintenance.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#120",
      "jp": "ギダン兵：<R>ほんとかい？　あんたが悪党を<R>倒しちまったっていうのは？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Is it true? You took out the bad<R>guys?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#121",
@@ -622,27 +622,27 @@
     {
      "id": "2D/BMPS/B03_00@34800#123",
      "jp": "ジャンク屋：<R>ありがとうよ。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Thanks a lot.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#124",
      "jp": "修理屋：<R>船の修理かい？<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Need your ship repaired?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#125",
      "jp": "修理屋：<R>またどうぞ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Come again.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#126",
      "jp": "修理屋：<R>ありがとうよ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Thanks a lot.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#127",
      "jp": "配給係：<R><F62>さんですね。<W><H>一度だけ特別に<R>配給をさしあげるよう、<R>司令官から聞いております。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>You must be <F62>-san.<W><H>The commander told me to give you<R>supplies, just this once, as a<R>special case.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#128",
@@ -652,102 +652,102 @@
     {
      "id": "2D/BMPS/B03_00@34800#129",
      "jp": "配給係：<R>また配給が欲しいですって？<W><H>もうしわけありませんが、<R>配給は一度だけと聞いております<R>ので……<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>You want more supplies?<W><H>I'm sorry, but I was told the<R>supplies were a one-time<R>thing...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#130",
      "jp": "配給係：<R>軍関係者でなきゃ、<R>配給はできませんよ。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>I can't hand out supplies to<R>anyone who isn't with the army.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#131",
      "jp": "衛兵：<R>何か用か？<W><E>",
-     "en": ""
+     "en": "Guard:<R>What do you want?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#132",
      "jp": "<F62>：<R>おい、ガシザキノとかカフィとか<R>いう軍人を知ってるか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, you know any soldiers named<R>Gashizakino or Kafi?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#133",
      "jp": "衛兵：<R>カフィなんてのは知らないが、<W><H>ガシザキノといえば<R>名の知られた大佐だろ。<W><H>民間人にそう簡単に居場所を<R>教えるわけにはいかないな。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Never heard of any Kafi,<W><H>but Gashizakino, now, he's a<R>well-known colonel.<W><H>I can't just go telling a civilian<R>where he is, though.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#134",
      "jp": "<F62>：<R>当分カフィには会えないか……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Guess I won't be seeing Kafi for a<R>while...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#135",
      "jp": "衛兵：<R>この辺をあまり<R>うろうろするんじゃないぞ。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Don't go hanging around here too<R>much.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#136",
      "jp": "衛兵：<R>ごくろうさんだね。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Good work out there.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#137",
      "jp": "ギダン司令官：<R>何だね、君は？！<R>用がないものは入ってはいかん！<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>What is it? Who are you?! No one<R>without business here may enter!<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#138",
      "jp": "<F62>：<R>あんたら、空賊に<R>手をやいてるんだろう？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You guys are having trouble with<R>sky pirates, right?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#139",
      "jp": "ギダン司令官：<R>むむむっ。<R>なぜそれを知っている。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Hmmm! How do you know about<R>that?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#140",
      "jp": "<F62>：<R>街中みんな、うわさしてるぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>The whole town's talking about<R>it.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#141",
      "jp": "ギダン司令官：<R>そうか……<R>ならば話すしかあるまい。<W><H>我々の飛空船が先日、任務の<R>途中で商船を襲う空賊らしき船を<R>発見したのだが……<W><H>攻撃をしかけたはいいものの、<R>逆にやられてしまったのだ。<W><H>おかげで虎の子のパトロール艇は<R>エンジンを壊され飛空港に<R>つながれたまま、<W><H>迎撃に出ることもできん。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>I see... Then I have no choice but<R>to tell you.<W><H>The other day, one of our airships<R>on a mission spotted what looked<R>like a sky pirate ship attacking<R>a merchant ship...<W><H>It launched an attack, all right,<R>but got beaten back instead.<W><H>Thanks to that, our precious<R>patrol boat has a wrecked engine<R>and sits tied up at the airport,<W><H>unable to go out and intercept<R>them.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#142",
      "jp": "<F62>：<R>それで？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>And?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#143",
      "jp": "ギダン司令官：<R>おかげでこの空域は<R>賊があばれ放題、<W><H>軍船はおろか民間の輸送船まで<R>襲われているってわけだ。<W><H>今やギダン軍はノイパスク攻略に<R>全戦力を傾けているからな。<W><H>こんな辺境の基地は中央からは<R>目も届かないのだろう。<W><H>補給を断たれては、陸の孤島に<R>置き去りにされたも同然だ……<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>So now the thieves run wild in<R>this airspace,<W><H>attacking not just military ships<R>but even civilian transports.<W><H>The Gidan army is throwing its<R>entire strength into the campaign<R>against Noipask now.<W><H>Central command probably can't<R>even see a remote base like this<R>one.<W><H>With our supplies cut off, we're<R>as good as stranded on a desert<R>island...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#144",
      "jp": "<F62>：<R>なるほどね。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I see.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#145",
      "jp": "ギダン司令官：<R>いかんいかん、部外者にいらぬ<R>ことをしゃべってしまったな。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>No, no, I've said far too much to<R>an outsider.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#146",
      "jp": "<P07>空賊退治を引きうけると、離陸後<R>すぐに、戦闘に突入します。<W><H>今やめておいてもチャンスは<R>またあります。<P15><W><E>",
-     "en": ""
+     "en": "<P07>If you take on the sky pirate job,<R>you will go straight into battle<R>right after takeoff.<W><H>If you decline now, you will get<R>another chance.<P15><W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#147",
      "jp": "<P13>空賊退治を申し出ますか？<P15><E>",
-     "en": ""
+     "en": "<P13>Offer to take on the sky pirates?<P15><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#148",
      "jp": "空賊退治をする<E>",
-     "en": ""
+     "en": "Take on the sky pirates<E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#149",
@@ -757,72 +757,72 @@
     {
      "id": "2D/BMPS/B03_00@34800#150",
      "jp": "<F62>：<R>俺はあんたたちをたすけてやろう<R>と思ってさ、ここへ来たんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I came here because I figured I'd<R>help you folks out.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#151",
      "jp": "ギダン司令官：<R>なんだと？<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>What's that?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#152",
      "jp": "<F62>：<R>俺がその空賊を退治してやるよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I'll take care of those sky<R>pirates for you.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#153",
      "jp": "ギダン司令官：<R>何をふざけたことを！<R>腕に自信があるとでもいうのか？<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Don't be absurd! You think you're<R>that good a pilot?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#154",
      "jp": "<F62>：<R>ああ、現にここへは襲われずに<R>たどり着けたんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah. I made it here without<R>getting attacked, didn't I?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#155",
      "jp": "ギダン司令官：<R>むむ、そのとおりだな。<R>一度やらせてみるか……<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Hmm, that's true. Perhaps I'll let<R>you give it a try...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#156",
      "jp": "<F62>：<R>ただし、<R>タダってわけにはいかないぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Mind you, I don't work for free.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#157",
      "jp": "ギダン司令官：<R>うむ、わかっておる。<W><H>空賊を倒したときは……<R><P07>金１２０００Ｚ<P15>をさし上げよう。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Yes, I understand.<W><H>When you've beaten the sky<R>pirates... I shall pay you<R><P07>12000Z<P15>.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#158",
      "jp": "<F62>：<R>よし、たしかに聞いたぜ。<W><H>大船に乗ったつもりで<R>待っててくれ。<W><H>空賊の名をかたるニセモノなんか<R>俺が退治してやるから！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>All right, I'm holding you to<R>that.<W><H>Just sit back and relax.<W><H>I'll take care of those fakes<R>using the sky pirates' name!<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#159",
      "jp": "ギダン司令官：<R>ん、今　何と言ったかね？<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Hm? What was that you just said?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#160",
      "jp": "<F62>：<R>まあ、いいってことよ。<W><H>賞金を用意して待ってな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Eh, never mind.<W><H>Just have the reward ready for<R>me.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#161",
      "jp": "<F62>：<R>また来るぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I'll be back.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#162",
      "jp": "ギダン司令官：<R>また君か。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>You again?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#163",
      "jp": "<P07>空賊退治を引き受けると、離陸後<R>すぐに、戦闘に突入します。<P15><W><E>",
-     "en": ""
+     "en": "<P07>If you take on the sky pirate job,<R>you will go straight into battle<R>right after takeoff.<P15><W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#164",
@@ -852,12 +852,12 @@
     {
      "id": "2D/BMPS/B03_00@34800#169",
      "jp": "<F62>：<R>俺は<F62>っていう<R>商船の船長だ。<W><H>俺がその空賊を退治してやるぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I'm <F62>, captain of a<R>merchant ship.<W><H>I'll take care of those sky<R>pirates for you.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#170",
      "jp": "ギダン司令官：<R>何！　ほんとうか？！<R>腕はたしかなんだろうな？<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>What! Really?! You're sure you're<R>good enough?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#171",
@@ -867,12 +867,12 @@
     {
      "id": "2D/BMPS/B03_00@34800#172",
      "jp": "ギダン司令官：<R>むむ、そのとおりだな。<R>よし、お願いしよう……<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Hmm, that's true. Very well, I'll<R>leave it to you...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#173",
      "jp": "<F62>：<R>ただし、タダってわけには<R>いかないがな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Mind you, I don't work for free.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#174",
@@ -902,112 +902,112 @@
     {
      "id": "2D/BMPS/B03_00@34800#179",
      "jp": "ギダン司令官：<R>なんてやつだ！<R>本当に倒してしまったのか！？<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Incredible! You really beat<R>them?!<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#180",
      "jp": "<F62>：<R>ああ、ちょっとてこずったがな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah, though they gave me a bit of<R>trouble.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#181",
      "jp": "ギダン司令官：<R>よくやってくれた！<W><H>ありがとうと言わせてもらうよ。<W><H>約束の賞金は用意してあるぞ。<R>よかったら、配給部で<R>補給も受けていってくれ。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Well done!<W><H>Allow me to say thank you.<W><H>I have the promised reward ready.<R>If you like, stop by the Supply<R>Office for supplies too.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#182",
      "jp": "<F62>：<R>たすかるよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Appreciate it.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#183",
      "jp": "<P07>１２０００Ｚをもらいました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Received 12000Z.<P15><W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#184",
      "jp": "<F62>：<R>連中は空賊なんかじゃ<R>なかったよ。<W><H>空賊とただの強盗を勘違い<R>しちゃいけないな。<W><H>しっかりしてくれよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Those guys weren't sky pirates.<W><H>You shouldn't confuse sky pirates<R>with common robbers.<W><H>Get it together, will you?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#185",
      "jp": "ギダン司令官：<R>いまいましい空賊め……<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>Blasted sky pirates...<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#186",
      "jp": "ギダン司令官：<R>なんにしても、よくやって<R>くれた。<W><E>",
-     "en": ""
+     "en": "Gidan Commander:<R>In any case, you did well.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#187",
      "jp": "ギダン兵：<R>あんた、いい船に乗ってるな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>That's a nice ship you've got.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#188",
      "jp": "ギダン兵：<R>あんた、腕がいいんだな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>You're a good pilot, huh?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#189",
      "jp": "ギダン兵：<R>あんたなら……空賊の連中を<R>追っ払えるかもしれないな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Maybe you... could drive those sky<R>pirates off.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#190",
      "jp": "ギダン兵：<R>いやあ、たいしたもんだね。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Wow, that's really something.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#191",
      "jp": "ギダン兵：<R>空賊のおかげで、修理部品も<R>届かないありさまでね。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Thanks to the sky pirates, we<R>can't even get repair parts<R>delivered.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#192",
      "jp": "ギダン兵：<R>その腕があれば、空賊になれるん<R>じゃないか？　はは、冗談だよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>With skills like that, you could<R>be a sky pirate, couldn't you?<R>Ha ha, just kidding.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#193",
      "jp": "<F62>：<R>おらよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Here you go.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#194",
      "jp": "ギダン兵：<R>こ、こいつらは？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Wh-who are these guys?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#195",
      "jp": "<F62>：<R>空賊の名をかたって悪事を<R>はたらいてきた、悪党だ。<W><H>あんたらの上官に<R>伝えてくれ、<R>約束は果たした、ってな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Crooks who've been doing their<R>dirty work under the sky<R>pirates' name.<W><H>Tell your superior officer that<R>I've kept my promise.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#196",
      "jp": "ギダン兵：<R>わ、わかった。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>R-right.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#197",
      "jp": "ギダン兵：<R>さあ、行くぞ！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>All right, let's go!<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#198",
      "jp": "マルダマン：<R>やれやれ。<R>せいせいしたな。<W><H><F62>、<R>早速いただくものを<R>いただいて来たらどうだ。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>Well, well. That's a load off.<W><H><F62>, why don't you go collect<R>what's owed to us right away?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#199",
      "jp": "<F62>：<R>ああ、そうするか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah, guess I will.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#200",
      "jp": "衛兵：<R>こらこら、用のない者は<R>立入禁止だぞ。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Hey, hey, no entry without<R>business here.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#201",
