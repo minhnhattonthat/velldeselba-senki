@@ -447,342 +447,342 @@
     {
      "id": "2D/AMPS/A04_00@34800#88",
      "jp": "<P13><F62>が<R>身を潜めている間、<W><H>カ・ジャルコになって<R>カフィたちに<R>会いに行ってください。<P15><W><E>",
-     "en": ""
+     "en": "<P13>While <F62> lies low,<W><H>go see Kafi and the others as Ka<R>Jarko.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#89",
      "jp": "カ・ジャルコ：<R>さて、と……<W><H>どうやってイ・デム島まで<R>行こうかしら。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Well, now...<W><H>How am I going to get to I-Dem<R>Island?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#90",
      "jp": "入国管理員：<R>お役目ごくろうさまです。<W><E>",
-     "en": ""
+     "en": "Immigration Officer:<R>Thank you for your service.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#91",
      "jp": "入国管理員：<R>丸顔とやせの２人組だって？<R>今日は見かけないよ。<W><E>",
-     "en": ""
+     "en": "Immigration Officer:<R>A pair, one round-faced and one<R>skinny? Haven't seen them today.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#92",
      "jp": "入国管理員：<R>ここは「ガジス」だよ。<W><E>",
-     "en": ""
+     "en": "Immigration Officer:<R>This is \"Gajis.\"<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#93",
      "jp": "商人：<R>あー、パックたちか。<W><H>どうしてか知らんが、兵隊に<R>追われてたなあ。<W><H>町中を逃げ回って大騒ぎになった<R>んだ。もう二度とこの町で商売は<R>できないだろうよ。<W><H>どこに行ったかはわからないが<R>……何をやらかしたんだい？<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Ah, Pack and company.<W><H>Don't know why, but soldiers were<R>chasing them.<W><H>They ran all over town, caused a<R>huge uproar. They'll never do<R>business in this town again.<W><H>I don't know where they went...<R>What did they do, anyway?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#94",
      "jp": "商人：<R>パックたちがどこに行ったかは<R>わからないな。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I don't know where Pack and<R>company went.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#95",
      "jp": "商人：<R>これからガーに行って<R>商売するんだ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I'm off to Gar to do some<R>business.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#96",
      "jp": "パック：<R>まいど、いらっしゃ……<R>なんだ、カ・ジャルコさんか。<W><E>",
-     "en": ""
+     "en": "Pack:<R>Welcome, come on i... Oh, it's<R>just you, Ka Jarko-san.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#97",
      "jp": "グールド：<R>今日はここを借りて商売を<R>するんです。<W><H><F62>さんには、<R>船倉で在庫を整理してて<R>もらってますよ。<W><H>いやあ、<F62>さん<R>って、細かい仕事は<R>苦手みたいですね。<W><H>伝票と荷物の数が合わないことが<R>しばしばで、その度にパニックに<R>なってますよ。ははは。<W><E>",
-     "en": ""
+     "en": "Gould:<R>We're borrowing this spot to do<R>business today.<W><H><F62>-san is in the hold<R>sorting the stock for us.<W><H>Well, <F62>-san doesn't seem to<R>be much good at fiddly work.<W><H>Half the time the invoices and the<R>cargo count don't match, and he<R>panics every time. Hahaha.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#98",
      "jp": "グールド：<R>イ・デム島に行く<R>船は見つかりました？<W><E>",
-     "en": ""
+     "en": "Gould:<R>Did you find a ship going to I-Dem<R>Island?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#99",
      "jp": "酒場の主人：<R>へい、いらっしゃい。<R>見かけない顔だね……<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Hey, welcome. Don't think I've<R>seen your face before...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#100",
      "jp": "酒場の主人：<R>２人組の商人なんて<R>見かけないね。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Haven't seen any pair of<R>merchants.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#101",
      "jp": "酒場の主人：<R>うちの店には時々、３人組の美人<R>のねえちゃんたちが来るんだ。<W><H>彼女たち目当てで兵隊さんたちも<R>来てくれるんで、助かってるよ。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Every now and then, three pretty<R>gals come by my place.<W><H>The soldiers come in for them too,<R>which helps business.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#102",
      "jp": "酒場の主人：<R>あの女たち、時々兵士をだまくら<R>かしているらしいぜ。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Word is those women sometimes<R>swindle soldiers.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#103",
      "jp": "酒場の主人：<R>へい、いらっしゃい。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Hey, welcome.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#104",
      "jp": "男：<R>西のアザミグには、人の姿を<R>写し撮る「写し絵屋」があるよ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Over west in Azamig, there's a<R>\"portrait maker\" who captures<R>people's likenesses.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#105",
      "jp": "男：<R>あの商人たち、ム連邦人<R>なんだろ？<W><E>",
-     "en": ""
+     "en": "Man:<R>Those merchants are from the<R>Federation, right?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#106",
      "jp": "男：<R>今日は兵隊の客がいないなぁ……<W><E>",
-     "en": ""
+     "en": "Man:<R>No soldier customers today,<R>huh...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#107",
      "jp": "男：<R>あの姉ちゃんたち、また来ないかな。<W><E>",
-     "en": ""
+     "en": "Man:<R>Wish those gals would come back.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#108",
      "jp": "ギダン兵：<R>俺の勲章はどこに行ったんだ！？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Where'd my medal go!?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#109",
      "jp": "ギダン兵：<R>よくもお姉ちゃんたちを<R>追い払ってくれたな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>How dare you chase those gals<R>off.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#110",
      "jp": "ギダン兵：<R>こんなところで勲章を見せびらか<R>したりするからだよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>That's what you get for flashing<R>your medal around a place like<R>this.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#111",
      "jp": "デファイナ：<R>ホホホホホホ。<W><E>",
-     "en": ""
+     "en": "Defaina:<R>Ohohohohoho.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#112",
      "jp": "ギダン兵：<R>俺の勲章、見るかい？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Wanna see my medal?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#113",
      "jp": "シルカ：<R>きゃ～、見せてよ！<W><E>",
-     "en": ""
+     "en": "Silka:<R>Eeee, show me!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#114",
      "jp": "デファイナ：<R>すごいわ、本物の紫石よ！<R>高そう……<W><E>",
-     "en": ""
+     "en": "Defaina:<R>Amazing, it's a real amethyst!<R>Must be pricey...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#115",
      "jp": "<F62>：<R>何だこのやかましさは。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What's all this racket?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#116",
      "jp": "ギダン兵：<R>なあ姉ちゃん、<R>いっしょに遊ばないか？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Hey, sweetheart, wanna have some<R>fun with me?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#117",
      "jp": "イルミナ：<R>その勲章をくれたら考えても<R>いいわ。<W><E>",
-     "en": ""
+     "en": "Illumina:<R>Give me that medal and I might<R>think about it.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#118",
      "jp": "ギダン兵：<R>それだけはちょっと<R>できねえ相談だなあ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Now that's one thing I just can't<R>do for you.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#119",
      "jp": "シルカ：<R>え～、そうなのぉ？<W><E>",
-     "en": ""
+     "en": "Silka:<R>Awww, really?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#120",
      "jp": "ギダン兵：<R>俺、３人いっしょだったら<R>考えてもいいぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>If all three of you come along, I<R>might think about it.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#121",
      "jp": "イルミナ：<R>あんたは勲章持ってない<R>じゃないのさ。<W><E>",
-     "en": ""
+     "en": "Illumina:<R>But you don't even have a medal!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#122",
      "jp": "シルカ：<R>きゃははははは。<W><E>",
-     "en": ""
+     "en": "Silka:<R>Kyahahahaha!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#123",
      "jp": "<F62>：<R>……あっ、あの連中！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>...Ah, that bunch!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#124",
      "jp": "<F62>：<R>こら！　何をやってんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey! What are you doing?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#125",
      "jp": "イルミナ：<R>ちっ、あの男だよ。<R>うっとおしいわね。行くわよ。<W><E>",
-     "en": ""
+     "en": "Illumina:<R>Tch, it's that guy. What a pain.<R>Let's go.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#126",
      "jp": "デファイナ：<R>ええ。さあ、シルカも。<W><E>",
-     "en": ""
+     "en": "Defaina:<R>Yes. Come along, Silka.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#127",
      "jp": "シルカ：<R>は～い。<W><E>",
-     "en": ""
+     "en": "Silka:<R>Okaaay.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#128",
      "jp": "ギダン兵：<R>おい、待てよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Hey, wait!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#129",
      "jp": "ギダン兵：<R>姉ちゃんたち！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Ladies!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#130",
      "jp": "<F62>：<R>逃げ足のはやい連中だ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Quick on their feet, that bunch.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#131",
      "jp": "ギダン兵：<R>なんだよ、あんたは！<W><H>せっかく俺たちが<R>あのねえちゃんたちと……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What's your problem?!<W><H>We were just getting somewhere<R>with those girls...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#132",
      "jp": "ギダン兵：<R>あれ？！<W><H>俺の、俺の勲章がない！<R>さっきまでここに……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Huh?!<W><H>My... my medal's gone! It was<R>right here a moment ago...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#133",
      "jp": "ギダン兵：<R>盗まれたのか？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Was it stolen?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#134",
      "jp": "ギダン兵：<R>ちくしょう！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Dammit!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#135",
      "jp": "<F62>：<R>あいつら……<W><H>まだ遠くへは<R>行っていないはずだ。<W><H>今度こそ、つかまえてやる！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>That bunch...<W><H>They can't have gotten far yet.<W><H>This time I'll catch them for<R>sure!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#136",
      "jp": "ギダン兵：<R>はあ、どんどん前線が奥に<R>伸びてしまって、<W><H>今じゃここもそれほど<R>重要な基地じゃないんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Sigh, the front line keeps getting<R>pushed further out,<W><H>so these days this isn't such an<R>important base anymore.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#137",
      "jp": "ギダン兵：<R>今じゃここもそれほど<R>重要な基地じゃないんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>These days this isn't such an<R>important base anymore.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#138",
      "jp": "ギダン兵：<R>その商人だったら、シデル提督の<R>親衛部隊に追われてたぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>That merchant? He was being chased<R>by Admiral Sidel's Royal Guard<R>units.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#139",
      "jp": "ギダン兵：<R>昔はここも重要な基地<R>だったんだけどね。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>This used to be an important base,<R>back in the day.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#140",
      "jp": "ギダン兵：<R>なんでも、ノイパスクの浮遊島を<R>つかまえて、<W><H>逆にギダンの戦力にするんだ<R>そうだよ。最近のシデル提督の<R>なさることは……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Word is they're going to capture<R>the Noipask floating islands<W><H>and turn them into Gidan's own<R>forces. The things Admiral Sidel<R>has been doing lately...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#141",
      "jp": "ギダン兵：<R>ノイパスクの浮遊島をつかまえて<R>ギダンの戦力にするんだそうだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Word is they'll capture the<R>Noipask floating islands and<R>turn them into Gidan forces.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#142",
      "jp": "ギダン兵：<R>おまえ、あの商人の仲間か？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>You there, are you with that<R>merchant?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#143",
      "jp": "ギダン兵：<R>最近のシデル提督は<R>やりすぎじゃないかな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Isn't Admiral Sidel going too far<R>lately?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#144",
      "jp": "ギダン兵：<R>お、かわいい顔したねーちゃん<R>だな。どこの部隊だ？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Oh, aren't you a cute one, miss.<R>What unit are you with?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#145",
      "jp": "ギダン兵：<R>シデル提督のノイパスク戦略を<R>どう思う？<W><H>あれだけ一方的に攻めていながら<R>降伏勧告もせず、浮遊島から<R>動こうとしない……<W><H>一体何をお考えなのだろう？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What do you make of Admiral<R>Sidel's Noipask strategy?<W><H>For all that one-sided attacking,<R>he issues no call to surrender and<R>won't budge from the floating<R>islands...<W><H>What on earth can he be<R>thinking?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#146",
      "jp": "ギダン兵：<R>シデル提督は<R>一体何をお考えなのだろう？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What on earth can Admiral Sidel be<R>thinking?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#147",
      "jp": "ギダン兵：<R>何だ、おまえ、<R>どこの部隊の者だ……？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What's this? What unit are you<R>from...?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#148",
      "jp": "ギダン兵：<R>何だ、おまえ、<R>どうして入ってきた？<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What's this? How did you get in<R>here?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#149",
      "jp": "男：<R>これから、軍はノイパスクを<R>どうするつもりなのでしょう？<W><H>もう、抵抗するだけの戦力は<R>残っていないと聞きます。<W><H>追い詰められたノイパスクが<R>浮遊島を落としたり……<W><H>そんなことには<R>ならないでしょうね？<W><E>",
-     "en": ""
+     "en": "Man:<R>What does the army mean to do with<R>Noipask now?<W><H>I hear they have no strength left<R>to resist.<W><H>If Noipask, cornered, were to drop<R>a floating island...<W><H>That won't happen, will it?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#150",
      "jp": "男：<R>追い詰められたノイパスクが<R>浮遊島を落としたりしたら……<W><E>",
-     "en": ""
+     "en": "Man:<R>If Noipask, cornered, were to drop<R>a floating island...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#151",
      "jp": "男：<R>商人たちねえ。<R>知らないなあ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Merchants, huh? Never heard of<R>them.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#152",
      "jp": "男：<R>これから、軍はノイパスクを<R>どうするつもりなのでしょう？<W><E>",
-     "en": ""
+     "en": "Man:<R>What does the army mean to do with<R>Noipask now?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#153",
      "jp": "少年：<R>今日はみんなガーに買い出しに<R>出かけてボクが留守番なんだ。<W><E>",
-     "en": ""
+     "en": "Boy:<R>Everybody went shopping in Gar<R>today, so I'm minding the house.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#154",
      "jp": "少年：<R>ああ。<W><H>丸顔のおじさんたちなら、<R>兵隊さんに追いかけられて<R>町中を逃げ回ってたよ。<W><H>太ったおじいさんもいっしょで、<R>ヒイヒイ言って走ってたよ。<W><H>気の毒だったから、ボク、家に<R>かくまってあげたんだ。<W><H>夜になってから空港の方に<R>向かったよ。<W><H>ム連邦にもどりたいから<R><P07>クナシティに行く<P15>って<R>言ってたな。<W><E>",
-     "en": ""
+     "en": "Boy:<R>Oh, yeah.<W><H>The round-faced men? They were<R>running all over town with<R>soldiers chasing them.<W><H>A fat old man was with them too,<R>huffing and puffing as he ran.<W><H>I felt sorry for them, so I hid<R>them in my house.<W><H>After dark they headed for the<R>airport.<W><H>They said they wanted to get back<R>to the Federation, so they'd <P07>go<R>to Kuna City<P15>.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#155",
      "jp": "少年：<R>丸顔のおじさんたちなら、クナ<R>シティに行くって言ってたよ。<W><E>",
-     "en": ""
+     "en": "Boy:<R>The round-faced men said they were<R>going to Kuna City.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#156",
@@ -792,12 +792,12 @@
     {
      "id": "2D/AMPS/A04_00@34800#157",
      "jp": "ギダン衛兵：<R>あやしいやつだな！<R>帰った帰った！<W><E>",
-     "en": ""
+     "en": "Gidan Guard:<R>You look suspicious! Off with you,<R>go on!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#158",
      "jp": "ギダン衛兵：<R>おまえの人捜しにつきあって<R>られるか。帰った帰った。<W><E>",
-     "en": ""
+     "en": "Gidan Guard:<R>I can't help you look for someone.<R>Off with you, go on.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#159",
@@ -807,12 +807,12 @@
     {
      "id": "2D/AMPS/A04_00@34800#160",
      "jp": "ギダン衛兵：<R>どこの所属のものだ？<W><E>",
-     "en": ""
+     "en": "Gidan Guard:<R>Which unit do you belong to?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#161",
      "jp": "カ・ジャルコ：<R>いえ、あの………<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Er, um......<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#162",
@@ -822,127 +822,127 @@
     {
      "id": "2D/AMPS/A04_00@34800#163",
      "jp": "ミルト少尉：<R>カ・ジャルコじゃないか！<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>Ka Jarko, is that you?!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#164",
      "jp": "カ・ジャルコ：<R>あ！　ミルトじゃない！<R>あんた、入隊してたの？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Oh! Milt! You joined up?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#165",
      "jp": "ミルト少尉：<R>君を追いかけて入隊したんだよ。<R>元気だったかい？<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>I enlisted to follow you. Have you<R>been well?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#166",
      "jp": "カ・ジャルコ：<R>おかげさまで。<R>いろいろたいへんだけどね。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Doing fine, thanks. It's been<R>rough, though.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#167",
      "jp": "ミルト少尉：<R>そうかあ。<R>ここに配属されたのかい？<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>I see. Were you posted here?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#168",
      "jp": "カ・ジャルコ：<R>いえ、そうじゃないんだけど……<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>No, not exactly...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#169",
      "jp": "ミルト少尉：<R>ぼくはこれからワンク島だ。<W><H>父さんが上層部に<R>頼んでくれたんだ。<W><H>あそこはもうギダンが占領して<R>いるから、前線で戦うことも<R>ないし、安心だってね。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>I'm off to Wanku Island now.<W><H>My father asked the top brass for<R>me.<W><H>Gidan already holds it, so I won't<R>have to fight on the front line.<R>It's safe, he says.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#170",
      "jp": "カ・ジャルコ：<R>あんた、あいかわらずね。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>You haven't changed a bit.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#171",
      "jp": "ミルト少尉：<R>そうかな？<W><H>ぼくは軍に入ってから、ぐっと、<R>たくましくなった気がするよ。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>You think so?<W><H>Since I joined the army, I feel<R>I've gotten a whole lot tougher.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#172",
      "jp": "カ・ジャルコ：<R>………<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>......<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#173",
      "jp": "ミルト少尉：<R>どうしたの？<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>What's wrong?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#174",
      "jp": "カ・ジャルコ：<R>あ、そうだ！<R>ねえ、お願いがあるんだけど。<W><H>お父さんに頼んでくれない？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Oh, I know! Hey, I've got a favor<R>to ask.<W><H>Could you ask your father for<R>me?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#175",
      "jp": "ミルト少尉：<R>なに？<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>What is it?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#176",
      "jp": "カ・ジャルコ：<R>わたしをイ・デム島に<R>連れてってほしいの。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>I want you to take me to I-Dem<R>Island.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#177",
      "jp": "ミルト少尉：<R>なんだ、そんな簡単なことか。<R>父さんに頼むまでもないよ。<W><H>ぼくの飛空船に<R>乗せていってあげる。<W><H>ちょうどイ・デム島を通る<R>用事があるんだ。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>Oh, is that all? No need to ask my<R>father for that.<W><H>I'll give you a ride on my<R>airship.<W><H>I happen to have business that<R>takes me past I-Dem Island.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#178",
      "jp": "カ・ジャルコ：<R>ほんとっ？　うれしい！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Really? That's great!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#179",
      "jp": "ミルト少尉：<R>それくらいなんでもないよ。<R>あとで飛空港においでよ。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>It's no trouble at all. Come to<R>the airport later.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#180",
      "jp": "ミルト少尉：<R>カ・ジャルコ！<W><H>そろそろ出発だ。<R>ついてきなよ。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>Ka Jarko!<W><H>We're leaving soon. Follow me.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#181",
      "jp": "ガシザキノ大佐：<R>カ・ジャルコ、それらしい商船は<R>みあたらないぞ。<W><H>国王陛下はどこにおられるんだ？<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Ka Jarko, I see no sign of any<R>such merchant ship.<W><H>Where is His Majesty the King?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#182",
      "jp": "カ・ジャルコ：<R>はあはあ……<R>た、大佐。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Huff, huff... C-Colonel.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#183",
      "jp": "ガシザキノ大佐：<R>どうだ？<R>陛下はおられたか？<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Well? Did you find His Majesty?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#184",
      "jp": "カ・ジャルコ：<R>どこにもいません。<W><H>でも、どうやらクナシティに<R>向かったようです。<W><H>何だってわざわざシデル提督の<R>いるクナシティに？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>He's nowhere to be found.<W><H>But it looks like they headed for<R>Kuna City.<W><H>Why go all the way to Kuna City,<R>of all places, where Admiral Sidel<R>is?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#185",
      "jp": "ガシザキノ大佐：<R>ム連邦に入るにはあそこを<R>通るのが近道なんだ。<W><H>それに、シデル提督は今、<R>ノイパスク本国の前線に<R>おられるからな。<W><H>よし、追いかけるぞ！<W><E>",
-     "en": ""
+     "en": "Colonel Gashizakino:<R>Going through there is the<R>shortest way into the<R>Federation.<W><H>Besides, Admiral Sidel is at the<R>front in the Noipask homeland<R>right now.<W><H>Right, after them!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#186",
      "jp": "ギダン衛兵：<R>だめだめ、<R>部外者は入れないよ。<W><E>",
-     "en": ""
+     "en": "Gidan Guard:<R>No, no, outsiders aren't allowed<R>in.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#187",
      "jp": "カ・ジャルコ：<R>カギがかかってるわ。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>It's locked.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#188",
@@ -962,7 +962,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#191",
      "jp": "カ・ジャルコ：<R>今、船にもどっても<R>しょうがないわね。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>No point going back to the ship<R>now.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#192",

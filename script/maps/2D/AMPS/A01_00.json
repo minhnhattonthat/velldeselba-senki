@@ -582,432 +582,432 @@
     {
      "id": "2D/AMPS/A01_00@56000#115",
      "jp": "ドックの職人：<R>船の買い方をしりたいって？<R>じゃあ、教えてやるよ。<W><H>船を買うとな、<R>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備の見立ては<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくから<R>心配しなくてもいいよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Want to know how to buy a ship?<R>Then I'll show you.<W><H>When you buy a ship, your old<R>ship's turrets, engine, armor<R>plates and so on all get<R>scrapped.<W><H>Leave picking the new ship's<R>equipment to me.<W><H>Ammo and cargo get moved over to<R>the new ship as they are, so don't<R>you worry.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#116",
      "jp": "ドックの職人：<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Come back again.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#117",
      "jp": "ドックの職人：<R>ありがとう。<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Thanks. Come back again.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#118",
      "jp": "ドックの職人：<R>……あれ？<W><H>お客さん、ちょっと<R>荷物が多すぎるようだね。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a bit<R>too much cargo, friend.<W><H>This ship's cargo capacity is <V10,0,4><R>items.<W><H>You've got <V11,0,4> items on board right<R>now, so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#119",
      "jp": "ペンキ屋：<R>船の色をぬりかえたくなったら<R>ここにおいで。<W><E>",
-     "en": ""
+     "en": "Painter:<R>If you ever want to repaint your<R>ship, come see me.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#120",
      "jp": "ペンキ屋：<R>ぬりかえかい？<W><E>",
-     "en": ""
+     "en": "Painter:<R>Repainting?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#121",
      "jp": "ペンキ屋：<R>また来ておくれ。<W><E>",
-     "en": ""
+     "en": "Painter:<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#122",
      "jp": "ペンキ屋：<R>この色合いとツヤ、<R>気に入ってもらえたかな？<W><E>",
-     "en": ""
+     "en": "Painter:<R>That color, that shine... Like<R>it?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#123",
      "jp": "酒場の主人：<R>いらっしゃい。<W><H>おや、カ・ジャルコちゃん<R>じゃないか。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Welcome.<W><H>Well, if it isn't Ka Jarko-chan.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#124",
      "jp": "カ・ジャルコ：<R>もう、カ・ジャルコちゃんは<R>やめてよ、おじさん。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Ugh, quit calling me Ka<R>Jarko-chan, mister.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#125",
      "jp": "酒場の主人：<R>めずらしいね、彼氏と<R>いっしょかい？<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>That's a rare sight. Here with<R>your boyfriend?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#126",
      "jp": "カ・ジャルコ：<R>そんなんじゃないったら。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>It's not like that, I told you!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#127",
      "jp": "酒場の主人：<R>カ・ジャルコちゃん、<R>彼氏といっしょかい？<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Ka Jarko-chan, here with your<R>boyfriend?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#128",
      "jp": "酒場の主人：<R>カ・ジャルコはどうしたんだい？<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>What happened to Ka Jarko?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#129",
      "jp": "酒場の主人：<R>またカ・ジャルコは仕事に<R>出かけるのかい？<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Is Ka Jarko heading out on the job<R>again?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#130",
      "jp": "酒場の主人：<R>いらっしゃい。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Welcome.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#131",
      "jp": "商人：<R>商談がうまくまとまったんで、<R>祝い酒だよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Closed a good deal, so I'm having<R>a drink to celebrate.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#132",
      "jp": "男：<R>仕事のあとの一杯は<R>おいしいねえ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Nothing beats a drink after<R>work.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#133",
      "jp": "ギダン兵：<R>どうやら、ム連邦も本気でクナを<R>奪回しようとしいるらしい。<W><H>いま、バムス中佐が<R>持ち帰った前線の話で<R>グラシアルはもちきりさ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Looks like the Federation's<R>serious about taking Kuna back.<W><H>Right now, all Glacial can talk<R>about is the news from the front<R>that Lieutenant Colonel Bams<R>brought back.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#134",
      "jp": "ギダン兵：<R>ム連邦も本気でクナを奪回<R>しようとしいるらしい。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Looks like the Federation's<R>serious about taking Kuna back.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#135",
      "jp": "ギダン兵：<R>わが軍がクナを占領したので、<R>ム連邦はあわてているらしい。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Since our army occupied Kuna, the<R>Federation's apparently in a<R>panic.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#136",
      "jp": "ギダン兵：<R>このまま、ム連邦が引き下がって<R>いるわけないじゃないか。<W><H>これからまた大変な事になるよ。<R>シデル提督直属の親衛隊も<R>クナ方面へ出撃したらしいし……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>There's no way the Federation's<R>just going to back down like<R>this.<W><H>Things are going to get rough<R>again. Even Admiral Sidel's own<R>Royal Guard has sortied toward<R>Kuna, they say...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#137",
      "jp": "ギダン兵：<R>シデル提督直属の親衛隊も<R>クナ方面へ出動したらしいぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Word is even Admiral Sidel's own<R>Royal Guard has deployed toward<R>Kuna.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#138",
      "jp": "ギダン兵：<R>シデル提督直属の親衛隊が<R>クナ方面へ出動したらしいぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Word is Admiral Sidel's own Royal<R>Guard has deployed toward Kuna.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#139",
      "jp": "看護婦：<R>まあ、そうですの。<R>ほほほほ。<W><E>",
-     "en": ""
+     "en": "Nurse:<R>Oh my, is that so? Ohohohoho.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#140",
      "jp": "ハウエズナ：<R>ははははは。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Hahahahaha.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#141",
      "jp": "<F62>：<R>あれ？　ハウエズナじゃないか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh? Hauezna, is that you?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#142",
      "jp": "ハウエズナ：<R>あ、すいません。<W><H>すぐ船の整備にもどります。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Ah, my apologies, sir.<W><H>I'll return to servicing the ship<R>at once.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#143",
      "jp": "<F62>：<R>いや、それはいいんだけど、<R>何やってるんだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nah, that's fine, but what are you<R>up to?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#144",
      "jp": "ハウエズナ：<R>いえ、ちょっと………<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Well, sir, it's just......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#145",
      "jp": "<F62>：<R>………？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>......?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#146",
      "jp": "<F62>：<R>あれ、ハウエズナ。<W><H>またか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, Hauezna.<W><H>You again?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#147",
      "jp": "ハウエズナ：<R>あ、紹介します。<W><H>彼女、ク・メーアって<R>いうんです。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Ah, allow me to introduce her,<R>sir.<W><H>Her name is Ku Meer.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#148",
      "jp": "<F62>：<R>よろしく。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nice to meet you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#149",
      "jp": "メーア：<R>こちらこそ。<W><E>",
-     "en": ""
+     "en": "Meer:<R>Likewise.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#150",
      "jp": "ハウエズナ：<R>ではこれで……<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Well then, if you'll excuse<R>me...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#151",
      "jp": "<F62>：<R>ん？　どうした？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hm? What's up?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#152",
      "jp": "ハウエズナ：<R>い、いえ………<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>N-nothing, sir......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#153",
      "jp": "<F62>：<R>どうしたんだい？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What's the matter?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#154",
      "jp": "メーア：<R>な、なんでもないです………<W><E>",
-     "en": ""
+     "en": "Meer:<R>I-it's nothing......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#155",
      "jp": "ハウエズナ：<R>じゃあね、さようならメーア。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Well, goodbye then, Meer.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#156",
      "jp": "メーア：<R>ハウエズナさん……<W><E>",
-     "en": ""
+     "en": "Meer:<R>Hauezna-san...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#157",
      "jp": "<F62>：<R>今日は誰もいないのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nobody here today?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#158",
      "jp": "メーア：<R>ええ、入院していた患者さんたち<R>が、みなさん退院されたので、<W><H>休めるうちに休んでおこうって<R>ことになって、<R>お休みになったんです。<W><E>",
-     "en": ""
+     "en": "Meer:<R>No. All the patients who were<R>staying here have been<R>discharged,<W><H>so we decided to rest while we<R>still can, and closed for the<R>day.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#159",
      "jp": "<F62>：<R>また、おまえたちか。<R>本当に仲がいいな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You two again? You really are<R>close.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#160",
      "jp": "ハウエズナ：<R>あの……僕たち結婚する<R>ことにしました。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Um... we've decided to get<R>married, sir.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#161",
      "jp": "<F62>：<R>ほんとうか！？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Seriously!?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#162",
      "jp": "メーア：<R>はい。<W><E>",
-     "en": ""
+     "en": "Meer:<R>Yes.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#163",
      "jp": "<F62>：<R>そりゃ、よかった！<W><H>ハウエズナもすみに<R>置けないなあ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>That's great!<W><H>Who knew you had it in you,<R>Hauezna?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#164",
      "jp": "ハウエズナ：<R>よしてくださいよ。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Please, sir, don't tease me.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#165",
      "jp": "<F62>：<R>あれ？　じゃあ、おまえ、<R>この町で奥さんと住むのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh? So you're going to live in<R>this town with your wife?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#166",
      "jp": "ハウエズナ：<R>いえ、わたしはまだ船を降りる<R>気はありません。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>No, sir. I have no intention of<R>leaving the ship yet.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#167",
      "jp": "<F62>：<R>しかし、奥さんがかわいそう<R>だろ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>But that's not fair on your<R>wife.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#168",
      "jp": "ハウエズナ：<R>しかたがありません。<R>この戦争が終わるまでは………<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>It cannot be helped. Not until<R>this war is over......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#169",
      "jp": "<F62>：<R>そうか………<W><H>じゃあ、奥さんも連れていけば？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I see......<W><H>Then why not bring your wife<R>along?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#170",
      "jp": "ハウエズナ：<R>え？　いっしょに？<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Pardon? Together?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#171",
      "jp": "<F62>：<R>そうさ。そのほうがいいだろ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Sure. Better that way, right?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#172",
      "jp": "ハウエズナ：<R>は、はい！<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Y-yes, sir!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#173",
      "jp": "メーア：<R>ありがとうございます！<W><E>",
-     "en": ""
+     "en": "Meer:<R>Thank you so much!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#174",
      "jp": "ハウエズナ：<R>用意してきます！<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>I'll go make preparations, sir!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#175",
      "jp": "<P13>メーアが仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Meer has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#176",
      "jp": "医者：<R>もっと大きな建物に<R>移りたいんだがな。<W><E>",
-     "en": ""
+     "en": "Doctor:<R>I'd like to move into a bigger<R>building.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#177",
      "jp": "医者：<R>メーアをよろしくな。代わりの<R>看護婦をさがさないと……<W><E>",
-     "en": ""
+     "en": "Doctor:<R>Take good care of Meer. Now I'll<R>have to find another nurse...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#178",
      "jp": "看護婦：<R>どこかお悪いの？<W><E>",
-     "en": ""
+     "en": "Nurse:<R>Feeling unwell somewhere?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#179",
      "jp": "メーア：<R><F62>さん、<R>お元気そうですね。<W><E>",
-     "en": ""
+     "en": "Meer:<R><F62>-san, you look well.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#180",
      "jp": "看護婦：<R>ああいそがしい……<W><E>",
-     "en": ""
+     "en": "Nurse:<R>Oh, so busy...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#181",
      "jp": "看護婦：<R>メーアさんも思い切ったことを<R>するわね。<W><E>",
-     "en": ""
+     "en": "Nurse:<R>Meer-san really took the plunge,<R>didn't she?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#182",
      "jp": "患者：<R>この病院は看護婦さんが<R>きれいなんだ……<W><E>",
-     "en": ""
+     "en": "Patient:<R>The nurses at this hospital are so<R>pretty...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#183",
      "jp": "患者：<R>メーアさん……<W><E>",
-     "en": ""
+     "en": "Patient:<R>Meer-san...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#184",
      "jp": "患者：<R>俺、退院したくないな。<W><E>",
-     "en": ""
+     "en": "Patient:<R>Man, I don't want to be<R>discharged.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#185",
      "jp": "カ・ジャルコ：<R>大尉、ここがわたしの家です。<W><H>ちょっと寄ってみます？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Captain, this is my house.<W><H>Want to stop in for a bit?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#186",
      "jp": "<F62>：<R>へえ、ここが。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh, so this is it.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#187",
      "jp": "<F62>：<R>なあ、おまえのおやじさん、<R>やけに腰が低くないか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Say, isn't your old man awfully<R>humble?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#188",
      "jp": "カ・ジャルコ：<R>あはは、うちの家業は<R>繊維問屋だから……<W><H>わたしも、ちょっとやめて<R>ほしいんだけどね。<R>言ってもだめなの。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Ahaha, our family runs a textile<R>wholesale business, so...<W><H>I kind of wish he'd stop too, but<R>telling him does no good.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#189",
      "jp": "<F62>：<R>あはは、なるほどね。<W><H>お袋さんの姿が見えないけど、<R>勤めにでも出てるのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Ahaha, I see.<W><H>I don't see your mom around. She<R>out at work or something?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#190",
      "jp": "カ・ジャルコ：<R>え、お母さん？<W><H>言ってなかったっけ、うちの<R>お母さん……ギダン軍の<R>将校なんだけど。<W><H>いまは、多分アダクダの方に<R>いると思うわ。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Huh, my mom?<W><H>Didn't I tell you? My mom's... an<R>officer in the Gidan army.<W><H>Right now, I think she's probably<R>somewhere around Adakuda.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#191",
      "jp": "<F62>：<R>げげげっ、そうだったのか……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yikes! No kidding...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#192",
      "jp": "カ・ジャルコの父：<R>カ・ジャルコじゃないか、<R>どうしたんだ急に。<W><H>クナの前線にいたんじゃあ<R>なかったのか。<W><E>",
-     "en": ""
+     "en": "Ka Jarko's Father:<R>Why, Ka Jarko! What brings you<R>here all of a sudden?<W><H>Weren't you at the front in<R>Kuna?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#193",
      "jp": "カ・ジャルコ：<R>急にお休みがいただけたの。<W><H>大尉、紹介するわ。<R>父です。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>I got some leave out of the<R>blue.<W><H>Captain, let me introduce you.<R>This is my father.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#194",
      "jp": "カ・ジャルコの父：<R>このお方は……？<W><E>",
-     "en": ""
+     "en": "Ka Jarko's Father:<R>And this gentleman is...?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#195",
      "jp": "カ・ジャルコ：<R>わたしの上官よ。<W><H>ギダンの町を案内してるの。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>My commanding officer.<W><H>I'm showing him around the towns<R>of Gidan.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#196",
      "jp": "カ・ジャルコの父：<R>それはそれはどうも、遠いところ<R>をおいでくださいまして……<W><H>カ・ジャルコがいつも<R>お世話になっております。<W><H>今後とも、ひとつよろしく<R>お願いいたします、はい。<W><E>",
-     "en": ""
+     "en": "Ka Jarko's Father:<R>Oh my, oh my, thank you for coming<R>all this way...<W><H>Ka Jarko is always so much in your<R>debt.<W><H>I do hope you'll go on looking<R>after her, yes, indeed.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#197",
      "jp": "<F62>：<R>あ、ああ。<R><F62>大尉だ。<W><H>こっちこそ、よろしく。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Uh, r-right. I'm Captain<R><F62>.<W><H>Pleased to meet you, too.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#198",
      "jp": "カ・ジャルコの父：<R>まあ、何もないところですが<R>ゆっくりしていってください。<W><E>",
-     "en": ""
+     "en": "Ka Jarko's Father:<R>Well, it's nothing much here, but<R>please make yourself at home.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#199",
      "jp": "カ・ジャルコ：<R>まだあちこち回るから、<R>またあとでね、お父さん。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>We've still got places to go, so<R>see you later, Dad.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#200",
      "jp": "カ・ジャルコの父：<R>そうですか、残念ですが……<R>またいらしてください。<W><E>",
-     "en": ""
+     "en": "Ka Jarko's Father:<R>Is that so? What a shame... Please<R>do come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#201",
@@ -1017,82 +1017,82 @@
     {
      "id": "2D/AMPS/A01_00@56000#202",
      "jp": "カ・ジャルコの父：<R>また寂しくなります……娘を<R>よろしくお願いいたしますね。<W><E>",
-     "en": ""
+     "en": "Ka Jarko's Father:<R>It'll be lonely again... Please<R>take good care of my daughter.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#203",
      "jp": "男：<R>娘はギダン軍でも名うての<R>砲手なんですよ。<W><E>",
-     "en": ""
+     "en": "Man:<R>My daughter's one of the finest<R>gunners in the Gidan army, you<R>know.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#204",
      "jp": "カ・ジャルコ：<R>あ、<F62>大尉。<W><H>もうグラシアル見物は<R>すんだんですか？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Oh, Captain <F62>.<W><H>Done sightseeing in Glacial<R>already?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#205",
      "jp": "カ・ジャルコ：<R>え、もう出るんですか？<R>せっかく帰ってきたのに……<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>What, we're leaving already? But I<R>only just got home...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#206",
      "jp": "<F62>：<R>ま、そんなこと言わないでさ。<W><H>おどろくなよ。<R>今度はすごいやつと<R>いっしょだぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Aw, don't be like that.<W><H>Brace yourself. This time we've<R>got somebody big with us.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#207",
      "jp": "カ・ジャルコ：<R>だれですか？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Who is it?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#208",
      "jp": "<F62>：<R>ギダン国王さ。<W><H>クナシティに行って、<W><H>シデル提督に戦いをやめるよう、<R>説得しに行くんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>The King of Gidan.<W><H>We're going to Kuna City,<W><H>to talk Admiral Sidel into<R>stopping the fighting.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#209",
      "jp": "カ・ジャルコ：<R>うそ、ほんとに！？<W><H>大尉、すごいですね！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>No way, really!?<W><H>Captain, that's amazing!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#210",
      "jp": "<F62>：<R>先に飛空港に行っててくれ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Go on ahead to the airport.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#211",
      "jp": "カ・ジャルコ：<R>はーい！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Okaaay!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#212",
      "jp": "商人：<R>いらっしゃい。<R>なににしますか？<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Welcome. What'll it be?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#213",
      "jp": "<F62>：<R>景気はどうだい？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>How's business?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#214",
      "jp": "商人：<R>変なことを聞くね。<W><H>最近は、いくさばっかりで<R>こっちは商売上がったりさ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Funny thing to ask.<W><H>Lately it's nothing but war, and<R>business has gone belly-up.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#215",
      "jp": "商人：<R>また来ておくれ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#216",
      "jp": "商人：<R>まいどあり。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Thanks for your business.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#217",
      "jp": "商人：<R>最近は、いくさばっかりで<R>こっちは商売上がったりサ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Lately it's nothing but war, and<R>business has gone belly-up.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#218",
@@ -1107,7 +1107,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#220",
      "jp": "商人：<R>いらっしゃい、と言いたい<R>ところだけど、品不足でね。<W><H>穏健（おんけん）政策だった<R>国王も、息子のすることには<R>口出しできないってさ。<W><H>シデル提督は、いつまで<R>戦争を続けるつもりかね？<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I'd like to say welcome, but I'm<R>short on stock.<W><H>They say even the King, for all<R>his moderate policies, can't<R>interfere with what his son<R>does.<W><H>How long does Admiral Sidel mean<R>to keep this war going?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#221",
@@ -1122,7 +1122,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#223",
      "jp": "商人：<R>シデル提督も、いつまで<R>この戦争を続けるつもりかね。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>How long does Admiral Sidel mean<R>to keep this war going, anyway?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#224",
@@ -1137,7 +1137,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#226",
      "jp": "商人：<R>空賊が出没しているらしいんだ。<W><H>軍船ばかりをねらってる<R>って話さ。<W><H>おかげで物資は、<R>軍に召集されてしまって<R>全然届かないんだ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Word is sky pirates have been<R>showing up.<W><H>They say they only go after<R>military ships.<W><H>And because of that, supplies all<R>get requisitioned by the army and<R>never reach us.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#227",
@@ -1152,7 +1152,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#229",
      "jp": "商人：<R>空賊が出没しているらしいぜ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Word is sky pirates have been<R>showing up.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#230",
@@ -1167,7 +1167,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#232",
      "jp": "商人：<R>うちの品は<R>いいものばかりだよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Everything I sell is top<R>quality.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#233",
@@ -1182,7 +1182,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#235",
      "jp": "商人：<R>ドラゴンの薫製（くんせい）が<R>あれば、買い取るよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>If you've got any Smoked Dragon,<R>I'll buy it.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#236",
@@ -1197,227 +1197,227 @@
     {
      "id": "2D/AMPS/A01_00@56000#238",
      "jp": "ギダン兵：<R>最近、補給物資を積んだ軍の貨物<R>船が空賊に襲われているんだ。<W><H>使える戦艦はみんな前線に送って<R>しまってるから、<R>護衛につける船が足りないんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Lately, army cargo ships carrying<R>supplies keep getting attacked<R>by sky pirates.<W><H>Every usable warship has been sent<R>to the front, so there aren't<R>enough ships to escort them.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#239",
      "jp": "ギダン兵：<R>最近、補給物資を積んだ軍の貨物<R>船が空賊に襲われているんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Lately, army cargo ships carrying<R>supplies keep getting attacked<R>by sky pirates.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#240",
      "jp": "ギダン兵：<R>ここのところ、補給路は空賊の<R>おかけでズタズタさ。<W><H>このままじゃ、前線を維持する<R>ことができなくなるかも……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>These days, the sky pirates have<R>torn our supply lines to shreds.<W><H>At this rate, we might not be able<R>to hold the front...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#241",
      "jp": "ギダン兵：<R>ここのところ、補給路は空賊の<R>おかけでズタズタさ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>These days, the sky pirates have<R>torn our supply lines to shreds.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#242",
      "jp": "老人：<R>最近、反戦主義の学者たちが<R>大勢逮捕されてしまった。<W><H>シデル提督の命令らしいが、<R>国王陛下はごぞんじ<R>ないのだろうか？<W><E>",
-     "en": ""
+     "en": "Old Man:<R>Recently, a great many antiwar<R>scholars were arrested.<W><H>It was Admiral Sidel's order, they<R>say, but I wonder if His Majesty<R>the King knows?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#243",
      "jp": "市民：<R>最近、反戦主義の学者たちが大勢<R>逮捕されてしまった。<W><E>",
-     "en": ""
+     "en": "Citizen:<R>Recently, a great many antiwar<R>scholars were arrested.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#244",
      "jp": "男：<R>今日も、政治犯がアダクダの<R>収容所に送られたらしいぜ。<W><H>くわばらくわばら……さわらぬ<R>神にたたりなし、ってな。<W><E>",
-     "en": ""
+     "en": "Man:<R>Heard they sent more political<R>prisoners to the Adakuda prison<R>camp today.<W><H>Heaven help us... Let sleeping<R>dogs lie, as they say.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#245",
      "jp": "男：<R>今日も、政治犯がアダクダの<R>収容所に送られたらしいぜ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Heard they sent more political<R>prisoners to the Adakuda prison<R>camp today.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#246",
      "jp": "少年：<R>おじさん、外国人だね。<W><E>",
-     "en": ""
+     "en": "Boy:<R>Mister, you're a foreigner, huh?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#247",
      "jp": "少女：<R>町がにぎやかでおどろいた？<W><E>",
-     "en": ""
+     "en": "Girl:<R>Surprised how lively the town<R>is?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#248",
      "jp": "商人：<R>戦争はもう嫌だね、このままじゃ<R>商売上がったりだよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>I'm sick of war. At this rate,<R>business'll go belly-up.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#249",
      "jp": "衛兵：<R>軍関係者以外は入れないぞ。<R>大尉だって？　知らないな。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Military personnel only. A<R>Captain, you say? Never heard of<R>you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#250",
      "jp": "衛兵：<R>ああ、バムス中佐の<R>お知り合いですね。<W><H>連絡は受けてますよ。<R>お入りください。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Ah, you're an acquaintance of<R>Lieutenant Colonel Bams.<W><H>We've been informed. Please go on<R>in.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#251",
      "jp": "衛兵：<R>お役目ご苦労さまです。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Thank you for your service, sir.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#252",
      "jp": "衛兵：<R>軍関係者以外は入れないぞ。<W><E>",
-     "en": ""
+     "en": "Guard:<R>Military personnel only.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#253",
      "jp": "ミユキ：<R>あ、あなたは……<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Oh, you're...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#254",
      "jp": "<F62>：<R>や、こんちは。<W><H>さっきは宮殿の中にいたね。<W><H>いいのかい、<R>きっと、侍女がさがしてるぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, hi there.<W><H>You were inside the palace<R>earlier, right?<W><H>Is this okay? I bet your<R>lady-in-waiting is looking for<R>you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#255",
      "jp": "ミユキ：<R>いいの、わたしは……<W><H>お部屋にいることに<R>なってるから……<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>It's fine. I'm...<W><H>supposed to be in my room, so...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#256",
      "jp": "<F62>：<R>ふふっ、わるいヤツだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Heh, you little rascal.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#257",
      "jp": "ミユキ：<R>あなたと話がしたかったの。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>I wanted to talk to you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#258",
      "jp": "<F62>：<R>へえ……何だい？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh yeah... About what?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#259",
      "jp": "ミユキ：<R>あの……<W><H>あなたはこの星の人じゃ<R>ないんでしょ？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Um...<W><H>You're not from this planet, are<R>you?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#260",
      "jp": "<F62>：<R>あ、ああ。<R>そうだけど。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Uh, y-yeah. That's right.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#261",
      "jp": "ミユキ：<R>やっぱり！<W><H>ちょっとちがうなって<R>思ってました。<W><H>わたしと同じですね。<W><H>わたし、乗ってた宇宙船が<R>遭難して、この星に<R>不時着したんです。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>I knew it!<W><H>I thought you seemed a little<R>different.<W><H>You're the same as me.<W><H>The spaceship I was on ran into<R>trouble, and it crash-landed on<R>this planet.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#262",
      "jp": "<F62>：<R>君ひとりで乗ってたのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You were flying it all by<R>yourself?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#263",
      "jp": "ミユキ：<R>いいえ、父と母が<R>いっしょだったのですが、<W><H>そのときに………<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>No, my father and mother were with<R>me, but...<W><H>when it happened......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#264",
      "jp": "<F62>：<R>そうか……。<W><H>おどろいたな…。<W><H>俺以外にこの星に落ちてきてた<R>やつがいたとはね。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I see...<W><H>Well, that's a surprise...<W><H>Never figured anyone besides me<R>had fallen onto this planet.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#265",
      "jp": "ミユキ：<R>ねえ、どうして<R>自分の星に戻らないの？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Say, why don't you go back to your<R>own planet?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#266",
      "jp": "<F62>：<R>帰る宇宙船がない<R>ってのもあるけど、<W><H>どうも、この星のことが<R>気になってね。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Partly 'cause I've got no ship to<R>get home in, but<W><H>I guess this planet's kind of<R>grown on me.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#267",
      "jp": "ミユキ：<R>ふうん……<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Hmm...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#268",
      "jp": "<F62>：<R>君は？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What about you?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#269",
      "jp": "ミユキ：<R>わたしはシデルさまに<R>必要とされているから……<W><H>シデルさまがわたしを<R>必要としてくれる限り、<R>わたしはここにいるの。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Sidel-sama needs me...<W><H>As long as Sidel-sama needs me,<R>I'll stay here.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#270",
      "jp": "<F62>：<R>シデルのヤツが？<W><H>どうして君が必要なんだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Sidel does?<W><H>Why would he need you?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#271",
      "jp": "ミユキ：<R>知ってます？<W><H>シデルさまってとっても<R>寂しがりやなんですよ。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Did you know?<W><H>Sidel-sama gets really lonely.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#272",
      "jp": "<F62>：<R>へえ、そうなんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh, is that so.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#273",
      "jp": "ミユキ：<R>だから、なるべくそばにいて<R>あげたいんだけど………<W><H>ごめんなさい。<R>今、戦争しているんですよね。<W><H>そんなこと言ってる<R>場合じゃないか……<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>So I want to stay by his side as<R>much as I can, but......<W><H>I'm sorry. There's a war on right<R>now, isn't there.<W><H>This is no time to be saying<R>things like that...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#274",
      "jp": "<F62>：<R>そんなことないさ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Not at all.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#275",
      "jp": "ミユキ：<R>え？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Huh?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#276",
      "jp": "<F62>：<R>いつもそばにいてやれよ。<W><H>そのほうがいい。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Stay by his side, always.<W><H>That's better.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#277",
      "jp": "ミユキ：<R>ほんとにそう思う？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Do you really think so?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#278",
      "jp": "<F62>：<R>ああ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#279",
      "jp": "ミユキ：<R>よかった！<W><H><F62>さん、<R>ありがとう！<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>I'm so glad!<W><H>Thank you, <F62>-san!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#280",
      "jp": "<F62>：<R>さみしがりや……か。<W><H>シデルが……？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Lonely... huh.<W><H>Sidel...?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#281",
      "jp": "バムス中佐：<R>わたしも護衛艦に乗って<R>同行することになったよ。<W><H>大尉はあの船に乗って<R>陛下とごいっしょしたまえ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>It seems I'll be coming along too,<R>aboard an escort ship.<W><H>Captain, you will board that ship<R>and accompany His Majesty.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#282",
      "jp": "ギダン兵：<R>国王陛下、ばんざーい！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Long live His Majesty the King!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#283",
@@ -1427,157 +1427,157 @@
     {
      "id": "2D/AMPS/A01_00@56000#284",
      "jp": "カ・ジャルコ：<R>こ、国王船が来ましたよ。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Th-the royal ship is here.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#285",
      "jp": "<F62>：<R>あいつに乗ることに<R>なるとはな……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Never thought I'd end up riding<R>that thing...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#286",
      "jp": "<F62>：<R>ははは。<W><H>カ・ジャルコ、おまえ、<R>足がふるえてるぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hahaha.<W><H>Ka Jarko, your legs are shaking.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#287",
      "jp": "商人：<R>この国の国王はとても気前が<R>よいお方なのだ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>The king of this country is a most<R>generous man.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#288",
      "jp": "老人：<R>観光旅行に来たら、<R>孫娘とはぐれてしまったよ。<W><E>",
-     "en": ""
+     "en": "Old Man:<R>I came here sightseeing and got<R>separated from my granddaughter.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#289",
      "jp": "男：<R>田舎では仕事がないから、<R>でかせぎに来てるんだ。<W><H>単身ふにんってやつさ。<W><E>",
-     "en": ""
+     "en": "Man:<R>There's no work back in the<R>country, so I came here to earn<R>a living.<W><H>Left the family at home, the usual<R>story.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#290",
      "jp": "少年：<R>さっき、かわいい女の子が<R>西の方に歩いていったよ。<W><H>色が白くて……<R>外国人みたいだったな。<W><E>",
-     "en": ""
+     "en": "Boy:<R>A cute girl walked off to the west<R>a little while ago.<W><H>She was really pale... like she<R>was from another country.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#291",
      "jp": "少年：<R>おじさん、迷子にならないように<R>気をつけてね。<W><E>",
-     "en": ""
+     "en": "Boy:<R>Mister, be careful you don't get<R>lost.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#292",
      "jp": "少女：<R>さっき女の子が町の西の方に<R>歩いていったわよ。<W><E>",
-     "en": ""
+     "en": "Girl:<R>A girl walked off toward the west<R>side of town a little while ago.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#293",
      "jp": "少女：<R>お買い物はやっぱり<R>大きい町でしなくちゃね。<W><E>",
-     "en": ""
+     "en": "Girl:<R>For shopping, you just have to go<R>to a big city.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#294",
      "jp": "看護婦：<R>あっ、<F62>さん。<R>メーアさんは元気にしてますか？<W><E>",
-     "en": ""
+     "en": "Nurse:<R>Oh, <F62>-san. How is Meer-san<R>doing?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#295",
      "jp": "看護婦：<R>病院で必要な物の<R>買い出しに来たんです。<W><E>",
-     "en": ""
+     "en": "Nurse:<R>I came to buy supplies the<R>hospital needs.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#296",
      "jp": "男：<R>俺は忙しいんだ。<R>話しかけないでくれ。<W><E>",
-     "en": ""
+     "en": "Man:<R>I'm busy. Don't talk to me.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#297",
      "jp": "男：<R>昔はもっともっと人が<R>多い町だったんだぜ。<W><E>",
-     "en": ""
+     "en": "Man:<R>This town used to have way, way<R>more people, you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#298",
      "jp": "少女：<R>広い町ねぇ。あたしの住んでる<R>町とは大違いだわ。<W><E>",
-     "en": ""
+     "en": "Girl:<R>What a big town. It's nothing like<R>the town I live in.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#299",
      "jp": "少女：<R>さっきまでお友達と<R>町の西はずれで遊んでたの。<W><E>",
-     "en": ""
+     "en": "Girl:<R>I was playing with my friends at<R>the west edge of town until just<R>now.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#300",
      "jp": "少女：<R>なんだ、おじさん、ミユキちゃん<R>と知り合いだったんだ。<W><E>",
-     "en": ""
+     "en": "Girl:<R>Oh, mister, so you know<R>Miyuki-chan.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#301",
      "jp": "少女：<R>お友達とお外で遊びたいなあ……<W><E>",
-     "en": ""
+     "en": "Girl:<R>I wish I could go play outside<R>with my friends...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#302",
      "jp": "カ・ジャルコ：<R><F62>大尉。<W><H>お城の中になんて、<R>恐れ多くて入れないわ、<R>わたし……<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Captain <F62>.<W><H>Go inside the castle? I'd never<R>dare, not me...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#303",
      "jp": "<F62>：<R>そうか？<R>じゃあここでいいよ。<W><H>家に帰んな。<R>お父さんが待ってるんだろ？<W><H>帰るときには<R>家まで呼びに行くからさ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Really? Then this is fine.<W><H>Go on home. Your dad's waiting for<R>you, right?<W><H>When it's time to leave, I'll come<R>by your house to get you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#304",
      "jp": "カ・ジャルコ：<R>はい！<R>ありがとうございます、大尉！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Yes, sir! Thank you, Captain!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#305",
      "jp": "カ・ジャルコ：<R>大尉、もう少し町を<R>歩きましょうよ。<W><H>まだまだご案内したいところが<R>あるんです。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Captain, let's walk around town a<R>bit more.<W><H>There are still lots of places I<R>want to show you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#306",
      "jp": "<F62>：<R>派手な宮殿だなあ……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What a flashy palace...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#307",
      "jp": "<F62>：<R>俺はこれでも軍人だぞ。<R>入れろお！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Believe it or not, I'm a soldier.<R>Let me in!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#308",
      "jp": "<F62>：<R>ちぇっ、入れないか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Tch, no getting in, huh.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#309",
      "jp": "<F62>：<R>イ・デム島に置いてきた俺の船は<R>直ったかな……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I wonder if my ship's fixed yet,<R>the one I left on I-Dem<R>Island...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#310",
      "jp": "<F62>：<R>もうちょっと町を見物して<R>くるか……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Maybe I'll take a look around town<R>a little longer...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#311",
      "jp": "<F62>：<R>ガークスのヤツ、<R>俺に何か用なのかな？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Wonder what Garks wants with me.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#312",
      "jp": "<P07>自分の船に乗りますか？<P15><E>",
-     "en": ""
+     "en": "<P07>Board your ship?<P15><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#313",
      "jp": "船に乗る<E>",
-     "en": ""
+     "en": "Board the ship<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#314",
      "jp": "まだ町に用がある<E>",
-     "en": ""
+     "en": "Still busy in town<E>"
     }
    ]
   }

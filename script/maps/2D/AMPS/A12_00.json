@@ -447,27 +447,27 @@
     {
      "id": "2D/AMPS/A12_00@42800#88",
      "jp": "配給係：<R>配給ですか？<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Here for supplies?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#89",
      "jp": "配給係：<R>お気をつけて。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Take care.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#90",
      "jp": "配給係：<R>戦闘で戦果をあげたら、<R>飛行記録を提出してくださいね。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>If you rack up results in battle,<R>please submit your flight<R>record.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#91",
      "jp": "配給係：<R>カカナン中佐の許可が出ましたの<R>で空賊の方にも配給できますよ。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Lieutenant Colonel Kakanan has<R>given permission, so we can<R>supply you sky pirates too.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#92",
      "jp": "配給係：<R>空賊さん、お気をつけて。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Take care, sky pirate.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#93",
@@ -477,27 +477,27 @@
     {
      "id": "2D/AMPS/A12_00@42800#94",
      "jp": "空賊：<R>俺たちにも配給してもらえる<R>なんて、うれしいなあ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Who'd have thought they'd hand out<R>supplies to us too? Sweet!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#95",
      "jp": "<F62>：<R>カカナンのおやじ、こんなとこで<R>何をぼーっとしてるんだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, old man Kakanan, what are you<R>standing around here in a daze<R>for?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#96",
      "jp": "カカナン中佐：<R>ホウノム島がム連邦の都市に<R>落とされたらしい……<W><H>ガシザキノ大佐が心配していた<R>とおりの事態になってきた、<R>と思ってな。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>It seems Hounom Island was dropped<R>on a Federation city...<W><H>I was thinking things have turned<R>out just as Colonel Gashizakino<R>feared.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#97",
      "jp": "<F62>：<R>ガシザキノを知ってるのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You know Gashizakino?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#98",
      "jp": "カカナン中佐：<R>わたしがデゼを脱出し、ム連邦軍<R>に合流したのは、<W><H>そもそも大佐に助言された<R>からなのだ。<W><H>辺境方面軍のわたしなら比較的<R>自由に軍を動かせるのでな、<R>実行にふみきったのだ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>The reason I escaped Deze and<R>joined the Federation army<W><H>was the colonel's advice in the<R>first place.<W><H>As an officer of the Frontier<R>Army, I can move troops fairly<R>freely, so I went ahead and did<R>it.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#99",
@@ -507,132 +507,132 @@
     {
      "id": "2D/AMPS/A12_00@42800#100",
      "jp": "カカナン中佐：<R>シデル提督に反発を感じているの<R>は、わたしだけではない。<W><H>ただ、さすがにム連邦軍と<R>合流するには、まだ抵抗が<R>強いようだがな。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>I am not the only one who resents<R>Admiral Sidel.<W><H>Still, joining up with the<R>Federation army seems a step too<R>far for most, for now.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#101",
      "jp": "<F62>：<R>軍人なんて、がんこなやつが<R>多いからな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Soldiers are a stubborn bunch,<R>after all.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#102",
      "jp": "カカナン中佐：<R>さて、と。<W><H>そろそろ司令部に<R>行かなくてはな。<W><H><F62>大尉も<R>あとで司令部にくるといい。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>Well, then.<W><H>I'd best be off to headquarters.<W><H>Captain <F62>, you should come<R>to headquarters later too.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#103",
      "jp": "ギダン兵：<R>いつパナスガルからム連邦軍が<R>攻めてくるか……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Who knows when the Federation army<R>will attack from Panasgal...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#104",
      "jp": "ギダン兵：<R>最近、シデル提督の親衛部隊を<R>よく見かけるなあ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I've been seeing a lot of Admiral<R>Sidel's Royal Guard units<R>lately.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#105",
      "jp": "ギダン兵：<R>親衛隊のやつらがいなく<R>なってせいせいしたな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Good riddance to those Royal Guard<R>types.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#106",
      "jp": "ギダン兵：<R>このあたりの基地には国王陛下に<R>忠誠を誓った士官が多いんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>A lot of officers at the bases<R>around here swore loyalty to His<R>Majesty the King.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#107",
      "jp": "ギダン兵：<R>国王派の士官はみんなどこかに<R>飛ばされてしまったよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>The royalist officers have all<R>been shipped off somewhere.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#108",
      "jp": "ギダン兵：<R>ム連兵ってもっと嫌なやつらかと<R>思っていたぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>I thought Federation soldiers<R>would be a lot nastier.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#109",
      "jp": "ム連兵：<R>ギダン人は変わった部屋に<R>住んでいるんだな。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Gidan folks sure live in strange<R>rooms.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#110",
      "jp": "ム連兵：<R>わはははは。<R>ギダン人っておもしろいな。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Wahahahaha. Gidan folks are a<R>riot.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#111",
      "jp": "ギダン兵：<R>ここはギダン軍司令部だ。<R>民間人は入れないぞ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>This is Gidan army headquarters.<R>No civilians allowed.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#112",
      "jp": "ギダン兵：<R>カカナン中佐も<R>思い切ったことをするな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Lieutenant Colonel Kakanan sure<R>made a bold move.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#113",
      "jp": "ギダン兵：<R>いそげ！<R>もうみんな出撃したぞ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Hurry! Everyone's already<R>sortied.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#114",
      "jp": "<F62>：<R>ゼシカ？<R>それに長官たちも……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Zeshika? And the commanders<R>too...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#115",
      "jp": "ゼシカ大尉：<R><F62>！<W><H>あなたたちのおかげで<R>助かったわ！　ありがとう！<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R><F62>!<W><H>You all saved us! Thank you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#116",
      "jp": "<F62>：<R>なんとかやっつけられたな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>We managed to beat them,<R>somehow.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#117",
      "jp": "ゼシカ大尉：<R>久しぶりね。<R>元気そうでよかった。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>It's been a while. I'm glad to see<R>you're well.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#118",
      "jp": "コステリフ長官：<R>いつかこうなる<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>We sensed that someday it<R>would...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#119",
      "jp": "タカテリフ長官：<R>予感がしてましたよ。<W><E>",
-     "en": ""
+     "en": "Commander Takaterif:<R>...come to this, you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#120",
      "jp": "<F62>：<R>そう？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#121",
      "jp": "コステリフ長官：<R>ええ。不思議とあなたと<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Yes. Strangely, we felt that with<R>you...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#122",
      "jp": "タカテリフ長官：<R>いっしょに戦える<R>気がしてね………<W><E>",
-     "en": ""
+     "en": "Commander Takaterif:<R>...we would one day fight side by<R>side......<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#123",
      "jp": "<F62>：<R>予感が当たったわけだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Guess your hunch was right.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#124",
      "jp": "コステリフ長官：<R>うれしいですよ。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>We're delighted.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#125",
      "jp": "タカテリフ長官：<R>お互いがんばりましょう。<W><E>",
-     "en": ""
+     "en": "Commander Takaterif:<R>Let us both give it our best.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#126",
@@ -642,7 +642,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#127",
      "jp": "ゼシカ大尉：<R>ラウエル？<R>彼がここまで来たの……？<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Rauel? He came all the way<R>here...?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#128",
@@ -657,87 +657,87 @@
     {
      "id": "2D/AMPS/A12_00@42800#130",
      "jp": "ム連士官：<R>ふん、臭い町だ。<W><H>ギダン人は汚いところに<R>住んでるなあ。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>Hmph, what a smelly town.<W><H>Gidan people sure live in filthy<R>places.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#131",
      "jp": "ム連士官：<R>ギダン人は汚いところに<R>住んでるなあ。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>Gidan people sure live in filthy<R>places.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#132",
      "jp": "ム連士官：<R>オガツはここよりは大きな町<R>らしいが……楽勝さ。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>I hear Ogatsu's a bigger town than<R>this... but it'll be a cakewalk.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#133",
      "jp": "ム連士官：<R>配給部はこの上ですよ。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>The Supply Office is upstairs.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#134",
      "jp": "ム連士官：<R>ゼシカ大尉がさきほどから<R>黙っておられますが……<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>Captain Zeshika has been silent<R>for a while now...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#135",
      "jp": "ム連士官：<R>ゼシカ大尉のお怒りは<R>自分にもよくわかります……<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>I understand Captain Zeshika's<R>anger all too well...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#136",
      "jp": "ゼシカ大尉：<R>…………<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>......<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#137",
      "jp": "<F62>：<R>どうした、ゼシカ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What's wrong, Zeshika?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#138",
      "jp": "ゼシカ大尉：<R>許せない……<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Unforgivable...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#139",
      "jp": "<F62>：<R>フェルムのことか……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You mean Ferum...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#140",
      "jp": "ゼシカ大尉：<R>許さないわ！<W><H>町を壊滅させるなんて！<R>どうしてそんなことができるの？<R>それが調停なの！？<W><H>ウソよ！　全部でたらめよ！<R>何が平和のためよ！！<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>I won't forgive them!<W><H>Wiping out a whole city! How could<R>anyone do such a thing? Is that<R>their idea of mediation!?<W><H>Lies! It's all a sham! \"For<R>peace,\" my foot!!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#141",
      "jp": "ゼシカ大尉：<R>許さないわ！<W><H>町を壊滅させるなんて！<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>I won't forgive them!<W><H>Wiping out a whole city!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#142",
      "jp": "カカナン中佐：<R>次も激しい戦いになるだろう……<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>The next battle will be a fierce<R>one too...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#143",
      "jp": "カカナン中佐：<R>次のぎせいがでないうちに<R>なんとかしなければ……<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>We must do something before there<R>are more casualties...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#144",
      "jp": "カカナン中佐：<R>あなたたちといっしょに<R>戦うよ。よろしくな。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>I'll be fighting alongside you<R>all. Glad to be aboard.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#145",
      "jp": "<F62>：<R>あんたも国王派なのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>So you're a royalist too?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#146",
      "jp": "カカナン中佐：<R>ああ。<W><H>これ以上シデル提督のやり方には<R>ついていけない。<W><H>辺境方面軍のわたしなら比較的<R>自由に軍を動かせるのでな、<R>実行にふみきったのだ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>Yes.<W><H>I can no longer go along with<R>Admiral Sidel's methods.<W><H>As an officer of the Frontier<R>Army, I can move troops fairly<R>freely, so I went ahead and did<R>it.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#147",
@@ -747,162 +747,162 @@
     {
      "id": "2D/AMPS/A12_00@42800#148",
      "jp": "カカナン中佐：<R>シデル提督に反発を感じているの<R>は、わたしだけではない。<W><H>ただ、さすがに空賊やム連邦軍と<R>合流するには、まだ抵抗が<R>強いようだがな。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>I am not the only one who resents<R>Admiral Sidel.<W><H>Still, joining up with sky pirates<R>and the Federation army seems a<R>step too far for most, for now.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#149",
      "jp": "<F62>：<R>軍人なんて、頑固なやつが<R>多いからな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Soldiers are a stubborn bunch,<R>after all.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#150",
      "jp": "カカナン中佐：<R>あなたたちといっしょに<R>戦うよ。よろしく。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>I'll be fighting alongside you<R>all. Glad to be aboard.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#151",
      "jp": "ダ・クダ：<R>俺たちがこんな風に表だって<R>活躍してはまずいんだがな。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Folks like us oughtn't be<R>strutting around out in the open<R>like this, y'know.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#152",
      "jp": "ブアブナム：<R>仲間が増えちまったな。<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>Our gang's gotten bigger, huh.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#153",
      "jp": "ガシザキノ：<R>強い味方が増えたぞ！<R>カカナン中佐だ。<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R>A strong ally has joined us!<R>Lieutenant Colonel Kakanan!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#154",
      "jp": "ガシザキノ：<R>準備ができたら<R>ホウデプイに向かうぞ。<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R>Once you're ready, we head for<R>Houdepui.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#155",
      "jp": "コステリフ長官：<R><F62>大尉、<R>準備はよろしいのですか？<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Captain <F62>, are your<R>preparations complete?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#156",
      "jp": "コステリフ長官：<R>ゼシカ大尉の様子が<R>さきほどからおかしいのですが。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Captain Zeshika has been acting<R>strangely for a while now.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#157",
      "jp": "ガシザキノ：<R><F62>、<W><H>今より、ホウデプイ砂漠に入り、<R>オガツに向かう。<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R><F62>,<W><H>we will now enter Houdepui Desert<R>and head for Ogatsu.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#158",
      "jp": "<F62>：<R>どうしたんだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What's going on?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#159",
      "jp": "ガシザキノ：<R>シデルのいる機械化浮遊島が、<W><H>まっすぐダナスピに<R>向かっているようなのだ。<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R>The mechanized floating island<R>Sidel is on<W><H>seems to be heading straight for<R>Danaspi.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#160",
      "jp": "<F62>：<R>ダナスピを占拠するつもりだな。<R>シデルの考えそうなことだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>He plans to seize Danaspi. Just<R>the sort of thing Sidel would<R>think of.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#161",
      "jp": "カカナン中佐：<R>シデル提督が巨大な移動兵器を<R>建設している、というウワサを<R>聞いたことがあります。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>I have heard rumors that Admiral<R>Sidel is building a giant mobile<R>weapon.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#162",
      "jp": "ゼシカ大尉：<R>あのシデルの呼びかけは<R>その島から発せられたの？<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Did that call of Sidel's come from<R>that island?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#163",
      "jp": "カカナン中佐：<R>ええ、多分。<W><H>しかし、どうやって世界中に<R>声を聞かせることが<R>できたのか……<W><H>それはわたしにもわかりません。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>Yes, most likely.<W><H>But how he made the whole world<R>hear his voice...<W><H>That, I cannot tell you either.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#164",
      "jp": "<F62>：<R>ノイパスク人にだってあのような<R>技術力はないだろう。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Even the Noipask don't have<R>technology like that.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#165",
      "jp": "コステリフ長官：<R>シデル提督は、われわれの<R>あずかり知らない、<W><H>未知なる強い力を手にしている<R>のかもしれませんな。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Admiral Sidel may have gotten hold<R>of something beyond our<R>knowledge...<W><H>some unknown, mighty power.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#166",
      "jp": "<F62>：<R>未知なる……強い……力？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Unknown... mighty... power?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#167",
      "jp": "ガシザキノ：<R>いいな、この戦いにこの星の<R>未来がかかっている。<W><H>困難な闘いになるだろうが、<R>それぞれ全力をつくしてほしい。<W><E>",
-     "en": ""
+     "en": "Gashizakino:<R>Listen well. The future of this<R>planet rides on this battle.<W><H>It will be a hard fight, but I<R>want each of you to give it<R>everything you've got.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#168",
      "jp": "全員：<R>はい！<W><E>",
-     "en": ""
+     "en": "Everyone:<R>Yes, sir!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#169",
      "jp": "ゼシカ大尉：<R>ダナスピに父たちも<R>向かっているそうよ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>I hear my father and the others<R>are heading for Danaspi too.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#170",
      "jp": "<F62>：<R>ゼシカのお父さん……<R>サロ将軍か？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Your father... General Saro?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#171",
      "jp": "ゼシカ大尉：<R>ええ。そうよ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Yes, that's right.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#172",
      "jp": "<F62>：<R>そうだ、ラウエルだっけ？<R>彼のことは知っているのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh yeah, Rauel, was it? Do you<R>know him?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#173",
      "jp": "ゼシカ大尉：<R>知ってるも何も……<W><H>早く結婚しろって<R>うるさいのよ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Know him? I'll say...<W><H>He keeps nagging me to hurry up<R>and get married.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#174",
      "jp": "<F62>：<R>結婚だって？<W><H>あいつと結婚するのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Marry him?<W><H>You're marrying that guy?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#175",
      "jp": "ゼシカ大尉：<R>ふふふ。まさか。<W><H>しつこくて困ってるのよ。<W><H>悪い人じゃないんだけどね。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Hee hee. As if.<W><H>He just won't give up. It's a real<R>bother.<W><H>He's not a bad man, though.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#176",
      "jp": "ゼシカ大尉：<R>じゃあ、先に行ってるわね。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Well, I'll go on ahead.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#177",
      "jp": "コステリフ長官：<R>さて、そろそろ作戦会議を<R>はじめるとしますか。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Now then, shall we begin the<R>strategy meeting?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#178",
      "jp": "コステリフ長官：<R><F62>大尉、<W><H>今より、<P07>ホウデプイ砂漠に入り、<R>ギダンの町オガツに向かいます。<P15><W><H>親衛部隊のはげしい抵抗を<R>うけるでしょうから、<W><H>入念に準備を整えてから<R>出撃してください。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Captain <F62>,<W><H>we will now <P07>enter the Houdepui<R>Desert and head for the Gidan town<R>of Ogatsu.<P15><W><H>We can expect fierce resistance<R>from the Royal Guard units,<W><H>so prepare thoroughly before you<R>sortie.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#179",
      "jp": "ゼシカ大尉：<R>長官、ゼシカ出撃します！<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Commander, Zeshika launching!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#180",
@@ -912,202 +912,202 @@
     {
      "id": "2D/AMPS/A12_00@42800#181",
      "jp": "カカナン中佐：<R>わがギダン国王のためにも、<R>がんばらなくてはな……<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>For the sake of our King of Gidan,<R>I must give it my all...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#182",
      "jp": "ム連士官：<R>この際ム連邦もギダン国もない。<R>協力してやっていこう。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>At a time like this, there's no<R>Federation and no Gidan. Let's<R>work together.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#183",
      "jp": "ム連兵：<R>なんということだ……<W><H>ホウノム島がフェルムに<R>落ちたらしい……<R>そんなばかな……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>How can this be...<W><H>They say Hounom Island fell on<R>Ferum... That can't be...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#184",
      "jp": "ム連兵：<R>ホウノム島が落ちたらしい……<R>そんなばかな……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>They say Hounom Island fell...<R>That can't be...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#185",
      "jp": "ム連兵：<R>出発だ、出発だ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>We're moving out, moving out.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#186",
      "jp": "ム連兵：<R>フェルムは見せしめだよ……<W><H>シデルに刃向かうヤツは<R>みんなああなるんだ……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Ferum was made an example of...<W><H>Anyone who defies Sidel will end<R>up like that...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#187",
      "jp": "ム連兵：<R>出撃の準備で忙しいんだ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>I'm busy getting ready to<R>sortie.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#188",
      "jp": "ム連兵：<R>うそだろ……<W><H>ホウノム島がフェルムに<R>落ちるなんて……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>No way...<W><H>Hounom Island falling on<R>Ferum...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#189",
      "jp": "ム連兵：<R>補給を忘れるなー！<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Don't forget to resupply!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#190",
      "jp": "ギダン兵：<R>ここはカカナン中佐が指揮をとっ<R>ておられる限りだいじょうぶさ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>As long as Lieutenant Colonel<R>Kakanan is in command here,<R>we'll be fine.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#191",
      "jp": "ギダン兵：<R>どうしたことか、カカナン中佐が<R>指揮をおろされてしまったよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>What's going on? Lieutenant<R>Colonel Kakanan has been<R>relieved of command.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#192",
      "jp": "ギダン兵：<R>この町の駐留部隊を指揮して<R>いるのは、カカナン中佐だよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>The garrison in this town is<R>commanded by Lieutenant Colonel<R>Kakanan.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#193",
      "jp": "ギダン兵：<R>カカナン中佐がいる限り、いつ<R>攻め込まれても平気さ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>As long as Lieutenant Colonel<R>Kakanan is here, let them attack<R>anytime.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#194",
      "jp": "ギダン兵：<R>カカナン中佐は穏健（おんけん）<R>派だから提督ににらまれたんだ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>The Admiral had it in for<R>Lieutenant Colonel Kakanan for<R>being a moderate.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#195",
      "jp": "ギダン兵：<R>ム連邦軍に司令部を<R>開放するなんて……！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Opening headquarters to the<R>Federation army...!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#196",
      "jp": "親衛隊：<R>われらはシデルさまを<R>お守りする親衛隊だ。<W><E>",
-     "en": ""
+     "en": "Royal Guard:<R>We are the Royal Guard, protectors<R>of Sidel-sama.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#197",
      "jp": "親衛隊：<R>シデルさまこそ、<R>この星の救世主なのだ。<W><E>",
-     "en": ""
+     "en": "Royal Guard:<R>Sidel-sama alone is the savior of<R>this planet.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#198",
      "jp": "親衛隊：<R>きさま、あやしいヤツ……<W><E>",
-     "en": ""
+     "en": "Royal Guard:<R>You there, you look<R>suspicious...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#199",
      "jp": "ム連兵：<R>これからどうなるんだ？<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>What happens now?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#200",
      "jp": "ム連兵：<R>浮遊島をどうにかしないと……<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>We've got to do something about<R>the floating island...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#201",
      "jp": "空賊：<R>やれやれ、狭い町だなあ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Jeez, what a cramped town.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#202",
      "jp": "秘書：<R>はて………<R>何かご用でしょうか？<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Hmm...... Is there something I can<R>do for you?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#203",
      "jp": "ラウエル：<R>あなたが<F62>さん<R>ですね！？<W><E>",
-     "en": ""
+     "en": "Rauel:<R>So you're <F62>-san!?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#204",
      "jp": "<F62>：<R>そうだけど？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah, so?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#205",
      "jp": "秘書：<R>失礼いたします。<W><H>わたくしどもは<R>ム連邦で一番大きな<R>貿易会社の者ですが……<W><H>こちらは社長のラウエル、<R>わたくしは<R>その秘書でございます。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Pardon the intrusion.<W><H>We are from the largest trading<R>company in the Federation...<W><H>This is our president, Rauel, and<R>I am his secretary.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#206",
      "jp": "ラウエル：<R>お願いだ！<W><H>君の船に乗せて<R>もらえないだろうか。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>I beg of you!<W><H>Would you let me ride aboard your<R>ship?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#207",
      "jp": "<F62>：<R>どうしたどうした？<W><H>わけを聞かせてくれよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Whoa, whoa, what's this?<W><H>Tell me what's going on.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#208",
      "jp": "ラウエル：<R>わたしはゼシカのことが心配で<R>この町までやってきたのだ。<W><H>戦争では、いつ、どこで、<R>どんな危険が待ちかまえて<R>いるかわからない。<W><H>だから、いつもそばで彼女を<R>見守っていたいのだ。<W><H>しかし、わたしは民間人。<R>軍船に乗るなど許される<R>わけがない。<W><H>君のことは風のウワサで<R>聞いている。<W><H>空賊の君なら民間人を<R>乗せることもできよう。<W><H>君しか頼る人がいないのだ！<W><H>お願いだ！<R>乗せてくれ！<W><E>",
-     "en": ""
+     "en": "Rauel:<R>I came all the way to this town<R>because I am worried about<R>Zeshika.<W><H>In war, there is no telling when,<R>where, or what danger lies in<R>wait.<W><H>That is why I wish to be by her<R>side always, watching over her.<W><H>But I am a civilian. I could never<R>be allowed aboard a military<R>ship.<W><H>I have heard of you through the<R>grapevine.<W><H>A sky pirate like you could take a<R>civilian aboard.<W><H>You are the only one I can turn<R>to!<W><H>I beg you! Take me with you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#209",
      "jp": "<F62>：<R>しかし、あんたも危険なんだぜ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>But it's dangerous for you too,<R>you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#210",
      "jp": "ラウエル：<R>危険……？<W><H>わたしの愛の前で<R>そんなことは無意味だ！<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Dangerous...?<W><H>Before my love, such things mean<R>nothing!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#211",
      "jp": "<F62>：<R>わかったわかった。<W><H>乗せりゃあいいんだな？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Okay, okay.<W><H>So I just have to let you aboard,<R>right?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#212",
      "jp": "ラウエル：<R>ほんとうか？<W><H>ありがとう！<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Truly?<W><H>Thank you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#213",
      "jp": "<F62>：<R>その腕じゃ、大砲は<R>撃てそうにないな……<W><H>ま、戦闘のじゃまだけは<R>しないでくれよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>With arms like those, you won't be<R>firing any cannons...<W><H>Just don't get in the way during<R>battle, okay?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#214",
      "jp": "秘書：<R>ラウエルさま！<W><H>よかったですね！<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Rauel-sama!<W><H>How wonderful for you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#215",
      "jp": "<F62>：<R>先に船に乗っててくれよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Go ahead and board the ship<R>first.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#216",
      "jp": "ラウエル：<R>ありがとう！<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Thank you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#217",
      "jp": "秘書：<R>ではわたくしもいっしょに<R>まいります。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Then I shall come along as well.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#218",
      "jp": "<F62>：<R>やれやれ………<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh, boy......<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#219",
      "jp": "修理屋：<R>らっしゃい。<R>出張修理だよ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Hey there. On-site repairs here.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#220",
      "jp": "修理屋：<R>応援してるからな、<R>がんばれよ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>I'm rooting for you. Hang in<R>there.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#221",
@@ -1117,32 +1117,32 @@
     {
      "id": "2D/AMPS/A12_00@42800#222",
      "jp": "ジャンク屋：<R>いらっしゃい。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Welcome.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#223",
      "jp": "ジャンク屋：<R>気をつけてな。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Take care.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#224",
      "jp": "ジャンク屋：<R>まいどあり。<R>気をつけてな。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Thanks a lot. Take care.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#225",
      "jp": "ドックの職人：<R>俺は流れ者のドック職人さ。<W><H>何か用かい？<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>I'm a shipwright who drifts from<R>dock to dock.<W><H>Need something?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#226",
      "jp": "ドックの職人：<R>がんばれよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Good luck.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#227",
      "jp": "ドックの職人：<R>楽しい仕事をさせてもらったぜ。<R>がんばれよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>That was a fun job. Good luck out<R>there.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#228",
@@ -1152,22 +1152,22 @@
     {
      "id": "2D/AMPS/A12_00@42800#229",
      "jp": "商人：<R>いらっしゃい。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Welcome.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#230",
      "jp": "商人：<R>またのおこしを。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Please come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#231",
      "jp": "商人：<R>まいどあり。<R>またのおこしを。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Thank you. Please come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#232",
      "jp": "商人：<R>らっしゃい。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Step right up.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#233",
@@ -1182,7 +1182,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#235",
      "jp": "ギダン兵：<R>これ、民間人、<R>入っちゃいかんぞ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Hey, civilian! You can't go in<R>there.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#236",

@@ -47,7 +47,8 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   Western name order. Register is per character (style reference); sound effects become English onomatopoeia.
 - Punctuation: 「」 -> "...", 『』 -> '...', …… -> `...`, ！？ -> `!?`. Buttons: □ Square, ○ Circle, × Cross,
   △ Triangle, Ｌ１ L1, ＳＥＬＥＣＴ SELECT.
-- No "a/an" right before `<F62>`; no suffix glued to a code ("<F62>'s" is fine).
+- No "a/an" right before `<F62>`; no ordinal glued to a number code ("1th"). "<F62>'s" and honorifics
+  ("<F62>-san", "<F62>-sama") are fine: keep them where the JP has them.
 - Copy the speaker from the Japanese label; never infer it from who is addressed (a pilot line was mislabelled).
 - Dead or test strings (ダミー, 体験版 notes) are still translated plainly.
 
@@ -59,6 +60,13 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - Keep formal speakers formal in short lines too (Hauezna "It's hopeless, sir." not "No good.").
 - Don't add a gender the JP doesn't give ("Bring the envoy here", not "him").
 - Japanese-isms to avoid: "Thank you for your hard work" -> "Good work out there".
+- A number code `<Vnn,...>` can be 1: no plural noun after it ("that's <V12,0,4> over the limit", not "<V12,0,4> items").
+- Ellipses: …… is "...", anything longer is "......" (6 dots); never 9.
+- Fixed speaker forms (wave 1): ギダン技術将校 Gidan Engineer Officer; 全員 Everyone; 修理係 Repair Tech; ム連士官
+  Federation Officer; 宿屋のおかみ Innkeeper; カ・ジャルコの父 Ka Jarko's Father; 市民 Citizen; 医者 Doctor;
+  発明家 Inventor. 空賊さん as address -> "sky pirate" (no -san on common nouns).
+- Wave 2 forms: ギダン司令官 Gidan Commander; おやじ (shop label) Shopkeeper; 覆面男 Masked Man; 金 meaning money is
+  "money" or the bare Z amount (Gold is the cargo item). The glossary table has the rest.
 
 ## Consistency
 Never edit `glossary.md` or any file other than your output. For a recurring name or term not in the glossary, pick a

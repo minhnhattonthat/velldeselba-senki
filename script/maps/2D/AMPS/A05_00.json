@@ -447,12 +447,12 @@
     {
      "id": "2D/AMPS/A05_00@40800#88",
      "jp": "女：<R>広場の下から時々物音がする<R>のよ。気持ち悪いわ……<W><E>",
-     "en": ""
+     "en": "Woman:<R>Sometimes I hear noises from under<R>the square. It gives me the<R>creeps...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#89",
      "jp": "商人：<R>ここ、ガーの町はなぜか<R>客がよく集まるんだ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>For some reason, customers flock<R>to this town of Gar.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#90",
@@ -462,12 +462,12 @@
     {
      "id": "2D/AMPS/A05_00@40800#91",
      "jp": "商人：<R>まいどあり。<R>また来ておくれ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Thanks for your business. Come<R>again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#92",
      "jp": "商人：<R>商売するのにはいい町だよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>It's a good town for doing<R>business.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#93",
@@ -482,27 +482,27 @@
     {
      "id": "2D/AMPS/A05_00@40800#95",
      "jp": "ジャンク屋：<R>らっしゃい。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Welcome!<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#96",
      "jp": "ジャンク屋：<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Come again, now.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#97",
      "jp": "ジャンク屋：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Thanks for your business. Come<R>again, now.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#98",
      "jp": "修理屋：<R>修理ならまかせてくれよ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Leave the repairs to me.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#99",
      "jp": "修理屋：<R>また来ておくれ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#100",
@@ -512,62 +512,62 @@
     {
      "id": "2D/AMPS/A05_00@40800#101",
      "jp": "ドックの職人：<R>だんな、しけたノイパスクの船に<R>なんか乗ってるようじゃ、<W><H>空賊稼業はつとまらないですぜ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Boss, if you're flying around in<R>some shabby Noipask ship,<W><H>you'll never make it in the sky<R>pirate trade.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#102",
      "jp": "<F62>：<R>空賊？<R>何を言ってるんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Sky pirate? What are you talking<R>about?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#103",
      "jp": "ドックの職人：<R>隠すことはありませんよ。<W><H>この町に来る客は、<R>大半が空賊なんですから。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>No need to hide it.<W><H>Most of the customers who come to<R>this town are sky pirates.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#104",
      "jp": "<F62>：<R>そうなのか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Is that so.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#105",
      "jp": "ドックの職人：<R>空賊向けの仕様になった船なら、<R>２種類ご用意できますぜ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>I can offer you two kinds of ship<R>fitted out for sky pirates.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#106",
      "jp": "ドックの職人：<R>これが「ジーテガート」。<W><H>砲台が多いが、旋回力が劣る。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>This is the \"Jitegart\".<W><H>Lots of turrets, but it turns<R>poorly.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#107",
      "jp": "ドックの職人：<R>これが「ヴァルガート」。<W><H>砲台は少ないが旋回力に優れる。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>This is the \"Valgart\".<W><H>Fewer turrets, but it turns<R>superbly.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#108",
      "jp": "ドックの職人：<R>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備については<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくから<R>心配しなくてもいいぞ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Your old ship's turrets, engine,<R>armor plates and so on will all<R>be scrapped.<W><H>Leave the new ship's equipment to<R>me.<W><H>Your ammo and cargo get moved to<R>the new ship as they are, so don't<R>you worry.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#109",
      "jp": "ドックの職人：<R>買いたくなったら<R>俺に声をかけてくれよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>If you feel like buying, just give<R>me a shout.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#110",
      "jp": "ドックの職人：<R>まいどあり。<R>またどうぞ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Thank you kindly. Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#111",
      "jp": "ドックの職人：<R>……あれ？<W><H>だんな、ちょっと<R>荷物が多すぎますね。<W><H>この船の積載量は<R><V10,0,4>個までなんです。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーですね。<W><H>ジャンク屋かどこかで<R>荷物を売ってから<R>また来てくださいね。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>...Huh?<W><H>Boss, you've got a bit too much<R>cargo.<W><H>This ship's cargo capacity is <V10,0,4><R>items.<W><H>You're carrying <V11,0,4> items right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Please sell some cargo at a junk<R>dealer or somewhere, then come<R>back.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#112",
      "jp": "ドックの職人：<R>いらっしゃい。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Welcome.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#113",
@@ -577,172 +577,172 @@
     {
      "id": "2D/AMPS/A05_00@40800#114",
      "jp": "ドックの職人：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>Thanks for your business. Come<R>again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#115",
      "jp": "ドックの職人：<R>……あれ？<W><H>だんな、ちょっと<R>荷物が多すぎるようだね。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": ""
+     "en": "Shipwright:<R>...Huh?<W><H>Boss, looks like you've got a bit<R>too much cargo.<W><H>This ship's cargo capacity is <V10,0,4><R>items.<W><H>You're carrying <V11,0,4> items right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere and come back.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#116",
      "jp": "酒場の主人：<R>さっき、べろべろの<R>酔っぱらいがいてな、<W><H>連れの男が２人で<R>引きずっていったよ。<W><H>なんでも操縦士らしいんだけど、<R>あのまま空を飛ぶつもり<R>なのかねえ。危ないよ。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>A while ago there was a guy in<R>here, dead drunk,<W><H>and the two men with him dragged<R>him off.<W><H>Seems he's a pilot, of all things.<R>Does he plan to fly in that state?<R>That's dangerous.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#117",
      "jp": "<F62>：<R>そりゃあ、たしかに<R>危ないだろうな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Well, it sure would be<R>dangerous.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#118",
      "jp": "酒場の主人：<R>ダクから来たと言ってたな。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Said he came from Dak.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#119",
      "jp": "<F62>：<R>ダクから？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>From Dak?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#120",
      "jp": "酒場の主人：<R>ゆっくり飲んでってくれ。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Take your time and enjoy your<R>drink.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#121",
      "jp": "空賊：<R>ん？　あんたもお仲間かい？<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Hm? You one of us too?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#122",
      "jp": "商人：<R>やはりあれはなかなか手に<R>入りませんな……<W><E>",
-     "en": ""
+     "en": "Merchant:<R>As I thought, that one's hard to<R>come by...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#123",
      "jp": "この町にならめずらしい武器が<R>売っていると聞いたんだが……<R>いったいどこで売ってるんだ？<W><E>",
-     "en": ""
+     "en": "I heard you could buy rare weapons<R>in this town... So where on earth<R>are they sold?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#124",
      "jp": "男：<R>こんにちは。<W><E>",
-     "en": ""
+     "en": "Man:<R>Hello.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#125",
      "jp": "男：<R>いい買い物をしてってくれ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Hope you find some good buys.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#126",
      "jp": "少女：<R>おじさん、<R>ギダン人じゃないわね。<W><E>",
-     "en": ""
+     "en": "Girl:<R>Mister, you're not from Gidan, are<R>you?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#127",
      "jp": "空賊ガイシ：<R>さすがだ……<R>本当にウワサ通りだったんだな。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Impressive... You really are as<R>good as the rumors say.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#128",
      "jp": "<F62>：<R>当たり前だろう。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Of course I am.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#129",
      "jp": "空賊ガイシ：<R>コレで、決闘で賭けをするのも<R>おしまいだな………<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Guess that's the end of betting on<R>duels for me......<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#130",
      "jp": "<F62>：<R>そんな、気を落とすなって。<R>俺が強すぎるだけなんだからな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, don't be so down. I'm just<R>too strong, that's all.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#131",
      "jp": "空賊ガイシ：<R>いや、そうじゃないんだ……<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>No, that's not it...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#132",
      "jp": "<F62>：<R>オユ・キクル？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oyu Kikuru?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#133",
      "jp": "オユ・キクル：<R>ささ、はやいところ１０万Ｚ<R>払っていただけないかしら？<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Now, now, would you mind paying<R>the 100,000Z, quick as you can?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#134",
      "jp": "空賊ガイシ：<R>こういうことさ……<R>俺は破産だよ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>That's how it is... I'm broke.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#135",
      "jp": "<F62>：<R>おい、そんなに賭けてたのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, you bet that much?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#136",
      "jp": "オユ・キクル：<R>当然じゃないですかあ。<W><H>ささ、ニッコリ笑って<R>現金払いですからね。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Well, of course!<W><H>Now, now, with a big smile, and<R>cash only, okay?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#137",
      "jp": "空賊ガイシ：<R>とほほ……<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Woe is me...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#138",
      "jp": "<P07>オユ・キクルはガイシから<R>１０万Ｚ受け取りました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Oyu Kikuru received 100,000Z from<R>Gaishi.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#139",
      "jp": "オユ・キクル：<R>はい、これ。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Here, take this.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#140",
      "jp": "<F62>：<R>え？　俺にくれるのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh? You're giving it to me?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#141",
      "jp": "オユ・キクル：<R>んもう、ちがいますよ。<W><H>どうせ今は使い道がないから<R>お預けするだけです。<W><H>使ってもいいけど……<R>いつかちゃんと返して<R>くださいね。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Oh, come on, no!<W><H>I've got no use for it right now,<R>so I'm just leaving it with you.<W><H>You can spend it, but... make sure<R>you pay me back someday, okay?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#142",
      "jp": "<P07>オユ・キクルから<R>１０万Ｚ受け取りました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Received 100,000Z from Oyu<R>Kikuru.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#143",
      "jp": "空賊ガイシ：<R>さあ、約束通りのもの、<R>払ってもらおうか。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Now, pay up what we agreed on.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#144",
      "jp": "<F62>：<R>何のことだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What are you talking about?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#145",
      "jp": "空賊ガイシ：<R>ふざけるな。<W><H>あんたの仲間のオユキ<R>なんとかっていう女が、<W><H>あんたが負けたら１０万Ｚ<R>払うと約束したんだ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Don't play dumb.<W><H>That woman in your crew,<R>Oyuki-something,<W><H>promised to pay 100,000Z if you<R>lost.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#146",
      "jp": "<F62>：<R>オユ・キクルが！？<R>そんなに賭けていたのか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oyu Kikuru did!? She bet that<R>much?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#147",
      "jp": "空賊ガイシ：<R>仲間の借金はリーダーの<R>借金だからな。<W><H>さあ、払ってもらおうか。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>A crew member's debt is the<R>leader's debt.<W><H>Now, time to pay up.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#148",
@@ -752,157 +752,157 @@
     {
      "id": "2D/AMPS/A05_00@40800#149",
      "jp": "オユ・キクル：<R>ということなの。<R>ごめんなさい……<W><H>わたし、そんなお金<R>持ってないし……<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>So that's how it is. I'm<R>sorry...<W><H>I don't have that kind of<R>money...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#150",
      "jp": "空賊ガイシ：<R>金がなければ、<R>あるだけでもいいぜ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>If you don't have the money,<R>whatever you've got will do.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#151",
      "jp": "<F62>：<R>あーあ、しょうがないな……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Ah, geez. Can't be helped...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#152",
      "jp": "<P07>１０万Ｚ支払いました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Paid 100,000Z.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#153",
      "jp": "<P07>あり金を全部支払いました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Paid every last Z you had.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#154",
      "jp": "オユ・キクル：<R><F62>、<R>そう力を落とさないで。<W><H>これからがんばってかせげば<R>だいじょうぶですよ。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R><F62>, don't be so down.<W><H>If we work hard and earn it back<R>from here on, we'll be fine!<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#155",
      "jp": "<F62>：<R>おまえになぐさめられたくは<R>ないよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>The last thing I need is sympathy<R>from you.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#156",
      "jp": "オユ・キクル：<R>ふふふふ……じゃあ先に<R>船に行ってますね。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Hee hee hee... Then I'll head to<R>the ship ahead of you.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#157",
      "jp": "空賊ガイシ：<R>賭けはもうやめたんだ……<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>So you're done betting, huh...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#158",
      "jp": "空賊ガイシ：<R>ふはは。<R>また賭けてもいいんだぜ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Fuhaha. You can bet again anytime,<R>you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#159",
      "jp": "空賊：<R>ふはははは。<R>買い物は闇市場に限るぜ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Fuhahahaha. For shopping, nothing<R>beats the black market.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#160",
      "jp": "空賊ガイシ：<R>よお、<F62>。<W><H>腕のいいやつだって評判なのは<R>あんただな？<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Hey, <F62>.<W><H>So you're the one with the<R>reputation as a crack pilot?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#161",
      "jp": "<F62>：<R>評判かどうかは知らんが<R><F62>は俺だ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Don't know about any reputation,<R>but I'm <F62>.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#162",
      "jp": "空賊ガイシ：<R>その評判が本当かどうか……<R>腕試しをしてみないか？<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Whether that reputation's true or<R>not... how about we put it to<R>the test?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#163",
      "jp": "<F62>：<R>興味ないな……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Not interested...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#164",
      "jp": "空賊ガイシ：<R>ふん、本当の実力が<R>わかっちまうのが怖いのか？<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Hmph. Scared we'll find out what<R>you're really worth?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#165",
      "jp": "<F62>：<R>なんだと？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What did you say?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#166",
      "jp": "<P07>決闘をする前の注意！！<P15><W><H><P13>決闘に負けると、とんでもない<R>大金を払うことになります。<W><H>腕に自信がなければ<R>やめておいたほうが無難です。<P15><W><E>",
-     "en": ""
+     "en": "<P07>Before you duel!!<P15><W><H><P13>If you lose a duel, you will have<R>to pay a huge sum of money.<W><H>If you are not confident in your<R>skills, it is safer not to.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#167",
      "jp": "<P07>空賊ガイシと決闘しますか？<P15><E>",
-     "en": ""
+     "en": "<P07>Duel Sky Pirate Gaishi?<P15><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#168",
      "jp": "決闘する<E>",
-     "en": ""
+     "en": "Duel<E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#169",
      "jp": "やめておく<E>",
-     "en": ""
+     "en": "Not now<E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#170",
      "jp": "<F62>：<R>そこまで言われちゃ<R>引くわけにはいかないな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>When you put it like that, I can't<R>exactly back down.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#171",
      "jp": "空賊ガイシ：<R>ふ、そうこなきゃな……<R>先に空で待ってるぜ。<W><H>準備が終わったらとっとと<R>来るがいい！<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Heh, that's more like it... I'll<R>be waiting in the sky.<W><H>Once you're ready, get up there,<R>and be quick about it!<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#172",
      "jp": "空賊：<R>俺は、あんたに賭けたよ。<R>絶対に勝ってくれよ！！<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>I put my money on you. You'd<R>better win!!<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#173",
      "jp": "<F62>：<R>なんだ、賭けだって？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What, there's betting?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#174",
      "jp": "空賊：<R>おう、いつも、ガイシのヤツが<R>胴元でやってるのさ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Yep. Gaishi always runs the book<R>on these.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#175",
      "jp": "空賊：<R>いやいや、<R>ガイシは負け知らずだ。<W><H>何たってあれでメシを<R>食ってるんだからな。<W><H>今日は１００対１でガイシ有利、<R>ってところだろ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Nah, nah, Gaishi's never lost.<W><H>He makes his living off it, after<R>all.<W><H>Today I'd say it's 100 to 1 in<R>Gaishi's favor.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#176",
      "jp": "<F62>：<R>俺もみくびられたもんだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>They sure don't think much of<R>me.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#177",
      "jp": "<F62>：<R>気が向かないな。<W><H>また今度な。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Not in the mood.<W><H>Some other time.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#178",
      "jp": "空賊ガイシ：<R>おくびょうものめが！<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Coward!<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#179",
      "jp": "空賊ガイシ：<R>よお、<F62>。<R>勝負する気になったか？<W><E>",
-     "en": ""
+     "en": "Sky Pirate Gaishi:<R>Hey, <F62>. Ready for a match<R>yet?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#180",
@@ -922,7 +922,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#183",
      "jp": "<F62>：<R>よし、やろう。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>All right, let's do it.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#184",
@@ -967,52 +967,52 @@
     {
      "id": "2D/AMPS/A05_00@40800#192",
      "jp": "空賊：<R>ガイシは負け知らずだ。<R>勝ち目ないよ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Gaishi's never lost. You don't<R>stand a chance.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#193",
      "jp": "空賊：<R>あんたも腕試しで食って<R>いけるよ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>You could make a living off duels<R>too.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#194",
      "jp": "空賊：<R>ははは、そう気を落とすなよ。<R>ガイシが強すぎたんだ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Hahaha, don't take it so hard.<R>Gaishi was just too strong.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#195",
      "jp": "空賊：<R>もうちょっとまけてくれれば<R>買えるんだけどな……<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>If they'd knock a little off the<R>price, I could afford it...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#196",
      "jp": "空賊：<R>あんたにあり金かけるぜ！<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>I'm betting everything I've got on<R>you!<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#197",
      "jp": "空賊：<R>あんたのおかげで大もうけだ！<R>ありがとうよ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Thanks to you, I made a killing!<R>Much obliged.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#198",
      "jp": "空賊：<R>やっぱりガイシは<R>たいしたもんだ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Gaishi's really something, all<R>right.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#199",
      "jp": "空賊：<R>むだづかいしすぎたかな……<R>またかあちゃんに怒られるよ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Maybe I spent too much... The<R>missus is gonna yell at me<R>again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#200",
      "jp": "商人：<R>お買い得だよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Great bargains here.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#201",
      "jp": "商人：<R>命があったらまた来ておくれ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Come again, if you're still<R>alive.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#202",
@@ -1022,52 +1022,52 @@
     {
      "id": "2D/AMPS/A05_00@40800#203",
      "jp": "商人：<R>うちで買わなきゃ一生の損だよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Pass up my shop and you'll regret<R>it for life.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#204",
      "jp": "商人：<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#205",
      "jp": "商人：<R>ありがとう。<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Thanks. Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#206",
      "jp": "商人：<R>話のネタに何か買ってっては<R>どうかね。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Why not buy something to tell<R>stories about?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#207",
      "jp": "商人：<R>ひともうけしたら、また<R>来てくれよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Once you've made a bundle, come<R>back and see me.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#208",
      "jp": "商人：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Thanks for your business. Come<R>again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#209",
      "jp": "男：<R>こら、人の家に<R>勝手に入るんじゃない。<W><H>おや……？<R>それは？<W><E>",
-     "en": ""
+     "en": "Man:<R>Hey, don't just walk into other<R>people's houses.<W><H>Oh...? What's that?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#210",
      "jp": "<F62>：<R>ああ、これか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh, this?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#211",
      "jp": "<P07>空賊のしるしを見せました。<P15><W><E>",
-     "en": ""
+     "en": "<P07>You showed the Sky Pirate Mark.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#212",
      "jp": "男：<R>なんだ、ダ・クダのだんなの<R>お仲間だったのか。<W><H>さ、入ってくれ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Oh, so you're one of Boss Da<R>Kuda's crew.<W><H>Come on in.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#213",

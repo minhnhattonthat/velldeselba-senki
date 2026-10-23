@@ -83,6 +83,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ジャンク屋 / 修理屋 / ドックの職人 / ペンキ屋 | Junk Dealer / Repairman / Shipwright / Painter | | | |
 | 管制員 / 衛兵 / 看護婦 / ドクター / 患者 / 市長 | Controller / Guard / Nurse / Doctor / Patient / Mayor | | | |
 | 物知りじいさん / 闇商人 / お供 / 全権大使 | Old Sage / Black Marketeer / Attendant / Plenipotentiary | | | |
+| ギダン技術将校 / ギダン士官 / ギダン衛兵 / ム連士官 | Gidan Engineer Officer / Gidan Officer / Gidan Guard / Federation Officer | | wave 1 | |
+| 全員 / 修理係 / 医者 / 市民 / 秘書 / 宿屋のおかみ | Everyone / Repair Tech / Doctor / Citizen / Secretary / Innkeeper | | wave 1 | |
+| カ・ジャルコの父 / 国王派の男 / 発明家 | Ka Jarko's Father / Royalist / Inventor | | wave 1 | |
+| 空賊たち / 空賊ガイシ | Sky Pirates / Sky Pirate Gaishi | | | |
+| ギダン司令官 / ギダン兵たち / ギダン兵士たち / おやじ | Gidan Commander / Gidan Soldiers / Gidan Soldiers / Shopkeeper | | wave 2 | |
+| 覆面男 / カフィの父 / カフィの母 / ワッタの祖母 / ワッタの父 | Masked Man / Kafi's Father / Kafi's Mother / Watta's Grandmother / Watta's Father | | wave 2 | |
+| 女たち / おねえさん | Women / Young Woman | | wave 2 | |
 
 ## Places / peoples
 | JP | EN | max | notes | Avoid |
@@ -184,3 +191,12 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)
+- b006/b007 ギダン技術将校 -> Gidan Engineer Officer (18 rows vs 2; "Technical" dropped)
+- b005/b008 全員 -> Everyone ("All:" reads curt)
+- b001/b004 <V12> 個 -> "that's <V12,0,4> over the limit" (value can be 1: no plural noun after a number code)
+- b007 空賊さん (address) -> "sky pirate" (no -san on common nouns)
+- b007 スペシャルハイグレードオイル in pickup text stays spelled out; inventory name is SHG Oil
+- ……… -> "......" (6 dots, never 9)
+- b010/b009 グミブドウの香菜和え -> Gummy Grapes Tossed in Coriander; ダナデウノまんじゅう -> Danadeuno Buns; 医薬品セット -> Medical Kit
+- 金 meaning money -> "money" (or the bare Z amount), not the cargo item Gold
+- 女空賊 plural -> women sky pirates

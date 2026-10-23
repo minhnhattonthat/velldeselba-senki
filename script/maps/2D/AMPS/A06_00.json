@@ -447,137 +447,137 @@
     {
      "id": "2D/AMPS/A06_00@3b000#88",
      "jp": "ガークス：<R>迎えはまだですかね……<W><E>",
-     "en": ""
+     "en": "Garks:<R>Our ride still isn't here...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#89",
      "jp": "ギダン国王：<R>どうじゃ<F62>、余の<R>船でグラシアルに向かわないか？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>What say you, <F62>? Why not<R>sail to Glacial aboard my ship?<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#90",
      "jp": "<F62>：<R>おっ、いいね。<W><H>きっと、でかくて豪華な<R>船なんだろ？<W><H>一度そんなのに乗って<R>みたかったんだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh, nice.<W><H>Bet it's a big, fancy ship, huh?<W><H>Always wanted to ride in one of<R>those.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#91",
      "jp": "マルダマン：<R>そうしなよ。<W><H>船は俺が操縦して、<R>ついて行くから。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>Go for it.<W><H>I'll fly your ship and follow<R>you.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#92",
      "jp": "<F62>：<R>じゃ、お言葉に甘えるとしよう。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Then I'll take you up on that.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#93",
      "jp": "ガークス：<R>あっ、来ました！<R>あれです。<W><E>",
-     "en": ""
+     "en": "Garks:<R>Ah, here it comes! That's the<R>one.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#94",
      "jp": "<F62>：<R>へえ、やっぱりでかいな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Whoa, it's big, all right.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#95",
      "jp": "酒場の主人：<R>客が少なくて、<R>商売あがったりだよ。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>Hardly any customers. Business is<R>dead.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#96",
      "jp": "商人：<R>ちぇ、しけた町だぜ。<W><E>",
-     "en": ""
+     "en": "Merchant:<R>Tch. What a dump of a town.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#97",
      "jp": "ジャンク屋：<R>いらっしゃい……<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Welcome...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#98",
      "jp": "ジャンク屋：<R>また来てね。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#99",
      "jp": "ジャンク屋：<R>まいどあり。<R>また来てね。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Thanks a lot. Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#100",
      "jp": "修理屋：<R>なんだ、お客さんか。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Oh, a customer?<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#101",
      "jp": "修理屋：<R>どうもごくろうさん。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Much obliged.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#102",
      "jp": "修理屋：<R>やれやれ、つかれたよ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Whew, I'm beat.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#103",
      "jp": "老人：<R>最近、グラシアルに出かせぎに<R>行く者が多くてな。<W><E>",
-     "en": ""
+     "en": "Old Man:<R>Lately, lots of folks have been<R>heading off to Glacial to find<R>work.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#104",
      "jp": "老女：<R>ヤルスキルもさびれて<R>しまったよ。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>Yarskill has really gone<R>downhill...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#105",
      "jp": "男：<R>俺もグラシアルに<R>引っ越そうかな……<W><E>",
-     "en": ""
+     "en": "Man:<R>Maybe I should move to Glacial<R>too...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#106",
      "jp": "女：<R>グラシアルに行っても、<R>仕事があるとは限らないわ……<W><E>",
-     "en": ""
+     "en": "Woman:<R>Even if you go to Glacial, there's<R>no guarantee you'll find work...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#107",
      "jp": "少女：<R>パパ、仕事がないんだったら、<R>軍隊に入ったら？<W><E>",
-     "en": ""
+     "en": "Girl:<R>Papa, if there's no work, why<R>don't you join the army?<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#108",
      "jp": "少年：<R>ここは「ヤルスキル」だよ。<W><E>",
-     "en": ""
+     "en": "Boy:<R>This is \"Yarskill.\"<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#109",
      "jp": "老女：<R>ふん、近頃は素性のしれない<R>連中がうろうろして、イヤだね。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>Hmph. These days, all sorts of<R>shady types are wandering about.<R>I don't like it.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#110",
      "jp": "老女：<R>さっき、怪しい男どもが空港で<R>給油してたけどね。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>A little while ago, some<R>suspicious men were refueling at<R>the airport.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#111",
      "jp": "老人：<R>ここの郊外には２軒ほど家がある<R>が、今は誰も住んじゃいないよ。<W><E>",
-     "en": ""
+     "en": "Old Man:<R>There are a couple of houses on<R>the outskirts, but nobody lives<R>in them now.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#112",
      "jp": "老人：<R>そのようなお人は<R>見なかったが……<W><E>",
-     "en": ""
+     "en": "Old Man:<R>I haven't seen anyone like<R>that...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#113",
      "jp": "女：<R>ギダンの情勢が知りたければ北の<R>グラシアルに行くのが一番だよ。<W><E>",
-     "en": ""
+     "en": "Woman:<R>If you want to know how things<R>stand in Gidan, your best bet is<R>Glacial, up north.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#114",
      "jp": "女：<R>黒い飛空船なら、<R>郊外の山の方に行ったよ。<W><E>",
-     "en": ""
+     "en": "Woman:<R>The black airship? It went off<R>toward the mountains outside<R>town.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#115",

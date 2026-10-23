@@ -447,97 +447,97 @@
     {
      "id": "2D/AMPS/A13_00@49800#88",
      "jp": "男：<R>あんたたちはム連邦軍なのかね？<R>ギダン人もいるみたいだけど……<W><H>なあ、戦争はどうなってんだ？<R>俺たち民間人には誰も教えて<R>くれないんだ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Are you folks the Federation army?<R>Looks like there's some Gidan<R>folks too...<W><H>Say, how's the war going? Nobody<R>tells us civilians anything.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#89",
      "jp": "男：<R>なあ、戦争はどうなってんだ？<W><E>",
-     "en": ""
+     "en": "Man:<R>Say, how's the war going?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#90",
      "jp": "男：<R>あんたたちはム連邦軍なのかね？<R>ギダン人もいるみたいだけど……<W><E>",
-     "en": ""
+     "en": "Man:<R>Are you folks the Federation army?<R>Looks like there's some Gidan<R>folks too...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#91",
      "jp": "老女：<R>何ごとだよ、こんな大勢で<R>町にやってきて………<W><H>軍人が戦争すんのは勝手だがな、<R>畑を荒らすのだけはやめて<R>くんないか。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>What's all this, the lot of you<R>comin' into town...<W><H>Soldiers can fight their wars all<R>they like, but quit wreckin' our<R>fields, would ya?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#92",
      "jp": "老女：<R>畑を荒らすのだけはやめて<R>くんないか。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>Just quit wreckin' our fields,<R>would ya?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#93",
      "jp": "老女：<R>軍人は基地を作るとか言って畑を<R>荒らすんでな、迷惑してるよ。<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>Soldiers go wreckin' fields sayin'<R>they're buildin' a base. It's a<R>real nuisance.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#94",
      "jp": "老女：<R>何ごとだよ、こんな大勢で<R>町にやってきて………<W><E>",
-     "en": ""
+     "en": "Old Woman:<R>What's all this, the lot of you<R>comin' into town...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#95",
      "jp": "老人：<R>お仕事ご苦労さんだねえ。<R>ゆっくりしていくといいよ。<W><E>",
-     "en": ""
+     "en": "Old Man:<R>Working hard, eh? Stay and take it<R>easy a while.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#96",
      "jp": "老人：<R>こんな辺境の町に何の用だい？<W><E>",
-     "en": ""
+     "en": "Old Man:<R>What brings you to a backwater<R>town like this?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#97",
      "jp": "女の子：<R>うわあ、あなた、どこの国の<R>兵隊さん？<W><E>",
-     "en": ""
+     "en": "Girl:<R>Wow, what country are you a<R>soldier from?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#98",
      "jp": "女の子：<R>あなた、兵隊さんじゃないわね？<W><E>",
-     "en": ""
+     "en": "Girl:<R>You're not a soldier, are you?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#99",
      "jp": "女の子：<R>しくしく……わたしのブタが兵隊<R>さんに食べられてしまったの。<W><E>",
-     "en": ""
+     "en": "Girl:<R>Sniff, sniff... The soldiers ate<R>my pig.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#100",
      "jp": "女の子：<R>どうして兵隊さんが<R>こんなにいるの？<W><E>",
-     "en": ""
+     "en": "Girl:<R>Why are there so many soldiers<R>here?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#101",
      "jp": "ブタ：<R>ぶひぶひ。<W><E>",
-     "en": ""
+     "en": "Pig:<R>Oink, oink.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#102",
      "jp": "ブタ：<R>ぶきーー。<W><E>",
-     "en": ""
+     "en": "Pig:<R>Squeeeal!<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#103",
      "jp": "ム連兵：<R>のどかな町だなあ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>What a peaceful town.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#104",
      "jp": "ム連兵：<R>もう出撃か……！<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Moving out already...!<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#105",
      "jp": "ム連兵：<R>田舎を思い出すよ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Reminds me of home in the<R>country.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#106",
      "jp": "ム連兵：<R>ここに残ってくつろぎたいけど<R>……だめだよねぇ。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>I'd love to stay here and relax...<R>but no chance, huh.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#107",
@@ -547,37 +547,37 @@
     {
      "id": "2D/AMPS/A13_00@49800#108",
      "jp": "ム連兵：<R>あーあ……すぐに出発か。<W><E>",
-     "en": ""
+     "en": "Federation Soldier:<R>Aww... leaving right away, huh.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#109",
      "jp": "ム連士官：<R>やれやれ、汚い町だな。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>Ugh, what a filthy town.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#110",
      "jp": "ギダン兵：<R>酒場にさぼってる連中が<R>いたぜ。全く……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Found some guys slacking off in<R>the tavern. Honestly...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#111",
      "jp": "ギダン兵：<R>はやく準備をして<R>オルダナスピに向かえ～！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Hurry up and get ready, then head<R>for Oldanaspi!<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#112",
      "jp": "ギダン兵：<R>次の補給基地はダントだな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Our next supply base is Dant,<R>huh.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#113",
      "jp": "空賊：<R>軍隊といっしょに行動するなんて<R>変な気分だぜ。<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Feels weird, flying along with the<R>army.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#114",
      "jp": "配給係：<R>はいはい、仮設で悪いけど、<R>配給部はこちらですよ。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Right this way. Sorry it's<R>makeshift, but the Supply Office<R>is over here.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#115",
@@ -607,7 +607,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#120",
      "jp": "ジャンク屋：<R>ム連邦人なんて<R>めずらしいねえ。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Federation folks? Don't see many<R>of you around here.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#121",
@@ -617,7 +617,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#122",
      "jp": "ジャンク屋：<R>まいどあり。<W><E>",
-     "en": ""
+     "en": "Junk Dealer:<R>Thanks a lot.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#123",
@@ -637,7 +637,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#126",
      "jp": "修理屋：<R>どこの国の船でも直しますぜ。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>I'll fix ships from any country.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#127",
@@ -647,12 +647,12 @@
     {
      "id": "2D/AMPS/A13_00@49800#128",
      "jp": "修理屋：<R>まいどあり。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Thanks a lot.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#129",
      "jp": "修理屋：<R>らっしゃい。<W><E>",
-     "en": ""
+     "en": "Repairman:<R>Welcome.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#130",
@@ -667,77 +667,77 @@
     {
      "id": "2D/AMPS/A13_00@49800#132",
      "jp": "ゼシカ大尉：<R>父から連絡があったわ。<W><H>態勢を立て直して、ムノギイから<R>ダナスピに向かうそうよ。<W><H>ギダン国王とガシザキノ大佐も<R>いっしょみたいね。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>I got word from my father.<W><H>He's regrouping and heading from<R>Munogi to Danaspi.<W><H>It seems the King of Gidan and<R>Colonel Gashizakino are with<R>him.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#133",
      "jp": "<F62>：<R>俺たちも急がないとな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>We'd better hurry too.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#134",
      "jp": "ゼシカ大尉：<R>父とギダン国王、ガシザキノ大佐<R>はダナスピに向かうそうよ。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>My father, the King of Gidan and<R>Colonel Gashizakino are heading<R>for Danaspi.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#135",
      "jp": "ゼシカ大尉：<R>さあ、行きましょう。<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Come on, let's go.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#136",
      "jp": "カカナン中佐：<R><F62>大尉、<W><H>今、部下から連絡が入ったよ。<W><H>しばらく前からニ・デム島が<R>行方不明になっているそうだ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>Captain <F62>,<W><H>I just got word from my men.<W><H>Ni-Dem Island has been missing for<R>some time now.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#137",
      "jp": "<F62>：<R>あのニ・デム島か！？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You mean THAT Ni-Dem Island!?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#138",
      "jp": "カカナン中佐：<R>シデルの親衛部隊が<R>どこかに移動させたらしい。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>It seems Sidel's Royal Guard units<R>moved it somewhere.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#139",
      "jp": "<F62>：<R>今度は何をするつもりだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What's he up to this time?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#140",
      "jp": "カカナン中佐：<R>わからん……<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>I don't know...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#141",
      "jp": "<F62>：<R>ホウノム島の次は<R>ニ・デム島か……<W><H>やっかいなことをしてくれるぜ！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>First Hounom Island, now Ni-Dem<R>Island...<W><H>He sure is making trouble for<R>us!<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#142",
      "jp": "カカナン中佐：<R>しばらく前からニ・デム島が<R>行方不明になっているそうだ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>Ni-Dem Island has been missing for<R>some time now.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#143",
      "jp": "カカナン中佐：<R>マデルス渓谷か。ギダン軍でも<R>あまり通りたがらないルートだ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>Madels Gorge, huh. Even the Gidan<R>army doesn't like taking that<R>route.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#144",
      "jp": "酒場の主人：<R>こんな田舎に異国の兵隊さんが<R>たくさん…何かあったんですか？<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>So many foreign soldiers out in<R>the sticks... Did something<R>happen?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#145",
      "jp": "酒場の主人：<R>あの兵隊さんたち、仕事を<R>さぼって飲んでるらしいよ。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>I hear those soldiers are skipping<R>work to drink.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#146",
      "jp": "酒場の主人：<R>あの兵隊さんたち、いいかげん<R>帰ってくれないかな。<W><E>",
-     "en": ""
+     "en": "Tavern Keeper:<R>I wish those soldiers would go<R>home already.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#147",
@@ -747,92 +747,92 @@
     {
      "id": "2D/AMPS/A13_00@49800#148",
      "jp": "ム連士官：<R>２階にギダン兵士が飲みつぶれて<R>いるのを発見し、捕獲しました。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>We found a dead-drunk Gidan<R>soldier upstairs and took the<R>soldier prisoner.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#149",
      "jp": "ム連士官：<R>２階の捕虜は置いて行きましょう。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>Let's leave the prisoner upstairs<R>behind.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#150",
      "jp": "ム連士官：<R>不謹慎な話ですけど、<W><H>この町にいると、わたしたちが<R>いま戦争してるなんて、<R>とても信じられないですよ。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>This may be inappropriate,<R>but...<W><H>being in this town, I can hardly<R>believe we're at war right now.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#151",
      "jp": "ム連士官：<R>渓谷を飛ぶのは<R>初めてですよ。<W><E>",
-     "en": ""
+     "en": "Federation Officer:<R>This is my first time flying<R>through a gorge.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#152",
      "jp": "宿屋のおかみ：<R>あらま、上のお部屋の兵隊さん、<R>捕虜になっちまったんですか。<W><E>",
-     "en": ""
+     "en": "Innkeeper:<R>My, my, the soldier in the room<R>upstairs got taken prisoner?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#153",
      "jp": "宿屋のおかみ：<R>２階にいいお部屋がありますよ。<W><E>",
-     "en": ""
+     "en": "Innkeeper:<R>We have a lovely room upstairs.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#154",
      "jp": "コステリフ長官：<R>準備は済んだのかね？<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Are your preparations complete?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#155",
      "jp": "コステリフ長官：<R>出撃です！<R>われわれはあとから出ます。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Time to sortie! We will set out<R>after you.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#156",
      "jp": "コステリフ長官：<R>さて、みなさん聞いてください！<W><H>これから<P07>ギダンの町、<R>ダントに向かいます。<P15><W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Now then, everyone, please<R>listen!<W><H>We are now heading for <P07>the Gidan<R>town of Dant.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#157",
      "jp": "コステリフ長官：<R>ただ、この先には、入り組んだ<R>地形のマデルス峡谷があります。<W><H>マデルス峡谷は、飛空船が<R>１機ずつ通るのが精一杯の<R>狭い回廊です。<W><H>ですから、船団を組んで<R>進入することができません。<W><H><F62>大尉の任務は、<R>マデルス渓谷の守備隊を<R>撃破し、血路を開くこと、です。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>However, ahead lies the tangled<R>terrain of Madels Gorge.<W><H>Madels Gorge is a narrow corridor<R>where airships can barely pass one<R>at a time.<W><H>So we cannot enter it in fleet<R>formation.<W><H>Captain <F62>, your mission is<R>to defeat the Madels Gorge<R>garrison and cut a path through.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#158",
      "jp": "<F62>：<R>わかった。<W><H>だが……地形を<R>知りつくしている敵の方が<R>有利じゃないか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Got it.<W><H>But... won't the enemy have the<R>edge, knowing the terrain inside<R>out?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#159",
      "jp": "コステリフ長官：<R>幸い、わが軍にもカカナン中佐が<R>います。何とかなるでしょう。<W><H>ただ、非常に見通しが悪いので、<R>各員じゅうぶんに注意して<R>戦うように。<W><H>では、出撃です！<W><H><F62>大尉、準備が<R>できしだい発進してください。<W><H>われわれもあとに続きます。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>Fortunately, we have Lieutenant<R>Colonel Kakanan on our side too.<R>We'll manage.<W><H>However, visibility is extremely<R>poor, so everyone, fight with the<R>utmost care.<W><H>Now then, sortie!<W><H>Captain <F62>, launch as soon<R>as you're ready.<W><H>We will follow right behind.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#160",
      "jp": "コステリフ長官：<R>ガシザキノさんが作戦を<R>指示するそうですよ。<W><E>",
-     "en": ""
+     "en": "Commander Kosterif:<R>It seems Gashizakino-san will be<R>directing the operation.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#161",
      "jp": "タカテリフ長官：<R>いやはやガシザキノさんは<R>頼もしい限りですな。<W><E>",
-     "en": ""
+     "en": "Commander Takaterif:<R>My, my, Gashizakino-san is<R>reassuring indeed.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#162",
      "jp": "ゼシカ大尉：<R><F62>ったら<R>ラウエルを乗せてるんですって？<W><E>",
-     "en": ""
+     "en": "Captain Zeshika:<R>Honestly, <F62>! I hear you've<R>got Rauel on board!?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#163",
      "jp": "カカナン中佐：<R>砂漠戦は何とか乗り切ったが、<R>次はどうなるか。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kakanan:<R>We made it through the desert<R>battle somehow, but who knows<R>what's next.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#164",
      "jp": "ダ・クダ：<R>ダクには寄らないで直接ダントに<R>抜けるらしいぜ。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Seems we're skipping Dak and<R>heading straight through to<R>Dant.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#165",
      "jp": "ブアブナム：<R>このあたりは空賊の<R>本拠地だからな、楽勝さ。<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>These parts are sky pirate home<R>turf, so it's a cinch.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#166",
