@@ -209,4 +209,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - b041 中佐 in a third-person mention keeps the full rank (Lieutenant Colonel Kafi); only direct address shortens to Colonel
 - b043 a rankless JP label stays rankless (ガジザキノ： -> Gashizakino:)
 - b041/b045 護送船 -> prisoner transport
+- EXE: shop ●X購入 -> "Buy X", ●X交換 -> "New X"; 砲手 -> Gunner; stick response 平/急/緩 -> Mid/Hi/Lo at the JP option
+  columns (HT.EXE and DEMO.EXE); 強行 (calibration prompt) -> Go On; A0100 0x800200xx-0x800203xx is a debug
+  scene list (not polished)
+- Staff roll: readings follow SCE western credits / kana sources where found (research 2026-10-23: Tamami Shinpo,
+  Kei Shimo, Sayuki Koike, Akira Koike, Megumi Ohkubo, Masatsuka Saeki, Hiroshi Matsuda, Hiroshi "Shatoru" Yaguchi,
+  Takenori Shikimi, Munetaka Sakamoto, Masahito Tobisawa, Kusanagi Art Studio, Bright Side, Tenky Co., Ltd.);
+  unverified guesses remain for 吉川剛史, 見城加奈子, 手島大 (given name), 新島平佐
 - 3D mission text that a track cannot hold is shortened in the mission JSON and synced back into the batch out.tsv (a merge rewrites the JSON from out.tsv)

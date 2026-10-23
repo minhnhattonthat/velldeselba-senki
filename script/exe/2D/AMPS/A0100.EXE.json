@@ -57,7 +57,7 @@
     {
      "id": "2D/AMPS/A0100.EXE@800200b4",
      "jp": "ヤルスキル郊外",
-     "en": "Outer Yarskill"
+     "en": "By Yarskill"
     },
     {
      "id": "2D/AMPS/A0100.EXE@800200c4",
@@ -352,22 +352,22 @@
     {
      "id": "2D/AMPS/A0100.EXE@80021280",
      "jp": "●砲台購入",
-     "en": "* Turrets"
+     "en": "Buy Turret"
     },
     {
      "id": "2D/AMPS/A0100.EXE@8002128c",
      "jp": "●プロペラ購入",
-     "en": "* Propellers"
+     "en": "Buy Propeller"
     },
     {
      "id": "2D/AMPS/A0100.EXE@8002129c",
      "jp": "●エンジン購入",
-     "en": "* Engines"
+     "en": "Buy Engine"
     },
     {
      "id": "2D/AMPS/A0100.EXE@800212ac",
      "jp": "●飛空船購入",
-     "en": "* Airships"
+     "en": "Buy Airship"
     },
     {
      "id": "2D/AMPS/A0100.EXE@80021334",
@@ -492,7 +492,7 @@
     {
      "id": "2D/AMPS/A0100.EXE@80022e5c",
      "jp": "購入金額：",
-     "en": "Price:"
+     "en": "Buy For:"
     },
     {
      "id": "2D/AMPS/A0100.EXE@80022e68",

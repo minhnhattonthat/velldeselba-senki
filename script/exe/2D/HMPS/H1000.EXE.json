@@ -382,7 +382,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@800212e8",
      "jp": "●飛空船交換",
-     "en": "*Airships"
+     "en": "New Airship"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80021368",
@@ -1562,7 +1562,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@8007db50",
      "jp": "砲台：",
-     "en": "Gun:"
+     "en": "Turret"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007db58",
@@ -1572,7 +1572,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@8007db60",
      "jp": "砲手：",
-     "en": "Crew:"
+     "en": "Gunner"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007db94",
