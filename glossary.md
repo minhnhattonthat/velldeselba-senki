@@ -16,7 +16,9 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   the letter or drop it, □ボタン -> Square button (○ Circle, × Cross, △ Triangle).
 - Speaker labels: `Name:` then `<R>`, exactly the speaker form in this glossary (rank + name). Player: `<F62>:`.
 - `<F62>` = player name, `<F63>` = the player's ship name: copy them, never write "Misaki" for `<F62>`.
-- Military address: a superior calls the player "Lieutenant" (少尉); subordinates say "Lieutenant" or "sir".
+- Military address: translate the rank the JP uses: 少尉 -> "Lieutenant" in address (Noipask phase), 大尉 ->
+  "Captain" (later phases). Subordinates may add "sir".
+- Pronouns: the player is male; Kafi, Karf, Fragnum, Ka Jarko, Zeshika are women.
 - Voices: see docs/style-reference.md (from the pilot).
 
 ## Characters
@@ -54,7 +56,33 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ミユキ | Miyuki | | | |
 | ミルト少尉 | Second Lieutenant Milt | | | |
 | ブアブナム | Buabnam | | | |
-| ギダン国王 | King of Gidan | | | |
+| ギダン国王 | King of Gidan | | jovial royal (余/じゃ); full name スティルトーグ・バ・ダスク・ド・ギダン = Stiltog Ba Dusk de Gidan | |
+| シデル | Sidel | | the King's son (spoiler); 調停者 = Arbiter | |
+| ミユキ | Miyuki | | fell from space, Sidel's ward | |
+| ガークス | Garks | | the King's loyal aide | |
+| バムス | Bams | | Sidel loyalist; 中佐 Lieutenant Colonel | |
+| カズシタカ参謀長 | Chief of Staff Kazushitaka | | | |
+| チャンタケ | Chantake | | 大尉 Captain, Gidan | |
+| マハシ大佐 | Colonel Mahashi | | eldest of the Three Brothers | |
+| カチタ | Kachita | | Federation, Ag's brother | |
+| デ・ゼシカ | De Zeshika | | Zeshika's full name | |
+| デ・サロ将軍 / サロ将軍 | General De Saro / General Saro | | Zeshika's father; translate the form the JP uses | |
+| コステリフ / タカテリフ | Kosterif / Takaterif | | twin Federation commanders, finish each other's lines | |
+| オタワ | Otawa | | Federation President (ム連邦大統領) | |
+| ラウエル | Rauel | | trading-company president, Zeshika's suitor | Lauel, Laurel |
+| アブナス | Abunas | | inventor at Keperak | |
+| イジロフ | Ijirov | | Da Kuda's pirate | |
+| ガイシ | Gaishi | | pirate who runs duels | |
+| アル | Al | | Chibaraga's navigator | |
+| ワッタ | Watta | | boy from Slark | Wata |
+| ク・メーア | Ku Meer | | Meer's full name | |
+| ダナスピ４世 | Danaspi IV | | king of Oldanaspi | |
+| ダ・ダナスピ | Da Danaspi | | legendary hero, founder of Oldanaspi | |
+| 男 / 女 / 老人 / 老女 / 少年 / 少女 | Man / Woman / Old Man / Old Woman / Boy / Girl | | generic speaker labels | |
+| 商人 / 酒場の主人 / マスター | Merchant / Tavern Keeper / Bartender | | | |
+| ジャンク屋 / 修理屋 / ドックの職人 / ペンキ屋 | Junk Dealer / Repairman / Shipwright / Painter | | | |
+| 管制員 / 衛兵 / 看護婦 / ドクター / 患者 / 市長 | Controller / Guard / Nurse / Doctor / Patient / Mayor | | | |
+| 物知りじいさん / 闇商人 / お供 / 全権大使 | Old Sage / Black Marketeer / Attendant / Plenipotentiary | | | |
 
 ## Places / peoples
 | JP | EN | max | notes | Avoid |
@@ -70,7 +98,37 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ム連兵 | Federation Soldier | | speaker form | |
 | ナデス島 | Nades Island | | Noipask base, start | |
 | パナスガル | Panasgal | | | |
-| ダナスピ | Danaspi | | | |
+| ダナスピ | Danaspi | | capital of Oldanaspi | |
+| オルダナスピ | Oldanaspi | | permanently neutral nation (ル before a consonant -> l, as in Velldeselba) | Ordanaspi |
+| グラシアル | Glacial | | the Gidan capital; グラシアル・ギダン王国 = Kingdom of Glacial Gidan | |
+| ムノギイ | Munogi | | Federation capital; ムノギイ連邦共和国 = Munogi Federal Republic | |
+| ミデーレキサタ | Miderekisata | | Federation border base | Midelekisata |
+| デナムス | Denamus | | fortress at the entrance to Oldanaspi | |
+| スラーク | Slark | | Kuna Republic town | Slaak |
+| クナ / クナシティ / クナ共和国 | Kuna / Kuna City / Kuna Republic | | | |
+| ダク | Dak | | sky pirates' hidden village | Daku |
+| ダハ | Daha | | pirate town | |
+| ガー | Gar | | pirate black-market town | |
+| シャッハ | Schach | | | Shach |
+| ワザノ | Wazano | | hot-spring resort | |
+| ダナデウノ | Danadeuno | | Gidan's second city; メグロ亭 = the Meguro | |
+| マクシララキ | Maxilaraki | | Gidan frontier base | |
+| ヤルスキル | Yarskill | | | |
+| ケペラク | Keperak | | | |
+| アザミグ | Azamig | | | |
+| ガジス | Gajis | | | |
+| ヤズサ | Yazusa | | | |
+| アダクダ | Adakuda | | prison town; 強制収容所 = prison camp | |
+| デゼ / オガツ / ダント | Deze / Ogatsu / Dant | | | Danto |
+| ヤーダス / フェルム / ヌーヌルス | Yadas / Ferum / Nunurus | | | Yaadas, Ferm |
+| ヨウタコン / アヤメミ | Youtakon / Ayamemi | | | Yotakon |
+| ホウデプイ砂漠 / マデルス峡谷 | Houdepui Desert / Madels Gorge | | 渓谷 too | |
+| ヨグナスカヤ | Yognaskaya | | mountains | |
+| イ・デム島 / ニ・デム島 / ミ・デム島 | I-Dem Island / Ni-Dem Island / Mi-Dem Island | | Noipask floating islands | |
+| ワンク島 / ツール島 | Wanku Island / Tool Island | | | Wank |
+| ホウノム島 | Hounom Island | | | Hounomu |
+| セルバ | Selva | | the holy land | |
+| タンデーク | Tandeek | | 樹海 = forest | |
 
 ## Items / terms
 | JP | EN | max | notes | Avoid |
@@ -88,6 +146,28 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 中佐 / 大佐 / 大尉 / 伍長 / 二等兵 | Lieutenant Colonel / Colonel / Captain / Corporal / Private | | | Lt. Col., Cpl., Pvt. |
 | 長官 / 司令長官 | Commander / Commander-in-Chief | | | |
 | 提督 / 将軍 | Admiral / General | | | |
+| 軍曹 / 曹長 / 参謀長 / 少佐 | Sergeant / Sergeant Major / Chief of Staff / Major | | | |
+| 反重力 / 本国 | anti-gravity / the homeland | | | |
+| セブレントリーム | Sebrentream | | ship class | |
+| 大本営 | General Headquarters | | | |
+| 親衛隊 / 親衛部隊 / 親衛艦 | Royal Guard / Royal Guard units / Guard ship | | Sidel's own fleet | |
+| 国王派 | royalists | | | |
+| 調停者 / 調停 | Arbiter / mediation | | Sidel's title | |
+| 浮遊島 / 空中要塞 / 移動空中要塞 | floating island / aerial fortress / mobile aerial fortress | | | |
+| 無敵の三兄弟 | Invincible Three Brothers | | Mahashi, Kachita, Ag | |
+| 空賊のしるし | Sky Pirate Mark | | | |
+| 交易品 | trade goods | | | |
+| 積載量 | cargo capacity | | | |
+| 飛行記録 / 飛行日誌 | flight record / flight log | | | |
+| 写し絵 / 写し絵屋 | portrait / portrait maker | | | |
+| ホーミング魚雷 / プロペラ魚雷 | homing torpedo / propeller torpedo | | | |
+| パスク弾 | Pask rounds | | | |
+| Ｚ | Z | | currency, "1500Z" | |
+| 修理キット | repair kit | | | |
+| 紅蓮の勲章 / 天狼星の勲章 / 紺碧の勲章 | Crimson Medal / Sirius Medal / Azure Medal | | | |
+| ガルガナーク / ガゼラント | Garganak / Gazelant | | ship classes; nicknames カタナ "Katana", 長靴 "Boots" | |
+| ジーテガート / ヴァルガート | Jitegart / Valgart | | pirate ship models | |
+| トーテムポール | Totem Pole | | Sidel's fortress | |
 
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)
