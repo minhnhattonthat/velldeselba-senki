@@ -537,7 +537,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#106",
      "jp": "少女：<R>近頃、誰もいないはずの倉庫で<R>変な音がするの。<W><E>",
-     "en": "Girl:<R>Lately there've been<R>strange noises from a<W><H>warehouse that's<R>supposed to be empty.<W><E>"
+     "en": "Girl:<R>Lately, weird noises come from a<R>warehouse that should be empty.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#107",
@@ -562,7 +562,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#111",
      "jp": "ギダン兵：<R>いま本隊は、ノイパスク本国に<R>攻め込んでいるらしいぜ。<W><E>",
-     "en": "Gidan Soldier:<R>Word is the main force is<W><H>attacking the Noipask<R>homeland right now.<W><E>"
+     "en": "Gidan Soldier:<R>Word is the main force is invading<R>the Noipask homeland now.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#112",
@@ -882,7 +882,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#175",
      "jp": "ガシザキノ大佐：<R>今度の作戦は、国王陛下をお守り<R>する名誉ある仕事だ。<W><H>俺も行くことになってるんだ。<R>援護をよろしく頼むぜ。<W><H>まあ、おまえも飲め！<W><E>",
-     "en": "Colonel Gashizakino:<R>This next operation<R>is an honorable<W><H>job: guarding His<R>Majesty the King.<W><H>I'm going too. I'm counting<R>on you to cover me.<W><H>Now, have a drink!<W><E>"
+     "en": "Colonel Gashizakino:<R>The next operation's an honor:<R>guarding His Majesty the King.<W><H>I'm going too. I'm counting<R>on you to cover me.<W><H>Now, have a drink!<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#176",

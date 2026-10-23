@@ -33,6 +33,11 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   debug tool, so the NPC and the map never match the text. Shots between two lines show no box: ok. A shot whose
   box still types is ok. `index.txt` in the tour folder maps each frame to its script id.
 - Map tour (`tour2d/`): the first tile per map is the place-name banner, the second the plain map after it.
+  Same in the original (checked in `work/qa/tour_jp/`): m01/m02 show no banner (a close-up of the map); m24 is
+  black at both shots; ship interiors (m45-m54) read "Airship Sky" (JP 自機・軍上空, the debug scene name plus
+  the area suffix the game appends).
+- Dialogue: a box may end mid-sentence when the line is longer than the box and has no sentence or clause end
+  to break at; flag it only when a nearby `.`/`,` break was clearly possible.
 - The Japanese title logo is kept as original art.
 - Name entry: the `〆` end mark at the right of the name field is the original's.
 

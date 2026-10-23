@@ -697,7 +697,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#138",
      "jp": "ギダン兵：<R>２階の捕虜たち、何だか<R>かなり怒ってたぜ。<W><E>",
-     "en": "Gidan Soldier:<R>The prisoners on<R>the second floor<W><H>seemed pretty angry<R>about something.<W><E>"
+     "en": "Gidan Soldier:<R>The second-floor prisoners seemed<R>pretty mad about something.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#139",
@@ -722,7 +722,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#143",
      "jp": "ギダン兵：<R>国の土産に何か<R>いただいていこうかな……<W><E>",
-     "en": "Gidan Soldier:<R>Maybe I'll help myself to a<W><H>souvenir for the<R>folks back home...<W><E>"
+     "en": "Gidan Soldier:<R>Maybe I'll help myself to<R>a souvenir to take home...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#144",
@@ -897,12 +897,12 @@
     {
      "id": "2D/GMPS/G05_00@42000#178",
      "jp": "ガシザキノ大佐：<R>大規模なホウノム島攻略作戦を<R>計画しているらしい。<W><E>",
-     "en": "Colonel Gashizakino:<R>Word is they're planning a<W><H>large-scale operation<R>to take Hounom Island.<W><E>"
+     "en": "Colonel Gashizakino:<R>They're planning a major push to<R>take Hounom Island, it seems.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#179",
      "jp": "<F62>：<R>クナシティの北東にあった<R>無人の浮遊島だな。<W><H>ム連邦も浮遊島を<R>ねらっているのか？<W><E>",
-     "en": "<F62>:<R>That was the<R>uninhabited floating<W><H>island northeast of<R>Kuna City, right?<W><H>So the Federation's after<R>floating islands too?<W><E>"
+     "en": "<F62>:<R>That uninhabited floating<R>island northeast of Kuna City?<W><H>So the Federation's after<R>floating islands too?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#180",
@@ -937,7 +937,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#186",
      "jp": "ガシザキノ大佐：<R>そういう訳だから、しばらく<R>軍事行動はひかえるそうだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Which is why I<R>hear we're holding<W><H>off on military<R>action for a while.<W><E>"
+     "en": "Colonel Gashizakino:<R>So I hear we're holding off on<R>military action for a while.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#187",

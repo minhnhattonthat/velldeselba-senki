@@ -507,7 +507,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#100",
      "jp": "カフィ中佐：<R>オデナウデ長官とゼクセル大佐が<R>３階でお待ちかねよ。<W><H>はやくそこのエレベータに<R>お乗りなさい。<W><H><P07>歩くときに□ボタンを押せば、<R>はやく歩けるわ。<P15>いそいで。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Commander Odenaude and<R>Colonel Zexel are<W><H>waiting for you on<R>the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button<R>while walking to move<R>faster.<P15> Go on, quickly.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Commander Odenaude and Colonel<R>Zexel await you on floor three.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button<R>while walking to move<R>faster.<P15> Go on, quickly.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#101",
@@ -1047,7 +1047,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#208",
      "jp": "物知りじいさん：<R>この星で昔から使われている、<R>空を飛ぶ船……<W><H>この飛空船は、アレイと呼ばれる<R>とても軽い木でできているのじゃ。<W><H>じゃから、重いエンジンをつんだ<R>巨大な船を、簡単に造ることが<R>できるわけじゃ。<W><E>",
-     "en": "Old Sage:<R>Ships that fly through<R>the sky have been<W><H>used on this planet<R>since long ago...<W><H>These airships are made of a<R>very light wood called arei.<W><H>That is why huge ships<R>carrying heavy engines<R>can be built so easily.<W><E>"
+     "en": "Old Sage:<R>Ships that sail the sky, used on<R>this world since days of old...<W><H>These airships are made of a<R>very light wood called arei.<W><H>That is why huge ships<R>carrying heavy engines<R>can be built so easily.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#209",

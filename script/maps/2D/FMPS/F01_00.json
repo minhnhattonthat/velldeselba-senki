@@ -527,7 +527,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#104",
      "jp": "パック：<R>軍人さんたちがドンパチ<R>やっている横を通り抜けて……<W><H>売り物の燃料も使ってしまって、<R>もう、命からがらでしたよ。<W><E>",
-     "en": "Pack:<R>We slipped right past<R>the soldiers while they<W><H>were busy shooting<R>at each other...<W><H>We even burned the fuel we<R>were supposed to sell. We<R>barely got out alive.<W><E>"
+     "en": "Pack:<R>We slipped past the soldiers<R>while they shot it out...<W><H>We even burned the fuel we<R>were supposed to sell. We<R>barely got out alive.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#105",
@@ -952,7 +952,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#189",
      "jp": "少女：<R>サロ将軍が久しぶりに大統領府に<R>いらしてるんですって？<W><E>",
-     "en": "Girl:<R>I heard General Saro<R>came to the Presidential<W><H>Office for the first<R>time in ages.<W><E>"
+     "en": "Girl:<R>Is it true General Saro's at the<R>Presidential Office for once?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#190",

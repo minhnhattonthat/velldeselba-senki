@@ -557,7 +557,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#110",
      "jp": "ム連兵：<R>ギダン軍の内部は国王派とシデル<R>派で分裂しているそうですよ。<W><E>",
-     "en": "Federation Soldier:<R>They say the Gidan<R>army has split<W><H>into royalists and<R>Sidel's faction.<W><E>"
+     "en": "Federation Soldier:<R>I hear the Gidan army's split<R>into royalists and Sidel's camp.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#111",
@@ -607,7 +607,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#120",
      "jp": "カフィ：<R>武装解除に応じて親衛部隊に<R>降伏しろ、ということかしら。<W><E>",
-     "en": "Kafi:<R>Meaning we should agree to<R>disarm and surrender to<W><H>the Royal Guard<R>units, I suppose.<W><E>"
+     "en": "Kafi:<R>So we're to disarm and surrender<R>to the Royal Guard units?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#121",
@@ -767,7 +767,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#152",
      "jp": "ム連兵：<R>ム連邦とギダン軍のにらみ合いは<R>いつまで続くんだ。<W><E>",
-     "en": "Federation Soldier:<R>How long will this<R>standoff between the<W><H>Federation and the<R>Gidan army go on?<W><E>"
+     "en": "Federation Soldier:<R>How long will this standoff<R>with Gidan's army go on?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#153",
@@ -782,7 +782,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#155",
      "jp": "ム連兵：<R>いつム連軍とギダン軍が全面戦争<R>になってもおかしくないよ。<W><E>",
-     "en": "Federation Soldier:<R>All-out war between the<R>Federation and the Gidan<W><H>army could break<R>out any time now.<W><E>"
+     "en": "Federation Soldier:<R>Our army and Gidan's could go<R>to all-out war any day now.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#156",
@@ -962,7 +962,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#191",
      "jp": "ム連兵：<R>密入国した空賊を見かけたら、<R>ぜひ教えてくださいね。<W><E>",
-     "en": "Federation Soldier:<R>If you see any sky<R>pirates who snuck<W><H>into the country,<R>please let us know.<W><E>"
+     "en": "Federation Soldier:<R>If you spot any sky pirates who<R>snuck in, please let us know.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#192",

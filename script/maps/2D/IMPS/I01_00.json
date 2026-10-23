@@ -562,7 +562,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#111",
      "jp": "カフィ：<R>親衛隊の装甲を破るには<R>今の弾薬では無理だわ……<W><E>",
-     "en": "Kafi:<R>Our current ammo<R>will never break<W><H>through the Royal<R>Guard's armor...<W><E>"
+     "en": "Kafi:<R>Our current ammo will never<R>break the Royal Guard's armor...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#112",
@@ -772,7 +772,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#153",
      "jp": "バ・マッグ：<R>次の戦いも期待に添うよう、<R>がんばりますであります！<W><E>",
-     "en": "Ba Magg:<R>I shall do my best to live<R>up to your expectations in<W><H>the next battle<R>too, sir, I shall!<W><E>"
+     "en": "Ba Magg:<R>Next battle too, I shall strive to<R>meet your hopes, sir, I shall!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#154",
@@ -782,7 +782,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#155",
      "jp": "バ・マッグ：<R>次の戦いも期待に添うよう、<R>がんばります！<W><E>",
-     "en": "Ba Magg:<R>I shall do my best<R>to live up to your<W><H>expectations in the<R>next battle too!<W><E>"
+     "en": "Ba Magg:<R>In the next battle too, I shall<R>strive to meet your hopes!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#156",
@@ -1822,7 +1822,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#363",
      "jp": "フラグナム：<R>国王陛下もシデル提督も、国と民<R>のことを考えていますわ。<W><E>",
-     "en": "Fragnum:<R>His Majesty and Admiral<R>Sidel alike are<W><H>thinking of the nation<R>and its people.<W><E>"
+     "en": "Fragnum:<R>His Majesty and Admiral Sidel both<R>care for the nation and people.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#364",
@@ -2032,7 +2032,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#405",
      "jp": "カレツ：<R>まさかム連邦を旅することに<R>なるとは……<W><E>",
-     "en": "Karetz:<R>Who'd have thought we'd be<W><H>traveling through<R>the Federation...<W><E>"
+     "en": "Karetz:<R>Who'd have thought we'd end up<R>traveling the Federation...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#406",
@@ -2312,7 +2312,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#461",
      "jp": "マキロフ：<R>ム連邦人であることは忘れて、<R>いっしょにがんばります。<W><E>",
-     "en": "Makirov:<R>I'll forget that<R>I'm a Federation<W><H>citizen and do my<R>best alongside you.<W><E>"
+     "en": "Makirov:<R>I'll forget I'm a Federation<R>citizen and do my best with you.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#462",
@@ -2542,7 +2542,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#507",
      "jp": "カムチョム：<R>いよいよ浮遊島の謎が<R>解けるんですね。<W><E>",
-     "en": "Kamchom:<R>So the mystery of the floating<W><H>island is finally<R>going to be solved.<W><E>"
+     "en": "Kamchom:<R>At last, the mystery of the<R>floating island will be solved.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#508",
@@ -2582,7 +2582,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#515",
      "jp": "カムチョム：<R>いよいよ空中要塞の謎が<R>解けるんですね。<W><E>",
-     "en": "Kamchom:<R>So the mystery of the aerial<W><H>fortress is finally<R>going to be solved.<W><E>"
+     "en": "Kamchom:<R>At last, the mystery of the<R>aerial fortress will be solved.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#516",
@@ -3162,7 +3162,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#631",
      "jp": "ダ・クダ：<R>俺たちは民間船を襲うような<R>連中は許せないのさ。<W><E>",
-     "en": "Da Kuda:<R>We can't stand the kind of<W><H>lowlifes who attack<R>civilian ships.<W><E>"
+     "en": "Da Kuda:<R>We can't stand lowlifes<R>who attack civilian ships.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#632",
@@ -4467,7 +4467,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#892",
      "jp": "<F62>：<R>どうやらこの空域に商船まで<R>襲う連中がいるらしい。<W><E>",
-     "en": "<F62>:<R>Looks like there's a<R>gang in this airspace<W><H>that even attacks<R>merchant ships.<W><E>"
+     "en": "<F62>:<R>Seems a gang in this airspace<R>even hits merchant ships.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#893",

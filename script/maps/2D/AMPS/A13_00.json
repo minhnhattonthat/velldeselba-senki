@@ -747,7 +747,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#148",
      "jp": "ム連士官：<R>２階にギダン兵士が飲みつぶれて<R>いるのを発見し、捕獲しました。<W><E>",
-     "en": "Federation Officer:<R>We found a dead-drunk<R>Gidan soldier<W><H>upstairs and took the<R>soldier prisoner.<W><E>"
+     "en": "Federation Officer:<R>Upstairs, we found and captured<R>a dead-drunk Gidan soldier.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#149",
@@ -822,12 +822,12 @@
     {
      "id": "2D/AMPS/A13_00@49800#163",
      "jp": "カカナン中佐：<R>砂漠戦は何とか乗り切ったが、<R>次はどうなるか。<W><E>",
-     "en": "Lieutenant Colonel Kakanan:<R>We made it through<R>the desert battle<W><H>somehow, but who<R>knows what's next.<W><E>"
+     "en": "Lieutenant Colonel Kakanan:<R>We survived the desert battle<R>somehow, but what of the next?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#164",
      "jp": "ダ・クダ：<R>ダクには寄らないで直接ダントに<R>抜けるらしいぜ。<W><E>",
-     "en": "Da Kuda:<R>Seems we're skipping Dak and<W><H>heading straight<R>through to Dant.<W><E>"
+     "en": "Da Kuda:<R>Seems we're skippin' Dak and<R>cuttin' straight to Dant.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#165",
@@ -892,7 +892,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#177",
      "jp": "ギダン兵：<R>仕事をさぼって飲んでばかり<R>いたら捕虜になっちまった……<W><E>",
-     "en": "Gidan Soldier:<R>I slacked off and<R>did nothing but<W><H>drink, and I ended<R>up a prisoner...<W><E>"
+     "en": "Gidan Soldier:<R>I skipped work to drink all<R>day and got taken prisoner...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#178",
@@ -907,7 +907,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#180",
      "jp": "商人：<R>最近、デゼでシデル提督の<R>親衛隊をよくみかけるが……<W><E>",
-     "en": "Merchant:<R>Lately I've been seeing a lot of<W><H>Admiral Sidel's Royal<R>Guard in Deze...<W><E>"
+     "en": "Merchant:<R>I see a lot of Admiral Sidel's<R>Royal Guard in Deze lately...<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#181",

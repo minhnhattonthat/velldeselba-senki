@@ -777,7 +777,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#154",
      "jp": "ギダン士官：<R>ここはもともとム連邦の領土だっ<R>たのをわれわれが占拠したのだ。<W><E>",
-     "en": "Gidan Officer:<R>This place was originally<W><H>Federation territory<R>until we occupied it.<W><E>"
+     "en": "Gidan Officer:<R>This was once Federation<R>territory, until we occupied it.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#155",
@@ -877,7 +877,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#174",
      "jp": "衛兵：<R>ダナスピ陛下救出作戦に向けて<R>大忙しであります。<W><E>",
-     "en": "Guard:<R>We are extremely busy<R>preparing the operation<W><H>to rescue His Majesty<R>Danaspi, sir.<W><E>"
+     "en": "Guard:<R>We are very busy preparing to<R>rescue His Majesty Danaspi, sir.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#175",
@@ -1022,7 +1022,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#203",
      "jp": "ギダン兵：<R>今度はクナ共和国をム連邦から<R>取り返すんだって？<W><E>",
-     "en": "Gidan Soldier:<R>So now we're taking the Kuna<W><H>Republic back from<R>the Federation?<W><E>"
+     "en": "Gidan Soldier:<R>So next we take the Kuna Republic<R>back from the Federation?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#204",
@@ -1087,7 +1087,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#216",
      "jp": "ギダン兵：<R>クナ共和国は昔から、ム連邦と<R>ギダンの争いの舞台なのさ。<W><E>",
-     "en": "Gidan Soldier:<R>The Kuna Republic's always<R>been the battleground<W><H>between the Federation<R>and Gidan.<W><E>"
+     "en": "Gidan Soldier:<R>The Kuna Republic's long been a<R>Federation-Gidan battlefield.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#217",
@@ -1172,7 +1172,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#233",
      "jp": "女：<R>ノイパスクのダナスピ占領にム連<R>邦が荷担していたって話、本当？<W><E>",
-     "en": "Woman:<R>Is it true the<R>Federation had a hand<W><H>in Noipask's<R>occupation of Danaspi?<W><E>"
+     "en": "Woman:<R>Is it true the Federation<R>helped Noipask occupy Danaspi?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#234",
@@ -1402,7 +1402,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#279",
      "jp": "<F62>：<R>ギダン軍が、クナ共和国を<R>占領してしまったようだが……<W><H>どう思うのか聞きたい。<W><E>",
-     "en": "<F62>:<R>Looks like the Gidan Army's gone<W><H>and occupied the<R>Kuna Republic...<W><H>I'd like to hear what<R>you think about it.<W><E>"
+     "en": "<F62>:<R>Looks like the Gidan army went and<R>occupied the Kuna Republic...<W><H>I'd like to hear what<R>you think about it.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#280",

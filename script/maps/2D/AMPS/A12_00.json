@@ -497,7 +497,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#98",
      "jp": "カカナン中佐：<R>わたしがデゼを脱出し、ム連邦軍<R>に合流したのは、<W><H>そもそも大佐に助言された<R>からなのだ。<W><H>辺境方面軍のわたしなら比較的<R>自由に軍を動かせるのでな、<R>実行にふみきったのだ。<W><E>",
-     "en": "Lieutenant Colonel Kakanan:<R>The reason I escaped Deze and<R>joined the Federation army<W><H>was the colonel's advice<R>in the first place.<W><H>As an officer of<R>the Frontier Army,<W><H>I can move troops fairly freely,<R>so I went ahead and did it.<W><E>"
+     "en": "Lieutenant Colonel Kakanan:<R>When I fled Deze to join<R>the Federation army,<W><H>it was on the colonel's<R>advice to begin with.<W><H>Being in the Frontier Army, I<R>could move troops fairly freely,<R>so I went through with it.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#99",
@@ -527,7 +527,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#104",
      "jp": "ギダン兵：<R>最近、シデル提督の親衛部隊を<R>よく見かけるなあ。<W><E>",
-     "en": "Gidan Soldier:<R>I've been seeing<R>a lot of Admiral<W><H>Sidel's Royal Guard<R>units lately.<W><E>"
+     "en": "Gidan Soldier:<R>I've seen a lot of Admiral Sidel's<R>Royal Guard units lately.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#105",
@@ -537,7 +537,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#106",
      "jp": "ギダン兵：<R>このあたりの基地には国王陛下に<R>忠誠を誓った士官が多いんだ。<W><E>",
-     "en": "Gidan Soldier:<R>A lot of officers at<R>the bases around here<W><H>swore loyalty to His<R>Majesty the King.<W><E>"
+     "en": "Gidan Soldier:<R>Many officers at bases here<R>swore loyalty to His Majesty.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#107",
@@ -762,7 +762,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#151",
      "jp": "ダ・クダ：<R>俺たちがこんな風に表だって<R>活躍してはまずいんだがな。<W><E>",
-     "en": "Da Kuda:<R>Folks like us oughtn't<R>be strutting around<W><H>out in the open<R>like this, y'know.<W><E>"
+     "en": "Da Kuda:<R>Folks like us oughtn't be<R>struttin' in the open like this.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#152",
@@ -812,7 +812,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#161",
      "jp": "カカナン中佐：<R>シデル提督が巨大な移動兵器を<R>建設している、というウワサを<R>聞いたことがあります。<W><E>",
-     "en": "Lieutenant Colonel Kakanan:<R>I have heard rumors<R>that Admiral Sidel<W><H>is building a giant<R>mobile weapon.<W><E>"
+     "en": "Lieutenant Colonel Kakanan:<R>I have heard Admiral Sidel is<R>building a giant mobile weapon.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#162",
@@ -832,7 +832,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#165",
      "jp": "コステリフ長官：<R>シデル提督は、われわれの<R>あずかり知らない、<W><H>未知なる強い力を手にしている<R>のかもしれませんな。<W><E>",
-     "en": "Commander Kosterif:<R>Admiral Sidel may<R>have gotten hold of<W><H>something beyond<R>our knowledge...<W><H>some unknown, mighty power.<W><E>"
+     "en": "Commander Kosterif:<R>Admiral Sidel may hold,<R>unbeknownst to us,<W><H>some mysterious<R>and mighty power.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#166",
@@ -957,7 +957,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#190",
      "jp": "ギダン兵：<R>ここはカカナン中佐が指揮をとっ<R>ておられる限りだいじょうぶさ。<W><E>",
-     "en": "Gidan Soldier:<R>As long as Lieutenant<R>Colonel Kakanan<W><H>is in command here,<R>we'll be fine.<W><E>"
+     "en": "Gidan Soldier:<R>With Lieutenant Colonel Kakanan<R>in command, we're fine here.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#191",
@@ -967,17 +967,17 @@
     {
      "id": "2D/AMPS/A12_00@42800#192",
      "jp": "ギダン兵：<R>この町の駐留部隊を指揮して<R>いるのは、カカナン中佐だよ。<W><E>",
-     "en": "Gidan Soldier:<R>The garrison in this town is<W><H>commanded by Lieutenant<R>Colonel Kakanan.<W><E>"
+     "en": "Gidan Soldier:<R>This town's garrison is under<R>Lieutenant Colonel Kakanan.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#193",
      "jp": "ギダン兵：<R>カカナン中佐がいる限り、いつ<R>攻め込まれても平気さ。<W><E>",
-     "en": "Gidan Soldier:<R>As long as Lieutenant<R>Colonel Kakanan<W><H>is here, let them<R>attack anytime.<W><E>"
+     "en": "Gidan Soldier:<R>With Lieutenant Colonel Kakanan<R>here, let 'em attack anytime.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#194",
      "jp": "ギダン兵：<R>カカナン中佐は穏健（おんけん）<R>派だから提督ににらまれたんだ。<W><E>",
-     "en": "Gidan Soldier:<R>The Admiral had it<R>in for Lieutenant<W><H>Colonel Kakanan for<R>being a moderate.<W><E>"
+     "en": "Gidan Soldier:<R>The Admiral can't stand moderates<R>like Lieutenant Colonel Kakanan.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#195",
@@ -1047,7 +1047,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#208",
      "jp": "ラウエル：<R>わたしはゼシカのことが心配で<R>この町までやってきたのだ。<W><H>戦争では、いつ、どこで、<R>どんな危険が待ちかまえて<R>いるかわからない。<W><H>だから、いつもそばで彼女を<R>見守っていたいのだ。<W><H>しかし、わたしは民間人。<R>軍船に乗るなど許される<R>わけがない。<W><H>君のことは風のウワサで<R>聞いている。<W><H>空賊の君なら民間人を<R>乗せることもできよう。<W><H>君しか頼る人がいないのだ！<W><H>お願いだ！<R>乗せてくれ！<W><E>",
-     "en": "Rauel:<R>I came all the way to this town<W><H>because I am worried<R>about Zeshika.<W><H>In war, there is no<R>telling when, where, or<R>what danger lies in wait.<W><H>That is why I wish to be by her<R>side always, watching over her.<W><H>But I am a civilian. I<R>could never be allowed<R>aboard a military ship.<W><H>I have heard of you<R>through the grapevine.<W><H>A sky pirate like you could<R>take a civilian aboard.<W><H>You are the only<R>one I can turn to!<W><H>I beg you! Take me with you!<W><E>"
+     "en": "Rauel:<R>I came to this town out<R>of worry for Zeshika.<W><H>In war, there is no<R>telling when, where, or<R>what danger lies in wait.<W><H>That is why I wish to be by her<R>side always, watching over her.<W><H>But I am a civilian. I<R>could never be allowed<R>aboard a military ship.<W><H>I have heard of you<R>through the grapevine.<W><H>A sky pirate like you could<R>take a civilian aboard.<W><H>You are the only<R>one I can turn to!<W><H>I beg you! Take me with you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#209",

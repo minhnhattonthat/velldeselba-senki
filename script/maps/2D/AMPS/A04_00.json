@@ -557,7 +557,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#110",
      "jp": "ギダン兵：<R>こんなところで勲章を見せびらか<R>したりするからだよ。<W><E>",
-     "en": "Gidan Soldier:<R>That's what you get for flashing<W><H>your medal around<R>a place like this.<W><E>"
+     "en": "Gidan Soldier:<R>That's what you get for flashing<R>your medal around here.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#111",
@@ -712,7 +712,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#141",
      "jp": "ギダン兵：<R>ノイパスクの浮遊島をつかまえて<R>ギダンの戦力にするんだそうだ。<W><E>",
-     "en": "Gidan Soldier:<R>Word is they'll capture<R>the Noipask floating<W><H>islands and turn them<R>into Gidan forces.<W><E>"
+     "en": "Gidan Soldier:<R>Word is we'll seize Noipask's<R>floating islands for our forces.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#142",
@@ -932,7 +932,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#185",
      "jp": "ガシザキノ大佐：<R>ム連邦に入るにはあそこを<R>通るのが近道なんだ。<W><H>それに、シデル提督は今、<R>ノイパスク本国の前線に<R>おられるからな。<W><H>よし、追いかけるぞ！<W><E>",
-     "en": "Colonel Gashizakino:<R>Going through there is the<W><H>shortest way into<R>the Federation.<W><H>Besides, Admiral Sidel is at<R>the front in the Noipask<R>homeland right now.<W><H>Right, after them!<W><E>"
+     "en": "Colonel Gashizakino:<R>Going through there's the<R>shortcut into the Federation.<W><H>Besides, Admiral Sidel is at<R>the front in the Noipask<R>homeland right now.<W><H>Right, after them!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#186",

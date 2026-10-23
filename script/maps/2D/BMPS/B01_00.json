@@ -542,7 +542,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#107",
      "jp": "酒場の主人：<R>南の果てでとれる貴重なブドウを<R>使っていますから。<W><E>",
-     "en": "Tavern Keeper:<R>We use precious<R>grapes harvested at<W><H>the far southern<R>edge of the world.<W><E>"
+     "en": "Tavern Keeper:<R>We use rare grapes grown at the<R>far southern edge of the world.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#108",
@@ -617,7 +617,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#122",
      "jp": "酒場の主人：<R>メグロ亭特製「昇天フカヒレの<R>特製スープ」でございます。<W><E>",
-     "en": "Tavern Keeper:<R>The Meguro's own<R>\"Special Heavenly<W><H>Shark Fin Soup,\"<R>at your service.<W><E>"
+     "en": "Tavern Keeper:<R>Here is the Meguro's own \"Special<R>Heavenly Shark Fin Soup.\"<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#123",
@@ -767,7 +767,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#152",
      "jp": "老人：<R>グラシアルとマクシララキをつな<R>ぐ南航路は、商人が多く通るよ。<W><E>",
-     "en": "Old Man:<R>Lots of merchants<R>use the southern<W><H>route linking Glacial<R>and Maxilaraki.<W><E>"
+     "en": "Old Man:<R>Merchants crowd the southern route<R>from Glacial to Maxilaraki.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#153",

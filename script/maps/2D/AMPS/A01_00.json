@@ -672,7 +672,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#133",
      "jp": "ギダン兵：<R>どうやら、ム連邦も本気でクナを<R>奪回しようとしいるらしい。<W><H>いま、バムス中佐が<R>持ち帰った前線の話で<R>グラシアルはもちきりさ。<W><E>",
-     "en": "Gidan Soldier:<R>Looks like the Federation's<R>serious about taking Kuna back.<W><H>Right now, all Glacial<R>can talk about is the<R>news from the front that<W><H>Lieutenant Colonel<R>Bams brought back.<W><E>"
+     "en": "Gidan Soldier:<R>Looks like the Federation's<R>serious about taking Kuna back.<W><H>Lieutenant Colonel Bams brought<R>back news from the front, and now<R>all Glacial's buzzing about it.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#134",
@@ -687,12 +687,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#136",
      "jp": "ギダン兵：<R>このまま、ム連邦が引き下がって<R>いるわけないじゃないか。<W><H>これからまた大変な事になるよ。<R>シデル提督直属の親衛隊も<R>クナ方面へ出撃したらしいし……<W><E>",
-     "en": "Gidan Soldier:<R>There's no way the Federation's<W><H>just going to back<R>down like this.<W><H>Things are going to<R>get rough again.<W><H>Even Admiral Sidel's own<R>Royal Guard has sortied<R>toward Kuna, they say...<W><E>"
+     "en": "Gidan Soldier:<R>No way the Federation's just<R>going to back down like this.<W><H>It's going to get rough again.<R>Even Admiral Sidel's own Royal<R>Guard sortied to Kuna, I hear...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#137",
      "jp": "ギダン兵：<R>シデル提督直属の親衛隊も<R>クナ方面へ出動したらしいぜ。<W><E>",
-     "en": "Gidan Soldier:<R>Word is even Admiral Sidel's own<W><H>Royal Guard has<R>deployed toward Kuna.<W><E>"
+     "en": "Gidan Soldier:<R>Word is Admiral Sidel's own Royal<R>Guard deployed to Kuna too.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#138",
@@ -1197,12 +1197,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#238",
      "jp": "ギダン兵：<R>最近、補給物資を積んだ軍の貨物<R>船が空賊に襲われているんだ。<W><H>使える戦艦はみんな前線に送って<R>しまってるから、<R>護衛につける船が足りないんだ。<W><E>",
-     "en": "Gidan Soldier:<R>Lately, army cargo ships<R>carrying supplies<W><H>keep getting attacked<R>by sky pirates.<W><H>Every usable warship has been sent<R>to the front, so there aren't<R>enough ships to escort them.<W><E>"
+     "en": "Gidan Soldier:<R>Lately, sky pirates keep attacking<R>army supply freighters.<W><H>Every usable warship has been sent<R>to the front, so there aren't<R>enough ships to escort them.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#239",
      "jp": "ギダン兵：<R>最近、補給物資を積んだ軍の貨物<R>船が空賊に襲われているんだ。<W><E>",
-     "en": "Gidan Soldier:<R>Lately, army cargo ships<R>carrying supplies<W><H>keep getting attacked<R>by sky pirates.<W><E>"
+     "en": "Gidan Soldier:<R>Lately, sky pirates keep attacking<R>army supply freighters.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#240",
@@ -1227,12 +1227,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#244",
      "jp": "男：<R>今日も、政治犯がアダクダの<R>収容所に送られたらしいぜ。<W><H>くわばらくわばら……さわらぬ<R>神にたたりなし、ってな。<W><E>",
-     "en": "Man:<R>Heard they sent more<R>political prisoners<W><H>to the Adakuda<R>prison camp today.<W><H>Heaven help us... Let sleeping<R>dogs lie, as they say.<W><E>"
+     "en": "Man:<R>Heard more political prisoners<R>went to the Adakuda camp today.<W><H>Heaven help us... Let sleeping<R>dogs lie, as they say.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#245",
      "jp": "男：<R>今日も、政治犯がアダクダの<R>収容所に送られたらしいぜ。<W><E>",
-     "en": "Man:<R>Heard they sent more<R>political prisoners<W><H>to the Adakuda<R>prison camp today.<W><E>"
+     "en": "Man:<R>Heard more political prisoners<R>went to the Adakuda camp today.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#246",
@@ -1502,7 +1502,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#299",
      "jp": "少女：<R>さっきまでお友達と<R>町の西はずれで遊んでたの。<W><E>",
-     "en": "Girl:<R>I was playing with<R>my friends at the<W><H>west edge of town<R>until just now.<W><E>"
+     "en": "Girl:<R>I was just playing with friends<R>at the west edge of town.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#300",

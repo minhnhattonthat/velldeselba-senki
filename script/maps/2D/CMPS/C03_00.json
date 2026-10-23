@@ -532,7 +532,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#105",
      "jp": "カフィ中佐：<R>あと２、３回ならギダン軍の攻撃<R>に耐えられるかもしれませんが、<W><H>それ以上はとても無理です。<W><H>物資が不足し、<R>どうにもなりません。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>We might withstand two or three<W><H>more attacks from<R>the Gidan army,<W><H>but no more than that.<W><H>We're short on supplies,<R>and there's nothing we<R>can do about it.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>We might withstand two or<R>three more Gidan attacks,<W><H>but no more than that.<W><H>We're short on supplies,<R>and there's nothing we<R>can do about it.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#106",
@@ -587,7 +587,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#116",
      "jp": "コステリフ長官：<R>日時などの詳細はカフィ中佐と<R>詰めることにして、<W><E>",
-     "en": "Commander Kosterif:<R>We'll work out the<R>date and other<W><H>details with Lieutenant<R>Colonel Kafi,<W><E>"
+     "en": "Commander Kosterif:<R>We'll settle the date and details<R>with Lieutenant Colonel Kafi,<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#117",
@@ -602,7 +602,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#119",
      "jp": "ゼシカ大尉：<R>ここミデーレキサタは<R>ギダン王国との国境にある町です。<W><H>でも、最近は<R>にらみ合いの状態が続いてるから、<R>いたって平穏ですね。<W><E>",
-     "en": "Captain Zeshika:<R>Miderekisata is a town on the<W><H>border with the<R>Kingdom of Gidan.<W><H>But lately it's been a<R>standoff, so things are<R>perfectly peaceful.<W><E>"
+     "en": "Captain Zeshika:<R>This town, Miderekisata,<R>borders the Kingdom of Gidan.<W><H>But lately it's been a<R>standoff, so things are<R>perfectly peaceful.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#120",
@@ -712,7 +712,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#141",
      "jp": "管制員：<R>ここはわがギダン軍がム連邦軍を<R>追い出して占領したんだ。<W><E>",
-     "en": "Controller:<R>Our Gidan army drove<R>the Federation army<W><H>out of here and took<R>the place over.<W><E>"
+     "en": "Controller:<R>We drove out the Federation army<R>and took this place for Gidan.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#142",
@@ -812,7 +812,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#161",
      "jp": "オユ・キクル：<R>ノイパスク人がム連邦の人たちと<R>うまくやっていけるのかしら？<W><H>心配だわ………<W><E>",
-     "en": "Oyu Kikuru:<R>Will we Noipask be<R>able to get along<W><H>with the people of<R>the Federation?<W><H>I'm worried......<W><E>"
+     "en": "Oyu Kikuru:<R>Will the Noipask really get along<R>with the Federation people?<W><H>I'm worried......<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#162",

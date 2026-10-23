@@ -492,7 +492,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#97",
      "jp": "<F62>：<R>俺は、こんな勲章や肩書きより、<R>賞金のほうがいいんだけどな。<W><E>",
-     "en": "<F62>:<R>Me, I'd rather have prize money<W><H>than medals and<R>titles like this.<W><E>"
+     "en": "<F62>:<R>Me, I'd take prize money over<R>medals and titles like these.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#98",
@@ -532,7 +532,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#105",
      "jp": "管制員：<R>飛空港は国王陛下が離陸される<R>まで使えませんよ。<W><E>",
-     "en": "Controller:<R>The airport can't be used until<W><H>His Majesty the King<R>has taken off.<W><E>"
+     "en": "Controller:<R>The airport's closed until His<R>Majesty the King takes off.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#106",
@@ -727,7 +727,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#144",
      "jp": "シデル提督：<R>……今回の作戦は、危険な<R>最終兵器を封じるためのもの。<W><H>……国王が言われた経済封鎖は<R>そのあとでよいのだ。<W><E>",
-     "en": "Admiral Sidel:<R>...This operation<R>is meant to seal<W><H>away a dangerous<R>ultimate weapon.<W><H>...The economic blockade<R>His Majesty spoke of can<R>come after that.<W><E>"
+     "en": "Admiral Sidel:<R>...This operation is to seal away<R>a dangerous ultimate weapon.<W><H>...The economic blockade<R>His Majesty spoke of can<R>come after that.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#145",
@@ -742,7 +742,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#147",
      "jp": "<F62>：<R>これから戦いに出る兵士に<R>関係のない話じゃないだろう！<W><E>",
-     "en": "<F62>:<R>It's every bit the concern of<W><H>soldiers about to<R>go into battle!<W><E>"
+     "en": "<F62>:<R>That matters plenty to soldiers<R>about to go into battle!<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#148",
@@ -757,7 +757,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#150",
      "jp": "シデル提督：<R>ノイパスクは浮遊島を使って<R>大虐殺を行うような連中だ。<W><H>諸君らはそれを忘れたのかね？<W><H>ノイパスクは浮遊島を都市に<R>落とし、町を壊滅させ、<R>多くの人間を虐殺した。<W><H>……そのような大量破壊兵器と<R>なりうる浮遊島を、ノイパスクは<R>いまだに多数保有しているのだ。<W><H>一刻も早く彼らの手から浮遊島を<R>奪い、ギダン王国の安全を確保<R>しなければならないのだ。<W><E>",
-     "en": "Admiral Sidel:<R>The Noipask are the sort<R>who would use floating<W><H>islands to commit<R>mass slaughter.<W><H>Have you all forgotten that?<W><H>The Noipask dropped a floating<R>island on a city, destroyed it,<R>and massacred countless people.<W><H>...And the Noipask still hold many<R>floating islands, each a potential<R>weapon of mass destruction.<W><H>We must wrest the floating islands<R>from them at once and secure the<R>safety of the Kingdom of Gidan.<W><E>"
+     "en": "Admiral Sidel:<R>The Noipask would use floating<R>islands for mass slaughter.<W><H>Have you all forgotten that?<W><H>The Noipask dropped a floating<R>island on a city, destroyed it,<R>and massacred countless people.<W><H>...And the Noipask still hold many<R>floating islands, each a potential<R>weapon of mass destruction.<W><H>We must wrest the floating islands<R>from them at once and secure the<R>safety of the Kingdom of Gidan.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#151",
@@ -767,7 +767,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#152",
      "jp": "シデル提督：<R>……それは、ノイパスクから<R>浮遊島を奪ったあとの話だ。<W><E>",
-     "en": "Admiral Sidel:<R>...That comes after<R>we have taken<W><H>the floating islands<R>from Noipask.<W><E>"
+     "en": "Admiral Sidel:<R>...That comes after we seize<R>Noipask's floating islands.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#153",

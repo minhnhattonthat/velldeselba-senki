@@ -807,7 +807,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#160",
      "jp": "老人：<R>北の山には時々妙なもんが<R>落ちているんだ。<W><E>",
-     "en": "Old Man:<R>Strange things fall in the<W><H>mountains to the<R>north now and then.<W><E>"
+     "en": "Old Man:<R>Now and then, strange things<R>turn up in the north mountains.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#161",
@@ -817,7 +817,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#162",
      "jp": "女：<R>右奥の家はつい昨日も<R>爆発したから気をつけなよ。<W><E>",
-     "en": "Woman:<R>The house at the<R>back right blew up<W><H>just yesterday, so<R>watch yourself.<W><E>"
+     "en": "Woman:<R>The back-right house blew up<R>just yesterday, so be careful.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#163",
@@ -842,7 +842,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#167",
      "jp": "ギダン兵：<R>ここの工場ではシデル提督の命令<R>で秘密兵器を開発しているんだ。<W><E>",
-     "en": "Gidan Soldier:<R>This factory is<R>developing a secret<W><H>weapon on Admiral<R>Sidel's orders.<W><E>"
+     "en": "Gidan Soldier:<R>This factory makes a secret weapon<R>on Admiral Sidel's orders.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#168",
@@ -942,7 +942,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#187",
      "jp": "<F62>：<R>アンタは相変わらず運動不足の<R>青い顔をしてるな。<W><H>たまには外へ出て運動でも<R>したらどうだい？<W><E>",
-     "en": "<F62>:<R>And you've still got that pale<W><H>face of someone who<R>never exercises.<W><H>Why not get outside and move<R>around once in a while?<W><E>"
+     "en": "<F62>:<R>As usual, you look pale<R>from never exercising.<W><H>Why not get outside and move<R>around once in a while?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#188",

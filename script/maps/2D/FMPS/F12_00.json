@@ -512,7 +512,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#101",
      "jp": "デ・サロ将軍：<R>最近のギダンの軍事攻勢はシデル<R>提督の暴走だったのですか？<W><E>",
-     "en": "General De Saro:<R>Then Gidan's recent military<W><H>offensives were Admiral<R>Sidel running wild?<W><E>"
+     "en": "General De Saro:<R>Then Gidan's recent offensives<R>were Admiral Sidel running wild?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#102",
@@ -712,7 +712,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#141",
      "jp": "カチタ中佐：<R>今、うちの部下が<R>研究している砲弾は、<W><H>強力な火薬を積んだ<R>プロペラ魚雷に有線誘導式の<R>安定翼をつけた誘導弾だ。<W><H>コントロールに慣れれば、<R>確実に敵にダメージを<R>与えることができる。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>The shell my men are<R>researching right now<W><H>is a guided shell: a propeller<R>torpedo packed with powerful<R>explosive and fitted<W><H>with wire-guided<R>stabilizer fins.<W><H>Once you're used to the<R>controls, you can be sure<R>of damaging the enemy.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>My men are researching<R>a new shell right now.<W><H>A propeller torpedo packed with<R>high explosive, fitted with<R>wire-guided stabilizer fins.<W><H>Once you're used to the<R>controls, you can be sure<R>of damaging the enemy.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#142",
@@ -722,7 +722,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#143",
      "jp": "カチタ中佐：<R>この砲弾なら、親衛部隊の装甲を<R>打ち破れるかもしれません。<W><H>すぐに生産に入りましょう！<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>This shell might<R>be able to break<W><H>through the Royal<R>Guard units' armor.<W><H>Let's put it into<R>production at once!<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>This shell might break through<R>the Royal Guard units' armor.<W><H>Let's put it into<R>production at once!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#144",
@@ -862,7 +862,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#171",
      "jp": "デ・サロ将軍：<R>では上陸部隊を編成し、浮遊島<R>内部に突入するしかないだろう。<W><H>カチタ、<R>急いで人を集めたまえ。<W><E>",
-     "en": "General De Saro:<R>Then we have no choice but to<R>form a landing party and storm<W><H>the inside of the<R>floating island.<W><H>Kachita, gather men at once.<W><E>"
+     "en": "General De Saro:<R>Then we must form a landing party<R>and storm the floating island.<W><H>Kachita, gather the men at once.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#172",
@@ -1132,7 +1132,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#225",
      "jp": "ゼシカ大尉：<R>味方の攻撃を集中して、<R>一機ずつ落とすしかないわ。<W><E>",
-     "en": "Captain Zeshika:<R>All we can do is focus our fire<W><H>and bring them down<R>one at a time.<W><E>"
+     "en": "Captain Zeshika:<R>We'll have to focus our fire<R>and down them one at a time.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#226",
@@ -1282,7 +1282,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#255",
      "jp": "ム連兵：<R>ホウノム島攻略作戦はシデルの<R>部隊にじゃまされたらしいぜ。<W><E>",
-     "en": "Federation Soldier:<R>I hear Sidel's units<R>got in the way of<W><H>the operation to<R>take Hounom Island.<W><E>"
+     "en": "Federation Soldier:<R>Word is Sidel's units disrupted<R>the Hounom Island operation.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#256",
@@ -1302,7 +1302,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#259",
      "jp": "ム連兵：<R>あんな島が落ちてきたら、<R>この町はめちゃくちゃだ！<W><E>",
-     "en": "Federation Soldier:<R>If an island like<R>that comes down<W><H>on us, this town<R>will be wrecked!<W><E>"
+     "en": "Federation Soldier:<R>If an island like that falls<R>on us, this town's finished!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#260",
@@ -1312,12 +1312,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#261",
      "jp": "ム連兵：<R>ギダンがノイパスクから浮遊島を<R>奪って武装化しているらしいぜ。<W><H>だからわれわれも、領内にある<R>浮遊島を攻略しようと<R>しているんだが……<W><E>",
-     "en": "Federation Soldier:<R>I hear Gidan's taken floating<W><H>islands from Noipask<R>and is arming them.<W><H>That's why we're trying to<R>take the floating island in<R>our territory too, but...<W><E>"
+     "en": "Federation Soldier:<R>Gidan's arming floating islands<R>it took from Noipask, I hear.<W><H>That's why we're trying to<R>take the floating island in<R>our territory too, but...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#262",
      "jp": "ム連兵：<R>ギダンがノイパスクから浮遊島を<R>奪って武装化しているらしいぜ。<W><E>",
-     "en": "Federation Soldier:<R>I hear Gidan's taken floating<W><H>islands from Noipask<R>and is arming them.<W><E>"
+     "en": "Federation Soldier:<R>Gidan's arming floating islands<R>it took from Noipask, I hear.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#263",
