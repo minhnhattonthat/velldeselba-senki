@@ -6,7 +6,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Build:    `python -X utf8 tools/build.py` -> build/velldeselba_en.bin/.cue (checks the dump against `rom.sha1` first) — not written yet
 - Check:    `python -X utf8 tools/check.py`  (pytest `tests/` + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/velldeselba_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:     `python -X utf8 $SKILL/scripts/emu.py build/velldeselba_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene) — not written yet
+- Warp:     `python -X utf8 $SKILL/scripts/emu.py <cue> --out work/qa/warp --state-in work/states/intro_fmv.sstate --script tools/debug/warp.lua --var MAP=<index> --var WARP_FRAMES=2500 --frames 3600 --sheet` (indices: `tools/debug/scenes.txt`; making the state and limits: `docs/re/debug.md`; never ask the user to play to a scene)
 - Release:  `python -X utf8 tools/release.py` (xdelta vs the .bin; never publish without the user) — not written yet
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
