@@ -35,3 +35,16 @@ def test_name_grid_and_copy_patch():
     assert top - 29 * 0x20 <= min(diff) and max(diff) < top + 0x20  # only grid rows change
     patched, _ = patch_exe.patch(out, b"\0" * 16)
     assert exe.count(patch_exe.NAME_COPY_OLD) == 1 and patch_exe.NAME_COPY_NEW in patched
+
+
+@pytest.mark.skipif(not TREE.is_dir(), reason="disc not dumped (work/disc)")
+def test_results3d_keeps_entry_points():
+    exe = (TREE / "3D/GMPS1/HT.EXE").read_bytes()
+    i = exe.find(patch_exe.RESULTS_JP)
+    out = patch_exe.results3d(exe)
+    assert len(out) == len(exe) and out[:i] == exe[:i] and out[i + 0xC8:] == exe[i + 0xC8:]
+    # the code points 0x1C/0x38/0x60/0xB0/0xB6 into the block (after each '//'): same placeholder there
+    for off in (0x1C, 0x38, 0x60, 0xB0, 0xB6):
+        assert out[i + off:i + off + 2] == exe[i + off:i + off + 2], hex(off)
+    placeholders = lambda b: [b[k:k + 2] for k in range(0, len(b), 2) if b[k:k + 2] in (b"%u", b"%s", b"%S", b"//")]
+    assert placeholders(out[i:i + 0xC8]) == placeholders(exe[i:i + 0xC8])

@@ -5,6 +5,8 @@ Prepends build/hook.bin (padded to HOOK_SIZE) so the image loads at 0x80020000 -
 """
 import struct
 
+import textcodec
+
 HOOK_BASE = 0x8001F000
 HOOK_SIZE = 0x1000
 STUB = struct.pack("<III", 0x240A00B0, 0x01400008, 0x24090051)
@@ -27,6 +29,36 @@ NAME_COPY_NEW = struct.pack("<4I", 0, 0x03C02021, 0x0C000000 | (NAME_PACK >> 2 &
 # has no level-2 kanji left. andi a0,t0,0xffff; ori v0,zero,0x989e -> 0xffff; sltu v0,v0,a0
 STAFF_SPLIT_OLD = bytes.fromhex("ffff0431" "9e980234" "2b104400")
 STAFF_SPLIT_NEW = bytes.fromhex("ffff0431" "ffff0234" "2b104400")
+
+
+# 3D results/HUD messages (every HT.EXE, DEMO.EXE; docs/re/text.md): one 2-byte-token stream for the 3D text engine.
+# '@'+0 pauses for the next value (the text continues on the same line), '//' ends a block, %u/%s/%S are filled in
+# order, one value per call. The code points at fixed offsets (after each '//'), so each slot is rewritten in place:
+# same placeholders in the same order, English letter pairs between them, NUL fill.
+RESULTS_JP = "撃墜数　%u@".encode("cp932")
+RESULTS = [  # (slot size, pieces: str = English text, bytes = kept as is)
+    (0x1C, ["Kills ", b"%u@\0", ", total ", b"%u\r\n//"]),
+    (0x1C, [b"%S\0\0", "'s crew stole ", b"@\0%u", "Z.", b"\r\n//"]),
+    (0x28, [b"%s", " gained ", b"@\0%u", " EXP", b"@\0", "!", b"\r\n//"]),
+    (0x50, [b"%s", ": ", b"@\0", "Level up!", b"\r\n\r\n%s", " reached", b"\r\n", "level ", b"%u", ".", b"\r\n",
+            "Gunnery: +", b"%u\r\n", "Repair:  +", b"%u\r\n//"]),
+    (0x06, [b"%s", ":"]),
+    (0x12, [b"%s", ", out of ammo!"]),
+]
+
+
+def results3d(body):
+    """English 3D results/ammo messages in place (body unchanged when it has none)."""
+    i = body.find(RESULTS_JP)
+    if i < 0:
+        return body
+    assert body[i + 0xC6:i + 0xCA] == b"\0\0//", "3D results block moved"
+    out = bytearray()
+    for size, pieces in RESULTS:
+        slot = b"".join(p if isinstance(p, bytes) else textcodec.encode(p) for p in pieces)
+        assert len(slot) <= size, (slot, size)
+        out += slot.ljust(size, b"\0")
+    return body[:i] + out + body[i + len(out):]
 
 
 def jal(target):
@@ -62,6 +94,7 @@ def patch(exe, hook):
             i = body.find(want, i + 1)
     body = bytearray(body.replace(SIG_OLD, SIG_NEW).replace(NAME_COPY_OLD, NAME_COPY_NEW)
                      .replace(STAFF_SPLIT_OLD, STAFF_SPLIT_NEW))
+    body = bytearray(results3d(bytes(body)))
     head = bytearray(exe[:0x800])
     struct.pack_into("<II", head, 0x18, HOOK_BASE, t_size + HOOK_SIZE)
     return bytes(head) + hook.ljust(HOOK_SIZE, b"\0") + bytes(body) + exe[0x800 + t_size:], n

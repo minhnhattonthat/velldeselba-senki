@@ -53,8 +53,12 @@ cannot be plain ASCII without renderer work (`R`, `E`, `W`... are codes). Option
 - Name-entry grid rows (`<$20><$20>`/`<Gnn><$20>` rows in TITLE.EXE and every map EXE, 30 per EXE) and the 6
   dakuten conversion tables after them: the English name grid is engine work (see Name entry).
 - B01_10.MPS and A10_00.MPS: offset tables zeroed and no EXE loads them.
-- 3D-engine printf formats in DEMO.EXE / 3D HT.EXE (`%sは、@`, `%uポイントの@`, `レベル%uになった。`, `%s、弾切れです！`):
-  CRLF + `@` format, not extracted yet (exetext skips them: no SJIS lead at the start / not referenced).
+- 3D results/ammo messages in DEMO.EXE / every 3D HT.EXE (HT: 0x80079D48-0x80079E10): one token stream for the 3D
+  text engine (撃墜数 %u, %S達は、%uｚを強奪, %sは、%uポイントの経験値を獲得, level-up, %s：, %s、弾切れです！).
+  The results state machine (HT 0x8006D624, jump table 0x800219A0) stores cursors 0x80079D64/D80/DA8 at gp+0x1D8
+  and calls the engine (0x80040490) once per placeholder value; 0x80062908 prints DF8/DFE (ammo). `@`+0 pauses
+  and the line continues (as in mission text "…<@14>急いで…"). Rewritten in place by `patch_exe.results3d`
+  (fixed slots, same placeholders in order). Not seen in-game yet: no warp to a battle mission.
 
 ## Name entry
 New Game opens a kana grid (default name ミサキ). **Done (verified 2026-10-23, work/qa/name7):**
