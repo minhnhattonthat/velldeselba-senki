@@ -1,0 +1,13 @@
+# cold boot -> title -> New Game (menu opens on Continue, one Up = New Game)
+2400 -
+6 start
+700 -
+6 up
+60 -
+6 circle
+600 -
+# name entry (default ミサキ): Start jumps to OK, circle confirms -> flight tutorial (3D) at ~f5000
+6 start
+60 -
+6 circle
+300 -
