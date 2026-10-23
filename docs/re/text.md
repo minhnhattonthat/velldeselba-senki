@@ -57,4 +57,13 @@ cannot be plain ASCII without renderer work (`R`, `E`, `W`... are codes). Option
   CRLF + `@` format, not extracted yet (exetext skips them: no SJIS lead at the start / not referenced).
 
 ## Name entry
-New Game opens a kana grid (default name ミサキ). Needs an English letter grid (graphics + table).
+New Game opens a kana grid (default name ミサキ). **Done (verified 2026-10-23, work/qa/name7):**
+- Grid: 30 rows x 30 bytes, 5 pages x 6 rows, identical in TITLE.EXE (0x80022578 = top row of the hiragana
+  page, rows 0x20 apart downward) and every map EXE (ship names). `tools/namegrid.py` swaps the full-width key
+  characters for Latin letters, digits and punctuation; layout and cursor code untouched.
+- TITLE.EXE: entry routine 0x80046C84 fills 0x80010200 (default 0x80020564), then a byte-copy loop at
+  0x80025B00 stores it to 0x800159EC (BERU_FL1.DAT +0x59EC). That loop now calls `name_pack` (hook.asm
+  0x8001F100): full-width Latin -> ASCII, packed into letter pairs, existing pairs passed through.
+  0x80025AE8 branches to 0x80025B04, so the new code starts there (`patch_exe.NAME_COPY_NEW`).
+- Ship names (map EXEs) are not converted yet: stored full-width, drawn one letter per cell.
+- Gotcha: R3000 load delay: a branch right after `lbu` sees the old register (cost one debugging round).
