@@ -2,8 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (marker build + width gate) done for 2D maps, EXE strings, 3D missions and BERU_FL1.DAT names.
-  Last build: `python -X utf8 tools/build.py --marker` (2026-10-23), smoke ok, markers in dialogue, menus, tutorial.
+- **Phase:** 6 started: rulings D8/D9, glossary seeded, style pilot (G10_00 #88-#198, 111 lines) merged and
+  shown in-game; waiting on the user's approval. Last build: `python -X utf8 tools/build.py` (2026-10-23, en mode).
+  - `tools/batches.py split|check|merge` (fit() wraps dialogue rows); 2D text sections grow by sectors when
+    English outgrows them (`maptext._grow`, verified on G10).
 - **Done:**
   - Step 0, rulings D1-D7, disc rebuild identical (`docs/re/disc.md`). BPE codec (`docs/re/compression.md`).
   - English engine: digraph-cell hook in all 77 EXEs (`docs/re/font.md`); works in 2D boxes, menus, 3D messages.
@@ -24,9 +26,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   4. 3D printf groups in HT.EXE/DEMO.EXE (0x80079D64...: `%S達は、@`, `%uポイントの@`, level-up, `%sは、@`): only
      group heads are referenced, pieces by base+offset; translate in place or move the group with its code.
   5. Measure menu widths per screen (shop, equipment, item list) before translating EXE/DAT names.
-  6. Translation (phase 6): glossary + synopsis, style pilot, batches by map (`references/translation.md`).
+  6. Translation: after pilot approval -> `docs/synopsis.md`, `docs/translator-brief.md`, translator agent def,
+     terms pass (work/terms.txt), batches by map. Player name shows as ミサキ kana until item 3 is done.
 - **Open bugs:** none.
-- **Waiting on the user:** nothing.
+- **Waiting on the user:** pilot approval (docs/style-reference.md, work/qa/pilot/*.png, work/tl/pilot.out.tsv).
 - **States:** `work/states/en_intro_fmv.sstate` (built disc, f30000 of New Game; regenerate after builds that
   change resident code/data, `docs/re/debug.md`), `intro_fmv.sstate` (original), `map1_talk.sstate`,
   `tutorial.sstate` (original disc, G44 tutorial).

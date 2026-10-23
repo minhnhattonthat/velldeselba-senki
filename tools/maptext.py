@@ -60,14 +60,33 @@ def text_streams(mps):
 
 
 def replace_stream(mps, pos, n, dec):
-    """Recompress dec into the slot of the stream at pos (length n). Raises when it no longer fits the slot."""
+    """Recompress dec into the slot of the stream at pos (length n); a stream that ends its section grows the
+    section by whole sectors (later sections move; the game sums the header counts: docs/re/disc.md)."""
     packed = bpe.compress(dec)
     slot = _slot(mps, pos, n)
     if len(packed) > slot:
-        raise ValueError(f"stream @{pos:#x}: {len(packed):#x} > slot {slot:#x}")
+        mps = _grow(mps, pos + slot, len(packed) - slot)
+        slot = _slot(mps, pos, n)
     out = bytearray(mps)
     out[pos:pos + slot] = packed.ljust(slot, b"\0")
     return bytes(out)
+
+
+SECTIONS = (0x24, 0x26, 0x28, 0x30)  # header u16s: sector counts of the 4 sections after the 0x1000-byte header
+
+
+def _grow(mps, at, extra):
+    """Insert zero sectors (>= extra bytes) at `at`, which must be the end of a section; bumps its sector count."""
+    counts = [struct.unpack_from("<H", mps, o)[0] for o in SECTIONS]
+    end = 0x1000
+    for o, c in zip(SECTIONS, counts):
+        end += c * 0x800
+        if end == at and 0x1000 + sum(counts) * 0x800 == len(mps):
+            k = -(-extra // 0x800)
+            out = bytearray(mps[:at] + bytes(k * 0x800) + mps[at:])
+            struct.pack_into("<H", out, o, c + k)
+            return bytes(out)
+    raise ValueError(f"stream ending @{at:#x}: {extra:#x} bytes over its slot, not at a section end")
 
 
 def _slot(mps, pos, n):

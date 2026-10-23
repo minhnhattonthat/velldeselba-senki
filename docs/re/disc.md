@@ -9,8 +9,11 @@ Dump: `rom.sha1` (SCPS-10027, 1 track MODE2/2352, 520,575,216 bytes). Boot: `SYS
   LBAs. Verify by booting a build where an early file grew.
 - `TITLE.EXE`, `TITLE3.EXE`, `STAFF.EXE` (staff roll, raw SJIS), per-map `2D/<X>MPS/<map>.EXE` and
   `3D/<set>/HT.EXE` are full PS-X EXEs (load 0x80020000); map EXEs replace each other.
-- `*.MPS`: a sequence of BPE streams (`compression.md`), sector-aligned, header holds their offsets/sizes
-  (layout not decoded yet). `2D/*MPS/<map>_<nn>.MPS` = 2D town/field map data incl. its dialogue; `3D/*/Gnn.MPS`
+- `*.MPS`: a sequence of BPE streams (`compression.md`), sector-aligned, header holds their offsets/sizes.
+  2D map MPS (`<map>_nn.MPS`): 0x1000-byte header, then 4 sections; u16 sector counts at 0x24, 0x26, 0x28, 0x30
+  (`0x1000 + sum * 0x800` = file size in all 61 map files). Section 3 = the text stream. **verified:** G10_00
+  grown 0x12 -> 0x13 sectors (`maptext._grow`), map loads and the grown text shows in-game (work/qa/pilot,
+  2026-10-23). u32s at 0x10.. are stream offsets inside section 1 (minus 0x1000). `2D/*MPS/<map>_<nn>.MPS` = 2D town/field map data incl. its dialogue; `3D/*/Gnn.MPS`
   = 3D flight missions (mission text too); `D0x.MPS`, `OPEN.MPS` at root.
 - `STR/*.STR` (7 FMVs), `TENKY_A.STR` (logo), `XALIB.XA` (voice/music). FMV subtitles: not checked yet.
 

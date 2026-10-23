@@ -447,557 +447,557 @@
     {
      "id": "2D/GMPS/G10_00@52800#88",
      "jp": "ノイパスク兵：<R>おい、何をもたもたしてたんだ。<R>オデナウデ司令長官がお呼びだぜ。<W><H>左にある自動ドアを入れば<R>司令部だ。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Hey, what were you dawdling for?<R>Commander-in-Chief Odenaude<R>wants you.<W><H>Go through the automatic door on<R>the left and you'll be at<R>headquarters.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#89",
      "jp": "ノイパスク兵：<R>オデナウデ司令長官がお呼びだぜ。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Commander-in-Chief Odenaude wants<R>you.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#90",
      "jp": "ノイパスク兵：<R>おどろいたなぁ。<W><H>よそ者のおまえが、<R>ノイパスク軍の兵士だって？<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Well, I'll be.<W><H>An outsider like you, a soldier in<R>the Noipask army?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#91",
      "jp": "ノイパスク兵：<R>訓練飛行だったら、<R>自分の船でやるんだな。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>If you want a training flight, do<R>it in your own ship.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#92",
      "jp": "ハウエズナ：<R>あそこにあるのが、<R>少尉の飛空船です。<W><H>これからはわれわれが<R>少尉のお供をいたします。<W><H>訓練飛行の前に、<R>飛空船の砲台について<R>若干説明をしましょう。<W><H><P13>Ａ型砲台は通常弾、Ｂ型砲台は<R>特殊弾が撃てる砲台です。<W><H>Ｃ型砲台というのは、一部の<R>特殊弾も撃てる、高級砲台です。<W><H>また、普通はひとつの<R>砲台に一種類の弾しか<R>装填できませんが、<W><H>少尉の担当する砲台だけは、<R>４種類の弾を装填できますので、<R>注意してください。<P15><W><H>もしわからなかったら、<R>また、聞いてください。<W><H>では、わたしは船で準備をして<R>いますので、これで……<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>That over there is your airship,<R>Lieutenant.<W><H>From now on, we will be<R>accompanying you, sir.<W><H>Before your training flight, allow<R>me to explain a little about the<R>airship's turrets.<W><H><P13>Type A turrets fire standard<R>rounds. Type B turrets fire<R>special rounds.<W><H>Type C turrets are high-grade<R>turrets that can fire some special<R>rounds too.<W><H>Normally, a turret can only be<R>loaded with one kind of ammo,<W><H>but the turret you man yourself<R>can be loaded with four kinds, so<R>keep that in mind.<P15><W><H>If anything is unclear, please ask<R>me again.<W><H>Now, I'll go get things ready on<R>the ship.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#93",
      "jp": "オユ・キクル：<R>少尉、ドックに行けば船の装備を<R>いろいろ変えられますよ。<W><H>そうだ、せっかくご自分の船を<R>持ったんだから、<W><H><P07>船に名前をつけるっていうのは<R>どうですか？<P15><W><H>そうしましょうよ。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Lieutenant, if you go to the dock,<R>you can change all sorts of<R>equipment on your ship.<W><H>Oh, I know! Now that you've got a<R>ship of your very own,<W><H><P07>how about giving it a name?<P15><W><H>Let's do it!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#94",
      "jp": "<F62>：<R><F63>……<R>なかなかいい名前だろ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R><F63>...<R>Not a bad name, huh?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#95",
      "jp": "オユ・キクル：<R>ええ。<R>少尉らしいですね。<W><H>…………<W><H>あ、そうだ……<W><H>あのう、<R><F62>少尉って<R>恋人いるんですか？<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Yeah! It's very you, Lieutenant.<W><H>......<W><H>Oh, right...<W><H>Um, Lieutenant <F62>... do you<R>have a sweetheart?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#96",
      "jp": "<F62>：<R>いや、いないよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nope, no one.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#97",
      "jp": "オユ・キクル：<R>へー、そうなんだあ。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Huh! Is that so...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#98",
      "jp": "<F62>：<R>それがどうかしたか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Why, what about it?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#99",
      "jp": "オユ・キクル：<R>あ、いえ、<R>なんでもないです……<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Oh, n-no, it's nothing...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#100",
      "jp": "カフィ中佐：<R>オデナウデ長官とゼクセル大佐が<R>３階でお待ちかねよ。<W><H>はやくそこのエレベータに<R>お乗りなさい。<W><H><P07>歩くときに□ボタンを押せば、<R>はやく歩けるわ。<P15>いそいで。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Commander Odenaude and Colonel<R>Zexel are waiting for you on the<R>third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button while<R>walking to move faster.<P15> Go on,<R>quickly.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#101",
      "jp": "カフィ中佐：<R>はやくそこのエレベータに<R>お乗りなさい。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Hurry up and take that elevator.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#102",
      "jp": "カフィ中佐：<R>東の家にいる物知りおじいさんに<R>いろいろ聞いてみるといいわよ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Try asking the old man who lives<R>in the east house. He knows a<R>lot.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#103",
      "jp": "カフィ中佐：<R>どうだった？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>So, how did it go?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#104",
      "jp": "<F62>：<R>まいったよ。軍に入れだとさ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Unbelievable. They want me to join<R>the army.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#105",
      "jp": "カフィ中佐：<R>ほんとに？<W><H>ノイパスク人以外の人間を<R>軍に入れるなんて、<R>今までなかったことよ。<W><H>どういうつもりなのかしら？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Really?<W><H>Taking someone who isn't Noipask<R>into the army... That's never<R>happened before.<W><H>What are they up to?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#106",
      "jp": "<F62>：<R>さあな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Beats me.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#107",
      "jp": "カフィ中佐：<R>あなたは？<R>軍に入るの？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>And you? Are you going to join?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#108",
      "jp": "<F62>：<R>どうするかなあ………<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Good question...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#109",
      "jp": "カフィ中佐：<R>迷ってるのね。<R>無理もないか。<W><H>まだこの星のことを、<R>ろくに知らないんですものね。<W><H>東の民家にいるおじいさんに、<R>いろいろ聞いてみるといいわ。<W><H>ここのことを、いろいろ親切に<R>教えてくれるはずよ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>You're torn. Can't say I blame<R>you.<W><H>You still barely know anything<R>about this planet.<W><H>Go and ask the old man in the<R>house to the east about things.<W><H>He'll be happy to tell you all<R>about this place.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#110",
      "jp": "<F62>：<R>わかった。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Got it.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#111",
      "jp": "ゼクセル大佐：<R><F62>が来ました。<R>オデナウデ長官。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R><F62> is here, Commander<R>Odenaude.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#112",
      "jp": "ゼクセル大佐：<R>やぁ、<R>飛空船の操縦には慣れたかね？<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Ah, there you are. Getting used to<R>flying an airship?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#113",
      "jp": "<F62>：<R>まあね。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>More or less.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#114",
      "jp": "オデナウデ長官：<R>ふん、あれで慣れたつもりか。<R>へたくそめ。<W><E>",
-     "en": ""
+     "en": "Commander Odenaude:<R>Hmph. You call that getting used<R>to it? Clumsy oaf.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#115",
      "jp": "<F62>：<R>なんだと！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What did you say?!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#116",
      "jp": "ゼクセル大佐：<R>オデナウデ長官、<R>彼はよくやっています。<W><H>これだけの短期間で、<R>慣れない飛空船の操縦を、一応、<R>マスターしたんですからな。<W><H>どうです？<R>彼をノイパスクの兵士として、<R>やとってみては？<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Commander Odenaude, he's doing<R>well.<W><H>In this short a time, he has more<R>or less mastered an airship he'd<R>never flown before.<W><H>What do you say? Why not take him<R>on as a Noipask soldier?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#117",
      "jp": "オデナウデ長官：<R>本気か？<W><E>",
-     "en": ""
+     "en": "Commander Odenaude:<R>Are you serious?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#118",
      "jp": "ゼクセル大佐：<R>敵国ギダンと戦うためには、一人<R>でも優秀な兵士が必要なときです。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>To fight our enemy Gidan, we need<R>every good soldier we can get.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#119",
      "jp": "オデナウデ長官：<R>ふむ……まあ、いいだろう。<W><E>",
-     "en": ""
+     "en": "Commander Odenaude:<R>Hmm... Very well, then.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#120",
      "jp": "ゼクセル大佐：<R>ありがとうございます、長官。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Thank you, Commander.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#121",
      "jp": "<F62>：<R>ちょっと待てよ！<W><H>軍人になるなんて<R>一言もいってないぜ！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hold on a second!<W><H>I never said a word about joining<R>the army!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#122",
      "jp": "オデナウデ長官：<R>だまれ！<R>拾ってやった恩を忘れたか！<W><E>",
-     "en": ""
+     "en": "Commander Odenaude:<R>Silence! Have you forgotten who<R>took you in?!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#123",
      "jp": "ゼクセル大佐：<R>そういうことだ。<W><H>特別に、基地の中を自由に<R>歩けるよう許可を与えよう。<R>がんばりたまえ。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>That settles it.<W><H>As a special favor, you'll have<R>permission to walk freely around<R>the base. Do your best.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#124",
      "jp": "ゼクセル大佐：<R>ああ、君か。<R>ちょうどよかった。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Ah, it's you. Perfect timing.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#125",
      "jp": "ゼクセル大佐：<R>カフィ中佐を呼んでこい！<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Go and fetch Lieutenant Colonel<R>Kafi!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#126",
      "jp": "ノイパスク兵：<R>はっ！<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Sir!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#127",
      "jp": "<F62>：<R>やれやれ、<R>何だか嫌な予感がするぜ……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Oh, boy... I've got a bad feeling<R>about this...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#128",
      "jp": "カフィ中佐：<R>お呼びですか。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>You sent for me, sir?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#129",
      "jp": "ゼクセル大佐：<R>彼を少尉として<R>わが軍に迎えることになった。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>We've decided to welcome him into<R>our army as a second lieutenant.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#130",
      "jp": "<F62>：<R>何だって？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Say what?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#131",
      "jp": "ゼクセル大佐：<R><F62>少尉のために<R>船を１機用意してくれ。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Have a ship prepared for<R>Lieutenant <F62>.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#132",
      "jp": "カフィ中佐：<R>わかりました。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Understood.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#133",
      "jp": "カフィ中佐：<R>少尉、こちらに。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Lieutenant, this way.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#134",
      "jp": "<F62>：<R>おい、カフィ、<R>ちょ、ちょっと……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, Kafi, w-wait a sec...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#135",
      "jp": "カフィ中佐：<R>いいの？<W><H>このまま軍隊に入るつもり？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Are you sure about this?<W><H>Are you really going to join the<R>army just like that?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#136",
      "jp": "<F62>：<R>いきなり少尉とはおどろいたな。<W><H>あいつら、どういうつもりだ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>A lieutenant, just like that.<R>Didn't see that coming.<W><H>What are those guys playing at?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#137",
      "jp": "カフィ中佐：<R>ゼクセル大佐はあなたの体力と<R>腕前を、高く評価していたわ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Colonel Zexel thinks very highly<R>of your stamina and your skill.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#138",
      "jp": "<F62>：<R>ふーん……<W><H>ま、自分の船がもらえるのは<R>うれしいんだけどね。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Huh...<W><H>Well, I won't say no to a ship of<R>my own.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#139",
      "jp": "カフィ中佐：<R>軍隊に入ると、自由に行動<R>できなくなっちゃうわよ？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Once you're in the army, you won't<R>be free to do as you please, you<R>know?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#140",
      "jp": "<F62>：<R>あとのことはそのときに<R>なってから考えるさ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I'll worry about the rest when I<R>get there.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#141",
      "jp": "カフィ中佐：<R>……のんきね。<W><H>まあ、いいわ。<W><H>いらっしゃい。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>...You're so carefree.<W><H>Oh, fine.<W><H>Come with me.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#142",
      "jp": "カフィ中佐：<R>紹介するわ。<W><H>オユ・キクル伍長と、<R>ハウエズナ二等兵よ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Let me introduce you.<W><H>Corporal Oyu Kikuru, and Private<R>Hauezna.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#143",
      "jp": "オユ・キクル：<R>はじめまして。<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Pleased to meet you!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#144",
      "jp": "ハウエズナ：<R>はじめまして。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Pleased to meet you, sir.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#145",
      "jp": "カフィ中佐：<R>船は飛空港に用意してあります。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Your ship is ready at the<R>airport.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#146",
      "jp": "カフィ中佐：<R>オユ・キクル、先に乗船して<R>飛空船の点検をしておきなさい。<W><H>弾の補充もしておくのよ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Oyu Kikuru, board first and run a<R>check on the airship.<W><H>And restock the ammo while you're<R>at it.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#147",
      "jp": "オユ・キクル：<R>わかりました！<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Yes, ma'am!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#148",
      "jp": "<P13>オユ・キクルとハウエズナが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Oyu Kikuru and Hauezna<R>joined the crew!<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#149",
      "jp": "カフィ中佐：<R>わたしの仕事はここまで。<W><H>船のならし運転をかねて<R>練習飛行でもしてきたら？<W><H>飛行にあたって、いくつか<R>注意事項を伝えておくわね。<W><H>誰をどの砲台に配備するかは、<R>あなたが自分で決めることよ。<W><H><P13>仲間が増えたときには、<R>運転席に座って、仲間の配置を<R>決めてあげてね。<P15><W><H>離陸する前には<P13>必ず弾を<R>装備することも忘れないで。<P15><W><H>「<P07>仲間に伝令<P15>」という文字が<R>赤くなっていたら、<W><H>砲台に配備されたのに弾を持って<R>いない仲間がいるという意味よ。<R>すぐに弾を装備してあげて。<W><H>それから、<R><P13>戦闘から帰ってきたら<R>必ず配給部に顔を出す<P15>のよ。<W><H>わかった？<R>じゃあ、がんばってね。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>My job ends here.<W><H>Why not take a practice flight to<R>break in the ship?<W><H>Before you fly, there are a few<R>things you should know.<W><H>It's up to you to decide who mans<R>which turret.<W><H><P13>When your crew grows, sit in the<R>pilot's seat to assign everyone's<R>positions.<P15><W><H>And before takeoff, <P13>never forget<R>to equip ammo.<P15><W><H>If \"<P07>Orders to Crew<P15>\" shows in<R>red,<W><H>it means someone assigned to a<R>turret has no ammo. Equip them<R>with some right away.<W><H>Also, <P13>whenever you come back from<R>a battle, always report to the<R>Supply Office<P15>.<W><H>Got it? Then good luck.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#150",
      "jp": "ゼクセル大佐：<R>ん？　用は済んだはずだが。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Hm? I believe our business is<R>concluded.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#151",
      "jp": "ゼクセル大佐：<R>どうかな、少尉。<W><H>飛空船は気に入って<R>もらえたかな？<W><H>わたしは君に期待しているのだ。<W><H>われわれの先祖のパスク人と同じ<R>ように天から降ってきた、<R>君の優秀な血にね。<W><H>ノイパスクのために<R>がんばってくれたまえ。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Well, Lieutenant?<W><H>Is the airship to your liking?<W><H>I have high hopes for you.<W><H>For your superior blood. You fell<R>from the sky, just as our<R>ancestors the Pask did.<W><H>Do your best for Noipask.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#152",
      "jp": "ゼクセル大佐：<R>ノイパスクのために<R>がんばってくれたまえ。<W><E>",
-     "en": ""
+     "en": "Colonel Zexel:<R>Do your best for Noipask.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#153",
      "jp": "オデナウデ長官：<R>何か用か？<W><H>用がないならとっとと消えて<R>もらいたいな。<W><E>",
-     "en": ""
+     "en": "Commander Odenaude:<R>What do you want?<W><H>If you have no business here,<R>kindly get lost.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#154",
      "jp": "オデナウデ長官：<R>せいぜいがんばるがいい。<W><H>どこまでできるか、とくと<R>見させてもらうぞ。<W><E>",
-     "en": ""
+     "en": "Commander Odenaude:<R>Go on, do your best.<W><H>I'll be watching closely to see<R>just how far you get.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#155",
      "jp": "ノイパスク兵：<R>勤務中の私語は厳禁だ！<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>No chitchat while on duty!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#156",
      "jp": "マスター：<R>………<W><E>",
-     "en": ""
+     "en": "Master:<R>...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#157",
      "jp": "<F62>：<R>おい、なにか飲ませてくれ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey, get me something to drink.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#158",
      "jp": "マスター：<R>………<W><E>",
-     "en": ""
+     "en": "Master:<R>...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#159",
      "jp": "<F62>：<R>おい！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hey!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#160",
      "jp": "マスター：<R>……よそものが！　ほらよ！<W><E>",
-     "en": ""
+     "en": "Master:<R>...Outsider! Here!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#161",
      "jp": "<F62>：<R>まったく！<W><H>ゴクッ。<W><H>うえっ！　こりゃきつい酒だな。<R>みんなこんなのを飲んでるのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Geez!<W><H>Gulp.<W><H>Bleh! That's some strong stuff.<R>Everyone drinks this?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#162",
      "jp": "マスター：<R>………<W><E>",
-     "en": ""
+     "en": "Master:<R>...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#163",
      "jp": "<F62>：<R>くそ、客を客とも思っちゃいねぇ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Damn, he doesn't treat customers<R>like customers.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#164",
      "jp": "マスター：<R>………<W><E>",
-     "en": ""
+     "en": "Master:<R>...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#165",
      "jp": "男：<R>あーん？　なんだよおまえ！<R>とっとと、うせろ！<W><E>",
-     "en": ""
+     "en": "Man:<R>Huh? What do you want? Get lost!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#166",
      "jp": "男：<R>どこの馬の骨かわからない男が<R>少尉だなんて……世も末だね！<W><E>",
-     "en": ""
+     "en": "Man:<R>Some nobody from who-knows-where<R>made a lieutenant... What's the<R>world coming to!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#167",
      "jp": "ノイパスク兵：<R>俺はひとりで酒が飲みたいんだ。<R>ほっといてくれ。<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>I want to drink alone. Leave me<R>be.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#168",
      "jp": "ノイパスク兵：<R>本当は俺が少尉になるはずだった<R>のに…ちくしょう！<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>I was supposed to make<R>lieutenant... Damn it!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#169",
      "jp": "<F62>：<R>カフィじゃないか。<R>こんなところにいたのか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Kafi? So this is where you were.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#170",
      "jp": "カフィ中佐：<R>結論は出たの？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Have you made up your mind?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#171",
      "jp": "<F62>：<R>いや。<R>あんたはどう思う？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>No. What do you think?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#172",
      "jp": "カフィ中佐：<R>それはあなたが決めることよ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>That's for you to decide.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#173",
      "jp": "<F62>：<R>オレはまだ、この星のことは<R>全然わからないんだぜ……<W><H>じいさんにいろいろ聞いたけど<R>チンプンカンプンだ。<W><H>簡単に結論なんて出せないよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I still don't know the first thing<R>about this planet...<W><H>I asked the old man about all<R>kinds of stuff, but it was all<R>gibberish to me.<W><H>I can't just decide on the spot.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#174",
      "jp": "カフィ中佐：<R>そうねぇ……<W><H>じゃあ、この星で戦争している<R>理由を説明してあげるわ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>I see...<W><H>Then let me explain why there's a<R>war on this planet.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#175",
      "jp": "<F62>：<R>なるほど。<W><H>今のノイパスクの状況が<R>少しわかったよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>I see.<W><H>Now I get a little of how things<R>stand with Noipask.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#176",
      "jp": "カフィ中佐：<R>ノイパスク人は基本的にこの星の<R>人たちを嫌悪しているわ。<W><H>ム連邦との和平も一時的なもので、<R>単純に彼らを利用しているつもり<R>なんでしょうね。<W><H>そんなことじゃ、<R>この星の戦争はいつまでたっても<R>終わらないのに……<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>At heart, the Noipask despise the<R>people of this planet.<W><H>Peace with the Federation is only<R>temporary. They just mean to use<R>them, I suppose.<W><H>At this rate, the war on this<R>planet will never end...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#177",
      "jp": "カフィ中佐：<R>私ね、少しあなたに<R>期待してるの。<W><H>今の状況を変えてくれるかも<R>しれないってね。<W><H>よく考えて答えを出して。<W><H>返事は、直接長官にすると<R>いいわ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>You know, I'm counting on you a<R>little.<W><H>I think you might be able to<R>change the way things are.<W><H>Think it over carefully before you<R>answer.<W><H>Give your answer to the Commander<R>directly.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#178",
      "jp": "カフィ中佐：<R>そうねぇ……<W><H>じゃあ、この星で戦争している<R>理由を説明してあげるわ。<W><H>と、いいたいところだけど、<R>それはまた今度ね。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>I see...<W><H>Then let me explain why there's a<R>war on this planet.<W><H>...is what I'd like to say, but<R>that'll have to wait.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#179",
      "jp": "<F62>：<R>わかった。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Got it.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#180",
      "jp": "カフィ中佐：<R>よく考えて答えを出して。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Kafi:<R>Think it over carefully before you<R>answer.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#181",
      "jp": "看護婦：<R>先生なら上の病室ですよ。<W><E>",
-     "en": ""
+     "en": "Nurse:<R>The doctor's in the ward<R>upstairs.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#182",
      "jp": "看護婦：<R>どうしてみんな兵士になんて<R>なりたがるのかしら。<W><H>ケガ人が増えるばかりだわ。<W><E>",
-     "en": ""
+     "en": "Nurse:<R>Why is everyone so eager to become<R>a soldier?<W><H>All it does is make more<R>wounded.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#183",
      "jp": "ドクター：<R>まったく長い戦いだ………<W><H>医薬品がすっかり底をついて<R>しまった。<W><H>患者を治療する薬がぜんぜん<R>足りないんだ。<W><H>軍部の連中は鈍感だからな、<R>傷ついた者のことなど<R>気にかけもしない。<W><H>あの方……<R>カフィ中佐だけは別だが。<W><E>",
-     "en": ""
+     "en": "Doctor:<R>What a long war this is...<W><H>We've completely run out of<R>medical supplies.<W><H>We don't have nearly enough<R>medicine to treat the patients.<W><H>The military types are<R>thick-skinned. They don't care one<R>bit about the wounded.<W><H>Except for her... Lieutenant<R>Colonel Kafi.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#184",
      "jp": "ドクター：<R>今はいそがしいんだ。<R>話なら、あとにしてくれないか？<W><E>",
-     "en": ""
+     "en": "Doctor:<R>I'm busy right now. Could you talk<R>to me later?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#185",
      "jp": "患者：<R>おい、やぶ医者！<R>この痛みをなんとかしろ！<W><E>",
-     "en": ""
+     "en": "Patient:<R>Hey, quack! Do something about<R>this pain!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#186",
      "jp": "患者：<R>殺してくれぇ！<W><E>",
-     "en": ""
+     "en": "Patient:<R>Just kill meee!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#187",
      "jp": "患者：<R>ううっ……<W><E>",
-     "en": ""
+     "en": "Patient:<R>Ugh...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#188",
      "jp": "患者：<R>痛み止めはないのか！<W><E>",
-     "en": ""
+     "en": "Patient:<R>Don't you have any painkillers?!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#189",
      "jp": "患者：<R>いてててて…………<W><E>",
-     "en": ""
+     "en": "Patient:<R>Ow ow ow ow...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#190",
      "jp": "患者：<R>…………<W><E>",
-     "en": ""
+     "en": "Patient:<R>...<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#191",
      "jp": "配給係：<R>何だ、<R><F62>じゃないか。<W><H>ここは配給部だよ。<W><H>戦闘に必要な弾薬類や報奨金は<R>ここで配給されるから、<W><H>戦闘で戦果をあげたら、俺に<R>飛行記録を提出してくれよ。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Well, if it isn't <F62>.<W><H>This is the Supply Office.<W><H>Ammo and the rewards you need for<R>battle are handed out here,<W><H>so when you score in battle, turn<R>in your flight record to me.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#192",
      "jp": "配給係：<R>戦闘をしたらまた来るんだな。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Come back after you've seen some<R>combat.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#193",
      "jp": "配給係：<R>ああ、補給か。<W><H>ええと、訓練飛行ね……<W><H>訓練だったら、<R>給料はこのぐらいだな。<W><H>じゃあ、必要な弾薬類は<R>空港に送っておくから。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Ah, resupply, is it?<W><H>Let's see, a training flight...<W><H>For training, your pay comes to<R>about this much.<W><H>Right, I'll send the ammo you need<R>over to the airport.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#194",
      "jp": "配給係：<R>確かに渡したからな。<W><H>物資が不足してるんだ。<R>大事に使えよ。<W><H>……ん？<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>There, it's handed over.<W><H>Supplies are short. Use them<R>wisely.<W><H>...Hm?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#195",
      "jp": "ノイパスク兵：<R>少尉、ここにいらしたんですか！<R>至急司令部に集まってください！<W><E>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Lieutenant, there you are! Report<R>to headquarters at once!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#196",
      "jp": "配給係：<R>ああ、補給か。<W><H>ええと、訓練飛行ね……<W><H>本来、訓練だったら、<R>給料は少ないのだが、<W><H><P07>今回は体験版ということで<R>特別賞与を与えよう。<P15><W><H>これでエンジンと砲台を<R>交換しておくといい。<W><H>じゃあ、必要な弾薬類は<R>空港に送っておくから。<W><E>",
-     "en": ""
+     "en": "Quartermaster:<R>Ah, resupply, is it?<W><H>Let's see, a training flight...<W><H>Normally training doesn't pay<R>much,<W><H><P07>but since this is the trial<R>version, here's a special bonus.<P15><W><H>Use it to swap out your engine and<R>turrets.<W><H>Right, I'll send the ammo you need<R>over to the airport.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#197",
      "jp": "男：<R>部屋をさがしたって無駄だよ。<W><H>商品はとっくに軍に<R>没収されちまったからな。<W><H>おかげでジャンク屋も店じまいさ。<R>逃げ出す金も船もありゃしない。<W><H>遠い昔、ここは市民でにぎわう<R>繁華街だったんだがな、<W><H>戦争が始まってから、すっかり<R>軍人に占拠されちまった……<W><H>住みづらくなったもんだ。<W><E>",
-     "en": ""
+     "en": "Man:<R>No use searching the rooms.<W><H>The army confiscated all the goods<R>long ago.<W><H>Thanks to them, even the junk shop<R>closed up. No money or ship to get<R>away with, either.<W><H>Long ago, this was a busy downtown<R>full of people,<W><H>but once the war started, the<R>military took over the whole<R>place...<W><H>It's gotten hard to live here.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#198",
      "jp": "男：<R>ナデス島も<R>住みづらくなったもんだ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Nades Island has gotten hard to<R>live on.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#199",

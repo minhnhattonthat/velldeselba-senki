@@ -60,3 +60,17 @@ def test_mission_roundtrip(path):
     tracks = [missiontext.track(dec, b) for b in missiontext.sections(dec)]
     if all(t is None or t[1] == t[2] for t in tracks):  # no dead compiler source: byte-identical
         assert new == dec
+
+
+@pytest.mark.skipif(not TREE.is_dir(), reason="disc not dumped (work/disc)")
+def test_text_section_grows():
+    import scan_bpe
+    mps = (TREE / "2D/GMPS/G10_00.MPS").read_bytes()
+    pos, n, dec, strings = maptext.text_streams(mps)[0]
+    room = (maptext.REGION - maptext.TABLE - sum(map(len, strings))) // len(strings)
+    noise = bytes((i * 97) % 0x5F + 0xA0 for i in range(room))  # incompressible-ish letter-pair leads
+    big = maptext.build(dec, [s[:-1] + noise + b"E" for s in strings])
+    out = maptext.replace_stream(mps, pos, n, big)
+    counts = [int.from_bytes(out[o:o + 2], "little") for o in maptext.SECTIONS]
+    assert len(out) > len(mps) and 0x1000 + sum(counts) * 0x800 == len(out)
+    assert {p: d for p, _, d in scan_bpe.streams(out)}[pos] == big
