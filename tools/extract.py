@@ -1,4 +1,5 @@
-"""extract.py: dump every 2D map string table into script/maps/<path>.json (docs/re/text.md).
+"""extract.py: dump every 2D map string table into script/maps/<path>.json and every referenced EXE string into
+script/exe/<path>.json (docs/re/text.md).
 
     python -X utf8 tools/extract.py [--stats]
 
@@ -12,11 +13,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
+import exetext
 import maptext
 import textcodec
 
 TREE = ROOT / "work/disc/tree"
 SCRIPT = ROOT / "script/maps"
+EXE_SCRIPT = ROOT / "script/exe"
 
 
 def mps_files():
@@ -30,6 +33,20 @@ def extract(path):
         lines = [{"id": f"{rel[:-4]}@{pos:x}#{i}", "jp": textcodec.decode(s), "en": ""} for i, s in enumerate(strings)]
         streams.append({"pos": f"{pos:#x}", "lines": lines})
     return {"file": rel, "streams": streams}
+
+
+def exe_files():
+    return sorted(p for p in TREE.rglob("*") if p.suffix.upper() == ".EXE" or p.name == "SCPS_100.27")
+
+
+def extract_exe(path):
+    """Referenced SJIS strings of one EXE: {"file", "streams": [{"pos": "exe", "lines": [...]}]}."""
+    rel = path.relative_to(TREE).as_posix()
+    exe = path.read_bytes()
+    r = exetext.refs(exe)
+    lines = [{"id": f"{rel}@{a:x}", "jp": textcodec.decode(raw), "en": ""}
+             for a, raw in exetext.strings(exe) if a in r]
+    return {"file": rel, "streams": [{"pos": "exe", "lines": lines}] if lines else []}
 
 
 def merge(new, old):
@@ -48,11 +65,12 @@ def main():
     a = ap.parse_args()
     total = uniq = chars = 0
     seen = set()
-    for p in mps_files():
-        data = extract(p)
+    jobs = [(p, extract, SCRIPT) for p in mps_files()] + [(p, extract_exe, EXE_SCRIPT) for p in exe_files()]
+    for p, fn, dest in jobs:
+        data = fn(p)
         if not data["streams"]:
             continue
-        out = SCRIPT / (data["file"][:-4] + ".json")
+        out = dest / (data["file"] + ".json" if fn is extract_exe else data["file"][:-4] + ".json")
         if out.is_file():
             data = merge(data, json.loads(out.read_text(encoding="utf-8")))
         if not a.stats:

@@ -11,6 +11,17 @@ import textcodec
 
 TREE = ROOT / "work/disc/tree"
 SCRIPTS = sorted((ROOT / "script/maps").rglob("*.json"))
+EXE_SCRIPTS = sorted((ROOT / "script/exe").rglob("*.json"))
+
+
+@pytest.mark.skipif(not TREE.is_dir(), reason="disc not dumped (work/disc)")
+@pytest.mark.parametrize("path", EXE_SCRIPTS, ids=lambda p: p.stem)
+def test_exe_roundtrip(path):
+    import exetext
+    data = json.loads(path.read_text(encoding="utf-8"))
+    raw = dict(exetext.strings((TREE / data["file"]).read_bytes()))
+    for l in data["streams"][0]["lines"]:
+        assert textcodec.encode(l["jp"]) == raw[int(l["id"].rsplit("@", 1)[1], 16)], l["id"]
 
 
 @pytest.mark.skipif(not TREE.is_dir(), reason="disc not dumped (work/disc)")

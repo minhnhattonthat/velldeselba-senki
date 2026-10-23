@@ -1,0 +1,365 @@
+{
+ "file": "2D/HMPS/STAFF2.EXE",
+ "streams": [
+  {
+   "pos": "exe",
+   "lines": [
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020210",
+     "jp": "＝＝＝＝",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@8002021c",
+     "jp": "　装甲　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020228",
+     "jp": "プロペラ",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020234",
+     "jp": "エンジン",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020240",
+     "jp": "　砲台　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@8002024c",
+     "jp": "　装甲補充",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020258",
+     "jp": "　船体修復",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020264",
+     "jp": "　全体修復",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800202d0",
+     "jp": "３Ｄ設定",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800202dc",
+     "jp": "２Ｄ設定",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800202e8",
+     "jp": "歩行速度",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800202f4",
+     "jp": "会話速度",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020300",
+     "jp": "<V2,1,2>：<V3,1,2>：<V4,1,2>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020318",
+     "jp": "飛行時間　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020324",
+     "jp": "　<V1,1,8>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020330",
+     "jp": "撃墜数　　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@8002033c",
+     "jp": "　<V0,1,8>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020348",
+     "jp": "所持金　　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020530",
+     "jp": "・",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020534",
+     "jp": "：",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020538",
+     "jp": "おまけモード",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020548",
+     "jp": "名前：",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020550",
+     "jp": "愛機：",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020558",
+     "jp": "船種：",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020560",
+     "jp": "パルナート・ポック",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020574",
+     "jp": "ガゼラント",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020580",
+     "jp": "ガルガナーク",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020590",
+     "jp": "セブレントリーム",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205a4",
+     "jp": "ヴァルガート",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205b4",
+     "jp": "ジーテガート",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205c4",
+     "jp": "敵機撃墜数",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205d0",
+     "jp": "味方機墜落数",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205e0",
+     "jp": "－",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205e4",
+     "jp": "＋",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205e8",
+     "jp": "総合得点",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@800205f4",
+     "jp": "飛行時間　　　時間　　分　　秒",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020614",
+     "jp": "このデータをセーブすると",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020630",
+     "jp": "おまけモードになります。",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@8002064c",
+     "jp": "終了しますか<$20><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@8002065c",
+     "jp": "はい",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80020664",
+     "jp": "いいえ",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021ab0",
+     "jp": "スロット１",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021abc",
+     "jp": "スロット２",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021ac8",
+     "jp": "データの確認中",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021ad8",
+     "jp": "※メモリーカードの抜き差し禁止",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021af8",
+     "jp": "ここに書き込むことはできません<R><R>操作をやりなおしてください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021b38",
+     "jp": "上書きしますか",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021b48",
+     "jp": "データＳＡＶＥ中",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021b5c",
+     "jp": "<R>　　　　　ＳＡＶＥ終了<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021b78",
+     "jp": "フォーマットしますか？",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021b90",
+     "jp": "フォーマットする",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021ba4",
+     "jp": "フォーマットしない",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021bb8",
+     "jp": "フォーマット中",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021bc8",
+     "jp": "<R>　　　　フォーマット終了<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021be4",
+     "jp": "<R>確認に失敗しました<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021bfc",
+     "jp": "<R>メモリーカードが存在しません<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021c1c",
+     "jp": "メモリーカードが<R>フォーマットされていません<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021c4c",
+     "jp": "　メモリーカードが壊れています<R><R>　交換してください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021c84",
+     "jp": "<R>　ファイルデータが壊れています<R><W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021ca8",
+     "jp": "<R>　　　読み込みに失敗しました<R><W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021ccc",
+     "jp": "メモリーカードの容量が足りません<R><R>メモリーカードを交換してください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021d14",
+     "jp": "　メモリーカードが壊れています<R><R>メモリーカードを交換してください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021d58",
+     "jp": "　　　書き込みに失敗しました<R><R>メモリーカードを交換してください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021d9c",
+     "jp": "　　　新規作成に失敗しました<R><R>メモリーカードを交換してください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021de0",
+     "jp": "　　書き込み異常が発生しました<R><R>メモリーカードを交換してください<W><E>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021fb0",
+     "jp": "データが破壊されています",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021fcc",
+     "jp": "　ファイルの確認に失敗　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80021fe8",
+     "jp": "　読込みを失敗しました　",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80022004",
+     "jp": "<V0,1,2>：<V1,1,2>",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@80022014",
+     "jp": "　　＜空きブロック＞",
+     "en": ""
+    },
+    {
+     "id": "2D/HMPS/STAFF2.EXE@8002202c",
+     "jp": "<P14><$20>空きブロックがありません",
+     "en": ""
+    }
+   ]
+  }
+ ]
+}

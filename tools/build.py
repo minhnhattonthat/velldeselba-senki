@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import check_rom
+import exetext
 import font
 import maptext
 import patch_exe
@@ -59,13 +60,55 @@ def write(rel, data):
     p.write_bytes(data)
 
 
-def patch_exes(hook_bin):
+def scripts(kind):
+    return [json.loads(p.read_text(encoding="utf-8")) for p in sorted((ROOT / "script" / kind).rglob("*.json"))]
+
+
+def memory():
+    """jp -> en from every translated line, so a string repeated across maps or EXEs is translated once."""
+    tm = {}
+    for kind in ("maps", "exe"):
+        for data in scripts(kind):
+            for st in data["streams"]:
+                for l in st["lines"]:
+                    if l["en"]:
+                        tm.setdefault(l["jp"], l["en"])
+    return tm
+
+
+def pick(line, mode, tm):
+    if mode == "marker":
+        return marker(line["id"], line["jp"])
+    return line["en"] or tm.get(line["jp"], line["jp"])
+
+
+def patch_exes(hook_bin, mode, tm):
+    """Hook every EXE; insert its strings (in place, or relocated into the hook block after the hook code)."""
     tree = DISC / "tree"
+    texts = {d["file"]: d for d in scripts("exe")}
+    base = patch_exe.HOOK_BASE + (len(hook_bin) + 3) // 4 * 4
+    limit = patch_exe.HOOK_BASE + patch_exe.HOOK_SIZE
+    errors = []
     for p in sorted(tree.rglob("*")):
-        if p.suffix.upper() == ".EXE" or p.name == "SCPS_100.27":
-            data, n = patch_exe.patch(p.read_bytes(), hook_bin)
-            if n:
-                write(p.relative_to(tree).as_posix(), data)
+        if not (p.suffix.upper() == ".EXE" or p.name == "SCPS_100.27"):
+            continue
+        rel = p.relative_to(tree).as_posix()
+        exe, blob = p.read_bytes(), b""
+        edits = {}
+        for st in texts.get(rel, {"streams": []})["streams"]:
+            for l in st["lines"]:
+                text = pick(l, mode, tm)
+                if text != l["jp"]:
+                    edits[int(l["id"].rsplit("@", 1)[1], 16)] = textcodec.encode(text)
+        try:
+            exe, blob = exetext.apply(exe, edits, base, limit)
+        except ValueError as e:
+            errors.append(f"{rel}: {e}")
+        data, n = patch_exe.patch(exe, hook_bin.ljust(base - patch_exe.HOOK_BASE, b"\0") + blob)
+        if n or edits:
+            write(rel, data)
+    if errors:
+        sys.exit("EXE text does not fit:\n" + "\n".join(errors))
 
 
 def insert_spike():
@@ -80,8 +123,13 @@ def marker(line_id, jp):
     """Same layout as jp, text runs replaced by the id then filler: one full-width char -> two letters."""
     parts = textcodec.CODE.split(jp)
     codes = [m.group() for m in textcodec.CODE.finditer(jp)]
-    name, idx = line_id.split("/")[-1].split("#")
-    stem = name.split("@")[0].replace("_", "")
+    last = line_id.split("/")[-1]
+    if "#" in last:  # map line: G10_00@52800#88 -> G1000:88
+        name, idx = last.split("#")
+        stem = name.split("@")[0].replace("_", "")
+    else:  # EXE string: G1000.EXE@800209e0 -> G1000:9e0
+        name, addr = last.split("@")
+        stem, idx = name.split(".")[0], addr[-3:]
     tag, short = f"{stem}:{idx} ", f":{idx}"
     out, first = [], True
     texts = parts[::4]  # split() returns text, then the 3 groups of each code
@@ -99,11 +147,10 @@ def marker(line_id, jp):
     return "".join(out)
 
 
-def insert_maps(mode):
+def insert_maps(mode, tm):
     """mode 'en': translated lines (others stay Japanese); 'marker': every line as its marker."""
     errors = []
-    for path in sorted((ROOT / "script/maps").rglob("*.json")):
-        data = json.loads(path.read_text(encoding="utf-8"))
+    for data in scripts("maps"):
         rel = data["file"]
         mps = (DISC / "tree" / rel).read_bytes()
         streams = {f"{p:#x}": (p, n, dec) for p, n, dec, _ in maptext.text_streams(mps)}
@@ -112,7 +159,7 @@ def insert_maps(mode):
             pos, n, dec = streams[st["pos"]]
             strings = []
             for l in st["lines"]:
-                text = marker(l["id"], l["jp"]) if mode == "marker" else (l["en"] or l["jp"])
+                text = pick(l, mode, tm)
                 strings.append(textcodec.encode(text))
                 changed |= text != l["jp"]
             try:
@@ -156,11 +203,13 @@ def main():
     unpack()
     shutil.rmtree(FILES, ignore_errors=True)
     FILES.mkdir(parents=True)
-    patch_exes(hook())
+    mode = "marker" if a.marker else "en"
+    tm = memory()
+    patch_exes(hook(), "en" if a.spike else mode, tm)
     if a.spike:
         insert_spike()
     else:
-        insert_maps("marker" if a.marker else "en")
+        insert_maps(mode, tm)
     layout()
     run([str(ROOT / "tools/mkpsxiso/mkpsxiso.exe"), "-y", "-o", str(OUT.with_suffix(".bin")),
          "-c", str(OUT.with_suffix(".cue")), str(BUILD / "layout.xml")], cwd=BUILD)
