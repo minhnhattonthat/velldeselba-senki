@@ -24,21 +24,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
     box holds a lone row); existing script rewrapped. Name-entry blank slots showed "Su": the pad string `　〆`
     had been translated via the TM; kept Japanese in all 62 EXEs. FMV subtitles: STR1/2/4/5 (`tools/fmv.py`,
     `script/fmv/`, `docs/re/fmv.md`), seen in-game on STR1.
+  - 2026-10-24 later: 3D results/ammo messages in English (`patch_exe.results3d`, not seen in-game: no battle
+    warp); polish pass p001 (78 minors) merged; `<F63>` ship name counted as 8 cells; `tools/release.py`
+    (test package v0.9-test built and re-applied OK, patch 45 MB, mostly FMV frames); `texttour.py` dialogue tour.
+    No unextracted Japanese left in built EXEs (only grid/kana tables and code bytes).
 - **Next:**
-  1. EXE/DAT batches (work/tl/b001-b005, 747 strings; dialogue batches archived in work/tl/dialogue/) translated
-     and merged; no Japanese left in script/. Not yet reviewed. Staff roll: full Western-order names, readings
-     unverified (check against a credits source, e.g. MobyGames). Seen in-game: place banner, field menu
-     (A0100), staff roll (test disc booting STAFF.EXE, scratch `bootdisc.py`). Not yet seen: shops, ship parts,
-     options, save screens, DEMO.EXE, HT.EXE 3D menus (option columns kept at the JP cells, unverified).
-  2. 3D trims not yet seen in-game (no warp to missions past the G44 tutorial).
+  1. Visual-QA gate: texttour + tour2d sheets -> `qa_gate.py init work/qa/manifest.tsv ...`, reviewer subagents
+     (`$SKILL/assets/visual-qa-brief.md`), fix issues, `qa_gate.py check`.
+  2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
+     results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
+  3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).
+  4. Staff roll guesses: 吉川剛史, 見城加奈子, 手島大 (given name), 新島平佐. Title logo stays original art (D5 scope).
+  5. Ship name stays full-width (one letter per cell); a name_pack-style converter would halve its width.
+  6. Release v1.0 when the user asks (`tools/release.py 1.0`); publishing is the user's call.
   - Staff roll engine notes: STAFF.EXE sends codes > 0x989E to its own kanji table (patched to 0xFFFF,
     patch_exe.STAFF_SPLIT); roles are right-aligned by x in a 16-byte entry table (tools/staffroll.py); English
     only fits when packed (exetext repack mode).
-  3. Ship-name entry (map EXEs) stores full-width letters (one per cell): `<F63>` not counted by lint; add a
-     converter like name_pack or cap the ship name length.
-  4. 3D printf groups in HT.EXE/DEMO.EXE (base+offset pieces).
-  5. Title logo redraw; staff roll (STAFF.EXE text is in script/exe).
-  6. Polish pass (minors), whole-game sampled review, in-game QA tour, release tooling (`tools/release.py`).
 - **Open bugs:** none.
 - **Waiting on the user:** nothing.
 - **States:** `work/states/en_intro_fmv.sstate` (built disc incl. name entry, f30000 of New Game; regenerate after

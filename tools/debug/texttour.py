@@ -75,7 +75,7 @@ def main():
     shots = [first + k * PAGE - 4 for k in range(presses + 1)]
     cmd = [sys.executable, "-X", "utf8", str(Path(SCRIPTS) / "emu.py"), str(ROOT / "build/velldeselba_en.cue"),
            "--out", str(out), "--state-in", str(ROOT / "work/states/en_intro_fmv.sstate"), "--route", str(route),
-           "--frames", str(frames), "--shots", ",".join(map(str, shots)), "--mash", str(PAGE),
+           "--frames", str(frames), "--timeout", str(120 + frames // 60), "--shots", ",".join(map(str, shots)), "--mash", str(PAGE),
            "--mash-key", "circle", "--debugger", "--script", str(out / "list.lua"),
            "--script", str(ROOT / "tools/debug/textview.lua")]
     if subprocess.call(cmd):
