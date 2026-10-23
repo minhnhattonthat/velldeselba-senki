@@ -12,7 +12,8 @@ Widths in letters (one 16x15 cell = 2 letters, textcodec.cells):
 - BERU_FL1.DAT names (ships, parts, items, crew): at most 27 bytes (27 letters); menu widths not measured yet.
 - 3D mission blocks: a message ends at <@hh> or a blank line (<R><R>); 3 rows of 30 letters (JP max 15 chars;
   not yet measured on screen).
-Codes other than <R>/<W>/<H> must match the Japanese in order; <F62>/<%S> (player name) count as 4 cells.
+Codes other than <R>/<W>/<H> must match the Japanese in order; <F62>/<%S> (player name) count as 4 cells,
+<F63> (ship name, full-width letters) as 8.
 """
 import json
 import re
@@ -27,6 +28,7 @@ import textcodec
 
 LAYOUT = {"R", "W", "H"}
 NAME_CELLS = 4
+SHIP_CELLS = 8  # ship name <F63>: typed on the grid, stored full-width (one letter per cell), 8 slots like the name
 STAFF_CELLS = 15
 
 
@@ -42,7 +44,8 @@ def width(row):
     name."""
     row = row.split("<W>")[0]
     runs = textcodec.CODE.split(row)[::4]
-    return sum(textcodec.cells(t.rstrip("　 ")) for t in runs) + NAME_CELLS * row.count("<F62>")
+    return (sum(textcodec.cells(t.rstrip("　 ")) for t in runs) + NAME_CELLS * row.count("<F62>")
+            + SHIP_CELLS * row.count("<F63>"))
 
 
 def codes(s):
