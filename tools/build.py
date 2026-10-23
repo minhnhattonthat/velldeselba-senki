@@ -21,6 +21,7 @@ import exetext
 import font
 import maptext
 import missiontext
+import namegrid
 import patch_exe
 import scan_bpe
 import textcodec
@@ -96,7 +97,7 @@ def patch_exes(hook_bin, mode, tm):
         if not (p.suffix.upper() == ".EXE" or p.name == "SCPS_100.27"):
             continue
         rel = p.relative_to(tree).as_posix()
-        exe, blob = p.read_bytes(), b""
+        exe, blob = namegrid.apply(p.read_bytes()), b""
         edits = {}
         for st in texts.get(rel, {"streams": []})["streams"]:
             for l in st["lines"]:

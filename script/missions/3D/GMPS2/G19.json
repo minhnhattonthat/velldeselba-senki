@@ -7,17 +7,17 @@
     {
      "id": "3D/GMPS2/G19#0",
      "jp": "<*07>オユ・キクル：<R>今回の任務は、ニ・デム島の<R>足を止めることです。<R><R><*04>ノイパスク艦隊は<R>クゥエラドーマ３機が<R>発進してきています。<R><R><*02>何とか修理の間に合った<R>ガゼラント２機と、<R><R><*00>私たちでニ・デム島の侵攻を<R>阻止しなければいけません。<R>",
-     "en": ""
+     "en": "<*07>Oyu Kikuru:<R>This time, our job is to halt<R>Ni-Dem Island.<R><R><*04>The Noipask fleet has launched<R>three Quelladomas.<R><R><*02>With the two Gazelants that<R>were barely repaired in time<R><R><*00>and ourselves, we must stop<R>Ni-Dem Island's advance.<R>"
     },
     {
      "id": "3D/GMPS2/G19#1",
      "jp": "オユ・キクル：<R>ニ・デム島砲台、および敵機、<R>すべて破壊しました。<R><@18><%S><_00>：<R>よし、乗り込んで制圧する！<R><@20>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Ni-Dem Island's turrets and<R>enemy craft, all destroyed!<R><@18><%S><_00>:<R>All right, we'll go in and<R>take it!<R><@20>"
     },
     {
      "id": "3D/GMPS2/G19#2",
      "jp": "ニ・デム島のガジス進行を<R>くいとめられなかった。<R><@20>",
-     "en": ""
+     "en": "We failed to stop Ni-Dem<R>Island's advance on Gajis.<R><@20>"
     }
    ]
   }

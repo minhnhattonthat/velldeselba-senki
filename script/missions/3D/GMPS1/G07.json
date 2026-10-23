@@ -7,22 +7,22 @@
     {
      "id": "3D/GMPS1/G07#0",
      "jp": "ハウエズナ：<R>後方に、敵船団迫って<R>きています。<R><R>かなりの数です！<R><R><*0a>ガゼラントが５機。<R><R><*07>ガルガナークが３機。<R><R>ダメです。スラークまで<R>もちません。<R>追い付かれます！<R>",
-     "en": ""
+     "en": "Hauezna:<R>An enemy fleet is closing in<R>from behind.<R><R>A big one!<R><R><*0a>Five Gazelants.<R><R><*07>Three Garganaks.<R><R>No good. We won't hold out<R>until Slark.<R>They'll catch up to us!<R>"
     },
     {
      "id": "3D/GMPS1/G07#1",
      "jp": "オユ・キクル：<R>ゼクセル大佐からの連絡です！<R><@18>敵を足止めし、<R>民間人を乗せた大型輸送船を<R>護衛しろとの事です。<R><@20>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Message from Colonel Zexel!<R><@18>We're to hold off the enemy<R>and escort the large transport<R>carrying civilians.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G07#2",
      "jp": "オユ・キクル：<R>撤退命令です！　船団の後を<R>ついてこいとのことです。<R><@18>味方の船団は、<R>進路を、オルダナスピ方面に<R>変更しています。<R><@18><%S><_00>：<R>オルダナスピ？<R><@18>ハウエズナ：<R>四方を高い山に囲まれた<R>永世中立国です。<R><@18>永世中立国に逃げ込んで、<R>ギダン軍との戦闘を<R>回避するつもりでしょうか？<R><@18><%S><_00>：<R>だろうな。<R><@20>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Retreat orders! We're to<R>follow the convoy.<R><@18>Our convoy has changed course<R>toward Oldanaspi.<R><@18><%S><_00>:<R>Oldanaspi?<R><@18>Hauezna:<R>A permanently neutral nation<R>ringed by high mountains.<R><@18>Do they mean to flee into a<R>neutral nation to avoid<R>fighting the Gidan army?<R><@18><%S><_00>:<R>Guess so.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G07#3",
      "jp": "民間船を守る事が<R>できなかった。<R><@20>",
-     "en": ""
+     "en": "We failed to protect the<R>civilian ships.<R><@20>"
     }
    ]
   }

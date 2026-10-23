@@ -51,6 +51,15 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - Copy the speaker from the Japanese label; never infer it from who is addressed (a pilot line was mislabelled).
 - Dead or test strings (ダミー, 体験版 notes) are still translated plainly.
 
+## Notes from earlier batches
+- A label without a rank (plain カフィ) stays without one ("Kafi:"); ranks change by chapter: copy the JP's.
+- Item and ammo names are proper names from the glossary (b001); in running dialogue they may be lowercase
+  ("burst shells"), never another word ("incendiary rounds" was wrong).
+- Avoid double negatives with "doubt" ("I doubt X has nothing to do with it"): say it plainly.
+- Keep formal speakers formal in short lines too (Hauezna "It's hopeless, sir." not "No good.").
+- Don't add a gender the JP doesn't give ("Bring the envoy here", not "him").
+- Japanese-isms to avoid: "Thank you for your hard work" -> "Good work out there".
+
 ## Consistency
 Never edit `glossary.md` or any file other than your output. For a recurring name or term not in the glossary, pick a
 form, use it consistently, and report it.

@@ -7,12 +7,12 @@
     {
      "id": "3D/GMPS1/G01#0",
      "jp": "ノイパスク兵：<R>飛行訓練は、浮遊するブイを<R>相手におこなう。<R><R><*02>レーダーに、映し出される<R>赤い点が、ブイの位置を、<R>示している。<R><R><*01>白い点が、ここ、ナデス島だ。<R><R><*02>ブイに、十分近づいたら、<R>照準を合わせて、撃つ！<R><R><*ff>照準が、目標を認識すると、<R>自動で標的を狙うから、<R><R>あとは、攻撃ボタンを、<R>押したまま、目標から離れ<R>なければ、落とせるだろう。<R><R>加速ボタンと減速ボタンを<R>同時に押せば、時間を早回し<R>にすることができるから、<R><R>目標が、遠い時は、<R>目標の方に進路を合わせて<R>時間を早回しするといい。<R><R><*02>訓練は、ブイを全て撃墜すると<R>終了になる。<R><R>では、訓練開始するぞ。<R>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Flight training uses floating<R>buoys as targets.<R><R><*02>The red dots on the radar show<R>where the buoys are.<R><R><*01>The white dot is here: Nades<R>Island.<R><R><*02>Once you're close enough to a<R>buoy, line up your sights and<R>fire!<R><R><*ff>When the sight locks on to a<R>target, it aims at it<R>automatically,<R><R>so just hold the attack button<R>and stay on the target to<R>bring it down.<R><R>Press the accelerate and<R>decelerate buttons together to<R>fast-forward time,<R><R>so when a target is far off,<R>steer toward it and<R>fast-forward.<R><R><*02>Training ends when you've shot<R>down every buoy.<R><R>All right, begin training.<R>"
     },
     {
      "id": "3D/GMPS1/G01#1",
      "jp": "オユ・キクル：<R>これで全部、落としましたね。<R><@18>戻りましょう。<R><@20>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>That's all of them shot down!<R><@18>Let's head back.<R><@20>"
     }
    ]
   }

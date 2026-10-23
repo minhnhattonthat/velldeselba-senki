@@ -7,12 +7,12 @@
     {
      "id": "3D/GMPS2/G15#0",
      "jp": "<*01>オユ・キクル：<R>今回の作戦に当たっては、<R>ガシザキノ中佐も参加されます。<R><R><*05>敵戦力は、<R>クゥエラドーマ級が２機<R><R><*07>小型艦の<R>ファッフローテ級が２機。<R><R>いずれも、新造艦のようです。<R><R><*09>ダナスピ前線には、空中砲台が<R>４機配置されています。<R><R>今回の任務は、これら敵戦力と<R>なるものをすべて破壊し、<R><R>ダナスピに立てこもる<R>ノイパスクを降伏させ、<R>ダナスピを解放することです。<R><R>カフィ中佐たちは、<R>大丈夫でしょうか？<R>",
-     "en": ""
+     "en": "<*01>Oyu Kikuru:<R>This time, Lieutenant Colonel<R>Gashizakino is joining us.<R><R><*05>Enemy forces: two<R>Quelladoma-class,<R><R><*07>and two small Faffrote-class<R>ships.<R><R>Both seem to be new builds.<R><R><*09>Four aerial turrets are<R>deployed on the Danaspi front<R>line.<R><R>Our mission is to destroy all<R>of these enemy forces,<R><R>make the Noipask holed up in<R>Danaspi surrender, and<R>liberate Danaspi.<R><R>I wonder if Lieutenant Colonel<R>Kafi and the others are all<R>right...<R>"
     },
     {
      "id": "3D/GMPS2/G15#1",
      "jp": "<%S><_00>：<R>よし、ダナスピに強行着陸だ！<R><@14>ハウエズナ：<R>しかし、まだ危険です！<R><@10><%S><_00>：<R>かまうもんか！<R><@18>",
-     "en": ""
+     "en": "<%S><_00>:<R>Right, we're forcing a landing<R>at Danaspi!<R><@14>Hauezna:<R>But it's still dangerous!<R><@10><%S><_00>:<R>Who cares!<R><@18>"
     }
    ]
   }

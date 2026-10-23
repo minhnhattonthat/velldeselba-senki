@@ -7,12 +7,12 @@
     {
      "id": "3D/GMPS2/G18#0",
      "jp": "<*0a>オユ・キクル：<R>ミ・デム島の攻略が<R>今回の任務です。<R><R><*05>ミ・デム島には護衛艦隊として<R>クゥエラドーマが３機、<R><R><*08>ファッフローテが２機配備<R>されています。<R><R><*01>私達ギダン軍は、ガシザキノ<R>大佐のガルガナークと、<R><R><*02>ガゼラント３機で、<R>ミ・デム島を攻略します。<R><R>ガゼラント３機が<R>ノイパスクの護衛艦隊を<R>引き付けておいて……<R><R><*0a>ガシザキノ大佐と私たちで<R>ミ・デム島を攻略します。<R><R>ミ・デム島の砲台を攻撃し、<R>すべての砲台を<R>破壊してください。<R>",
-     "en": ""
+     "en": "<*0a>Oyu Kikuru:<R>Our mission this time is to<R>capture Mi-Dem Island.<R><R><*05>Guarding Mi-Dem Island is an<R>escort fleet of three<R>Quelladomas<R><R><*08>and two Faffrotes.<R><R><*01>We of the Gidan army will use<R>Colonel Gashizakino's Garganak<R><R><*02>and three Gazelants to take<R>Mi-Dem Island.<R><R>The three Gazelants will draw<R>off the Noipask escort<R>fleet...<R><R><*0a>while we and Colonel<R>Gashizakino capture Mi-Dem<R>Island.<R><R>Please attack Mi-Dem Island's<R>turrets and destroy every last<R>one.<R>"
     },
     {
      "id": "3D/GMPS2/G18#1",
      "jp": "オユ・キクル：<R>ミ・デム島の砲台、<R>すべて破壊しました！<R><@18><%S><_00>：<R>よし、乗り込むぞ。<R><@20>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Mi-Dem Island's turrets are<R>all destroyed!<R><@18><%S><_00>:<R>Good, we're going in.<R><@20>"
     }
    ]
   }

@@ -168,6 +168,19 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ガルガナーク / ガゼラント | Garganak / Gazelant | | ship classes; nicknames カタナ "Katana", 長靴 "Boots" | |
 | ジーテガート / ヴァルガート | Jitegart / Valgart | | pirate ship models | |
 | トーテムポール | Totem Pole | | Sidel's fortress | |
+| 裂弾 / 強化裂弾 / 散弾 / 徹甲弾 / メタル徹甲弾 / ねじり徹甲弾 | Burst Shell / Heavy Burst Shell / Scatter Shell / Armor Piercer / Metal Piercer / Spiral Piercer | | ammo item names (b001); in dialogue lowercase "burst shells" | rounds |
+| 焼夷弾 / ぶどう弾 / 三式弾 / ロケット弾 / 誘導ロケット弾 | Incendiary Shell / Grapeshot / Type 3 Shell / Rocket / Guided Rocket | | | incendiary rounds |
+| 風船爆弾 / 浮遊機雷 / 笑い胞子弾 / 催涙花粉弾 / ショック音弾 / 絶命弾 | Balloon Bomb / Floating Mine / Laugh Spore Shell / Tear Pollen Shell / Shock Sound Shell / Deathblow Shell | | | |
+| 装甲板 / 装甲板の材料 | armor plate / Armor Plate Materials | | | |
+| 変なもの / カギ束 / 密書 / 木箱 / 記念写真 / 医療品セット | Strange Object / Bunch of Keys / Secret Letter / Wooden Crate / Souvenir Photo / Medical Kit | | key items | |
+| ヘビ酒 / 昇天フカヒレ / ダナまんじゅう / ドラゴンの薫製 | Snake Wine / Heavenly Shark Fin / Dana Buns / Smoked Dragon | | trade goods (full list in b001) | Ascension Shark Fin |
+| ＳＨＧオイル / ミスリル / 鉄鉱石 / 金 | SHG Oil / mithril / Iron Ore / Gold | | | |
+| 空中砲台 / 浮遊砲台 | aerial turret / aerial turret | | same object | floating turret |
+| 国王船 / 民間船 / 商船 / 偵察機 | royal ship / civilian ship / merchant ship / scout craft | | | |
+| クゥエラドーマ / パルナート・ポック / ファッフローテ | Quelladoma / Parnat Pock / Faffrote | | ship classes; 級 = -class | |
+| サグリットカーム / カーロカーム | Sagritkahm / Karokahm | | ship classes | |
+| ギダン将校 / ノイパスク全権大使 | Gidan Officer / Noipask Plenipotentiary | | speaker forms | |
+| 女空賊 | woman sky pirate | | profile tag "Female sky pirate" if it fits | |
 
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)

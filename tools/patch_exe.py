@@ -14,6 +14,14 @@ STUB = struct.pack("<III", 0x240A00B0, 0x01400008, 0x24090051)
 SIG_OLD = bytes.fromhex("8386033c" "0180023c" "4c5a428c" "83496334")  # lui v1,0x8683; lui v0,0x8001; lw v0,0x5A4C(v0); ori v1,0x4983
 SIG_NEW = bytes.fromhex("445c033c" "0180023c" "0c61428c" "5c326334")  # lui v1,0x5C44; ...; lw v0,0x610C(v0); ori v1,0x325C
 
+# TITLE.EXE 0x80025B00: the loop copying the entered player name (0x80010200) to 0x800159EC, byte by byte.
+# Replaced by name_pack(dst = fp, src = s2) (hook.asm, 0x8001F100): grid letters -> English letter pairs.
+NAME_PACK = 0x8001F100
+NAME_COPY_OLD = bytes.fromhex("00004292000000000a004010211840022120c003000062900100632401009426"
+                              "000082a00000629000000000f9ff4014010084242110d403000040a0")
+# 0x80025AE8 branches to 0x80025B04 when a name was typed, so the call starts there: nop; move a0,fp; jal; move a1,s2
+NAME_COPY_NEW = struct.pack("<4I", 0, 0x03C02021, 0x0C000000 | (NAME_PACK >> 2 & 0x03FFFFFF), 0x02402821) + bytes(44)
+
 
 def jal(target):
     return 0x0C000000 | ((target >> 2) & 0x03FFFFFF)
@@ -46,7 +54,7 @@ def patch(exe, hook):
                 body[i:i + 4] = new
                 n += 1
             i = body.find(want, i + 1)
-    body = bytearray(body.replace(SIG_OLD, SIG_NEW))
+    body = bytearray(body.replace(SIG_OLD, SIG_NEW).replace(NAME_COPY_OLD, NAME_COPY_NEW))
     head = bytearray(exe[:0x800])
     struct.pack_into("<II", head, 0x18, HOOK_BASE, t_size + HOOK_SIZE)
     return bytes(head) + hook.ljust(HOOK_SIZE, b"\0") + bytes(body) + exe[0x800 + t_size:], n

@@ -7,17 +7,17 @@
     {
      "id": "3D/GMPS1/G03#0",
      "jp": "<*00>ミデーレキサタに、行くには<R>グラシアル・ギダン王国領土を、<R>通らなければならない。<R><R>川を隔てた東側が、ムノギイ<R>連邦共和国となっている。<R><R>ミデーレキサタは、<R>川を越えた南東に位置する、<R>ム連邦の街である。<R><R>マップ上では、右下の矢印が、<R>その方向を示している。<R>",
-     "en": ""
+     "en": "<*00>To reach Miderekisata, you<R>must cross the territory of<R>the Kingdom of Glacial Gidan.<R><R>East across the river lies the<R>Munogi Federal Republic.<R><R>Miderekisata is a Federation<R>city to the southeast, across<R>the river.<R><R>On the map, the arrow at the<R>bottom right shows that<R>direction.<R>"
     },
     {
      "id": "3D/GMPS1/G03#1",
      "jp": "オユ・キクル：<R>なんか、ずっと海ですねぇ。<R><@18>カフィ：<R>そろそろ、陸が見えるんじゃ<R>ないかしら。<R><@20>オユ・キクル：<R>あ、見えた、見えた。<R><@18>じゃあ、ミデーレキサタまで<R>あと少しですね。<R><@1c>ハウエズナ：<R>大変です！<R><@18>ギダン軍のパトロール艇に<R>発見されたようです！<R><@1c>カフィ：<R>少尉、振り切れる？<R><@20>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Gosh, it's been nothing but<R>sea this whole time.<R><@18>Kafi:<R>We should be seeing land soon,<R>I'd think.<R><@20>Oyu Kikuru:<R>Oh, there it is, there it is!<R><@18>Then we're almost at<R>Miderekisata!<R><@1c>Hauezna:<R>This is bad!<R><@18>A Gidan patrol ship seems to<R>have spotted us!<R><@1c>Kafi:<R>Lieutenant, can you shake them<R>off?<R><@20>"
     },
     {
      "id": "3D/GMPS1/G03#2",
      "jp": "<%S><_00>：<R>国境は、越えた。<R><@14>ミデーレキサタまで、<R>もう一息だな。<R><@20>",
-     "en": ""
+     "en": "<%S><_00>:<R>We're across the border.<R><@14>Almost to Miderekisata now.<R><@20>"
     }
    ]
   }

@@ -447,42 +447,42 @@
     {
      "id": "2D/GMPS/G06_00@30000#88",
      "jp": "<F62>：<R>ノイパスク軍はすでに<R>撤退してしまったようだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Looks like the Noipask army's<R>already pulled out.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#89",
      "jp": "<F62>：<R>補給物資だな。<W><H>少しいただいていくか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Supplies, huh.<W><H>Guess I'll help myself to a few.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#90",
      "jp": "<P13>プロペラ魚雷を<R>５００発手に入れた。<W><H>ロケット弾を<R>３００発手に入れた。<W><H>誘導ロケット弾を<R>１００発手に入れた。<W><H>ぶどう弾を<R>３００発手に入れた。<W><H>ねじり徹甲弾を<R>３００発手に入れた。<W><H>修理キットを<R>８０個手に入れた。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Obtained 500 propeller<R>torpedoes.<W><H>Obtained 300 rockets.<W><H>Obtained 100 guided rockets.<W><H>Obtained 300 grapeshot rounds.<W><H>Obtained 300 spiral armor-piercing<R>rounds.<W><H>Obtained 80 repair kits.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#91",
      "jp": "<F62>：<R>装甲板の材料もあるな。<W><H>フラグナムに頼めば、こいつで<R>装甲板が作れるかな？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>There's armor plate material here,<R>too.<W><H>If I ask Fragnum, could she make<R>armor plates out of this?<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#92",
      "jp": "<P13>装甲板の材料を手に入れた。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Obtained armor plate material.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#93",
      "jp": "<F62>：<R>この補給物資のおかげで<R>ずいぶん助かったぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>These supplies sure helped a<R>lot.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#94",
      "jp": "<P13>プロペラ魚雷を<R>５００発手に入れた。<W><H>ロケット弾を<R>５００発手に入れた。<W><H>誘導ロケット弾を<R>１００発手に入れた。<W><H>ぶどう弾を<R>３００発手に入れた。<W><H>ねじり徹甲弾を<R>３００発手に入れた。<W><H>焼夷弾を<R>３００発手に入れた。<W><H>修理キットを<R>１００個手に入れた。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Obtained 500 propeller<R>torpedoes.<W><H>Obtained 500 rockets.<W><H>Obtained 100 guided rockets.<W><H>Obtained 300 grapeshot rounds.<W><H>Obtained 300 spiral armor-piercing<R>rounds.<W><H>Obtained 300 incendiary rounds.<W><H>Obtained 100 repair kits.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#95",
      "jp": "<F62>：<R>またフラグナムたちに<R>装甲板を貼ってもらうか。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Guess I'll have Fragnum and the<R>others put armor plates on<R>again.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#96",
@@ -492,62 +492,62 @@
     {
      "id": "2D/GMPS/G06_00@30000#97",
      "jp": "<F62>：<R>フラグナム！<R>来てくれ！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Fragnum! Come here!<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#98",
      "jp": "フラグナム：<R>はい。<R>なんでしょうか。<W><E>",
-     "en": ""
+     "en": "Fragnum:<R>Yes. What is it?<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#99",
      "jp": "<F62>：<R>この装甲板、使えるか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Can you use this armor plating?<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#100",
      "jp": "<P13>装甲板の材料を渡した。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Handed over the armor plate<R>material.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#101",
      "jp": "フラグナム：<R>そうですね……<W><H>専門外ですが、やってみます。<W><E>",
-     "en": ""
+     "en": "Fragnum:<R>Let me see...<W><H>It's not my specialty, but I shall<R>give it a try.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#102",
      "jp": "カフィ：<R>ミ・デム島から連絡よ！<W><H>イ・デム島から敵の本隊が<R>出てきたわ！<W><H>ニ・デム島はおとりだったのよ。<W><E>",
-     "en": ""
+     "en": "Kafi:<R>Word from Mi-Dem Island!<W><H>The enemy's main force has come<R>out of I-Dem Island!<W><H>Ni-Dem Island was a decoy!<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#103",
      "jp": "<F62>：<R>ちきしょう！<W><H>急いで引き返すぞ！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Damn it!<W><H>We're turning back, fast!<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#104",
      "jp": "<P13>フラグナムたちの手により、<R>船に装甲板が貼られました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Fragnum and the others fitted the<R>ship with armor plates.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#105",
      "jp": "カフィ：<R><F62>、<R>ガシザキノ艦から連絡よ。<W><H>「われわれは先手を打って、<R>　イ・デム島に攻撃をしかける。<R>　あとに続け」ですって！<W><E>",
-     "en": ""
+     "en": "Kafi:<R><F62>, a message from<R>Gashizakino's ship.<W><H>\"We're striking first and<R>attacking I-Dem Island. Follow<R>us,\" they say!<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#106",
      "jp": "<F62>：<R>よし、補給も済んだし、<R>行こう。<W><H>今度こそゼクセル艦を<R>落としてやる。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Right, we're resupplied, so let's<R>go.<W><H>This time I'm shooting down<R>Zexel's ship for sure.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#107",
      "jp": "カフィ：<R>ゼクセルだけは……<R>敵に回したくなかったわ。<W><E>",
-     "en": ""
+     "en": "Kafi:<R>Zexel... he's the one man I never<R>wanted to have as an enemy.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#108",
      "jp": "<F62>：<R>ああ。まったくだ。<R>てこずらせやがる。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Yeah. No kidding. He's a real<R>pain.<W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#109",
@@ -567,7 +567,7 @@
     {
      "id": "2D/GMPS/G06_00@30000#112",
      "jp": "まだ島に用がある<E>",
-     "en": ""
+     "en": "Still have business on the island.<E>"
     }
    ]
   }

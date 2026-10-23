@@ -7,22 +7,22 @@
     {
      "id": "3D/GMPS1/G05#0",
      "jp": "オユ・キクル：<R>ミデーレキサタまで、<R>強行突破します。<R><R><*09>今のところガルガナーク４機<R>からなる部隊がナデス島に<R>向かって進行中です。<R><R><*0f>敵が、ナデス島に、<R>気をとられている間に、<R><R>先行するゼクセル大佐に<R>続いて、民間船とともに<R>ミデーレキサタに向かいます。<R><R><*05>民間船は足が遅いため、<R>その護衛が、我々の任務と<R>なっています。<R><R>急ぎましょう。<R>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>We're going to force our way<R>through to Miderekisata.<R><R><*09>Right now, a unit of four<R>Garganaks is advancing on<R>Nades Island.<R><R><*0f>While the enemy is busy with<R>Nades Island,<R><R>we'll follow Colonel Zexel to<R>Miderekisata with the civilian<R>ships.<R><R><*05>The civilian ships are slow,<R>so our mission is to escort<R>them.<R><R>Let's hurry!<R>"
     },
     {
      "id": "3D/GMPS1/G05#1",
      "jp": "バ・マッグ：<R>民間船が船団から<R>離れています。<R><@14>このままでは、彼らは<R>ギダン軍に包囲されて<R>しまいます。<R><@20>敵に追いついかれたら、私達が<R>敵を引き付けましょう。<R><@20>",
-     "en": ""
+     "en": "Ba Magg:<R>Civilian ships are falling<R>away from the convoy.<R><@14>At this rate, they'll be<R>surrounded by the Gidan army.<R><@20>If the enemy closes in on<R>them, let us draw the enemy to<R>ourselves.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G05#2",
      "jp": "オユ・キクル：<R>民間船が、安全空域に、<R>離脱しました。<R><@18><%S><_00>：<R>よし。俺達も急ごう。<R><@18>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>The civilian ships have<R>escaped to safe airspace!<R><@18><%S><_00>:<R>Good. Let's hurry too.<R><@18>"
     },
     {
      "id": "3D/GMPS1/G05#3",
      "jp": "民間船をすべて<R>落とされてしまった……<R><@20>",
-     "en": ""
+     "en": "Every civilian ship was shot<R>down...<R><@20>"
     }
    ]
   }
