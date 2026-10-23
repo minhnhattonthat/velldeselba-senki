@@ -19,7 +19,9 @@ import check_rom
 import exetext
 import font
 import maptext
+import missiontext
 import patch_exe
+import scan_bpe
 import textcodec
 
 ROM = ROOT / "rom/Velldeselba Senki - Tsubasa no Kunshou (Japan).cue"
@@ -67,7 +69,7 @@ def scripts(kind):
 def memory():
     """jp -> en from every translated line, so a string repeated across maps or EXEs is translated once."""
     tm = {}
-    for kind in ("maps", "exe"):
+    for kind in ("maps", "exe", "missions"):
         for data in scripts(kind):
             for st in data["streams"]:
                 for l in st["lines"]:
@@ -76,9 +78,9 @@ def memory():
     return tm
 
 
-def pick(line, mode, tm):
+def pick(line, mode, tm, code=textcodec.CODE):
     if mode == "marker":
-        return marker(line["id"], line["jp"])
+        return marker(line["id"], line["jp"], code)
     return line["en"] or tm.get(line["jp"], line["jp"])
 
 
@@ -119,10 +121,10 @@ def insert_spike():
         write(rel, maptext.replace_stream(mps, pos, n, maptext.build(dec, strings)))
 
 
-def marker(line_id, jp):
+def marker(line_id, jp, code=textcodec.CODE):
     """Same layout as jp, text runs replaced by the id then filler: one full-width char -> two letters."""
-    parts = textcodec.CODE.split(jp)
-    codes = [m.group() for m in textcodec.CODE.finditer(jp)]
+    codes = [m.group() for m in code.finditer(jp)]
+    texts = re.sub(code.pattern, "\0", jp).split("\0")
     last = line_id.split("/")[-1]
     if "#" in last:  # map line: G10_00@52800#88 -> G1000:88
         name, idx = last.split("#")
@@ -132,7 +134,6 @@ def marker(line_id, jp):
         stem, idx = name.split(".")[0], addr[-3:]
     tag, short = f"{stem}:{idx} ", f":{idx}"
     out, first = [], True
-    texts = parts[::4]  # split() returns text, then the 3 groups of each code
     for i, run in enumerate(texts):
         width = sum(1 if ord(c) < 0x80 else 2 for c in run)
         if run.strip("　 "):
@@ -170,6 +171,24 @@ def insert_maps(mode, tm):
             write(rel, mps)
     if errors:
         sys.exit("text does not fit:\n" + "\n".join(errors))
+
+
+def insert_missions(mode, tm):
+    """3D mission message tracks (stream 1 of each mission MPS), same modes as insert_maps."""
+    errors = []
+    for data in scripts("missions"):
+        rel = data["file"]
+        mps = (DISC / "tree" / rel).read_bytes()
+        pos, n, dec = list(scan_bpe.streams(mps))[1]
+        texts = [pick(l, mode, tm, missiontext.CODE3D) for st in data["streams"] for l in st["lines"]]
+        if texts == [l["jp"] for st in data["streams"] for l in st["lines"]]:
+            continue
+        try:
+            write(rel, maptext.replace_stream(mps, pos, n, missiontext.build(dec, texts)))
+        except ValueError as e:
+            errors.append(f"{rel}: {e}")
+    if errors:
+        sys.exit("mission text does not fit:\n" + "\n".join(errors))
 
 
 def layout():
@@ -210,6 +229,7 @@ def main():
         insert_spike()
     else:
         insert_maps(mode, tm)
+        insert_missions(mode, tm)
     layout()
     run([str(ROOT / "tools/mkpsxiso/mkpsxiso.exe"), "-y", "-o", str(OUT.with_suffix(".bin")),
          "-c", str(OUT.with_suffix(".cue")), str(BUILD / "layout.xml")], cwd=BUILD)

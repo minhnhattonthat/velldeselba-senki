@@ -1,5 +1,5 @@
-"""extract.py: dump every 2D map string table into script/maps/<path>.json and every referenced EXE string into
-script/exe/<path>.json (docs/re/text.md).
+"""extract.py: dump every 2D map string table into script/maps/<path>.json, every referenced EXE string into
+script/exe/<path>.json and every 3D mission message block into script/missions/<path>.json (docs/re/text.md).
 
     python -X utf8 tools/extract.py [--stats]
 
@@ -16,11 +16,14 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import exetext
 import maptext
+import missiontext
+import scan_bpe
 import textcodec
 
 TREE = ROOT / "work/disc/tree"
 SCRIPT = ROOT / "script/maps"
 EXE_SCRIPT = ROOT / "script/exe"
+MISSION_SCRIPT = ROOT / "script/missions"
 
 
 def mps_files():
@@ -36,6 +39,18 @@ def extract(path):
             continue  # zeroed offset table (B01_10, A10_00): no EXE loads these maps
         streams.append({"pos": f"{pos:#x}", "lines": lines})
     return {"file": rel, "streams": streams}
+
+
+def mission_files():
+    return sorted((TREE / "3D").rglob("*.MPS"))
+
+
+def extract_mission(path):
+    """Message-track blocks of one 3D mission (stream 1): {"file", "streams": [{"pos", "lines": [...]}]}."""
+    rel = path.relative_to(TREE).as_posix()
+    pos, n, dec = list(scan_bpe.streams(path.read_bytes()))[1]
+    lines = [{"id": f"{rel[:-4]}#{i}", "jp": t, "en": ""} for i, t in enumerate(missiontext.blocks(dec))]
+    return {"file": rel, "streams": [{"pos": f"{pos:#x}", "lines": lines}] if lines else []}
 
 
 def exe_files():
@@ -79,7 +94,8 @@ def main():
     a = ap.parse_args()
     total = uniq = chars = 0
     seen = set()
-    jobs = [(p, extract, SCRIPT) for p in mps_files()] + [(p, extract_exe, EXE_SCRIPT) for p in exe_files()]
+    jobs = ([(p, extract, SCRIPT) for p in mps_files()] + [(p, extract_exe, EXE_SCRIPT) for p in exe_files()]
+            + [(p, extract_mission, MISSION_SCRIPT) for p in mission_files()])
     for p, fn, dest in jobs:
         data = fn(p)
         if not data["streams"]:
