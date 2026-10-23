@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 import check_rom
 import datnames
 import exetext
+import fmv
 import font
 import maptext
 import missiontext
@@ -253,6 +254,9 @@ def main():
         insert_maps(mode, tm)
         insert_missions(mode, tm)
         insert_dat(mode, tm)
+        for rel, p in fmv.built().items():  # subtitled movies (cached by tools/fmv.py)
+            (FILES / rel).parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(p, FILES / rel)
     layout()
     run([str(ROOT / "tools/mkpsxiso/mkpsxiso.exe"), "-y", "-o", str(OUT.with_suffix(".bin")),
          "-c", str(OUT.with_suffix(".cue")), str(BUILD / "layout.xml")], cwd=BUILD)

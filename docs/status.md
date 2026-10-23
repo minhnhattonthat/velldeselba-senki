@@ -20,6 +20,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `name_pack` (hook.asm 0x8001F100) to store letter pairs; default name Misaki. Verified: typed "A" stored as
     `cd69 f361 eb69 c17f`, dialogue shows "Misaki".
   - Graphics survey (`docs/re/graphics.md`): only the title logo is Japanese art.
+  - 2026-10-24 (user report): dialogue wrap now balanced (`batches.wrap`; `boxes` ends a page a row early so no
+    box holds a lone row); existing script rewrapped. Name-entry blank slots showed "Su": the pad string `　〆`
+    had been translated via the TM; kept Japanese in all 62 EXEs. FMV subtitles: STR1/2/4/5 (`tools/fmv.py`,
+    `script/fmv/`, `docs/re/fmv.md`), seen in-game on STR1.
 - **Next:**
   1. EXE/DAT batches (work/tl/b001-b005, 747 strings; dialogue batches archived in work/tl/dialogue/) translated
      and merged; no Japanese left in script/. Not yet reviewed. Staff roll: full Western-order names, readings
