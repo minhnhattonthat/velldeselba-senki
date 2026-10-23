@@ -28,7 +28,8 @@ SIZE, BAND = 11, 32  # font px; subtitle band: the bottom 2 macroblock rows (the
 
 
 def jpsxdec(*args):
-    r = subprocess.run(["java", "-jar", str(JAR), *map(str, args)], capture_output=True, text=True)
+    WORK.mkdir(parents=True, exist_ok=True)  # jPSXdec writes its *.log files to the cwd
+    r = subprocess.run(["java", "-jar", str(JAR), *map(str, args)], capture_output=True, text=True, cwd=WORK)
     if r.returncode or "error" in r.stdout.lower():
         sys.exit(f"jpsxdec {' '.join(map(str, args))} failed:\n{r.stdout}{r.stderr}")
 
