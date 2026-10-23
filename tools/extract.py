@@ -57,7 +57,7 @@ def main():
             data = merge(data, json.loads(out.read_text(encoding="utf-8")))
         if not a.stats:
             out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            out.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
         for s in data["streams"]:
             for l in s["lines"]:
                 total += 1

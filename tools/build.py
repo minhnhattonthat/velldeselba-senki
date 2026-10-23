@@ -6,6 +6,7 @@ Steps: check the dump, unpack the disc once (work/disc), assemble the glyph hook
 rebuild with mkpsxiso. Changed files go to build/files/<path> and the layout points mkpsxiso at them.
 """
 import argparse
+import json
 import re
 import shutil
 import subprocess
@@ -67,20 +68,61 @@ def patch_exes(hook_bin):
                 write(p.relative_to(tree).as_posix(), data)
 
 
-def insert_text(edits):
-    by_file = {}
-    for (rel, idx), text in edits.items():
-        by_file.setdefault(rel, {})[idx] = text
-    for rel, lines in by_file.items():
+def insert_spike():
+    for (rel, idx), text in SPIKE.items():
         mps = (DISC / "tree" / rel).read_bytes()
-        for pos, n, dec, strings in maptext.text_streams(mps):
-            if max(lines) >= len(strings):
-                continue
-            for idx, text in lines.items():
-                strings[idx] = textcodec.encode(text)
-            mps = maptext.replace_stream(mps, pos, n, maptext.build(dec, strings))
-            break
-        write(rel, mps)
+        pos, n, dec, strings = maptext.text_streams(mps)[0]
+        strings[idx] = textcodec.encode(text)
+        write(rel, maptext.replace_stream(mps, pos, n, maptext.build(dec, strings)))
+
+
+def marker(line_id, jp):
+    """Same layout as jp, text runs replaced by the id then filler: one full-width char -> two letters."""
+    parts = textcodec.CODE.split(jp)
+    codes = [m.group() for m in textcodec.CODE.finditer(jp)]
+    name, idx = line_id.split("/")[-1].split("#")
+    stem = name.split("@")[0].replace("_", "")
+    tag, short = f"{stem}:{idx} ", f":{idx}"
+    out, first = [], True
+    texts = parts[::4]  # split() returns text, then the 3 groups of each code
+    for i, run in enumerate(texts):
+        width = sum(1 if ord(c) < 0x80 else 2 for c in run)
+        if run.strip("　 "):
+            head = (tag if width >= len(tag) else short) if first else ""
+            run = (head + "abcdefghijklmnopqrstuvwxyz" * 3)[:max(width, len(head))]
+            first = False
+        else:
+            run = " " * width
+        out.append(run)
+        if i < len(codes):
+            out.append(codes[i])
+    return "".join(out)
+
+
+def insert_maps(mode):
+    """mode 'en': translated lines (others stay Japanese); 'marker': every line as its marker."""
+    errors = []
+    for path in sorted((ROOT / "script/maps").rglob("*.json")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        rel = data["file"]
+        mps = (DISC / "tree" / rel).read_bytes()
+        streams = {f"{p:#x}": (p, n, dec) for p, n, dec, _ in maptext.text_streams(mps)}
+        changed = False
+        for st in data["streams"]:
+            pos, n, dec = streams[st["pos"]]
+            strings = []
+            for l in st["lines"]:
+                text = marker(l["id"], l["jp"]) if mode == "marker" else (l["en"] or l["jp"])
+                strings.append(textcodec.encode(text))
+                changed |= text != l["jp"]
+            try:
+                mps = maptext.replace_stream(mps, pos, n, maptext.build(dec, strings))
+            except ValueError as e:
+                errors.append(f"{rel}: {e}")
+        if changed:
+            write(rel, mps)
+    if errors:
+        sys.exit("text does not fit:\n" + "\n".join(errors))
 
 
 def layout():
@@ -108,13 +150,17 @@ def layout():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--spike", action="store_true", help="insert the engine-spike line only")
+    ap.add_argument("--marker", action="store_true", help="every map line replaced by its id marker")
     a = ap.parse_args()
     check_rom.check()
     unpack()
     shutil.rmtree(FILES, ignore_errors=True)
     FILES.mkdir(parents=True)
     patch_exes(hook())
-    insert_text(SPIKE if a.spike else {})
+    if a.spike:
+        insert_spike()
+    else:
+        insert_maps("marker" if a.marker else "en")
     layout()
     run([str(ROOT / "tools/mkpsxiso/mkpsxiso.exe"), "-y", "-o", str(OUT.with_suffix(".bin")),
          "-c", str(OUT.with_suffix(".cue")), str(BUILD / "layout.xml")], cwd=BUILD)
