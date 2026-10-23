@@ -1128,6 +1128,121 @@
      "id": "STAFF.EXE@80020e78",
      "jp": "ベルデセルバ戦記",
      "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf00",
+     "jp": "作曲",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf08",
+     "jp": "録音",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf10",
+     "jp": "Ｐｆ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf18",
+     "jp": "Ｔｒｂ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf20",
+     "jp": "Ｔｒｐ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf28",
+     "jp": "橘　章",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf30",
+     "jp": "Ｂｎ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf38",
+     "jp": "Ｃｌａ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf40",
+     "jp": "旭　孝",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf48",
+     "jp": "Ｆｌ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf50",
+     "jp": "現像",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf58",
+     "jp": "撮影",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf60",
+     "jp": "背景",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf68",
+     "jp": "仕上げ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf70",
+     "jp": "色指定",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf78",
+     "jp": "動画",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf80",
+     "jp": "原画",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf88",
+     "jp": "演出",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf90",
+     "jp": "コンテ",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cf98",
+     "jp": "制作",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cfa0",
+     "jp": "作詞",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cfac",
+     "jp": "主題歌",
+     "en": ""
+    },
+    {
+     "id": "STAFF.EXE@8004cfb4",
+     "jp": "脚本",
+     "en": ""
     }
    ]
   }

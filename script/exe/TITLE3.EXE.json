@@ -183,6 +183,86 @@
      "id": "TITLE3.EXE@80020668",
      "jp": "　<V2,0,2>",
      "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ff90",
+     "jp": "＝＝＝",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ff98",
+     "jp": "交易品",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffa0",
+     "jp": "貴重品",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffa8",
+     "jp": "弾　丸",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffb0",
+     "jp": "Ｎｏ　",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffb8",
+     "jp": "Ｙｅｓ",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffc0",
+     "jp": "ＯＦＦ",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffc8",
+     "jp": "ＯＮ",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffd0",
+     "jp": "ＢＧＭ",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffd8",
+     "jp": "＜　＞",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffe0",
+     "jp": "　　　",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005ffe8",
+     "jp": "終　了",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005fff0",
+     "jp": "荷　物",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@8005fff8",
+     "jp": "装　備",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@80060000",
+     "jp": "飛空船",
+     "en": ""
+    },
+    {
+     "id": "TITLE3.EXE@80060008",
+     "jp": "仲　間",
+     "en": ""
     }
    ]
   }
