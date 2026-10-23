@@ -55,8 +55,8 @@ def test_mission_roundtrip(path):
     data = json.loads(path.read_text(encoding="utf-8"))
     dec = list(scan_bpe.streams((TREE / data["file"]).read_bytes()))[1][2]
     texts = [l["jp"] for l in data["streams"][0]["lines"]]
-    start, end, z, limit = missiontext.track(dec)
     new = missiontext.build(dec, texts)
-    assert new[:end] == dec[:end]
-    if end == z:  # no dead compiler source after the track: byte-identical
+    assert missiontext.blocks(new) == texts
+    tracks = [missiontext.track(dec, b) for b in missiontext.sections(dec)]
+    if all(t is None or t[1] == t[2] for t in tracks):  # no dead compiler source: byte-identical
         assert new == dec
