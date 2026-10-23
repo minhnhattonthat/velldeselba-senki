@@ -8,6 +8,7 @@ Existing "en" fields are kept when the "jp" is unchanged, so re-extracting never
 """
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -31,6 +32,8 @@ def extract(path):
     streams = []
     for pos, n, dec, strings in maptext.text_streams(path.read_bytes()):
         lines = [{"id": f"{rel[:-4]}@{pos:x}#{i}", "jp": textcodec.decode(s), "en": ""} for i, s in enumerate(strings)]
+        if lines[0]["jp"].count("<E>") > 1:
+            continue  # zeroed offset table (B01_10, A10_00): no EXE loads these maps
         streams.append({"pos": f"{pos:#x}", "lines": lines})
     return {"file": rel, "streams": streams}
 
@@ -39,13 +42,24 @@ def exe_files():
     return sorted(p for p in TREE.rglob("*") if p.suffix.upper() == ".EXE" or p.name == "SCPS_100.27")
 
 
+# Not text to translate: name-entry grid rows (the English grid is engine work, docs/re/text.md) and the
+# dakuten conversion tables that follow them.
+GRID_ROW = re.compile(r"^(<\$20><\$20>|<G\d\d><\$20>)")
+DAKUTEN = ("がぎぐげご", "かきくけこ", "ぱぴぷぺぽ", "はひふへほ", "ぁぃぅぇぉ", "あいうえお")
+
+
+def nontext(jp):
+    return bool(GRID_ROW.match(jp)) or jp.startswith(DAKUTEN) and all("ぁ" <= c <= "ヴ" for c in jp)
+
+
 def extract_exe(path):
     """Referenced SJIS strings of one EXE: {"file", "streams": [{"pos": "exe", "lines": [...]}]}."""
     rel = path.relative_to(TREE).as_posix()
     exe = path.read_bytes()
     r = exetext.refs(exe)
-    lines = [{"id": f"{rel}@{a:x}", "jp": textcodec.decode(raw), "en": ""}
-             for a, raw in exetext.strings(exe, r) if a in r]
+    lines = [{"id": f"{rel}@{a:x}", "jp": jp, "en": ""}
+             for a, raw in exetext.strings(exe, r) if a in r
+             for jp in [textcodec.decode(raw)] if not nontext(jp)]
     return {"file": rel, "streams": [{"pos": "exe", "lines": lines}] if lines else []}
 
 
