@@ -66,6 +66,10 @@ def problems(text, jp, exe=False):
 MSG3D = re.compile(r"<@[0-9a-f]{2}>|<R><R>")
 
 
+def width3d(row):
+    return sum(textcodec.cells(t) for t in missiontext.CODE3D.split(row)[::3] if t) + NAME_CELLS * row.count("<%S>")
+
+
 def problems3d(text, jp):
     """3D mission blocks: messages end at <@hh> or a blank line; up to 3 rows of 15 cells (30 letters)."""
     out = []
@@ -79,7 +83,7 @@ def problems3d(text, jp):
         if len(rows) > 3:
             out.append(f"message {mi + 1}: {len(rows)} rows > 3")
         for i, r in enumerate(rows):
-            w = sum(textcodec.cells(t) for t in missiontext.CODE3D.split(r)[::3] if t) + NAME_CELLS * r.count("<%S>")
+            w = width3d(r)
             if w > 15:
                 out.append(f"message {mi + 1} row {i + 1}: {w * 2} letters > 30")
     return out

@@ -1,7 +1,7 @@
 # Style reference
 
-From the pilot (G10_00 #88-#198, the Nades Island opening, `work/tl/pilot.out.tsv`). **Draft: waiting on the
-user's in-game approval** (screens in work/qa/pilot). Register is mixed by character (D8); sound effects are
+From the pilot (G10_00 #88-#198, the Nades Island opening, `work/tl/pilot.out.tsv`). **Approved by the user
+2026-10-23** (screens in work/qa/pilot), names included. Register is mixed by character (D8); sound effects are
 translated (D9).
 
 ## Voices
