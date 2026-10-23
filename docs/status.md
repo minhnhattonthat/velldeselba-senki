@@ -17,7 +17,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Debug: warp v1 (2D maps 0-59), `tools/debug/textview.py` (any text in the G10 talk box), `pclog.lua`.
   - Resident-data signature check (`オユ` at 0x80015A4C) retargeted so names can change (`patch_exe.py`).
 - **Next:**
-  1. Graphics-text survey (title logo, menu frames, banners, 3D HUD, name-entry arrows) -> `docs/re/graphics.md`.
+  1. Graphics: survey in `docs/re/graphics.md` (only the title logo needs redrawing so far; 2D tour clean).
+     Still to check: 3D HUD beyond the tutorial, name-entry screen.
   2. Debug tool: 3D mission warp (tutorial = G44, reachable by New Game), later-chapter story flags.
   3. English name-entry grids (TITLE player name; per-map ship-name grid at 0x80023200) + default name ミサキ.
   4. 3D printf groups in HT.EXE/DEMO.EXE (0x80079D64...: `%S達は、@`, `%uポイントの@`, level-up, `%sは、@`): only

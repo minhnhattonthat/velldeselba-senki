@@ -14,4 +14,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 |---|---|---|
 | `disc.md` | disc rebuild, file list, files-by-name | rebuild verified; by-name a strong guess |
 | `compression.md` | BPE codec | verified (write watch + decode + roundtrip test) |
+| `graphics.md` | text drawn as graphics (TIMs, 2D tour) | TIM list + 2D tour verified; 3D HUD open |
 | `text.md` | SJIS + ASCII control codes, 2D/3D/EXE containers | encoding verified; codes guessed |
