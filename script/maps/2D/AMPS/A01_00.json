@@ -7,7 +7,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#0",
      "jp": "<F61>　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>出身星不明　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>宇宙を航行中に遭難し、この星に　　<R>落ちてきた。主人公。　　　　　　　<E>",
-     "en": "<F61>  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Lost on a voyage through space, he<R>fell to this planet. Our hero.    <E>"
+     "en": "<F61>  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Met with disaster in space and<R>fell to this planet. Our hero.    <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#1",
@@ -87,12 +87,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#16",
      "jp": "アハデ・カルフ：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>カフィの双子の妹。踊り子で　　　　<R>ありながら戦闘力にも優れる。　　　<E>",
-     "en": "Ahade Karf:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Kafi's younger twin. A dancer who<R>is also strong in combat.         <E>"
+     "en": "Ahade Karf:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Kafi's younger twin sister. A<R>dancer, yet also strong in combat.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#17",
      "jp": "カムチョム：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>空賊に協力する民間人。　　　　　　<R>実は小説家でもあるらしい。　　　　<E>",
-     "en": "Kamchom:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A civilian who aids the pirates.<R>Apparently also a novelist.       <E>"
+     "en": "Kamchom:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A civilian who aids the pirates.<R>Secretly a novelist, apparently.  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#18",
@@ -102,17 +102,17 @@
     {
      "id": "2D/AMPS/A01_00@56000#19",
      "jp": "イルミナ：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>女空賊　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>女空賊の中ではリーダー格。　　　　<R>戦闘の腕前は確か。　　　　　　　　<E>",
-     "en": "Illumina:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Woman sky pirate  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Leader among the women pirates.<R>Her combat skill is solid.        <E>"
+     "en": "Illumina:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Leader among the women pirates.<R>Her combat skill is solid.        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#20",
      "jp": "デファイナ：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>女空賊　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>その魅力でたびたび男を　　　　　　<R>たぶらかしていたらしい。　　　　　<E>",
-     "en": "Defaina:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Woman sky pirate  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>She often used her charms to lead<R>men astray, it seems.             <E>"
+     "en": "Defaina:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>She often used her charms to lead<R>men astray, it seems.             <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#21",
      "jp": "シルカ：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>女空賊　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>女空賊の中では一番年下。　　　　　<R>どうやらほれっぽいらしい。　　　　<E>",
-     "en": "Silka:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Woman sky pirate  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>The youngest of the women pirates.<R>Seems to fall in love easily.     <E>"
+     "en": "Silka:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>The youngest of the women pirates.<R>Seems to fall in love easily.     <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#22",
@@ -252,7 +252,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#49",
      "jp": "プロペラ魚雷：　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>火薬のつまった弾体に小型のゴム製の<R>推進器をつけ、プロペラを回すしかけ<R>の自走式の弾丸。　　　　　　　　　<E>",
-     "en": "Propeller Torpedo:  <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A powder-filled body with a small<R>rubber-powered motor turning a<R>propeller. A self-propelled round.<E>"
+     "en": "Propeller Torpedo:  <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A powder-filled body with a small<R>rubber-band propulsion unit that<R>spins a propeller. Self-propelled.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#50",
@@ -447,7 +447,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#88",
      "jp": "ギダン国王：<R><F62>よ、<R>余の城まで来るがよい。<W><E>",
-     "en": "King of Gidan:<R><F62>, you may<R>come to my castle.<W><E>"
+     "en": "King of Gidan:<R><F62>, do come to my castle.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#89",
@@ -537,12 +537,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#106",
      "jp": "ジャンク屋：<R>品ぞろえばつぐんだからね、<R>ゆっくり見てっておくれ。<W><E>",
-     "en": "Junk Dealer:<R>Best selection around, so take<R>your time and look around.<W><E>"
+     "en": "Junk Dealer:<R>Best selection around, so<R>take your time browsing.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#107",
      "jp": "ジャンク屋：<R>また来ておくれ。<W><E>",
-     "en": "Junk Dealer:<R>Come again.<W><E>"
+     "en": "Junk Dealer:<R>Come back again, will you?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#108",

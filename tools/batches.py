@@ -3,6 +3,8 @@
     python -X utf8 tools/batches.py split [max_chars max_lines kinds]   all untranslated unique JP -> b001...
     python -X utf8 tools/batches.py check <batch>    fit + lint work/tl/<batch>.out.tsv against work/tl/<batch>.tsv
     python -X utf8 tools/batches.py merge <batch>     check, then write the fitted English into script/**.json
+    python -X utf8 tools/batches.py pick <batch> REGEX...   merged lines whose id matches -> <batch>.tsv/.out.tsv
+                                                             (running text) for later edits, then check + merge
 
 Input `work/tl/<batch>.tsv`: id<TAB>speaker<TAB>form<TAB>limit<TAB>jp. Output `<batch>.out.tsv`: id<TAB>en.
 Translators write dialogue pages (<H>) as running text; fit() wraps them into rows (lint.width), keeping any <R>
@@ -241,5 +243,48 @@ def merge(batch):
     print(f"merged {done}/{len(fitted)}")
 
 
+LABEL = re.compile(r"^(<P\d+>)?(<F62>|<%S><_00>|[^<:]{1,30}):(<P\d+>)?$")
+
+
+def unwrap(rows):
+    """Wrapped rows -> running text, keeping the hard break after a speaker label and after a <W>."""
+    out, cur = [], []
+    for r in rows:
+        cur.append(r)
+        if LABEL.match(r) or "<W>" in r:
+            out.append(" ".join(cur))
+            cur = []
+    return "<R>".join(out + ([" ".join(cur)] if cur else []))
+
+
+def running(i, en, jp):
+    """Merged English back to the running text a translator writes (fit() wraps it again)."""
+    if mission(i):
+        return "".join(p if re.fullmatch(r"<@[0-9a-f]{2}>", p) or not p else
+                       unwrap(p[:-3].split("<R>")) + "<R>" if p.endswith("<R>") else unwrap(p.split("<R>"))
+                       for p in re.split(r"(<@[0-9a-f]{2}>)", en))
+    if "<W>" in jp:
+        return "<H>".join(unwrap(pg.split("<R>")) for pg in en.split("<H>"))
+    return en
+
+
+def pick(batch, *patterns):
+    """Batch of already-merged lines (ids matching any regex) for later edits; keeps rows already in out.tsv."""
+    pats = [re.compile(p) for p in patterns]
+    out = TL / f"{batch}.out.tsv"
+    old = dict(l.split("\t", 1) for l in out.read_text(encoding="utf-8").splitlines() if l) if out.is_file() else {}
+    rows, outs = [], []
+    for p in sorted((ROOT / "script").rglob("*.json")):
+        for st in json.loads(p.read_text(encoding="utf-8"))["streams"]:
+            for l in st["lines"]:
+                if l["en"] and any(r.search(l["id"]) for r in pats):
+                    m = SPEAKER.match(l["jp"])
+                    rows.append("\t".join([l["id"], m.group(1) if m else "", *form(l["id"], l["jp"]), l["jp"]]))
+                    outs.append(f"{l['id']}\t{old.get(l['id'], running(l['id'], l['en'], l['jp']))}")
+    (TL / f"{batch}.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8", newline="\n")
+    out.write_text("\n".join(outs) + "\n", encoding="utf-8", newline="\n")
+    print(f"{len(rows)} lines -> {TL / batch}.tsv")
+
+
 if __name__ == "__main__":
-    {"split": split, "check": check, "merge": merge}[sys.argv[1]](*sys.argv[2:])
+    {"split": split, "check": check, "merge": merge, "pick": pick}[sys.argv[1]](*sys.argv[2:])

@@ -3972,7 +3972,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#793",
      "jp": "カチタ中佐：<R>そうか………<W><H>とにかく、ヤーダスに向かおう。<W><H>誘導する。<R>あとをついてきてくれ。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>I see......<W><H>In any case, let<R>us head for Yadas.<W><H>I will lead the way. Follow me.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>I see......<W><H>In any case, let's<R>head for Yadas.<W><H>I will lead the way. Follow me.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#794",
@@ -4007,7 +4007,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#800",
      "jp": "オユ・キクル：<R>せっかく空賊になったんだから、<R>「ボス」とか「親分」とか。<W><E>",
-     "en": "Oyu Kikuru:<R>We're sky pirates now, so<R>how about \"Boss\" or \"Chief\"?<W><E>"
+     "en": "Oyu Kikuru:<R>We're sky pirates now, so how<R>about \"Boss\" or \"Skipper\"?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#801",
@@ -4032,7 +4032,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#805",
      "jp": "ギダン国王：<R>わははは。<W><H>そうかそうか、<R>ゆかいな娘だ……<W><E>",
-     "en": "King of Gidan:<R>Wahahaha.<W><H>I see, I see. What a<R>delightful girl...<W><E>"
+     "en": "King of Gidan:<R>Wahahaha.<W><H>Is that so, is that so?<R>A merry girl, indeed...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#806",
@@ -4057,7 +4057,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#810",
      "jp": "ガークス：<R>ええ……<W><H>陛下が誘拐されたと<R>知れ渡ったら、<W><H>国中が大騒ぎに<R>なってしまいますので……<W><H>だますようなことに<R>なってしまいまして、<R>もうしわけありません。<W><E>",
-     "en": "Garks:<R>Yes...<W><H>If word got out that His<R>Majesty had been kidnapped,<W><H>the whole country would be<R>thrown into an uproar...<W><H>I am terribly sorry that<R>it came to deceiving you,<R>in a manner of speaking.<W><E>"
+     "en": "Garks:<R>Yes...<W><H>If word got out that His<R>Majesty had been kidnapped,<W><H>the whole country would be<R>thrown into an uproar...<W><H>I am terribly sorry we<R>ended up deceiving you.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#811",
@@ -4097,7 +4097,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#818",
      "jp": "<P13>チャンタケを連れて行きますか？<P15><E>",
-     "en": "<P13>Take Chantake to Da Kuda?<P15><E>"
+     "en": "<P13>Take Chantake along?<P15><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#819",
@@ -4302,7 +4302,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#859",
      "jp": "<F62>：<R>マルダマンのおじさんが<R>お父さんのところまで連れてって<R>くれるってよ。待ってな。<W><E>",
-     "en": "<F62>:<R>Mister Mardaman here says he'll<R>take you to your dad. Sit tight.<W><E>"
+     "en": "<F62>:<R>Uncle Mardaman here says he'll<R>take you to your dad. Sit tight.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#860",
@@ -4427,7 +4427,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#884",
      "jp": "カムチョム：<R>ワザノのず～っと北を<R>西に移動していた。<W><H>で、あわててダ・クダの親分に<R>報告しようと思ったら……<W><H>シデルの親衛隊が追いかけてきて<R>……アダクダ送りだ。<W><E>",
-     "en": "Kamchom:<R>Way, waaay north of<R>Wazano, moving west.<W><H>So I rushed off to report it<R>to Boss Da Kuda, and then...<W><H>Sidel's Royal Guard came after<R>me and... next thing I knew, I<R>was shipped off to Adakuda.<W><E>"
+     "en": "Kamchom:<R>Way, waaay north of<R>Wazano, moving west.<W><H>So I was in a rush to report it<R>to Boss Da Kuda, but then...<W><H>Sidel's Royal Guard came after<R>me and... next thing I knew, I<R>was shipped off to Adakuda.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#885",

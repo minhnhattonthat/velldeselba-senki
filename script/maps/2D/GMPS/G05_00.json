@@ -902,7 +902,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#179",
      "jp": "<F62>：<R>クナシティの北東にあった<R>無人の浮遊島だな。<W><H>ム連邦も浮遊島を<R>ねらっているのか？<W><E>",
-     "en": "<F62>:<R>That's the uninhabited<W><H>floating island northeast<R>of Kuna City, right?<W><H>So the Federation's after<R>floating islands too?<W><E>"
+     "en": "<F62>:<R>That was the uninhabited<W><H>floating island northeast<R>of Kuna City, right?<W><H>So the Federation's after<R>floating islands too?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#180",
@@ -937,7 +937,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#186",
      "jp": "ガシザキノ大佐：<R>そういう訳だから、しばらく<R>軍事行動はひかえるそうだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>So for that reason, I hear<W><H>we're holding off on<R>military action for a while.<W><E>"
+     "en": "Colonel Gashizakino:<R>Which is why I hear we're<W><H>holding off on military<R>action for a while.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#187",
@@ -947,12 +947,12 @@
     {
      "id": "2D/GMPS/G05_00@42000#188",
      "jp": "バムス中佐：<R>それでだ、<W><H>大尉の日ごろの活躍への<R>ねぎらいとして、短い期間だが<R>休暇を与えようと思ってな。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>And so,<W><H>in recognition of your fine<R>work day in and day out,<W><H>Captain, I thought I'd grant<R>you a short leave.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Now then,<W><H>in recognition of your fine<R>work day in and day out,<W><H>Captain, I thought to<R>grant you a short leave.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#189",
      "jp": "<F62>：<R>そりゃありがたい！<W><E>",
-     "en": "<F62>:<R>Now that's welcome!<W><E>"
+     "en": "<F62>:<R>Now that's what I like to hear!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#190",
@@ -972,7 +972,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#193",
      "jp": "バムス中佐：<R>わたしもすぐにグラシアルに<R>帰らなければならないのでな。<W><H>いっしょに来るかね？<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>As it happens, I must return<R>to Glacial at once myself.<W><H>Would you care to come along?<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>I too must return to<R>Glacial at once.<W><H>Will you come along?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#194",
@@ -982,12 +982,12 @@
     {
      "id": "2D/GMPS/G05_00@42000#195",
      "jp": "バムス中佐：<R>じゃあ、わたしの船に乗ると<R>いい。<W><H>君の船の乗組員に一声かけたら<R>わたしの船に来なさい。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Then ride on my ship.<W><H>Have a word with your crew,<R>then come aboard my ship.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Then ride with me.<W><H>Have a word with your<R>crew, then come aboard.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#196",
      "jp": "バムス中佐：<R>やあ、久しぶりだな。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Ah, it's been a while.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Well. It has been some time.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#197",
@@ -997,7 +997,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#198",
      "jp": "ギダン兵：<R>お疲れさまであります。<W><E>",
-     "en": "Gidan Soldier:<R>Thank you for your<R>hard work, sir!<W><E>"
+     "en": "Gidan Soldier:<R>Good work out there, sir!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#199",
@@ -1082,7 +1082,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#215",
      "jp": "カ・ジャルコ：<R>ガジスで商船に<R>かくまわれています。<W><H>はやく迎えに行かないと、<R>シデル親衛部隊に見つかって<R>しまうかもしれません。<W><E>",
-     "en": "Ka Jarko:<R>A merchant ship in<R>Gajis is hiding them.<W><H>If we don't hurry and pick<R>them up, Sidel's Royal Guard<R>units might find them.<W><E>"
+     "en": "Ka Jarko:<R>They're hiding out on a<R>merchant ship in Gajis.<W><H>If we don't hurry and pick<R>them up, Sidel's Royal Guard<R>units might find them.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#216",
@@ -1142,7 +1142,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#227",
      "jp": "シデル提督：<R>……我々に降伏するために<R>こちらに向かってきている。<W><H>迎えにゆけ……<W><E>",
-     "en": "Admiral Sidel:<R>...It is coming this way<R>to surrender to us.<W><H>Go and receive it...<W><E>"
+     "en": "Admiral Sidel:<R>...They are coming this<R>way to surrender to us.<W><H>Go and meet them...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#228",
@@ -1182,7 +1182,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#235",
      "jp": "シデル提督：<R>……ここに呼べ。<W><E>",
-     "en": "Admiral Sidel:<R>...Bring him here.<W><E>"
+     "en": "Admiral Sidel:<R>...Bring the envoy here.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#236",
@@ -1192,7 +1192,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#237",
      "jp": "ノイパスク全権大使：<R>我がノイパスクは<R>全面降伏を申し出る。<W><H>我々には、もはや戦う力は<R>残っていない……<W><H>いさぎよく、ベルデセルバの<R>民の統治を受け入れよう……<W><E>",
-     "en": "Noipask Plenipotentiary:<R>Noipask hereby offers its<R>unconditional surrender.<W><H>We no longer have the<R>strength to fight...<W><H>We shall accept, with<R>dignity, rule by the<R>people of Velldeselba...<W><E>"
+     "en": "Noipask Plenipotentiary:<R>Noipask hereby offers<R>its total surrender.<W><H>We no longer have the<R>strength to fight...<W><H>We shall accept, with<R>dignity, rule by the<R>people of Velldeselba...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#238",

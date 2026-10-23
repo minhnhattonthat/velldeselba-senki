@@ -217,3 +217,10 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   Takenori Shikimi, Munetaka Sakamoto, Masahito Tobisawa, Kusanagi Art Studio, Bright Side, Tenky Co., Ltd.);
   unverified guesses remain for 吉川剛史, 見城加奈子, 手島大 (given name), 新島平佐
 - 3D mission text that a track cannot hold is shortened in the mission JSON and synced back into the batch out.tsv (a merge rewrites the JSON from out.tsv)
+- Polish pass p001 (2026-10-24): ベルセン (イヌ科ベルセン種) -> Velsen ("Velsen breed canid"); 暴動 -> uprising
+  everywhere (K90 "revolt" gone; 暴動鎮圧部隊 stays "riot-control force"); ammo pickups in running text use the
+  lowercase item names (grapeshot, spiral piercers, incendiary shells, rockets); 社長 -> president (Boss stays for
+  親分 / Da Kuda); 女空賊 profile tag -> Female sky pirate (dialogue plural: women sky pirates); マルダマンのおじさん ->
+  Uncle Mardaman; Garks 付き人 -> "His Majesty's attendant"
+- Later edits to merged lines go through a small batch: `batches.py pick pNNN <id regex>...`, edit
+  pNNN.out.tsv, then `batches.py check|merge pNNN`

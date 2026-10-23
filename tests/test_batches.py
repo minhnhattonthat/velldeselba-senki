@@ -23,6 +23,14 @@ def test_fit_balances_rows_and_boxes():
     assert [len(p.split("<R>")) for p in out.split("<H>")] == [2, 2] and lint.problems(out, jp) == []
 
 
+def test_running_text_refits_to_the_same_rows():
+    jp = "ガークス：<R>あ<W><H>い<W><E>"
+    en = batches.fit("Garks:<R>My thanks for what you did earlier.<W><H>Please keep this between us...<W><E>", jp)
+    assert batches.fit(batches.running("2D/X@0#1", en, jp), jp) == en
+    m = "Hauezna:<R>We will now descend<R>to Yarskill.<R><@20>"
+    assert batches.running("3D/GMPS1/G00#0", m, m) == "Hauezna:<R>We will now descend to Yarskill.<R><@20>"
+
+
 def test_box_keeps_icon_columns():
     jp = "名前：　　<G88>　<G90><R>説明。<E>"
     out = batches.fit("Name:<G88><G90><R>About.<E>", jp)

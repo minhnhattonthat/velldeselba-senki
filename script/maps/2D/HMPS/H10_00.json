@@ -27,7 +27,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#4",
      "jp": "デ・サロ将軍：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ム連邦軍の将軍にしてゼシカの父。　<R>次期大統領選への立候補を噂される。<E>",
-     "en": "General De Saro:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Federation general and Zeshika's<R>father, rumored to run for office.<E>"
+     "en": "General De Saro:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Federation general and Zeshika's<R>father. Rumored presidential bid.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#5",
@@ -67,7 +67,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#12",
      "jp": "発明家アブナス：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ノイパスクから亡命して、ギダン軍で<R>武器の発明をしていた科学者。　　　<E>",
-     "en": "Inventor Abunas:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A scientist who defected from<R>Noipask to invent arms for Gidan. <E>"
+     "en": "Inventor Abunas:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A scientist who fled Noipask and<R>invented weapons for Gidan's army.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#13",
@@ -82,7 +82,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#15",
      "jp": "ラウエル：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>一途にゼシカを追う貿易会社の社長。<R>商売の方は繁盛しているらしい。　　<E>",
-     "en": "Rauel:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Trading-firm boss, forever chasing<R>Zeshika. Business seems good.     <E>"
+     "en": "Rauel:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Trading-firm president, forever<R>chasing Zeshika. Business is good.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#16",
@@ -112,7 +112,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#21",
      "jp": "イヌ：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>イヌ科ベルセン種　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ベルデセルバ星に昔からいた狼を　　<R>品種改良し、家畜化したもの。　　　<E>",
-     "en": "Dog:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Velsen breed dog  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Velldeselba's native wolves,<R>selectively bred and domesticated.<E>"
+     "en": "Dog:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Velsen breed canid<P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Velldeselba's native wolves,<R>selectively bred and domesticated.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#22",
@@ -702,7 +702,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#139",
      "jp": "ミルト少尉：<R>ミサキさんの<R>船って……ハードですね。<W><E>",
-     "en": "Second Lieutenant Milt:<R>Your ship is... pretty<R>hardcore, Misaki-san.<W><E>"
+     "en": "Second Lieutenant Milt:<R>Your ship is... pretty<R>rough, Misaki-san.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#140",
@@ -742,7 +742,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#147",
      "jp": "はあ、はあ、<R>重労働だな、これは……<W><H>娘たちもよくやるよ……<W><E>",
-     "en": "Huff, huff... This<R>is hard labor...<W><H>My girls really do this...<W><E>"
+     "en": "Huff, huff... This<R>is hard labor...<W><H>My daughters are<R>really something...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#148",
@@ -757,7 +757,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#150",
      "jp": "ガークス：<R>付き人のガークスです。<W><H>いつぞやは陛下をいろいろ<R>たすけていただきまして。<W><E>",
-     "en": "Garks:<R>Attendant, Garks.<W><H>Thank you for all the help you<R>gave His Majesty back then.<W><E>"
+     "en": "Garks:<R>I am His Majesty's<R>attendant, Garks.<W><H>Thank you for all the help you<R>gave His Majesty back then.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#151",

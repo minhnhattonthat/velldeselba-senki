@@ -457,7 +457,7 @@
     {
      "id": "2D/GMPS/G06_00@30000#90",
      "jp": "<P13>プロペラ魚雷を<R>５００発手に入れた。<W><H>ロケット弾を<R>３００発手に入れた。<W><H>誘導ロケット弾を<R>１００発手に入れた。<W><H>ぶどう弾を<R>３００発手に入れた。<W><H>ねじり徹甲弾を<R>３００発手に入れた。<W><H>修理キットを<R>８０個手に入れた。<P15><W><E>",
-     "en": "<P13>Obtained 500<R>propeller torpedoes.<W><H>Obtained 300 rockets.<W><H>Obtained 100 guided rockets.<W><H>Obtained 300 grapeshot rounds.<W><H>Obtained 300 spiral<R>armor-piercing rounds.<W><H>Obtained 80 repair kits.<P15><W><E>"
+     "en": "<P13>Obtained 500<R>propeller torpedoes.<W><H>Obtained 300 rockets.<W><H>Obtained 100 guided rockets.<W><H>Obtained 300 grapeshot.<W><H>Obtained 300 spiral piercers.<W><H>Obtained 80 repair kits.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#91",
@@ -477,7 +477,7 @@
     {
      "id": "2D/GMPS/G06_00@30000#94",
      "jp": "<P13>プロペラ魚雷を<R>５００発手に入れた。<W><H>ロケット弾を<R>５００発手に入れた。<W><H>誘導ロケット弾を<R>１００発手に入れた。<W><H>ぶどう弾を<R>３００発手に入れた。<W><H>ねじり徹甲弾を<R>３００発手に入れた。<W><H>焼夷弾を<R>３００発手に入れた。<W><H>修理キットを<R>１００個手に入れた。<P15><W><E>",
-     "en": "<P13>Obtained 500<R>propeller torpedoes.<W><H>Obtained 500 rockets.<W><H>Obtained 100 guided rockets.<W><H>Obtained 300 grapeshot rounds.<W><H>Obtained 300 spiral<R>armor-piercing rounds.<W><H>Obtained 300 incendiary rounds.<W><H>Obtained 100 repair kits.<P15><W><E>"
+     "en": "<P13>Obtained 500<R>propeller torpedoes.<W><H>Obtained 500 rockets.<W><H>Obtained 100 guided rockets.<W><H>Obtained 300 grapeshot.<W><H>Obtained 300 spiral piercers.<W><H>Obtained 300 incendiary shells.<W><H>Obtained 100 repair kits.<P15><W><E>"
     },
     {
      "id": "2D/GMPS/G06_00@30000#95",
