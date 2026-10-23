@@ -98,13 +98,15 @@ def apply(exe, edits, base, limit):
     return bytes(out), bytes(blob)
 
 
-def strings(exe):
+def strings(exe, r=None):
+    """Strings start after a NUL or at any referenced address (some follow a pointer table directly)."""
     pc0, t_addr, t_size = header(exe)
     img = exe[0x800:0x800 + t_size]
     end = min(pc0 - t_addr, len(img))
+    r = refs(exe) if r is None else r
     out, o = [], 0
     while o < end:
-        if img[o] and (o == 0 or img[o - 1] == 0):
+        if img[o] and (o == 0 or img[o - 1] == 0 or t_addr + o in r):
             z = img.find(b"\0", o)
             raw = img[o:z]
             if z > o and _is_text(raw):

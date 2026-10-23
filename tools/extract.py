@@ -45,7 +45,7 @@ def extract_exe(path):
     exe = path.read_bytes()
     r = exetext.refs(exe)
     lines = [{"id": f"{rel}@{a:x}", "jp": textcodec.decode(raw), "en": ""}
-             for a, raw in exetext.strings(exe) if a in r]
+             for a, raw in exetext.strings(exe, r) if a in r]
     return {"file": rel, "streams": [{"pos": "exe", "lines": lines}] if lines else []}
 
 
