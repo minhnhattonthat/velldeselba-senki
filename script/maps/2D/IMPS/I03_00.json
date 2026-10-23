@@ -537,7 +537,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#106",
      "jp": "カフィ：<R>さっき帰ったわ。<W><H>次の作戦の準備があるん<R>ですって。<W><E>",
-     "en": "Kafi:<R>She went back a little while<R>ago.<W><H>She said she has to get ready for<R>the next operation.<W><E>"
+     "en": "Kafi:<R>She went back a<R>little while ago.<W><H>She said she has to get ready<R>for the next operation.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#107",
@@ -962,7 +962,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#191",
      "jp": "ハウエズナ：<R>樹海だろうが何だろうが<R>……ほ、ほんとに平気です。<W><E>",
-     "en": "Hauezna:<R>Forest or no forest... i-it really<R>doesn't bother me.<W><E>"
+     "en": "Hauezna:<R>Forest or no forest... i-it<R>really doesn't bother me.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#192",
@@ -1027,7 +1027,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#204",
      "jp": "ハウエズナ：<R>せっかくですが、<R>わたしはお酒に弱くて……<W><H>ただ、空賊がどんなことを<R>考えているのか、知りたい<R>ところではあります。<W><H>あとで詳しく教えてください。<W><E>",
-     "en": "Hauezna:<R>Kind of you to offer, but I can't<R>hold my liquor...<W><H>Still, I would like to know what<R>sky pirates think about.<W><H>Please tell me all about it<R>later.<W><E>"
+     "en": "Hauezna:<R>Kind of you to offer, but<R>I can't hold my liquor...<W><H>Still, I would like to know<R>what sky pirates think about.<W><H>Please tell me all<R>about it later.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#205",
@@ -1082,7 +1082,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#215",
      "jp": "<F62>：<R>また病院で会ったな。<W><H>あのメーアって看護婦に<R>大事な用でもあるのか？<W><E>",
-     "en": "<F62>:<R>Ran into you at the hospital<R>again.<W><H>Got some important business with<R>that nurse, Meer?<W><E>"
+     "en": "<F62>:<R>Ran into you at the<R>hospital again.<W><H>Got some important business<R>with that nurse, Meer?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#216",
@@ -1097,7 +1097,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#218",
      "jp": "<F62>：<R>おまえとメーアは本当に<R>仲がいいんだな。<W><E>",
-     "en": "<F62>:<R>You and Meer really get along,<R>huh?<W><E>"
+     "en": "<F62>:<R>You and Meer really<R>get along, huh?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#219",
@@ -1402,7 +1402,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#279",
      "jp": "オユ・キクル：<R>でも少尉……ホントのホントに<R>空賊になっちゃうんですか？<W><H>カフィ中佐、怒るかなあ……<W><E>",
-     "en": "Oyu Kikuru:<R>But Lieutenant... are you really,<R>truly going to become a sky<R>pirate?<W><H>I wonder if Colonel Kafi will be<R>mad...<W><E>"
+     "en": "Oyu Kikuru:<R>But Lieutenant...<W><H>are you really, truly going<R>to become a sky pirate?<W><H>I wonder if Colonel<R>Kafi will be mad...<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#280",
@@ -1677,7 +1677,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#334",
      "jp": "フラグナム：<R>曹長のフラグナムです。<R>以後よろしくお願いいたします。<W><E>",
-     "en": "Fragnum:<R>I am Sergeant Major Fragnum. I<R>look forward to serving with<R>you.<W><E>"
+     "en": "Fragnum:<R>I am Sergeant Major Fragnum.<W><H>I look forward to<R>serving with you.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#335",
@@ -2202,7 +2202,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#439",
      "jp": "グールド：<R>あ、相棒ががんばっているのに<R>お、俺だけ降りるわけには……<W><H>うええ。<W><E>",
-     "en": "Gould:<R>M-my partner's giving it his<R>all... I c-can't be the only one<R>to bail...<W><H>Urrgh.<W><E>"
+     "en": "Gould:<R>M-my partner's<R>giving it his all...<W><H>I c-can't be the<R>only one to bail...<W><H>Urrgh.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#440",
@@ -2912,7 +2912,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#581",
      "jp": "秘書：<R>相手にもしてもらえない<R>社長が気の毒で……<W><E>",
-     "en": "Secretary:<R>I feel so sorry for the president.<R>She won't even give him the time<R>of day...<W><E>"
+     "en": "Secretary:<R>I feel so sorry<R>for the president.<W><H>She won't even give<R>him the time of day...<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#582",
@@ -3737,7 +3737,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#746",
      "jp": "ハウエズナ：<R>せっかくですが、わたしは、<R>船を残しては行けません。<W><E>",
-     "en": "Hauezna:<R>I appreciate the offer, but I<R>can't leave the ship behind,<R>sir.<W><E>"
+     "en": "Hauezna:<R>I appreciate the offer,<W><H>but I can't leave the<R>ship behind, sir.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#747",

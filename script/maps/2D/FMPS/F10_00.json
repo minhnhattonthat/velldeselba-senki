@@ -452,7 +452,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#89",
      "jp": "コステリフ長官：<R>国境を越えてギダン領内へ<R>侵攻します。<W><H>ギダン軍の主力はヤーダス方面に<R>展開しているとはいえ、<W><H>本土防衛の軍は、いままでの<R>遠征部隊とは比べものにならない<R>意気込みで戦ってくるでしょう。<W><H>準備ができ次第、<R><P07>全機、発進してください！<P15><W><E>",
-     "en": "Commander Kosterif:<R>We will cross the border and<R>invade Gidan territory.<W><H>Though the Gidan army's main force<R>is deployed toward Yadas,<W><H>the homeland defense forces will<R>fight with a resolve far beyond<R>any expeditionary force so far.<W><H>As soon as you're ready, <P07>all<R>ships, please launch!<P15><W><E>"
+     "en": "Commander Kosterif:<R>We will cross the border and<R>invade Gidan territory.<W><H>Though the Gidan army's main<R>force is deployed toward Yadas,<W><H>the homeland defense forces will<R>fight with a resolve far beyond<R>any expeditionary force so far.<W><H>As soon as you're ready,<R><P07>all ships, please launch!<P15><W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#90",
@@ -492,7 +492,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#97",
      "jp": "<F62>：<R>なるほど、だから親衛部隊のいる<R>デゼを抜け出したんだな？<W><E>",
-     "en": "<F62>:<R>I see. So that's why you<W><H>slipped out of Deze, with<R>its Royal Guard units?<W><E>"
+     "en": "<F62>:<R>I see.<W><H>So that's why you slipped<R>out of Deze, with its<R>Royal Guard units?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#98",
@@ -502,7 +502,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#99",
      "jp": "ゼシカ大尉：<R>ギダン軍人がム連邦軍に志願する<R>なんて、前代未聞ね………<W><E>",
-     "en": "Captain Zeshika:<R>A Gidan soldier volunteering<W><H>for the Federation army...<R>That's unheard of......<W><E>"
+     "en": "Captain Zeshika:<R>A Gidan soldier volunteering<R>for the Federation army...<W><H>That's unheard of......<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#100",
@@ -557,12 +557,12 @@
     {
      "id": "2D/FMPS/F10_00@3b800#110",
      "jp": "ム連兵：<R>ギダン軍の内部は国王派とシデル<R>派で分裂しているそうですよ。<W><E>",
-     "en": "Federation Soldier:<R>They say the Gidan army<W><H>has split into royalists<R>and Sidel's faction.<W><E>"
+     "en": "Federation Soldier:<R>They say the Gidan<R>army has split<W><H>into royalists and<R>Sidel's faction.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#111",
      "jp": "ム連兵：<R>将軍が寝返るようでは、ギダン軍<R>もボロボロだな。<W><E>",
-     "en": "Federation Soldier:<R>If even a general is<W><H>switching sides, the<R>Gidan army's in tatters.<W><E>"
+     "en": "Federation Soldier:<R>If even a general is<R>switching sides,<W><H>the Gidan army's in tatters.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#112",
@@ -607,7 +607,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#120",
      "jp": "カフィ：<R>武装解除に応じて親衛部隊に<R>降伏しろ、ということかしら。<W><E>",
-     "en": "Kafi:<R>Meaning we should agree to<W><H>disarm and surrender to the<R>Royal Guard units, I suppose.<W><E>"
+     "en": "Kafi:<R>Meaning we should agree to<R>disarm and surrender to<W><H>the Royal Guard<R>units, I suppose.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#121",
@@ -767,7 +767,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#152",
      "jp": "ム連兵：<R>ム連邦とギダン軍のにらみ合いは<R>いつまで続くんだ。<W><E>",
-     "en": "Federation Soldier:<R>How long will this standoff<W><H>between the Federation and<R>the Gidan army go on?<W><E>"
+     "en": "Federation Soldier:<R>How long will this<R>standoff between the<W><H>Federation and the<R>Gidan army go on?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#153",
@@ -782,7 +782,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#155",
      "jp": "ム連兵：<R>いつム連軍とギダン軍が全面戦争<R>になってもおかしくないよ。<W><E>",
-     "en": "Federation Soldier:<R>All-out war between the<W><H>Federation and the Gidan army<R>could break out any time now.<W><E>"
+     "en": "Federation Soldier:<R>All-out war between the<R>Federation and the Gidan<W><H>army could break<R>out any time now.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#156",
@@ -932,7 +932,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#185",
      "jp": "ム連兵：<R>空賊の連中が国境を無断で<R>行き来して困るよ。<W><E>",
-     "en": "Federation Soldier:<R>Those sky pirates keep<W><H>crossing the border without<R>permission. It's a real pain.<W><E>"
+     "en": "Federation Soldier:<R>Those sky pirates keep crossing<R>the border without permission.<W><H>It's a real pain.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#186",
@@ -947,7 +947,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#188",
      "jp": "ム連兵：<R>ゼシカ隊長はきびしいけど……<R>部下思いなんですよ。<W><E>",
-     "en": "Federation Soldier:<R>Captain Zeshika is<W><H>strict... but she really<R>looks out for her people.<W><E>"
+     "en": "Federation Soldier:<R>Captain Zeshika is strict...<W><H>but she really looks<R>out for her people.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#189",
@@ -962,7 +962,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#191",
      "jp": "ム連兵：<R>密入国した空賊を見かけたら、<R>ぜひ教えてくださいね。<W><E>",
-     "en": "Federation Soldier:<R>If you see any sky pirates<W><H>who snuck into the country,<R>please let us know.<W><E>"
+     "en": "Federation Soldier:<R>If you see any sky<R>pirates who snuck<W><H>into the country,<R>please let us know.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#192",
@@ -1027,7 +1027,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#204",
      "jp": "女：<R>パナスガルが占領されたときは<R>どうなるかとおもったわ。<W><E>",
-     "en": "Woman:<R>When Panasgal was<W><H>occupied, I didn't know<R>what would become of us.<W><E>"
+     "en": "Woman:<R>When Panasgal was occupied,<W><H>I didn't know what<R>would become of us.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#205",

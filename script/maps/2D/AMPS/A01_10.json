@@ -447,7 +447,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#88",
      "jp": "ギダン士官：<R>ああ、君か、<W><H>バムス中佐といっしょに<R>帰って来たというのは。<W><H>いいことを教えてやろう。<W><H>ノイパスク侵攻作戦が<R>再開されたらしいぞ。<W><H>なんでも、シデル提督直属の<R>強力な援軍が到着しているから、<R>こんどはだいじょうぶだそうだ。<W><E>",
-     "en": "Gidan Officer:<R>Ah, so you're the one<W><H>who came back with<R>Lieutenant Colonel Bams.<W><H>Let me tell you some good news.<W><H>Word is the Noipask<R>invasion has resumed.<W><H>Seems strong reinforcements<R>under Admiral Sidel's own<W><H>command have arrived, so<R>this time we can't lose.<W><E>"
+     "en": "Gidan Officer:<R>Ah, so you're the one who came<W><H>back with Lieutenant<R>Colonel Bams.<W><H>Let me tell you some good news.<W><H>Word is the Noipask<R>invasion has resumed.<W><H>Seems strong reinforcements<R>under Admiral Sidel's own<R>command have arrived,<W><H>so this time we can't lose.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#89",
@@ -482,7 +482,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#95",
      "jp": "ギダン兵：<R>俺もいつ前線に送られるか、<R>ひやひやしてるんだ。<W><E>",
-     "en": "Gidan Soldier:<R>I'm on edge, never knowing<W><H>when they'll ship me off<R>to the front myself.<W><E>"
+     "en": "Gidan Soldier:<R>I'm on edge,<W><H>never knowing when they'll ship<R>me off to the front myself.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#96",
@@ -532,7 +532,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#105",
      "jp": "バムス中佐：<R>出発の準備ができたら、わたしも<R>空港まで見送りに行くからな。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>When you're ready to depart,<W><H>I'll come to the airport to<R>see you off as well.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>When you're ready to depart,<W><H>I'll come to the airport<R>to see you off as well.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#106",

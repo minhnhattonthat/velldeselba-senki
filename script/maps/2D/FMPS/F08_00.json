@@ -477,7 +477,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#94",
      "jp": "ム連兵：<R>さあさ、ぼさっとしてないで。<R>仕事は山ほどあるぜ。<W><E>",
-     "en": "Federation Soldier:<R>Come on, come on, don't<W><H>just stand around. There's<R>a mountain of work to do.<W><E>"
+     "en": "Federation Soldier:<R>Come on, come on, don't<R>just stand around.<W><H>There's a mountain<R>of work to do.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#95",
@@ -557,7 +557,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#110",
      "jp": "コステリフ長官：<R>これより、<R>アヤメミ奪回作戦に移ります。<R>兵を召集し、ただちに出撃！<W><E>",
-     "en": "Commander Kosterif:<R>We now move on to the operation<W><H>to recapture Ayamemi. Assemble the<R>troops and sortie immediately!<W><E>"
+     "en": "Commander Kosterif:<R>We now move on to the operation<R>to recapture Ayamemi.<W><H>Assemble the troops and<R>sortie immediately!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#111",
@@ -647,7 +647,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#128",
      "jp": "老女：<R>アヤメミにはイヌやネコが<R>多いんじゃ。無事だろうか……<W><E>",
-     "en": "Old Woman:<R>There are lots of dogs and<W><H>cats in Ayamemi. I wonder<R>if they're safe...<W><E>"
+     "en": "Old Woman:<R>There are lots of dogs<R>and cats in Ayamemi.<W><H>I wonder if they're safe...<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#129",

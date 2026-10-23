@@ -702,7 +702,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#139",
      "jp": "チャンタケ大尉：<R>もったいないお言葉、<R>恐縮いたします。<W><H>わたしはガークス殿に<R><F62>殿のことを<R>お聞きしたまでです。<W><E>",
-     "en": "Captain Chantake:<R>Your words are more than I<R>deserve.<W><H>I merely heard about<R><F62>-dono from Garks-dono.<W><E>"
+     "en": "Captain Chantake:<R>Your words are more<R>than I deserve.<W><H>I merely heard about<R><F62>-dono from Garks-dono.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#140",
@@ -767,7 +767,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#152",
      "jp": "チャンタケ大尉：<R>わたしはグラシアルにもどり、<W><H>このことをガシザキノ大佐に<R>伝えます。<W><E>",
-     "en": "Captain Chantake:<R>I will return to Glacial<W><H>and report this to<R>Colonel Gashizakino.<W><E>"
+     "en": "Captain Chantake:<R>I will return to Glacial and<W><H>report this to<R>Colonel Gashizakino.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#153",
@@ -1057,7 +1057,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#210",
      "jp": "ダ・クダ：<R>カフィとかいう女をさがしてるん<R>だって？　おめえのコレなのか？<W><E>",
-     "en": "Da Kuda:<R>You're looking for some<W><H>woman called Kafi? She<R>your sweetheart?<W><E>"
+     "en": "Da Kuda:<R>You're looking for some<R>woman called Kafi?<W><H>She your sweetheart?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#211",
@@ -1107,7 +1107,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#220",
      "jp": "ダ・クダ：<R>シデルの支配するギダンは、今や<R>危険な戦闘国家と化している。<W><H>このままでは、ノイパスクや<R>ム連邦との争いは激しくなる<R>一方だ。<W><E>",
-     "en": "Da Kuda:<R>Under Sidel's rule, Gidan<W><H>has become a dangerous<R>warmongering nation.<W><H>At this rate, the fighting with<R>Noipask and the Federation will<R>only get worse.<W><E>"
+     "en": "Da Kuda:<R>Under Sidel's rule,<W><H>Gidan has become a dangerous<R>warmongering nation.<W><H>At this rate, the fighting with<R>Noipask and the Federation will<R>only get worse.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#221",
@@ -1212,7 +1212,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#241",
      "jp": "ダ・クダ：<R>これを持って歩いてりゃ、<R>どこから見ても立派な商人だ。<W><H>金に困ったときには、<R>高く買ってくれる店を<R>さがして売るがいい。<W><H>こういった品は「交易品」と<R>いってな、売買して小銭を<R>かせぐこともできるんだ。<W><H>ただし、ふつうの<R>ジャンク屋じゃあダメだぜ。<W><H>あいつらには交易品の価値って<R>もんがわかってないからな。<W><H>ただ、交易品は１種類につき<R>２５５個までしか持つことが<R>できないことになっている。<W><H>これは、オルダナスピの国王陛下<R>がベルデセルバ星に健全な経済を<R>発展させるために定められた、<W><H>万国共通のおきてなんだ。<W><H>それからもちろん、<R>おまえの船に積めるだけしか<R>買うことはできない。<W><H>自分の船の「積載量」は<R>いつも頭に入れておけよ。<W><E>",
-     "en": "Da Kuda:<R>Walk around with that, and you'll<R>look every bit the merchant.<W><H>When you're short on money,<R>find a shop that'll pay well<R>for it and sell it.<W><H>Stuff like this is called \"trade<R>goods.\" You can buy and sell it<R>to earn some pocket money.<W><H>But a regular Junk<R>Dealer won't do.<W><H>Those guys don't understand<R>what trade goods are worth.<W><H>Mind you, you can only carry up to<R>255 of each kind of trade goods.<W><H>That's a law set by His<R>Majesty the King of Oldanaspi<W><H>to grow a healthy economy on<R>the planet Velldeselba,<W><H>and it holds in every nation.<W><H>And of course, you can only buy<R>as much as your ship can carry.<W><H>Always keep your ship's<R>\"cargo capacity\" in mind.<W><E>"
+     "en": "Da Kuda:<R>Walk around with that, and you'll<R>look every bit the merchant.<W><H>When you're short on money,<R>find a shop that'll pay well<R>for it and sell it.<W><H>Stuff like this is called \"trade<R>goods.\" You can buy and sell it<R>to earn some pocket money.<W><H>But a regular Junk<R>Dealer won't do.<W><H>Those guys don't understand<R>what trade goods are worth.<W><H>Mind you, you can only carry up to<R>255 of each kind of trade goods.<W><H>That's a law set by His<R>Majesty the King of<R>Oldanaspi to grow a healthy<W><H>economy on the<R>planet Velldeselba,<W><H>and it holds in every nation.<W><H>And of course, you can only buy<R>as much as your ship can carry.<W><H>Always keep your ship's<R>\"cargo capacity\" in mind.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#242",
@@ -1227,7 +1227,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#244",
      "jp": "チバラガ：<R>デゼにシデル親衛部隊の大艦隊が<R>集まっているそうだぜ。<W><E>",
-     "en": "Chibaraga:<R>Word is a huge fleet of<W><H>Sidel's Royal Guard units<R>is gathering at Deze.<W><E>"
+     "en": "Chibaraga:<R>Word is a huge fleet<R>of Sidel's Royal<W><H>Guard units is<R>gathering at Deze.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#245",
@@ -1282,7 +1282,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#255",
      "jp": "チャンタケ大尉：<R>お願いです！<W><H>今、ギダン国王にもしものことが<R>あると、シデル提督の軍事力拡張<R>に歯止めが利かなくなります！<W><H>戦乱はさらに激しくなり、大勢の<R>人間が命を落とすはず。<W><H>このまま、だまって見過ごす<R>訳にはいかない！<W><E>",
-     "en": "Captain Chantake:<R>Please!<W><H>If anything happens to the<R>King of Gidan now, nothing<W><H>will be able to stop Admiral<R>Sidel's military buildup!<W><H>The war will grow even<R>fiercer, and a great many<R>people will surely die.<W><H>I cannot just stand by in<R>silence and let this happen!<W><E>"
+     "en": "Captain Chantake:<R>Please!<W><H>If anything happens to<R>the King of Gidan now,<W><H>nothing will be able to<R>stop Admiral Sidel's<R>military buildup!<W><H>The war will grow even<R>fiercer, and a great many<R>people will surely die.<W><H>I cannot just stand by in<R>silence and let this happen!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#256",
@@ -1307,7 +1307,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#260",
      "jp": "チャンタケ大尉：<R>国王船とその護衛船を<W><H>バムス艦と２機の親衛隊機で<R>襲う……これが暗殺計画の<R>あらましです。<W><E>",
-     "en": "Captain Chantake:<R>The royal ship and<R>its escort ship<W><H>will be attacked by Bams's<R>ship and two Royal Guard<W><H>craft... That is the outline<R>of the assassination plot.<W><E>"
+     "en": "Captain Chantake:<R>The royal ship and<R>its escort ship<W><H>will be attacked by Bams's ship<R>and two Royal Guard craft...<W><H>That is the outline of<R>the assassination plot.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#261",

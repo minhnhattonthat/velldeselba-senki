@@ -452,7 +452,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#89",
      "jp": "ダナスピ４世：<R>永世中立、非武装のこの国を<R>占領するというのか……<W><E>",
-     "en": "Danaspi IV:<R>You would occupy this<W><H>nation, eternally<R>neutral and unarmed...?<W><E>"
+     "en": "Danaspi IV:<R>You would occupy this nation,<W><H>eternally neutral<R>and unarmed...?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#90",
@@ -617,7 +617,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#122",
      "jp": "ダナスピ４世：<R>つまり空賊は、<R>国家には真似のできない、<W><H>「世の流れをつかむ」という、<R>重要な役割もあるわけじゃ。<W><E>",
-     "en": "Danaspi IV:<R>In other words, sky<W><H>pirates also have a role<R>no nation can imitate:<W><H>the important task of \"grasping<R>the flow of the world.\"<W><E>"
+     "en": "Danaspi IV:<R>In other words,<W><H>sky pirates also have a role<R>no nation can imitate:<W><H>the important task of \"grasping<R>the flow of the world.\"<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#123",
@@ -732,7 +732,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#145",
      "jp": "ノイパスク兵：<R>カフィ中佐とともに、<R>左奥の部屋に拘束されているぞ。<W><E>",
-     "en": "Noipask Soldier:<R>They're being held with<W><H>Lieutenant Colonel Kafi<R>in the far-left room.<W><E>"
+     "en": "Noipask Soldier:<R>They're being held<R>with Lieutenant<W><H>Colonel Kafi in<R>the far-left room.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#146",
@@ -857,7 +857,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#170",
      "jp": "ノイパスク兵：<R>司令部にはみだりに入らないで<R>いただきたい。<W><E>",
-     "en": "Noipask Soldier:<R>Please refrain from<W><H>entering headquarters<R>without good reason.<W><E>"
+     "en": "Noipask Soldier:<R>Please refrain from entering<W><H>headquarters without<R>good reason.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#171",
@@ -917,7 +917,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#182",
      "jp": "ノイパスク兵：<R>ノイパスクとム連邦の同盟が<R>解消されるらしいぜ。<W><E>",
-     "en": "Noipask Soldier:<R>Word is the alliance between<W><H>Noipask and the Federation<R>is getting called off.<W><E>"
+     "en": "Noipask Soldier:<R>Word is the alliance<R>between Noipask and the<W><H>Federation is<R>getting called off.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#183",
@@ -982,7 +982,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#195",
      "jp": "<F62>：<R>空の上でうしろから<R>撃ち落とされたくなきゃ、<R>言うことを聞くんだな。<W><E>",
-     "en": "<F62>:<R>If you don't want to get<W><H>shot down from behind up in<R>the sky, you'll do as I say.<W><E>"
+     "en": "<F62>:<R>If you don't want to get<R>shot down from behind<W><H>up in the sky,<R>you'll do as I say.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#196",
@@ -1057,7 +1057,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#210",
      "jp": "<F62>：<R>どこの国の傭兵をやろうが、<R>俺にはあまり関係ないさ。<W><E>",
-     "en": "<F62>:<R>Whatever country I'm a<W><H>mercenary for, it doesn't<R>make much difference to me.<W><E>"
+     "en": "<F62>:<R>Whatever country I'm<R>a mercenary for,<W><H>it doesn't make much<R>difference to me.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#211",
@@ -1382,7 +1382,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#275",
      "jp": "タカテリフ長官：<R>はじめからノイパスクになど<R>協力しなければよかったのだ。<W><E>",
-     "en": "Commander Takaterif:<R>...we should never have<W><H>cooperated with the Noipask<R>in the first place.<W><E>"
+     "en": "Commander Takaterif:<R>...we should never<R>have cooperated<W><H>with the Noipask in<R>the first place.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#276",
@@ -1582,7 +1582,7 @@
     {
      "id": "2D/DMPS/D01_10@54000#315",
      "jp": "お祈りをしてたら、<R>知らない国の兵隊さんが<R>大勢やってきたの……<R>だから怖くて、ずっと礼拝堂の<R>裏に隠れてたの。<W><E>",
-     "en": "I was praying, and lots of<R>soldiers from a country I<R>didn't know came... So I<R>got scared and hid behind<R>the chapel the whole time.<W><E>"
+     "en": "I was praying, and lots of<R>soldiers from a country I<R>didn't know came...<W><H>So I got scared and hid behind<R>the chapel the whole time.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_10@54000#316",

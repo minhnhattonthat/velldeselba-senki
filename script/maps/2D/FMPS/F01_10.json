@@ -457,7 +457,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#90",
      "jp": "ム連兵：<R>何だ、用もないのに<R>うろうろするんじゃないぞ。<W><E>",
-     "en": "Federation Soldier:<R>What's this? Don't go<W><H>wandering around if you've<R>got no business here.<W><E>"
+     "en": "Federation Soldier:<R>What's this?<W><H>Don't go wandering around if<R>you've got no business here.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#91",
@@ -532,7 +532,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#105",
      "jp": "ム連邦大統領：<R>おお、君がうわさの<R><F62>大尉かね？<W><E>",
-     "en": "Federation President:<R>Oh ho, so you're the<W><H>Captain <F62> I've<R>heard so much about?<W><E>"
+     "en": "Federation President:<R>Oh ho,<W><H>so you're the Captain <F62><R>I've heard so much about?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#106",
@@ -567,7 +567,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#112",
      "jp": "ム連邦大統領：<R>そうだ、君のところの<R>娘さんが、たしか年頃だったな。<W><E>",
-     "en": "Federation President:<R>Ah yes, that daughter of<W><H>yours ought to be of<R>marrying age by now.<W><E>"
+     "en": "Federation President:<R>Ah yes,<W><H>that daughter of yours ought<R>to be of marrying age by now.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#113",

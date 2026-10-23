@@ -507,7 +507,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#100",
      "jp": "ム連邦大統領：<R>空の上から選挙活動をするのは<R>いいアイデアだと思わないかね？<W><E>",
-     "en": "Federation President:<R>Campaigning from up in<W><H>the sky... don't you<R>think it's a fine idea?<W><E>"
+     "en": "Federation President:<R>Campaigning from<R>up in the sky...<W><H>don't you think<R>it's a fine idea?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#101",
@@ -737,7 +737,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#146",
      "jp": "カフィの父：<R>なんだか、ワクワクしてくるな。<R>こんな気持ちは久しぶりだよ。<W><E>",
-     "en": "Kafi's Father:<R>I'm getting excited,<W><H>somehow. I haven't felt<R>like this in a long time.<W><E>"
+     "en": "Kafi's Father:<R>I'm getting excited, somehow.<W><H>I haven't felt like<R>this in a long time.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#147",
@@ -767,7 +767,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#152",
      "jp": "ガークス：<R>いまでもこのように、<W><H>国王陛下の付き人として<R>はたらいております。<W><E>",
-     "en": "Garks:<R>And as you see, even now<W><H>I serve as His Majesty<R>the King's attendant.<W><E>"
+     "en": "Garks:<R>And as you see,<W><H>even now I serve as His<R>Majesty the King's attendant.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#153",
@@ -922,7 +922,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#183",
      "jp": "ミユキ：<R>いいなあ……<W><H>私も<F63>のような船がほしいな。<W><E>",
-     "en": "Miyuki:<R>Lucky you...<W><H>I wish I had a ship<R>like the <F63> too.<W><E>"
+     "en": "Miyuki:<R>Lucky you...<W><H>I wish I had a ship like<R>the <F63> too.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#184",
@@ -992,7 +992,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#197",
      "jp": "発明家アブナス：<R>船の旅行用品について、<R>なにかひらめくんじゃないか、<R>って思ってさ。<W><E>",
-     "en": "Inventor Abunas:<R>I figured I might get some flash<W><H>of inspiration about travel<R>goods for ships, you know?<W><E>"
+     "en": "Inventor Abunas:<R>I figured I might get some<R>flash of inspiration about<W><H>travel goods for<R>ships, you know?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#198",
@@ -1012,7 +1012,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#201",
      "jp": "発明家アブナス：<R>船で洗濯物が干せる「空中物干し<R>ざお」を思いついちゃったよ！<W><E>",
-     "en": "Inventor Abunas:<R>I just thought up the \"Sky<W><H>Clothesline\" so you can hang<R>laundry out on a ship!<W><E>"
+     "en": "Inventor Abunas:<R>I just thought up the<R>\"Sky Clothesline\" so<W><H>you can hang laundry<R>out on a ship!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#202",
@@ -1027,7 +1027,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#204",
      "jp": "ダナスピ４世：<R>そうではない。<R>それを物事の解決手段にしては<R>いかん、ということだ。<W><E>",
-     "en": "Danaspi IV:<R>That is not so. What I mean is<W><H>that one must not make it the<R>means of settling matters.<W><E>"
+     "en": "Danaspi IV:<R>That is not so.<W><H>What I mean is that one<R>must not make it the means<R>of settling matters.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#205",
@@ -1057,7 +1057,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#210",
      "jp": "ダナスピ４世：<R>案外楽しいものだな。<R>気に入ったぞ……<W><E>",
-     "en": "Danaspi IV:<R>This is more enjoyable<W><H>than I expected. I am<R>quite taken with it...<W><E>"
+     "en": "Danaspi IV:<R>This is more enjoyable<R>than I expected.<W><H>I am quite taken with it...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#211",
@@ -1077,7 +1077,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#214",
      "jp": "ミサキ：<R>１年たっても進展なしか。<R>男が気の毒だな。<W><E>",
-     "en": "Misaki:<R>A whole year and still<W><H>no progress, huh? I feel<R>sorry for the guy.<W><E>"
+     "en": "Misaki:<R>A whole year and still<R>no progress, huh?<W><H>I feel sorry for the guy.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#215",
@@ -1137,7 +1137,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#226",
      "jp": "ラウエル：<R>おかげさまで繁盛しております。<R>ギダン、オルダナスピ、ム連邦を<R>つなぐ交易ルートを<R>いちはやくおさえ、<W><H>国際貿易大船団を結成したところ<R>それが大当たりしまして。<W><E>",
-     "en": "Rauel:<R>Thriving, thank you. I was<R>first to secure the trade<R>routes linking Gidan,<R>Oldanaspi and the Federation,<W><H>then formed a grand<R>international trading fleet,<R>and it has been a smash hit.<W><E>"
+     "en": "Rauel:<R>Thriving, thank you.<W><H>I was first to secure the<R>trade routes linking Gidan,<R>Oldanaspi and the Federation,<W><H>then formed a grand<R>international trading fleet,<R>and it has been a smash hit.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#227",
@@ -1147,7 +1147,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#228",
      "jp": "ラウエル：<R>本日は一市民としてこの<R>セレモニーに参加しに来ました。<W><H>よろしくおねがいします。<W><E>",
-     "en": "Rauel:<R>Today I have come to take<W><H>part in this ceremony as<R>an ordinary citizen.<W><H>I look forward to<R>flying with you.<W><E>"
+     "en": "Rauel:<R>Today I have come<R>to take part in<W><H>this ceremony as an<R>ordinary citizen.<W><H>I look forward to<R>flying with you.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#229",
@@ -1167,7 +1167,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#232",
      "jp": "ラウエル：<R>見ると聞くとでは大違いですね。<R>ついていくのがやっとでしたよ。<W><E>",
-     "en": "Rauel:<R>Seeing it is nothing<W><H>like hearing about it. I<R>could barely keep up.<W><E>"
+     "en": "Rauel:<R>Seeing it is nothing<R>like hearing about it.<W><H>I could barely keep up.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#233",
@@ -1362,7 +1362,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#271",
      "jp": "ミサキ：<R>まあ、そのことは、<R>あとでゆっくり話そう。<R>とりあえず乗った乗った！<W><E>",
-     "en": "Misaki:<R>Well, let's talk that over<W><H>properly later. For now,<R>climb aboard, climb aboard!<W><E>"
+     "en": "Misaki:<R>Well, let's talk that<R>over properly later.<W><H>For now, climb aboard,<R>climb aboard!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#272",

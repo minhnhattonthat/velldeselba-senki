@@ -527,12 +527,12 @@
     {
      "id": "2D/CMPS/C03_00@55800#104",
      "jp": "タカテリフ長官：<R>ところで中佐、どうですか、<R>ナデス島の状況は？<W><E>",
-     "en": "Commander Takaterif:<R>By the way, Lieutenant<W><H>Colonel, how do things<R>stand on Nades Island?<W><E>"
+     "en": "Commander Takaterif:<R>By the way, Lieutenant Colonel,<W><H>how do things stand<R>on Nades Island?<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#105",
      "jp": "カフィ中佐：<R>あと２、３回ならギダン軍の攻撃<R>に耐えられるかもしれませんが、<W><H>それ以上はとても無理です。<W><H>物資が不足し、<R>どうにもなりません。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>We might withstand two<W><H>or three more attacks<R>from the Gidan army,<W><H>but no more than that.<W><H>We're short on supplies,<R>and there's nothing we<R>can do about it.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>We might withstand two or three<W><H>more attacks from<R>the Gidan army,<W><H>but no more than that.<W><H>We're short on supplies,<R>and there's nothing we<R>can do about it.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#106",
@@ -587,7 +587,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#116",
      "jp": "コステリフ長官：<R>日時などの詳細はカフィ中佐と<R>詰めることにして、<W><E>",
-     "en": "Commander Kosterif:<R>We'll work out the date<W><H>and other details with<R>Lieutenant Colonel Kafi,<W><E>"
+     "en": "Commander Kosterif:<R>We'll work out the<R>date and other<W><H>details with Lieutenant<R>Colonel Kafi,<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#117",
@@ -602,7 +602,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#119",
      "jp": "ゼシカ大尉：<R>ここミデーレキサタは<R>ギダン王国との国境にある町です。<W><H>でも、最近は<R>にらみ合いの状態が続いてるから、<R>いたって平穏ですね。<W><E>",
-     "en": "Captain Zeshika:<R>Miderekisata is a town<W><H>on the border with the<R>Kingdom of Gidan.<W><H>But lately it's been a<R>standoff, so things are<R>perfectly peaceful.<W><E>"
+     "en": "Captain Zeshika:<R>Miderekisata is a town on the<W><H>border with the<R>Kingdom of Gidan.<W><H>But lately it's been a<R>standoff, so things are<R>perfectly peaceful.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#120",
@@ -672,7 +672,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#133",
      "jp": "コステリフ長官：<R>とにかく、ムノギイのム連邦軍<R>本部に援軍を要請はしましたが、<W><H>到着までには時間がかかります。<W><E>",
-     "en": "Commander Kosterif:<R>At any rate, we have requested<W><H>reinforcements from Federation<R>army headquarters in Munogi,<W><H>but it will take time<R>for them to arrive.<W><E>"
+     "en": "Commander Kosterif:<R>At any rate,<W><H>we have requested<R>reinforcements from Federation<R>army headquarters in Munogi,<W><H>but it will take time<R>for them to arrive.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#134",
@@ -682,7 +682,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#135",
      "jp": "ゼクセル大佐：<R>何か対策を考える必要があるな。<R>しばらく作戦会議だ。<W><E>",
-     "en": "Colonel Zexel:<R>We need to devise some<W><H>countermeasure. Let us hold a<R>strategy meeting for a while.<W><E>"
+     "en": "Colonel Zexel:<R>We need to devise<R>some countermeasure.<W><H>Let us hold a strategy<R>meeting for a while.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#136",
@@ -712,7 +712,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#141",
      "jp": "管制員：<R>ここはわがギダン軍がム連邦軍を<R>追い出して占領したんだ。<W><E>",
-     "en": "Controller:<R>Our Gidan army drove the<W><H>Federation army out of here<R>and took the place over.<W><E>"
+     "en": "Controller:<R>Our Gidan army drove<R>the Federation army<W><H>out of here and took<R>the place over.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#142",
@@ -732,7 +732,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#145",
      "jp": "衛兵：<R>今、重要会議中です！<R>お通しできません。<W><E>",
-     "en": "Guard:<R>An important meeting<W><H>is in session! I can't<R>let you through.<W><E>"
+     "en": "Guard:<R>An important meeting<R>is in session!<W><H>I can't let you through.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#146",
@@ -772,7 +772,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#153",
      "jp": "ゼシカ大尉：<R><F62>少尉も<R>すぐに出撃してください。<W><H>カフィ中佐はわたしと<R>いっしょに。<W><E>",
-     "en": "Captain Zeshika:<R>Lieutenant <F62>, please<R>sortie at once as well.<W><H>Lieutenant Colonel Kafi, come with<R>me.<W><E>"
+     "en": "Captain Zeshika:<R>Lieutenant <F62>, please<R>sortie at once as well.<W><H>Lieutenant Colonel<R>Kafi, come with me.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#154",
@@ -812,7 +812,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#161",
      "jp": "オユ・キクル：<R>ノイパスク人がム連邦の人たちと<R>うまくやっていけるのかしら？<W><H>心配だわ………<W><E>",
-     "en": "Oyu Kikuru:<R>Will we Noipask be able to<W><H>get along with the people<R>of the Federation?<W><H>I'm worried......<W><E>"
+     "en": "Oyu Kikuru:<R>Will we Noipask be<R>able to get along<W><H>with the people of<R>the Federation?<W><H>I'm worried......<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#162",
@@ -877,7 +877,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#174",
      "jp": "カフィ中佐：<R>町に行くのは無理だけど、<R>ギダンの人に会うくらいなら……<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Going to a town is out of<W><H>the question, but meeting<R>someone from Gidan...<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Going to a town is<R>out of the question,<W><H>but meeting someone<R>from Gidan...<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#175",
@@ -1062,7 +1062,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#211",
      "jp": "<F62>：<R>そういえば、カフィがナデス島の<R>医者と何か話してたっけな……<W><H>もらおうか。<W><E>",
-     "en": "<F62>:<R>Come to think of it, Kafi was<W><H>talking to the doctor on Nades<R>Island about something...<W><H>I'll take it.<W><E>"
+     "en": "<F62>:<R>Come to think of it,<W><H>Kafi was talking to the doctor on<R>Nades Island about something...<W><H>I'll take it.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#212",
@@ -1082,7 +1082,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#215",
      "jp": "患者：<R>ありがたい。ゼシカ大尉が<R>このようなところまで……<W><E>",
-     "en": "Patient:<R>How kind. For Captain<W><H>Zeshika to come all the way<R>to a place like this...<W><E>"
+     "en": "Patient:<R>How kind.<W><H>For Captain Zeshika to come all<R>the way to a place like this...<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#216",
@@ -1117,7 +1117,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#222",
      "jp": "ム連邦民間人：<R>ノイパスク兵がわが物顔で歩いて<R>いやがる！　どうなってるんだ！？<W><E>",
-     "en": "Federation Civilian:<R>Noipask soldiers strutting<W><H>around like they own the<R>place! What's going on here!?<W><E>"
+     "en": "Federation Civilian:<R>Noipask soldiers strutting<R>around like they own the place!<W><H>What's going on here!?<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#223",
@@ -1337,7 +1337,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#266",
      "jp": "マスター：<R>ゼシカ大尉ではありませんか。<R>お連れの方は、ノイパスクの？<W><H>それはそれはごくろうさまで……<R>お安くしときますよ。<W><E>",
-     "en": "Bartender:<R>Why, if it isn't Captain<W><H>Zeshika. And your<R>companion is from Noipask?<W><H>Well, well, you've had a<R>hard road, I'm sure... I'll<R>give you a good price.<W><E>"
+     "en": "Bartender:<R>Why, if it isn't<R>Captain Zeshika.<W><H>And your companion<R>is from Noipask?<W><H>Well, well, you've had a<R>hard road, I'm sure... I'll<R>give you a good price.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#267",
@@ -1412,7 +1412,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#281",
      "jp": "ノイパスク兵：<R>聞こえたぞ、俺たちといっしょじゃ<R>酒がまずいっていうのか？<W><H>おい、はっきりいってみろよ！<W><E>",
-     "en": "Noipask Soldier:<R>I heard that. You saying<W><H>drinking with us makes<R>the booze taste bad?<W><H>Hey, say it to my face!<W><E>"
+     "en": "Noipask Soldier:<R>I heard that.<W><H>You saying drinking with us<R>makes the booze taste bad?<W><H>Hey, say it to my face!<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#282",

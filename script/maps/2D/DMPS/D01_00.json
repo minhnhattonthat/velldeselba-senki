@@ -452,7 +452,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#89",
      "jp": "ゼクセル大佐：<R>きさま、今ごろのこのこと<R>何をしに来たのだ！<W><E>",
-     "en": "Colonel Zexel:<R>You! What business have<W><H>you, showing up here at<R>this late hour!<W><E>"
+     "en": "Colonel Zexel:<R>You! What business have you,<W><H>showing up here at<R>this late hour!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#90",
@@ -482,7 +482,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#95",
      "jp": "ゼクセル大佐：<R>われわれがベルデセルバの原住民<R>と手を組むことなど許されない。<W><H>わがノイパスクは、あくまで<R>この星を征服するために<R>やってきたのだからな。<W><E>",
-     "en": "Colonel Zexel:<R>We cannot allow ourselves<W><H>to join hands with the<R>natives of Velldeselba.<W><H>Our Noipask came here, after<R>all, to conquer this planet.<W><E>"
+     "en": "Colonel Zexel:<R>We cannot allow<R>ourselves to join<W><H>hands with the natives<R>of Velldeselba.<W><H>Our Noipask came here, after<R>all, to conquer this planet.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#96",
@@ -532,7 +532,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#105",
      "jp": "ガシザキノ中佐：<R>いかにも、わたしがギダン王国軍<R>のガシザキノ中佐だ。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>Indeed. I am Lieutenant<W><H>Colonel Gashizakino of<R>the Gidan Royal Army.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Indeed.<W><H>I am Lieutenant<R>Colonel Gashizakino of<R>the Gidan Royal Army.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#106",
@@ -777,7 +777,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#154",
      "jp": "オデナウデ長官：<R>われわれは最初からム連邦と協力<R>するつもりなどないわ！<W><E>",
-     "en": "Commander Odenaude:<R>We never meant to cooperate<W><H>with the Federation in the<R>first place!<W><E>"
+     "en": "Commander Odenaude:<R>We never meant to cooperate with<W><H>the Federation in<R>the first place!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#155",
@@ -892,7 +892,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#177",
      "jp": "<F62>：<R>今、ギダン軍に攻め込まれちゃ、<R>ひとたまりもないからな……<W><H>とっとと終わらせてくるか……<W><E>",
-     "en": "<F62>:<R>If the Gidan army hit us<W><H>right now, we wouldn't<R>stand a chance...<W><H>Guess I'll get this<R>over with fast...<W><E>"
+     "en": "<F62>:<R>If the Gidan army<R>hit us right now,<W><H>we wouldn't stand a chance...<W><H>Guess I'll get this<R>over with fast...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#178",
@@ -907,7 +907,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#180",
      "jp": "みやげもの屋：<R>ダナスピに戦艦で乗り込むなど<R>……全く、無礼にも程があるよ。<W><E>",
-     "en": "Souvenir Seller:<R>Barging into Danaspi with<W><H>a battleship... Honestly,<R>the rudeness of it!<W><E>"
+     "en": "Souvenir Seller:<R>Barging into Danaspi<R>with a battleship...<W><H>Honestly, the rudeness of it!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#181",
@@ -997,7 +997,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#198",
      "jp": "みやげもの屋：<R>戦争の間はギダンに守ってもらう<R>しかないんだろうね。<W><E>",
-     "en": "Souvenir Seller:<R>I suppose we have no choice<W><H>but to rely on Gidan for<R>protection during the war.<W><E>"
+     "en": "Souvenir Seller:<R>I suppose we have no<R>choice but to rely on<W><H>Gidan for protection<R>during the war.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#199",
@@ -1182,12 +1182,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#235",
      "jp": "ノイパスク兵：<R>カフィ中佐もダナスピ王も<R>宮殿の中に監禁されてるよ。<W><E>",
-     "en": "Noipask Soldier:<R>Lieutenant Colonel Kafi and<W><H>King Danaspi are both locked<R>up inside the palace.<W><E>"
+     "en": "Noipask Soldier:<R>Lieutenant Colonel Kafi<R>and King Danaspi are<W><H>both locked up<R>inside the palace.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#236",
      "jp": "ノイパスク兵：<R>宮殿の中のカギはたしか、真ん中<R>の聖なる球に隠してあるはずだ。<W><E>",
-     "en": "Noipask Soldier:<R>I think the key inside the<W><H>palace is hidden in the<R>holy orb in the middle.<W><E>"
+     "en": "Noipask Soldier:<R>I think the key<R>inside the palace is<W><H>hidden in the holy<R>orb in the middle.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#237",
@@ -1237,7 +1237,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#246",
      "jp": "女：<R>ム連邦を敵に回して<R>どうする気なの？！<W><E>",
-     "en": "Woman:<R>What do you think you'll<W><H>gain by making an enemy<R>of the Federation!?<W><E>"
+     "en": "Woman:<R>What do you think you'll gain by<W><H>making an enemy of<R>the Federation!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#247",
@@ -1282,7 +1282,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#255",
      "jp": "男：<R>永世中立国のわが国がギダン軍に<R>頼らねばならないとは……<W><E>",
-     "en": "Man:<R>To think our eternally<W><H>neutral nation must rely<R>on the Gidan army...<W><E>"
+     "en": "Man:<R>To think our eternally neutral<W><H>nation must rely on<R>the Gidan army...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#256",
@@ -1432,7 +1432,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#285",
      "jp": "男：<R>ギダンから来たんだが、この騒ぎ<R>のせいで修行どころじゃないよ。<W><E>",
-     "en": "Man:<R>I came from Gidan, but with<W><H>all this commotion, training<R>is out of the question.<W><E>"
+     "en": "Man:<R>I came from Gidan,<W><H>but with all this commotion,<R>training is out of the question.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#286",
@@ -1447,7 +1447,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#288",
      "jp": "老人：<R>何ということだ……<R>おちおち外を散歩もできん。<W><E>",
-     "en": "Old Man:<R>What is the world coming<W><H>to... A man can't even<R>take a walk in peace.<W><E>"
+     "en": "Old Man:<R>What is the world coming to...<W><H>A man can't even take<R>a walk in peace.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#289",
@@ -1472,7 +1472,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#293",
      "jp": "男：<R>ダナスピ陛下の平和への願いが<R>全世界に広がれば良いのですが。<W><E>",
-     "en": "Man:<R>If only His Majesty Danaspi's<W><H>wish for peace would spread to<R>the whole world.<W><E>"
+     "en": "Man:<R>If only His Majesty<R>Danaspi's wish for<W><H>peace would spread<R>to the whole world.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#294",

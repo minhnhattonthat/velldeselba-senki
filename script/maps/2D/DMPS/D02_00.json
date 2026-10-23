@@ -467,7 +467,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#92",
      "jp": "ギダン兵：<R>オルダナスピ領内は現在、<R>戦闘中だ。<W><H>ノイパスク軍は、おそれおおくも<R>オルダナスピの国王陛下を<R>人質にとって、<R>ダナスピを占拠したのだ。<W><H>それによってム連邦軍との<R>同盟も破棄されたらしい。<W><H>民間人が近づいては危険だぞ。<W><E>",
-     "en": "Gidan Soldier:<R>Oldanaspi territory is<R>currently a combat zone.<W><H>The Noipask army has dared<R>to take His Majesty the<W><H>King of Oldanaspi hostage<R>and has occupied Danaspi.<W><H>Because of that, their alliance<R>with the Federation army has<R>been broken off too, apparently.<W><H>It's dangerous for<R>civilians to go near.<W><E>"
+     "en": "Gidan Soldier:<R>Oldanaspi territory is<R>currently a combat zone.<W><H>The Noipask army has dared<R>to take His Majesty the<R>King of Oldanaspi<W><H>hostage and has<R>occupied Danaspi.<W><H>Because of that, their alliance<R>with the Federation army has<R>been broken off too, apparently.<W><H>It's dangerous for<R>civilians to go near.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#93",
@@ -642,12 +642,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#127",
      "jp": "ノイパスク兵：<R>ふ、ム連邦まで敵にまわして<R>どうなるっていうんだ？！<W><E>",
-     "en": "Noipask Soldier:<R>Hmph, what good will<W><H>come of making enemies<R>of the Federation too!?<W><E>"
+     "en": "Noipask Soldier:<R>Hmph, what good will come of<W><H>making enemies of<R>the Federation too!?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#128",
      "jp": "ノイパスク兵：<R>仲間がずいぶん<R>減っちまったよ……<R>俺も足をケガしちまって<R>ここから動けないんだ。<W><E>",
-     "en": "Noipask Soldier:<R>We've lost a lot of<W><H>comrades... I hurt my leg too,<R>and I can't move from here.<W><E>"
+     "en": "Noipask Soldier:<R>We've lost a lot of comrades...<W><H>I hurt my leg too, and I<R>can't move from here.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#129",
@@ -767,7 +767,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#152",
      "jp": "修理屋：<R>なんだかぶっそうな世の中ですが<R>……商売だけはやめませんよ。<W><E>",
-     "en": "Repairman:<R>These are dangerous<W><H>times, it seems... but<R>I'm not closing up shop.<W><E>"
+     "en": "Repairman:<R>These are dangerous<R>times, it seems...<W><H>but I'm not closing up shop.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#153",

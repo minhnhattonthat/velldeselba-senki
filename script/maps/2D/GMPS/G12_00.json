@@ -542,12 +542,12 @@
     {
      "id": "2D/GMPS/G12_00@54800#107",
      "jp": "カフィ中佐：<R>ゼクセル大佐、放棄された<R>ナデス島はどうなるのですか？<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Colonel Zexel, what will<W><H>become of Nades Island<R>once it's abandoned?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Colonel Zexel,<W><H>what will become of Nades<R>Island once it's abandoned?<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#108",
      "jp": "ゼクセル大佐：<R>祖先の残した動力部の母体が<R>やられたのだ。<W><H>われわれの技術力では<R>修復できない。<W><H>じきにどこかに墜落することに<R>なるだろう。<W><E>",
-     "en": "Colonel Zexel:<R>The core of the power<W><H>plant our ancestors left<R>us has been destroyed.<W><H>Our technology cannot repair it.<W><H>Before long, it will<R>crash somewhere.<W><E>"
+     "en": "Colonel Zexel:<R>The core of the power plant our<W><H>ancestors left us<R>has been destroyed.<W><H>Our technology cannot repair it.<W><H>Before long, it will<R>crash somewhere.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#109",
@@ -597,7 +597,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#118",
      "jp": "ゼクセル大佐：<R>こうなった以上、われわれの<R>力だけで突破するしかない！<W><H>ナデス島ごと脱出するとみせかけ、<R>すきをついて島を捨て、一気に<R>艦隊で強行突破する。<W><H>全機、ミデーレキサタに向けて<R>突進しろ！<W><E>",
-     "en": "Colonel Zexel:<R>Now that it has come to<W><H>this, we must break through<R>on our own strength alone!<W><H>We feign escape with all of<R>Nades Island, abandon the<R>island at the right moment,<R>and force our way through<R>with the fleet in one push.<W><H>All craft, charge<R>toward Miderekisata!<W><E>"
+     "en": "Colonel Zexel:<R>Now that it has come to this,<W><H>we must break through on<R>our own strength alone!<W><H>We feign escape with all of<R>Nades Island, abandon the<R>island at the right moment,<W><H>and force our way through<R>with the fleet in one push.<W><H>All craft, charge<R>toward Miderekisata!<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#119",
@@ -622,7 +622,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#123",
      "jp": "<F62>：<R>今は、生きてミデーレキサタに<R>帰ることだけを考えるんだ。<W><H>さあ、行こう。<W><E>",
-     "en": "<F62>:<R>Right now, just think<W><H>about getting back to<R>Miderekisata alive.<W><H>Come on, let's go.<W><E>"
+     "en": "<F62>:<R>Right now,<W><H>just think about getting<R>back to Miderekisata alive.<W><H>Come on, let's go.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#124",
@@ -717,7 +717,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#142",
      "jp": "ノイパスク兵：<R>俺の友達が入院しているんだけど<R>どうも病状が思わしくないんだ。<W><H>腕は立つし、まじめだし、<R>とってもいいやつなのに……<W><E>",
-     "en": "Noipask Soldier:<R>A friend of mine's in<W><H>the hospital, but he's<R>not doing so well.<W><H>He's skilled, he's serious,<R>he's a really good guy...<W><E>"
+     "en": "Noipask Soldier:<R>A friend of mine's<R>in the hospital,<W><H>but he's not doing so well.<W><H>He's skilled, he's serious,<R>he's a really good guy...<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#143",
@@ -747,7 +747,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#148",
      "jp": "ノイパスク兵：<R>ム連邦の女が来てるんだって？<R>どんなやつだあ？<W><E>",
-     "en": "Noipask Soldier:<R>I hear a woman from<W><H>the Federation's here?<R>What's she like?<W><E>"
+     "en": "Noipask Soldier:<R>I hear a woman from<R>the Federation's here?<W><H>What's she like?<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#149",
@@ -772,7 +772,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#153",
      "jp": "バ・マッグ：<R>少尉は私の命の恩人であります。<W><H>ぜひ、あなたの船に乗せていただき、<R>少尉のために、死力を尽くして<R>戦いたいのであります！<W><E>",
-     "en": "Ba Magg:<R>Lieutenant, you are the man<R>who saved my life, sir.<W><H>I beg you, let me aboard<R>your ship, so that I may<W><H>fight for you with every<R>ounce of my strength, sir!<W><E>"
+     "en": "Ba Magg:<R>Lieutenant, you are the man<R>who saved my life, sir.<W><H>I beg you, let me<R>aboard your ship,<W><H>so that I may fight for you with<R>every ounce of my strength, sir!<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#154",
@@ -782,7 +782,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#155",
      "jp": "バ・マッグ：<R>大砲の扱いには自信があります！<R>決して後悔させないであります！<W><E>",
-     "en": "Ba Magg:<R>I am confident in my handling<W><H>of cannons! I will never make<R>you regret it, sir!<W><E>"
+     "en": "Ba Magg:<R>I am confident in my<R>handling of cannons!<W><H>I will never make<R>you regret it, sir!<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#156",
@@ -802,7 +802,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#159",
      "jp": "ハウエズナ：<R><F62>少尉、<R>乗員が増えてよかったですね。<W><H>今は一人でも多くの仲間が<R>ほしいときですし……<W><H>しかも彼は、ノイパスクで１、２<R>とうたわれた名砲手です。<R>心強いですよ。<W><E>",
-     "en": "Hauezna:<R>Lieutenant <F62>, it's good<R>that our crew has grown.<W><H>Right now, we need every ally we<R>can get...<W><H>What's more, he is a famed gunner,<R>hailed as one of the very best in<R>Noipask. Most reassuring, sir.<W><E>"
+     "en": "Hauezna:<R>Lieutenant <F62>, it's good<R>that our crew has grown.<W><H>Right now, we need every<R>ally we can get...<W><H>What's more, he is a famed gunner,<R>hailed as one of the very best in<R>Noipask. Most reassuring, sir.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#160",
@@ -822,7 +822,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#163",
      "jp": "ハウエズナ：<R>カフィ中佐の手伝いですよ。<W><H>今のうちに、空襲でめちゃ<R>くちゃになった中佐の部屋を<R>片づけるんだそうです。<W><E>",
-     "en": "Hauezna:<R>Helping Lieutenant<R>Colonel Kafi, sir.<W><H>She says she'll tidy up<R>the Lieutenant Colonel's<W><H>room while there's time;<R>the air raid wrecked it.<W><E>"
+     "en": "Hauezna:<R>Helping Lieutenant<R>Colonel Kafi, sir.<W><H>She says she'll tidy up<R>the Lieutenant Colonel's<R>room while there's time;<W><H>the air raid wrecked it.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#164",
@@ -862,7 +862,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#171",
      "jp": "配給係：<R>物資もこれで残り最後だ。<R>今度は失敗するんじゃないぞ。<W><E>",
-     "en": "Quartermaster:<R>These are the last of<W><H>the supplies. Don't<R>you fail this time.<W><E>"
+     "en": "Quartermaster:<R>These are the last<R>of the supplies.<W><H>Don't you fail this time.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#172",

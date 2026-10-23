@@ -522,7 +522,7 @@
     {
      "id": "2D/AMPS/A06_00@3b000#103",
      "jp": "老人：<R>最近、グラシアルに出かせぎに<R>行く者が多くてな。<W><E>",
-     "en": "Old Man:<R>Lately, lots of folks<W><H>have been heading off to<R>Glacial to find work.<W><E>"
+     "en": "Old Man:<R>Lately, lots of folks have been<W><H>heading off to Glacial<R>to find work.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#104",
@@ -552,17 +552,17 @@
     {
      "id": "2D/AMPS/A06_00@3b000#109",
      "jp": "老女：<R>ふん、近頃は素性のしれない<R>連中がうろうろして、イヤだね。<W><E>",
-     "en": "Old Woman:<R>Hmph. These days, all sorts<W><H>of shady types are wandering<R>about. I don't like it.<W><E>"
+     "en": "Old Woman:<R>Hmph. These days, all sorts of<R>shady types are wandering about.<W><H>I don't like it.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#110",
      "jp": "老女：<R>さっき、怪しい男どもが空港で<R>給油してたけどね。<W><E>",
-     "en": "Old Woman:<R>A little while ago, some<W><H>suspicious men were<R>refueling at the airport.<W><E>"
+     "en": "Old Woman:<R>A little while ago,<W><H>some suspicious men were<R>refueling at the airport.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#111",
      "jp": "老人：<R>ここの郊外には２軒ほど家がある<R>が、今は誰も住んじゃいないよ。<W><E>",
-     "en": "Old Man:<R>There are a couple of houses<W><H>on the outskirts, but nobody<R>lives in them now.<W><E>"
+     "en": "Old Man:<R>There are a couple<R>of houses on the<W><H>outskirts, but nobody<R>lives in them now.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#112",
@@ -572,12 +572,12 @@
     {
      "id": "2D/AMPS/A06_00@3b000#113",
      "jp": "女：<R>ギダンの情勢が知りたければ北の<R>グラシアルに行くのが一番だよ。<W><E>",
-     "en": "Woman:<R>If you want to know how things<W><H>stand in Gidan, your best bet<R>is Glacial, up north.<W><E>"
+     "en": "Woman:<R>If you want to know how<R>things stand in Gidan,<W><H>your best bet is<R>Glacial, up north.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#114",
      "jp": "女：<R>黒い飛空船なら、<R>郊外の山の方に行ったよ。<W><E>",
-     "en": "Woman:<R>The black airship? It<W><H>went off toward the<R>mountains outside town.<W><E>"
+     "en": "Woman:<R>The black airship?<W><H>It went off toward the<R>mountains outside town.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#115",

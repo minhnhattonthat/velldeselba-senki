@@ -20,7 +20,16 @@ def test_fit_balances_rows_and_boxes():
         "Garks:<R>Why would an aide<R>kidnap the King?<W><E>"
     long = "The royal house of Danaspi is the anchor of our hearts. We must win it back, no matter what.<W><E>"
     out = batches.fit("Soldier:<R>" + long, jp)
-    assert [len(p.split("<R>")) for p in out.split("<H>")] == [2, 2] and lint.problems(out, jp) == []
+    assert [len(p.split("<R>")) for p in out.split("<H>")] == [3, 2] and lint.problems(out, jp) == []
+    assert "hearts.<W><H>We must" in out
+
+
+def test_boxes_break_after_a_sentence():
+    jp = "男：<R>あ<W><E>"
+    out = batches.fit("Man:<R>Are you folks the Federation army? Looks like there's some Gidan folks too...<W><E>", jp)
+    assert out == "Man:<R>Are you folks the<R>Federation army?<W><H>Looks like there's some<R>Gidan folks too...<W><E>"
+    out = batches.fit("Zeshika:<R>Lieutenant Colonel Kafi, come with me.<W><E>", jp)
+    assert out == "Zeshika:<R>Lieutenant Colonel<R>Kafi, come with me.<W><E>"
 
 
 def test_running_text_refits_to_the_same_rows():

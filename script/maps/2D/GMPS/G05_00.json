@@ -592,7 +592,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#117",
      "jp": "ノイパスク兵：<R>本国までがギダンにやられたんだ<R>って？　くそ、なんてことだ！<W><E>",
-     "en": "Noipask Soldier:<R>Even the homeland's been<W><H>taken by Gidan? Damn it,<R>how could this happen!<W><E>"
+     "en": "Noipask Soldier:<R>Even the homeland's<R>been taken by Gidan?<W><H>Damn it, how could this happen!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#118",
@@ -697,7 +697,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#138",
      "jp": "ギダン兵：<R>２階の捕虜たち、何だか<R>かなり怒ってたぜ。<W><E>",
-     "en": "Gidan Soldier:<R>The prisoners on the<W><H>second floor seemed pretty<R>angry about something.<W><E>"
+     "en": "Gidan Soldier:<R>The prisoners on<R>the second floor<W><H>seemed pretty angry<R>about something.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#139",
@@ -722,7 +722,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#143",
      "jp": "ギダン兵：<R>国の土産に何か<R>いただいていこうかな……<W><E>",
-     "en": "Gidan Soldier:<R>Maybe I'll help myself<W><H>to a souvenir for the<R>folks back home...<W><E>"
+     "en": "Gidan Soldier:<R>Maybe I'll help myself to a<W><H>souvenir for the<R>folks back home...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#144",
@@ -742,7 +742,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#147",
      "jp": "ギダン衛生兵：<R>ノイパスクの酒ってちょっと<R>消毒液臭いけど、いけますよ。<W><E>",
-     "en": "Gidan Medic:<R>Noipask liquor smells a<W><H>bit like disinfectant,<R>but it goes down fine.<W><E>"
+     "en": "Gidan Medic:<R>Noipask liquor smells a<R>bit like disinfectant,<W><H>but it goes down fine.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#148",
@@ -777,7 +777,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#154",
      "jp": "ガシザキノ大佐：<R><F62>よ、<R>ここを足場にワンク島を攻略せよ、<R>というシデル提督の命令が出た。<W><E>",
-     "en": "Colonel Gashizakino:<R><F62>, Admiral Sidel has<W><H>issued orders: use this place as a<R>foothold and take Wanku Island.<W><E>"
+     "en": "Colonel Gashizakino:<R><F62>, Admiral Sidel<R>has issued orders:<W><H>use this place as a foothold<R>and take Wanku Island.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#155",
@@ -797,7 +797,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#158",
      "jp": "ガシザキノ大佐：<R>ご存じのはずだ。<W><H>ただ陛下も、もうお歳だ。<R>提督のなさることを<R>見守るしかないのであろう。<W><E>",
-     "en": "Colonel Gashizakino:<R>He must know.<W><H>But His Majesty is getting<R>on in years. I suppose all<W><H>he can do is watch over<R>what the Admiral does.<W><E>"
+     "en": "Colonel Gashizakino:<R>He must know.<W><H>But His Majesty is<R>getting on in years.<W><H>I suppose all he can do is watch<R>over what the Admiral does.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#159",
@@ -827,7 +827,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#164",
      "jp": "ガシザキノ大佐：<R>そうだ、<F62>。<W><H>ノイパスクの兵士が多数<R>投降してきたんでな、<R>兵舎の２階に収容しておいた。<W><H>おまえの船にはノイパスク人が<R>何人かいるんだったな。<W><H>一人でも砲手がほしいだろう？<R>気にいった捕虜がいたら<R>連れてっていいぞ。<W><H>ただし、ちゃんと<R>俺に報告しろよ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Oh yes, <F62>.<W><H>A lot of Noipask soldiers<R>surrendered, so I put them<W><H>up on the second floor of<R>the barracks.<W><H>You've got a few Noipask<R>on your ship, don't you?<W><H>You could use even one more<R>gunner, right? If there's a<W><H>prisoner you like, you can<R>take them along.<W><H>Just make sure you<R>report it to me.<W><E>"
+     "en": "Colonel Gashizakino:<R>Oh yes, <F62>.<W><H>A lot of Noipask<R>soldiers surrendered,<W><H>so I put them up on the second<R>floor of the barracks.<W><H>You've got a few Noipask<R>on your ship, don't you?<W><H>You could use even one<R>more gunner, right?<W><H>If there's a prisoner you<R>like, you can take them along.<W><H>Just make sure you<R>report it to me.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#165",
@@ -897,12 +897,12 @@
     {
      "id": "2D/GMPS/G05_00@42000#178",
      "jp": "ガシザキノ大佐：<R>大規模なホウノム島攻略作戦を<R>計画しているらしい。<W><E>",
-     "en": "Colonel Gashizakino:<R>Word is they're planning<W><H>a large-scale operation<R>to take Hounom Island.<W><E>"
+     "en": "Colonel Gashizakino:<R>Word is they're planning a<W><H>large-scale operation<R>to take Hounom Island.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#179",
      "jp": "<F62>：<R>クナシティの北東にあった<R>無人の浮遊島だな。<W><H>ム連邦も浮遊島を<R>ねらっているのか？<W><E>",
-     "en": "<F62>:<R>That was the uninhabited<W><H>floating island northeast<R>of Kuna City, right?<W><H>So the Federation's after<R>floating islands too?<W><E>"
+     "en": "<F62>:<R>That was the<R>uninhabited floating<W><H>island northeast of<R>Kuna City, right?<W><H>So the Federation's after<R>floating islands too?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#180",
@@ -937,7 +937,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#186",
      "jp": "ガシザキノ大佐：<R>そういう訳だから、しばらく<R>軍事行動はひかえるそうだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Which is why I hear we're<W><H>holding off on military<R>action for a while.<W><E>"
+     "en": "Colonel Gashizakino:<R>Which is why I<R>hear we're holding<W><H>off on military<R>action for a while.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#187",
@@ -1032,7 +1032,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#205",
      "jp": "ギダン兵：<R>ノイパスク軍の戦力はまだまだ<R>健在です。用心しなければ。<W><E>",
-     "en": "Gidan Soldier:<R>The Noipask army's forces<W><H>are still going strong. We<R>have to be careful.<W><E>"
+     "en": "Gidan Soldier:<R>The Noipask army's forces<R>are still going strong.<W><H>We have to be careful.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#206",

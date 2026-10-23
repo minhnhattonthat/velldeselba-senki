@@ -447,7 +447,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#88",
      "jp": "ギダン兵：<R>最近、空賊が手当たり次第に<R>輸送船を襲っているんです。<W><H>よく、無事にたどり着け<R>ましたね。<W><E>",
-     "en": "Gidan Soldier:<R>Lately sky pirates have<W><H>been attacking transports<R>left and right.<W><H>You did well to make<R>it here safely.<W><E>"
+     "en": "Gidan Soldier:<R>Lately sky pirates have been<W><H>attacking transports<R>left and right.<W><H>You did well to make<R>it here safely.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#89",
@@ -502,7 +502,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#99",
      "jp": "商人：<R>空賊がわがもの顔でのさばってい<R>る…物騒なことになりましたな。<W><E>",
-     "en": "Merchant:<R>Sky pirates lording it<W><H>over the place... Things<R>have gotten dangerous.<W><E>"
+     "en": "Merchant:<R>Sky pirates lording<R>it over the place...<W><H>Things have gotten dangerous.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#100",
@@ -517,12 +517,12 @@
     {
      "id": "2D/BMPS/B03_00@34800#102",
      "jp": "商人：<R>軍基地のある町は、出入りの<R>チェックが厳しいなあ。<W><E>",
-     "en": "Merchant:<R>Towns with army bases sure<W><H>are strict about checking<R>who comes and goes.<W><E>"
+     "en": "Merchant:<R>Towns with army bases<R>sure are strict<W><H>about checking who<R>comes and goes.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#103",
      "jp": "商人：<R>北の町、ガーを通って北航路を<R>行きたいんだが……足止めだよ。<W><E>",
-     "en": "Merchant:<R>I want to take the northern<W><H>route through Gar, the town to<R>the north... but I'm stuck here.<W><E>"
+     "en": "Merchant:<R>I want to take the northern<R>route through Gar,<W><H>the town to the north...<R>but I'm stuck here.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#104",
@@ -532,12 +532,12 @@
     {
      "id": "2D/BMPS/B03_00@34800#105",
      "jp": "女：<R>定期便が来なくなって、新鮮な<R>食料品まで不足してしまったわ。<W><H>ほんと、困っちゃったわね。<W><E>",
-     "en": "Woman:<R>The regular flights<W><H>stopped coming, so we're<R>even short of fresh food.<W><H>Honestly, what a mess.<W><E>"
+     "en": "Woman:<R>The regular flights<R>stopped coming,<W><H>so we're even short<R>of fresh food.<W><H>Honestly, what a mess.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#106",
      "jp": "<F62>：<R>民間輸送船まで襲ってるのか……<R>いったい、どこのどいつだ？<W><E>",
-     "en": "<F62>:<R>They're attacking civilian<W><H>transports too...? Who on<R>earth is doing this?<W><E>"
+     "en": "<F62>:<R>They're attacking civilian<R>transports too...?<W><H>Who on earth is doing this?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#107",
@@ -712,7 +712,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#141",
      "jp": "ギダン司令官：<R>そうか……<R>ならば話すしかあるまい。<W><H>我々の飛空船が先日、任務の<R>途中で商船を襲う空賊らしき船を<R>発見したのだが……<W><H>攻撃をしかけたはいいものの、<R>逆にやられてしまったのだ。<W><H>おかげで虎の子のパトロール艇は<R>エンジンを壊され飛空港に<R>つながれたまま、<W><H>迎撃に出ることもできん。<W><E>",
-     "en": "Gidan Commander:<R>I see... Then I have no<R>choice but to tell you.<W><H>The other day, one of our airships<R>on a mission spotted what looked<W><H>like a sky pirate ship attacking<R>a merchant ship...<W><H>It launched an attack, all right,<R>but got beaten back instead.<W><H>Thanks to that, our precious<R>patrol boat has a wrecked engine<R>and sits tied up at the airport,<W><H>unable to go out and<R>intercept them.<W><E>"
+     "en": "Gidan Commander:<R>I see... Then I have no<R>choice but to tell you.<W><H>The other day, one of our<R>airships on a mission spotted<R>what looked like a sky pirate<W><H>ship attacking a<R>merchant ship...<W><H>It launched an attack, all right,<R>but got beaten back instead.<W><H>Thanks to that, our precious<R>patrol boat has a wrecked engine<R>and sits tied up at the airport,<W><H>unable to go out and<R>intercept them.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#142",
@@ -967,7 +967,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#192",
      "jp": "ギダン兵：<R>その腕があれば、空賊になれるん<R>じゃないか？　はは、冗談だよ。<W><E>",
-     "en": "Gidan Soldier:<R>With skills like that, you could<W><H>be a sky pirate, couldn't you?<R>Ha ha, just kidding.<W><E>"
+     "en": "Gidan Soldier:<R>With skills like that, you<R>could be a sky pirate,<W><H>couldn't you? Ha<R>ha, just kidding.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#193",
@@ -982,7 +982,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#195",
      "jp": "<F62>：<R>空賊の名をかたって悪事を<R>はたらいてきた、悪党だ。<W><H>あんたらの上官に<R>伝えてくれ、<R>約束は果たした、ってな。<W><E>",
-     "en": "<F62>:<R>Crooks who've been doing<W><H>their dirty work under<R>the sky pirates' name.<W><H>Tell your superior officer<R>that I've kept my promise.<W><E>"
+     "en": "<F62>:<R>Crooks who've been<R>doing their dirty<W><H>work under the sky<R>pirates' name.<W><H>Tell your superior officer<R>that I've kept my promise.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#196",

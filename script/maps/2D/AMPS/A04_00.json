@@ -527,7 +527,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#104",
      "jp": "男：<R>西のアザミグには、人の姿を<R>写し撮る「写し絵屋」があるよ。<W><E>",
-     "en": "Man:<R>Over west in Azamig, there's a<W><H>\"portrait maker\" who captures<R>people's likenesses.<W><E>"
+     "en": "Man:<R>Over west in Azamig,<W><H>there's a \"portrait maker\" who<R>captures people's likenesses.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#105",
@@ -557,7 +557,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#110",
      "jp": "ギダン兵：<R>こんなところで勲章を見せびらか<R>したりするからだよ。<W><E>",
-     "en": "Gidan Soldier:<R>That's what you get for<W><H>flashing your medal around<R>a place like this.<W><E>"
+     "en": "Gidan Soldier:<R>That's what you get for flashing<W><H>your medal around<R>a place like this.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#111",
@@ -697,7 +697,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#138",
      "jp": "ギダン兵：<R>その商人だったら、シデル提督の<R>親衛部隊に追われてたぜ。<W><E>",
-     "en": "Gidan Soldier:<R>That merchant? He was<W><H>being chased by Admiral<R>Sidel's Royal Guard units.<W><E>"
+     "en": "Gidan Soldier:<R>That merchant?<W><H>He was being chased by Admiral<R>Sidel's Royal Guard units.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#139",
@@ -712,7 +712,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#141",
      "jp": "ギダン兵：<R>ノイパスクの浮遊島をつかまえて<R>ギダンの戦力にするんだそうだ。<W><E>",
-     "en": "Gidan Soldier:<R>Word is they'll capture the<W><H>Noipask floating islands and<R>turn them into Gidan forces.<W><E>"
+     "en": "Gidan Soldier:<R>Word is they'll capture<R>the Noipask floating<W><H>islands and turn them<R>into Gidan forces.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#142",
@@ -732,7 +732,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#145",
      "jp": "ギダン兵：<R>シデル提督のノイパスク戦略を<R>どう思う？<W><H>あれだけ一方的に攻めていながら<R>降伏勧告もせず、浮遊島から<R>動こうとしない……<W><H>一体何をお考えなのだろう？<W><E>",
-     "en": "Gidan Soldier:<R>What do you make of Admiral<R>Sidel's Noipask strategy?<W><H>For all that one-sided<R>attacking, he issues no call<W><H>to surrender and won't budge<R>from the floating islands...<W><H>What on earth can<R>he be thinking?<W><E>"
+     "en": "Gidan Soldier:<R>What do you make of Admiral<R>Sidel's Noipask strategy?<W><H>For all that<R>one-sided attacking,<W><H>he issues no call to<R>surrender and won't budge<R>from the floating islands...<W><H>What on earth can<R>he be thinking?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#146",
@@ -777,7 +777,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#154",
      "jp": "少年：<R>ああ。<W><H>丸顔のおじさんたちなら、<R>兵隊さんに追いかけられて<R>町中を逃げ回ってたよ。<W><H>太ったおじいさんもいっしょで、<R>ヒイヒイ言って走ってたよ。<W><H>気の毒だったから、ボク、家に<R>かくまってあげたんだ。<W><H>夜になってから空港の方に<R>向かったよ。<W><H>ム連邦にもどりたいから<R><P07>クナシティに行く<P15>って<R>言ってたな。<W><E>",
-     "en": "Boy:<R>Oh, yeah.<W><H>The round-faced men? They were<R>running all over town with<R>soldiers chasing them.<W><H>A fat old man was with them too,<R>huffing and puffing as he ran.<W><H>I felt sorry for them, so I hid<R>them in my house.<W><H>After dark they headed for the<R>airport.<W><H>They said they wanted to get back<R>to the Federation, so they'd <P07>go<R>to Kuna City<P15>.<W><E>"
+     "en": "Boy:<R>Oh, yeah.<W><H>The round-faced men? They<R>were running all over town<R>with soldiers chasing them.<W><H>A fat old man was with them too,<R>huffing and puffing as he ran.<W><H>I felt sorry for them, so<R>I hid them in my house.<W><H>After dark they headed<R>for the airport.<W><H>They said they wanted to get<R>back to the Federation, so<R>they'd <P07>go to Kuna City<P15>.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#155",
@@ -932,7 +932,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#185",
      "jp": "ガシザキノ大佐：<R>ム連邦に入るにはあそこを<R>通るのが近道なんだ。<W><H>それに、シデル提督は今、<R>ノイパスク本国の前線に<R>おられるからな。<W><H>よし、追いかけるぞ！<W><E>",
-     "en": "Colonel Gashizakino:<R>Going through there<W><H>is the shortest way<R>into the Federation.<W><H>Besides, Admiral Sidel is at<R>the front in the Noipask<R>homeland right now.<W><H>Right, after them!<W><E>"
+     "en": "Colonel Gashizakino:<R>Going through there is the<W><H>shortest way into<R>the Federation.<W><H>Besides, Admiral Sidel is at<R>the front in the Noipask<R>homeland right now.<W><H>Right, after them!<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#186",

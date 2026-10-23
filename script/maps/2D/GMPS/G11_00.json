@@ -447,7 +447,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#88",
      "jp": "ノイパスク兵：<R>少尉、長官がお呼びです。<R>至急司令部へ。<W><E>",
-     "en": "Noipask Soldier:<R>Lieutenant, the Commander<W><H>is calling for you. To<R>headquarters, at once.<W><E>"
+     "en": "Noipask Soldier:<R>Lieutenant, the Commander<R>is calling for you.<W><H>To headquarters, at once.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#89",
@@ -517,12 +517,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#102",
      "jp": "ゼクセル大佐：<R>カフィ中佐、ム連邦は撤退に<R>協力してくれるんだな？<W><E>",
-     "en": "Colonel Zexel:<R>Colonel Kafi, the<W><H>Federation will cooperate<R>with our withdrawal, then?<W><E>"
+     "en": "Colonel Zexel:<R>Colonel Kafi,<W><H>the Federation will cooperate<R>with our withdrawal, then?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#103",
      "jp": "カフィ中佐：<R>は、はい。<W><H>それには、まず<R>ミデーレキサタのム連邦軍と共に<R>計画を練る必要がありますが。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Y-yes, sir.<W><H>For that, though, we first<R>need to draw up a plan<W><H>together with the Federation<R>forces in Miderekisata.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Y-yes, sir.<W><H>For that, though,<W><H>we first need to draw up a plan<R>together with the Federation<R>forces in Miderekisata.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#104",
@@ -677,7 +677,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#134",
      "jp": "看護婦：<R>もういや……ギダン軍をはやく<R>おっぱらってください！<W><E>",
-     "en": "Nurse:<R>I can't take it anymore...<W><H>Please hurry and drive the<R>Gidan army out!<W><E>"
+     "en": "Nurse:<R>I can't take it anymore...<W><H>Please hurry and drive<R>the Gidan army out!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#135",
@@ -692,7 +692,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#137",
      "jp": "ドクター：<R>ム連邦政府から届いた薬も、<R>底をつきそうだ……<W><H>薬さえあれば、<R>助かる患者もいるのに………<W><H>こんな状態で戦争したって<R>勝てるわけがないよ。<W><E>",
-     "en": "Doctor:<R>Even the medicine the<W><H>Federation government sent<R>is about to run out...<W><H>If only we had medicine,<R>some of the patients<R>could be saved......<W><H>There's no way to win a<R>war in a state like this.<W><E>"
+     "en": "Doctor:<R>Even the medicine the Federation<W><H>government sent is<R>about to run out...<W><H>If only we had medicine,<R>some of the patients<R>could be saved......<W><H>There's no way to win a<R>war in a state like this.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#138",

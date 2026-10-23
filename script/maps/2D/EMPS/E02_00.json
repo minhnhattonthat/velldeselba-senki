@@ -532,7 +532,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#105",
      "jp": "<F62>：<R>この時期に無事に国境を越え<R>られるとは思えないぜ。<W><E>",
-     "en": "<F62>:<R>I don't see anyone crossing<W><H>that border safely at a time<R>like this.<W><E>"
+     "en": "<F62>:<R>I don't see anyone crossing that<W><H>border safely at a<R>time like this.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#106",
@@ -662,7 +662,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#131",
      "jp": "ブアブナム：<R>おう、<F62>。<R>無事だったか。<W><E>",
-     "en": "Buabnam:<R>Hey, <F62>. You made it back<R>in one piece.<W><E>"
+     "en": "Buabnam:<R>Hey, <F62>. You made<R>it back in one piece.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#132",
@@ -947,7 +947,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#188",
      "jp": "空賊：<R>空賊退治部隊の隊長は、<R>まだ若い女らしいぜ。<W><E>",
-     "en": "Sky Pirate:<R>Word is the leader of<W><H>that pirate-hunting<R>unit is a young woman.<W><E>"
+     "en": "Sky Pirate:<R>Word is the leader of that<W><H>pirate-hunting unit<R>is a young woman.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#189",
@@ -962,7 +962,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#191",
      "jp": "空賊：<R>ダ・クダのだんなとうちの親分、<R>また何かたくらんでるのかな？<W><E>",
-     "en": "Sky Pirate:<R>Boss Da Kuda and our<W><H>boss... cooking up<R>something again, I wonder?<W><E>"
+     "en": "Sky Pirate:<R>Boss Da Kuda and our boss...<W><H>cooking up something<R>again, I wonder?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#192",

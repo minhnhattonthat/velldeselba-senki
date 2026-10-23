@@ -582,7 +582,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#115",
      "jp": "ドックの職人：<R>船の買い方をしりたいって？<R>じゃあ、教えてやるよ。<W><H>船を買うとな、<R>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備の見立ては<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくから<R>心配しなくてもいいよ。<W><E>",
-     "en": "Shipwright:<R>Want to know how to buy a<R>ship? Then I'll show you.<W><H>When you buy a ship,<R>your old ship's turrets,<W><H>engine, armor plates and<R>so on all get scrapped.<W><H>Leave picking the new<R>ship's equipment to me.<W><H>Ammo and cargo get moved<R>over to the new ship as they<R>are, so don't you worry.<W><E>"
+     "en": "Shipwright:<R>Want to know how to buy a<R>ship? Then I'll show you.<W><H>When you buy a ship, your<R>old ship's turrets, engine,<W><H>armor plates and so<R>on all get scrapped.<W><H>Leave picking the new<R>ship's equipment to me.<W><H>Ammo and cargo get moved<R>over to the new ship as they<R>are, so don't you worry.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#116",
@@ -672,7 +672,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#133",
      "jp": "ギダン兵：<R>どうやら、ム連邦も本気でクナを<R>奪回しようとしいるらしい。<W><H>いま、バムス中佐が<R>持ち帰った前線の話で<R>グラシアルはもちきりさ。<W><E>",
-     "en": "Gidan Soldier:<R>Looks like the Federation's<R>serious about taking Kuna back.<W><H>Right now, all Glacial can<R>talk about is the news from<W><H>the front that Lieutenant<R>Colonel Bams brought back.<W><E>"
+     "en": "Gidan Soldier:<R>Looks like the Federation's<R>serious about taking Kuna back.<W><H>Right now, all Glacial<R>can talk about is the<R>news from the front that<W><H>Lieutenant Colonel<R>Bams brought back.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#134",
@@ -682,17 +682,17 @@
     {
      "id": "2D/AMPS/A01_00@56000#135",
      "jp": "ギダン兵：<R>わが軍がクナを占領したので、<R>ム連邦はあわてているらしい。<W><E>",
-     "en": "Gidan Soldier:<R>Since our army occupied<W><H>Kuna, the Federation's<R>apparently in a panic.<W><E>"
+     "en": "Gidan Soldier:<R>Since our army occupied Kuna,<W><H>the Federation's<R>apparently in a panic.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#136",
      "jp": "ギダン兵：<R>このまま、ム連邦が引き下がって<R>いるわけないじゃないか。<W><H>これからまた大変な事になるよ。<R>シデル提督直属の親衛隊も<R>クナ方面へ出撃したらしいし……<W><E>",
-     "en": "Gidan Soldier:<R>There's no way the<W><H>Federation's just going<R>to back down like this.<W><H>Things are going to get rough<R>again. Even Admiral Sidel's<W><H>own Royal Guard has sortied<R>toward Kuna, they say...<W><E>"
+     "en": "Gidan Soldier:<R>There's no way the Federation's<W><H>just going to back<R>down like this.<W><H>Things are going to<R>get rough again.<W><H>Even Admiral Sidel's own<R>Royal Guard has sortied<R>toward Kuna, they say...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#137",
      "jp": "ギダン兵：<R>シデル提督直属の親衛隊も<R>クナ方面へ出動したらしいぜ。<W><E>",
-     "en": "Gidan Soldier:<R>Word is even Admiral<W><H>Sidel's own Royal Guard<R>has deployed toward Kuna.<W><E>"
+     "en": "Gidan Soldier:<R>Word is even Admiral Sidel's own<W><H>Royal Guard has<R>deployed toward Kuna.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#138",
@@ -797,7 +797,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#158",
      "jp": "メーア：<R>ええ、入院していた患者さんたち<R>が、みなさん退院されたので、<W><H>休めるうちに休んでおこうって<R>ことになって、<R>お休みになったんです。<W><E>",
-     "en": "Meer:<R>No. All the patients<W><H>who were staying here<R>have been discharged,<W><H>so we decided to rest<R>while we still can, and<R>closed for the day.<W><E>"
+     "en": "Meer:<R>No.<W><H>All the patients who were staying<R>here have been discharged,<W><H>so we decided to rest<R>while we still can, and<R>closed for the day.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#159",
@@ -1022,7 +1022,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#203",
      "jp": "男：<R>娘はギダン軍でも名うての<R>砲手なんですよ。<W><E>",
-     "en": "Man:<R>My daughter's one of the<W><H>finest gunners in the<R>Gidan army, you know.<W><E>"
+     "en": "Man:<R>My daughter's one of the finest<R>gunners in the Gidan army,<W><H>you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#204",
@@ -1107,7 +1107,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#220",
      "jp": "商人：<R>いらっしゃい、と言いたい<R>ところだけど、品不足でね。<W><H>穏健（おんけん）政策だった<R>国王も、息子のすることには<R>口出しできないってさ。<W><H>シデル提督は、いつまで<R>戦争を続けるつもりかね？<W><E>",
-     "en": "Merchant:<R>I'd like to say welcome,<R>but I'm short on stock.<W><H>They say even the King,<R>for all his moderate<W><H>policies, can't interfere<R>with what his son does.<W><H>How long does Admiral Sidel<R>mean to keep this war going?<W><E>"
+     "en": "Merchant:<R>I'd like to say welcome,<R>but I'm short on stock.<W><H>They say even the King, for<R>all his moderate policies,<W><H>can't interfere with<R>what his son does.<W><H>How long does Admiral Sidel<R>mean to keep this war going?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#221",
@@ -1197,12 +1197,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#238",
      "jp": "ギダン兵：<R>最近、補給物資を積んだ軍の貨物<R>船が空賊に襲われているんだ。<W><H>使える戦艦はみんな前線に送って<R>しまってるから、<R>護衛につける船が足りないんだ。<W><E>",
-     "en": "Gidan Soldier:<R>Lately, army cargo ships<W><H>carrying supplies keep getting<R>attacked by sky pirates.<W><H>Every usable warship has been sent<R>to the front, so there aren't<R>enough ships to escort them.<W><E>"
+     "en": "Gidan Soldier:<R>Lately, army cargo ships<R>carrying supplies<W><H>keep getting attacked<R>by sky pirates.<W><H>Every usable warship has been sent<R>to the front, so there aren't<R>enough ships to escort them.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#239",
      "jp": "ギダン兵：<R>最近、補給物資を積んだ軍の貨物<R>船が空賊に襲われているんだ。<W><E>",
-     "en": "Gidan Soldier:<R>Lately, army cargo ships<W><H>carrying supplies keep getting<R>attacked by sky pirates.<W><E>"
+     "en": "Gidan Soldier:<R>Lately, army cargo ships<R>carrying supplies<W><H>keep getting attacked<R>by sky pirates.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#240",
@@ -1227,12 +1227,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#244",
      "jp": "男：<R>今日も、政治犯がアダクダの<R>収容所に送られたらしいぜ。<W><H>くわばらくわばら……さわらぬ<R>神にたたりなし、ってな。<W><E>",
-     "en": "Man:<R>Heard they sent more<W><H>political prisoners to the<R>Adakuda prison camp today.<W><H>Heaven help us... Let sleeping<R>dogs lie, as they say.<W><E>"
+     "en": "Man:<R>Heard they sent more<R>political prisoners<W><H>to the Adakuda<R>prison camp today.<W><H>Heaven help us... Let sleeping<R>dogs lie, as they say.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#245",
      "jp": "男：<R>今日も、政治犯がアダクダの<R>収容所に送られたらしいぜ。<W><E>",
-     "en": "Man:<R>Heard they sent more<W><H>political prisoners to the<R>Adakuda prison camp today.<W><E>"
+     "en": "Man:<R>Heard they sent more<R>political prisoners<W><H>to the Adakuda<R>prison camp today.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#246",
@@ -1452,7 +1452,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#289",
      "jp": "男：<R>田舎では仕事がないから、<R>でかせぎに来てるんだ。<W><H>単身ふにんってやつさ。<W><E>",
-     "en": "Man:<R>There's no work back in<W><H>the country, so I came<R>here to earn a living.<W><H>Left the family at<R>home, the usual story.<W><E>"
+     "en": "Man:<R>There's no work back<R>in the country,<W><H>so I came here to earn a living.<W><H>Left the family at<R>home, the usual story.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#290",
@@ -1502,7 +1502,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#299",
      "jp": "少女：<R>さっきまでお友達と<R>町の西はずれで遊んでたの。<W><E>",
-     "en": "Girl:<R>I was playing with my<W><H>friends at the west edge<R>of town until just now.<W><E>"
+     "en": "Girl:<R>I was playing with<R>my friends at the<W><H>west edge of town<R>until just now.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#300",
@@ -1522,7 +1522,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#303",
      "jp": "<F62>：<R>そうか？<R>じゃあここでいいよ。<W><H>家に帰んな。<R>お父さんが待ってるんだろ？<W><H>帰るときには<R>家まで呼びに行くからさ。<W><E>",
-     "en": "<F62>:<R>Really? Then this is fine.<W><H>Go on home. Your dad's<R>waiting for you, right?<W><H>When it's time to leave, I'll<R>come by your house to get you.<W><E>"
+     "en": "<F62>:<R>Really? Then this is<R>fine. Go on home.<W><H>Your dad's waiting<R>for you, right?<W><H>When it's time to leave, I'll<R>come by your house to get you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#304",
@@ -1552,7 +1552,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#309",
      "jp": "<F62>：<R>イ・デム島に置いてきた俺の船は<R>直ったかな……<W><E>",
-     "en": "<F62>:<R>I wonder if my ship's<W><H>fixed yet, the one I<R>left on I-Dem Island...<W><E>"
+     "en": "<F62>:<R>I wonder if my ship's fixed yet,<W><H>the one I left on<R>I-Dem Island...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#310",

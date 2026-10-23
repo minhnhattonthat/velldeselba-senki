@@ -66,6 +66,41 @@ def boxes(rows):
     return "<R>".join(rows)
 
 
+END = re.compile(r"(\.|!|\?|…)[\"')」]*(<[^>]*>)*$")
+CLAUSE = re.compile(r"[,;:—-][\"')]*(<[^>]*>)*$")
+
+
+def page(text, r0):
+    """Running text -> boxes (<W><H> between them): the fewest boxes, breaking after a sentence where it can, else
+    after a clause; a box ending on a one-word row or a last box of one row costs extra. None if a word won't fit."""
+    words, memo = text.split(" "), {}
+
+    def best(i, r0):  # (boxes, penalty), rows per box, for words[i:] starting at row r0
+        if (i, r0) not in memo:
+            memo[i, r0] = None
+            for j in range(i + 1, len(words) + 1):
+                last = j == len(words)
+                rows = wrap(" ".join(words[i:j]) + ("" if last else "<W>"), r0)
+                if r0 + len(rows) > 3:
+                    break
+                pen = 2 * (j - i > 1 or not last) * (" " not in rows[-1])
+                if last:
+                    cand = ((1, pen + 3 * (r0 == 0 and len(rows) == 1 and i > 0)), [rows])
+                else:
+                    rest = best(j, 0)
+                    if rest is None:
+                        continue
+                    pen += 3 - r0 - len(rows)  # rows left empty in a box that isn't the last
+                    pen += 0 if END.search(words[j - 1]) else 2 if CLAUSE.search(words[j - 1]) else 4
+                    cand = ((rest[0][0] + 1, rest[0][1] + pen), [rows] + rest[1])
+                if memo[i, r0] is None or cand[0] <= memo[i, r0][0]:  # ties: the fuller earlier box
+                    memo[i, r0] = cand
+        return memo[i, r0]
+
+    got = best(0, r0)
+    return None if got is None else "<H>".join("<R>".join(b) for b in got[1])
+
+
 def fit3d(en):
     """3D messages (between <@hh> waits): wrap each to 30 letters; a message keeps its trailing CRLF."""
     out = []
@@ -101,10 +136,16 @@ def fit(en, jp, three_d=False):
     if "<W>" not in jp:
         return pad_box(en, jp)
     pages = []
-    for page in en.split("<H>"):
+    for pg in en.split("<H>"):
+        segs = [s.strip() for s in pg.split("<R>")]
+        head = segs[:1] if len(segs) == 2 and LABEL.match(segs[0]) else []
+        boxed = page(segs[-1], len(head)) if len(segs) == len(head) + 1 else None
+        if boxed is not None:
+            pages.append("<R>".join(head + [boxed]))
+            continue
         rows = []
-        for seg in page.split("<R>"):
-            rows += wrap(seg.strip(), len(rows))
+        for seg in segs:
+            rows += wrap(seg, len(rows))
         pages.append(boxes(rows))
     return "<H>".join(pages)
 

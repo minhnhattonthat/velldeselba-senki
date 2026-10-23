@@ -497,7 +497,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#98",
      "jp": "ム連兵：<R>わが軍は総崩れです。このまま<R>ではムノギイも危ない……<W><E>",
-     "en": "Federation Soldier:<R>Our army is in total<W><H>collapse. At this rate, even<R>Munogi is in danger...<W><E>"
+     "en": "Federation Soldier:<R>Our army is in total collapse.<W><H>At this rate, even<R>Munogi is in danger...<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#99",
@@ -647,7 +647,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#128",
      "jp": "マスター：<R>兵隊さん、今はこんなところに<R>いる場合じゃないだろ？<W><E>",
-     "en": "Bartender:<R>Soldier, shouldn't you<W><H>be somewhere other<R>than here right now?<W><E>"
+     "en": "Bartender:<R>Soldier, shouldn't you be<W><H>somewhere other than<R>here right now?<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#129",
@@ -672,7 +672,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#133",
      "jp": "ム連兵：<R>ギダン人は残酷だ。捕虜になった<R>ら生きて帰れないと聞いたぞ。<W><E>",
-     "en": "Federation Soldier:<R>The Gidan people are cruel. I<W><H>hear if you're taken prisoner,<R>you never come back alive.<W><E>"
+     "en": "Federation Soldier:<R>The Gidan people are cruel.<W><H>I hear if you're taken prisoner,<R>you never come back alive.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#134",

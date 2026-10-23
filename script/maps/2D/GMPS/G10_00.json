@@ -447,7 +447,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#88",
      "jp": "ノイパスク兵：<R>おい、何をもたもたしてたんだ。<R>オデナウデ司令長官がお呼びだぜ。<W><H>左にある自動ドアを入れば<R>司令部だ。<W><E>",
-     "en": "Noipask Soldier:<R>Hey, what were you dawdling<W><H>for? Commander-in-Chief<R>Odenaude wants you.<W><H>Go through the automatic<R>door on the left and<R>you'll be at headquarters.<W><E>"
+     "en": "Noipask Soldier:<R>Hey, what were you dawdling for?<W><H>Commander-in-Chief<R>Odenaude wants you.<W><H>Go through the automatic<R>door on the left and<R>you'll be at headquarters.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#89",
@@ -472,7 +472,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#93",
      "jp": "オユ・キクル：<R>少尉、ドックに行けば船の装備を<R>いろいろ変えられますよ。<W><H>そうだ、せっかくご自分の船を<R>持ったんだから、<W><H><P07>船に名前をつけるっていうのは<R>どうですか？<P15><W><H>そうしましょうよ。<W><E>",
-     "en": "Oyu Kikuru:<R>Lieutenant, if you go to the<W><H>dock, you can change all sorts<R>of equipment on your ship.<W><H>Oh, I know! Now that you've<R>got a ship of your very own,<W><H><P07>how about giving it a name?<P15><W><H>Let's do it!<W><E>"
+     "en": "Oyu Kikuru:<R>Lieutenant, if you<R>go to the dock,<W><H>you can change all sorts<R>of equipment on your ship.<W><H>Oh, I know! Now that you've<R>got a ship of your very own,<W><H><P07>how about giving it a name?<P15><W><H>Let's do it!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#94",
@@ -507,7 +507,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#100",
      "jp": "カフィ中佐：<R>オデナウデ長官とゼクセル大佐が<R>３階でお待ちかねよ。<W><H>はやくそこのエレベータに<R>お乗りなさい。<W><H><P07>歩くときに□ボタンを押せば、<R>はやく歩けるわ。<P15>いそいで。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Commander Odenaude and<W><H>Colonel Zexel are waiting<R>for you on the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button<R>while walking to move<R>faster.<P15> Go on, quickly.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Commander Odenaude and<R>Colonel Zexel are<W><H>waiting for you on<R>the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button<R>while walking to move<R>faster.<P15> Go on, quickly.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#101",
@@ -517,7 +517,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#102",
      "jp": "カフィ中佐：<R>東の家にいる物知りおじいさんに<R>いろいろ聞いてみるといいわよ。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Try asking the old man<W><H>who lives in the east<R>house. He knows a lot.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Try asking the old man who<R>lives in the east house.<W><H>He knows a lot.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#103",
@@ -837,7 +837,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#166",
      "jp": "男：<R>どこの馬の骨かわからない男が<R>少尉だなんて……世も末だね！<W><E>",
-     "en": "Man:<R>Some nobody from who-knows-where<W><H>made a lieutenant... What's<R>the world coming to!<W><E>"
+     "en": "Man:<R>Some nobody from who-knows-where<R>made a lieutenant...<W><H>What's the world coming to!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#167",
@@ -1022,12 +1022,12 @@
     {
      "id": "2D/GMPS/G10_00@52800#203",
      "jp": "ギダンとム連邦の間には、ム連邦<R>所属の「クナ共和国」がある。<W><E>",
-     "en": "and between Gidan and the<R>Federation lies the \"Kuna<W><H>Republic,\" which belongs<R>to the Federation.<W><E>"
+     "en": "and between Gidan and<R>the Federation lies<R>the \"Kuna Republic,\"<W><H>which belongs to the Federation.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#204",
      "jp": "そして星のほぼ中央には<R>ベルデセルバのへそ、<R>「オルダナスピ国」がある。<W><E>",
-     "en": "And at nearly the very<R>center of the planet is<W><H>the navel of Velldeselba,<R>the nation of \"Oldanaspi.\"<W><E>"
+     "en": "And at nearly the very<R>center of the planet is<R>the navel of Velldeselba,<W><H>the nation of \"Oldanaspi.\"<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#205",
@@ -1037,7 +1037,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#206",
      "jp": "物知りじいさん：<R>この星ではム連邦、ギダン、<R>ノイパスクの三大国が、<W><H>長年、領土をめぐって<R>争ってきた。<W><H>現在、クナ共和国はム連邦の<R>属国だが、<W><H>オルダナスピ国は、<R>永世中立国として<R>どの勢力にも属さずにいる。<W><H>今、わが国にとって一番の脅威が<R>強力な力を持つギダン王国じゃ。<W><H>彼らの侵略から国を守るため、<R>わがノイパスクは最近、ム連邦と<R>同盟を結んだばかりじゃ。<W><E>",
-     "en": "Old Sage:<R>On this planet, the three<W><H>great powers--the Federation,<R>Gidan and Noipask--<W><H>have fought over territory<R>for many long years.<W><H>Today the Kuna Republic is a<R>vassal of the Federation,<W><H>but Oldanaspi, as a<R>permanently neutral nation,<R>belongs to no faction at all.<W><H>Right now the greatest<R>threat to our nation is the<R>mighty Kingdom of Gidan.<W><H>To defend ourselves from their<R>invasion, our Noipask has only<R>just allied with the Federation.<W><E>"
+     "en": "Old Sage:<R>On this planet,<W><H>the three great powers--the<R>Federation, Gidan and Noipask--<W><H>have fought over territory<R>for many long years.<W><H>Today the Kuna Republic is a<R>vassal of the Federation,<W><H>but Oldanaspi, as a<R>permanently neutral nation,<R>belongs to no faction at all.<W><H>Right now the greatest<R>threat to our nation is the<R>mighty Kingdom of Gidan.<W><H>To defend ourselves from their<R>invasion, our Noipask has only<R>just allied with the Federation.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#207",
@@ -1047,7 +1047,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#208",
      "jp": "物知りじいさん：<R>この星で昔から使われている、<R>空を飛ぶ船……<W><H>この飛空船は、アレイと呼ばれる<R>とても軽い木でできているのじゃ。<W><H>じゃから、重いエンジンをつんだ<R>巨大な船を、簡単に造ることが<R>できるわけじゃ。<W><E>",
-     "en": "Old Sage:<R>Ships that fly through the<W><H>sky have been used on this<R>planet since long ago...<W><H>These airships are made of a<R>very light wood called arei.<W><H>That is why huge ships<R>carrying heavy engines<R>can be built so easily.<W><E>"
+     "en": "Old Sage:<R>Ships that fly through<R>the sky have been<W><H>used on this planet<R>since long ago...<W><H>These airships are made of a<R>very light wood called arei.<W><H>That is why huge ships<R>carrying heavy engines<R>can be built so easily.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#209",
@@ -1072,7 +1072,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#213",
      "jp": "女：<R>この戦争で夫も息子も<R>失ってしまったわ……<R>ああ、文化香る国ノイパスクは<R>どこに行ってしまったの！<W><E>",
-     "en": "Woman:<R>This war took my husband and my<W><H>son... Oh, where has Noipask,<R>the land of culture, gone!<W><E>"
+     "en": "Woman:<R>This war took my<R>husband and my son...<W><H>Oh, where has Noipask, the<R>land of culture, gone!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#214",
@@ -1172,7 +1172,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#233",
      "jp": "ノイパスク兵：<R>ふっ、おまえもとんだところに<R>落ちてきちまったな。<W><H>ナデス島は今、本国と分断され<R>敵国ギダンの領内を漂っている<R>文字どおりの浮遊島さ……<W><H>こんなところにいたって、<R>望みなんかありはしないさ。<W><E>",
-     "en": "Noipask Soldier:<R>Heh, you sure fell<R>into a bad spot.<W><H>Nades Island's cut off from<R>the homeland, drifting through<W><H>enemy Gidan's territory. A<R>floating island, literally...<W><H>There's no hope for anyone<R>stuck in a place like this.<W><E>"
+     "en": "Noipask Soldier:<R>Heh, you sure fell<R>into a bad spot.<W><H>Nades Island's cut off from<R>the homeland, drifting through<R>enemy Gidan's territory.<W><H>A floating island, literally...<W><H>There's no hope for anyone<R>stuck in a place like this.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#234",
@@ -1242,7 +1242,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#247",
      "jp": "ゼクセル大佐：<R>ギダン軍のこれまでにない本格的な<R>軍事行動だ。油断するな！<W><H>出撃せよ！<W><E>",
-     "en": "Colonel Zexel:<R>This is the Gidan army's<W><H>most serious military<R>operation yet. Stay alert!<W><H>Move out!<W><E>"
+     "en": "Colonel Zexel:<R>This is the Gidan army's most<R>serious military operation yet.<W><H>Stay alert!<W><H>Move out!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#248",
@@ -1267,7 +1267,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#252",
      "jp": "ノイパスク司令官Ｃ：<R>敵に降伏するべきだ。<R>このまま戦っても勝ち目はない。<W><E>",
-     "en": "Noipask Commander C:<R>We should surrender to the<W><H>enemy. We have no chance of<R>winning if we keep fighting.<W><E>"
+     "en": "Noipask Commander C:<R>We should surrender<R>to the enemy.<W><H>We have no chance of winning<R>if we keep fighting.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#253",

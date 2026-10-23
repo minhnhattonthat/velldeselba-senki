@@ -447,7 +447,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#88",
      "jp": "女：<R>広場の下から時々物音がする<R>のよ。気持ち悪いわ……<W><E>",
-     "en": "Woman:<R>Sometimes I hear noises<W><H>from under the square. It<R>gives me the creeps...<W><E>"
+     "en": "Woman:<R>Sometimes I hear noises<R>from under the square.<W><H>It gives me the creeps...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#89",
@@ -547,7 +547,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#108",
      "jp": "ドックの職人：<R>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備については<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくから<R>心配しなくてもいいぞ。<W><E>",
-     "en": "Shipwright:<R>Your old ship's turrets,<W><H>engine, armor plates and so<R>on will all be scrapped.<W><H>Leave the new ship's<R>equipment to me.<W><H>Your ammo and cargo get moved<R>to the new ship as they are,<R>so don't you worry.<W><E>"
+     "en": "Shipwright:<R>Your old ship's turrets, engine,<W><H>armor plates and so on<R>will all be scrapped.<W><H>Leave the new ship's<R>equipment to me.<W><H>Your ammo and cargo get moved<R>to the new ship as they are,<R>so don't you worry.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#109",
@@ -817,7 +817,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#162",
      "jp": "空賊ガイシ：<R>その評判が本当かどうか……<R>腕試しをしてみないか？<W><E>",
-     "en": "Sky Pirate Gaishi:<R>Whether that reputation's<W><H>true or not... how about<R>we put it to the test?<W><E>"
+     "en": "Sky Pirate Gaishi:<R>Whether that reputation's<R>true or not...<W><H>how about we put it to the test?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#163",
@@ -1002,7 +1002,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#199",
      "jp": "空賊：<R>むだづかいしすぎたかな……<R>またかあちゃんに怒られるよ。<W><E>",
-     "en": "Sky Pirate:<R>Maybe I spent too<W><H>much... The missus is<R>gonna yell at me again.<W><E>"
+     "en": "Sky Pirate:<R>Maybe I spent too much...<W><H>The missus is gonna<R>yell at me again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#200",

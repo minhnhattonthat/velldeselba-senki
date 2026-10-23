@@ -482,7 +482,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#95",
      "jp": "グールド：<R>ギダンの王様についていたと<R>思ったら今度はム連邦軍か？<W><E>",
-     "en": "Gould:<R>First you're with the King<W><H>of Gidan, and now it's<R>the Federation army?<W><E>"
+     "en": "Gould:<R>First you're with<R>the King of Gidan,<W><H>and now it's the<R>Federation army?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#96",
@@ -497,7 +497,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#98",
      "jp": "パック：<R>それじゃあ、だんなを見こんで<R>ひとつお願いがあるんですが……<W><E>",
-     "en": "Pack:<R>Well then, Boss, since we<W><H>trust you, there's something<R>we'd like to ask...<W><E>"
+     "en": "Pack:<R>Well then, Boss,<R>since we trust you,<W><H>there's something<R>we'd like to ask...<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#99",
@@ -527,12 +527,12 @@
     {
      "id": "2D/FMPS/F01_00@4d800#104",
      "jp": "パック：<R>軍人さんたちがドンパチ<R>やっている横を通り抜けて……<W><H>売り物の燃料も使ってしまって、<R>もう、命からがらでしたよ。<W><E>",
-     "en": "Pack:<R>We slipped right past the<W><H>soldiers while they were busy<R>shooting at each other...<W><H>We even burned the fuel we<R>were supposed to sell. We<R>barely got out alive.<W><E>"
+     "en": "Pack:<R>We slipped right past<R>the soldiers while they<W><H>were busy shooting<R>at each other...<W><H>We even burned the fuel we<R>were supposed to sell. We<R>barely got out alive.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#105",
      "jp": "グールド：<R>命と荷物はたすかったが、飛空船<R>はスクラップ場行きだ。<W><H>この先、飛空船もなしで商売は<R>続けられないよ。<W><E>",
-     "en": "Gould:<R>We saved our lives and our<W><H>cargo, but the airship's<R>headed for the scrapyard.<W><H>We can't keep doing business<R>without an airship.<W><E>"
+     "en": "Gould:<R>We saved our lives<R>and our cargo,<W><H>but the airship's headed<R>for the scrapyard.<W><H>We can't keep doing business<R>without an airship.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#106",
@@ -827,7 +827,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#164",
      "jp": "ゼシカ大尉：<R>ここは、父のための仮住まいよ。<R>中央でのお仕事が多いから。<W><H>本当は田舎の方に<R>あなたがびっくりするほど<R>大きいお屋敷があるわ。<W><E>",
-     "en": "Captain Zeshika:<R>This is just a temporary<W><H>residence for my father. He has<R>a lot of work in the capital.<W><H>Out in the country, we<R>have a mansion so big<R>it would astonish you.<W><E>"
+     "en": "Captain Zeshika:<R>This is just a temporary<R>residence for my father.<W><H>He has a lot of work<R>in the capital.<W><H>Out in the country, we<R>have a mansion so big<R>it would astonish you.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#165",
@@ -847,7 +847,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#168",
      "jp": "ゼシカ大尉：<R>それどころじゃないわ！<W><H>父ったら、わたしに<R>結婚しろなんていうのよ。<W><H>全く何考えてるのかしら……<W><H>国がこんなにたいへんな時期に、<R>わたしだけ、のうのうと商人の<R>ところに嫁入りだなんて……<W><H>ああ、やだやだ。<W><E>",
-     "en": "Captain Zeshika:<R>That's the last<R>thing on my mind!<W><H>My father wants me<R>to get married.<W><H>What on earth is he thinking...<W><H>With the country in such a<R>crisis, I'm supposed to go off<W><H>and marry some merchant<R>without a care in the world...<W><H>Ugh, I hate it, I hate it.<W><E>"
+     "en": "Captain Zeshika:<R>That's the last<R>thing on my mind!<W><H>My father wants me<R>to get married.<W><H>What on earth is he thinking...<W><H>With the country<R>in such a crisis,<W><H>I'm supposed to go off and<R>marry some merchant without<R>a care in the world...<W><H>Ugh, I hate it, I hate it.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#169",
@@ -927,7 +927,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#184",
      "jp": "商人：<R>きれいな町だろ？　さすがは<R>ム連邦の首都だけあるな。<W><E>",
-     "en": "Merchant:<R>Pretty town, huh? Just<W><H>what you'd expect from the<R>Federation's capital.<W><E>"
+     "en": "Merchant:<R>Pretty town, huh?<W><H>Just what you'd expect from<R>the Federation's capital.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#185",
@@ -937,7 +937,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#186",
      "jp": "ム連兵：<R>ギダン国王が亡命して来た……<R>いったい戦争はどうなるんだ？<W><E>",
-     "en": "Federation Soldier:<R>The King of Gidan defected<W><H>here... What's going to<R>happen with the war?<W><E>"
+     "en": "Federation Soldier:<R>The King of Gidan<R>defected here...<W><H>What's going to<R>happen with the war?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#187",
@@ -952,7 +952,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#189",
      "jp": "少女：<R>サロ将軍が久しぶりに大統領府に<R>いらしてるんですって？<W><E>",
-     "en": "Girl:<R>I heard General Saro came to<W><H>the Presidential Office for<R>the first time in ages.<W><E>"
+     "en": "Girl:<R>I heard General Saro<R>came to the Presidential<W><H>Office for the first<R>time in ages.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#190",
@@ -1022,7 +1022,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#203",
      "jp": "衛兵：<R>ここをくぐってまっすぐ行くと、<R>大統領府だよ。<W><E>",
-     "en": "Guard:<R>Go through here and straight<W><H>on, and you'll reach the<R>Presidential Office.<W><E>"
+     "en": "Guard:<R>Go through here and straight on,<W><H>and you'll reach the<R>Presidential Office.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#204",

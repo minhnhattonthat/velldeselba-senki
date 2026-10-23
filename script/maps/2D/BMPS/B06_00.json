@@ -652,7 +652,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#129",
      "jp": "女：<R>ここの温泉は美容にいいって<R>女の子に評判なのよ。<W><E>",
-     "en": "Woman:<R>The hot springs here are supposed<R>to be great for your looks. All<R>the girls rave about them.<W><E>"
+     "en": "Woman:<R>The hot springs here are supposed<R>to be great for your looks.<W><H>All the girls rave about them.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#130",
@@ -687,7 +687,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#136",
      "jp": "老人：<R>この町の老人は温泉のおかげで<R>長生きなんじゃ。<W><E>",
-     "en": "Old Man:<R>The old folks in this town<W><H>live long lives, thanks to<R>the hot springs.<W><E>"
+     "en": "Old Man:<R>The old folks in<R>this town live long<W><H>lives, thanks to<R>the hot springs.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#137",
@@ -717,7 +717,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#142",
      "jp": "少女：<R>浜辺に温泉がわいているのよ。<R>混浴じゃないけどね。<W><E>",
-     "en": "Girl:<R>There's a hot spring bubbling<W><H>up right on the beach. It's<R>not mixed bathing, though.<W><E>"
+     "en": "Girl:<R>There's a hot spring bubbling<R>up right on the beach.<W><H>It's not mixed bathing, though.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#143",

@@ -567,7 +567,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#112",
      "jp": "ダ・クダ：<R>話はあとだ。<R>急げ、親衛部隊の増援が来るぞ！<W><E>",
-     "en": "Da Kuda:<R>Talk later. Hurry, Royal<W><H>Guard units are coming<R>as reinforcements!<W><E>"
+     "en": "Da Kuda:<R>Talk later.<W><H>Hurry, Royal Guard units are<R>coming as reinforcements!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#113",
@@ -612,7 +612,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#121",
      "jp": "空賊：<R>配給品は全部いただいたぜ。<R>必要な物があったら持ってきな。<W><E>",
-     "en": "Sky Pirate:<R>We took every last bit<W><H>of the rations. If you<R>need anything, take it.<W><E>"
+     "en": "Sky Pirate:<R>We took every last<R>bit of the rations.<W><H>If you need anything, take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#122",
@@ -652,7 +652,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#129",
      "jp": "空賊：<R>おう、<F62>。<R>修理ならまかせときな。<W><E>",
-     "en": "Sky Pirate:<R>Hey, <F62>. Leave the repairs<R>to me.<W><E>"
+     "en": "Sky Pirate:<R>Hey, <F62>. Leave<R>the repairs to me.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#130",
@@ -667,7 +667,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#132",
      "jp": "ギダン兵：<R>ここには極悪犯が大勢入って<R>いるんだ。面会？　だめだめ。<W><E>",
-     "en": "Gidan Soldier:<R>We've got loads of hardened<W><H>criminals locked up in here.<R>Visitors? No way, no way.<W><E>"
+     "en": "Gidan Soldier:<R>We've got loads of hardened<R>criminals locked up in here.<W><H>Visitors? No way, no way.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#133",

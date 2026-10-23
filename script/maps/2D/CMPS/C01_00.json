@@ -502,7 +502,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#99",
      "jp": "男：<R>やれやれ、ム連邦の次はギダンか<R>ま、どっちでもいいけどね。<W><E>",
-     "en": "Man:<R>Sheesh, first the<W><H>Federation, now Gidan. Well,<R>makes no difference to me.<W><E>"
+     "en": "Man:<R>Sheesh, first the<R>Federation, now Gidan.<W><H>Well, makes no difference to me.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#100",
@@ -517,12 +517,12 @@
     {
      "id": "2D/CMPS/C01_00@50000#102",
      "jp": "老人：<R>町を占領されちゃ迷惑だよ。<R>どこかよそでやってくれないか。<W><E>",
-     "en": "Old Man:<R>Occupying our town is a<W><H>real nuisance. Can't you<R>do this somewhere else?<W><E>"
+     "en": "Old Man:<R>Occupying our town<R>is a real nuisance.<W><H>Can't you do this<R>somewhere else?<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#103",
      "jp": "老人：<R>経済制裁をすると言っていたのに<R>…またノイパスクを攻めるのか？<W><E>",
-     "en": "Old Man:<R>They said they'd impose economic<W><H>sanctions... and now they're<R>attacking Noipask again?<W><E>"
+     "en": "Old Man:<R>They said they'd impose<R>economic sanctions...<W><H>and now they're<R>attacking Noipask again?<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#104",
@@ -537,7 +537,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#106",
      "jp": "少女：<R>近頃、誰もいないはずの倉庫で<R>変な音がするの。<W><E>",
-     "en": "Girl:<R>Lately there've been strange<W><H>noises from a warehouse<R>that's supposed to be empty.<W><E>"
+     "en": "Girl:<R>Lately there've been<R>strange noises from a<W><H>warehouse that's<R>supposed to be empty.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#107",
@@ -547,7 +547,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#108",
      "jp": "ギダン兵：<R>ム連邦軍の残党がまだ隠れている<R>かも知れない。注意するんだぞ。<W><E>",
-     "en": "Gidan Soldier:<R>There may still be<W><H>Federation stragglers<R>in hiding. Stay alert.<W><E>"
+     "en": "Gidan Soldier:<R>There may still be Federation<R>stragglers in hiding.<W><H>Stay alert.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#109",
@@ -562,7 +562,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#111",
      "jp": "ギダン兵：<R>いま本隊は、ノイパスク本国に<R>攻め込んでいるらしいぜ。<W><E>",
-     "en": "Gidan Soldier:<R>Word is the main force<W><H>is attacking the Noipask<R>homeland right now.<W><E>"
+     "en": "Gidan Soldier:<R>Word is the main force is<W><H>attacking the Noipask<R>homeland right now.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#112",
@@ -612,7 +612,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#121",
      "jp": "ギダン兵：<R><F62>少尉、<R>ちょうどよかった。<W><H>バムス中佐が２階で<R>お呼びです。<W><E>",
-     "en": "Gidan Soldier:<R>Lieutenant <F62>, good<R>timing.<W><H>Lieutenant Colonel Bams is asking<R>for you on the second floor.<W><E>"
+     "en": "Gidan Soldier:<R>Lieutenant <F62>, good timing.<W><H>Lieutenant Colonel Bams is asking<R>for you on the second floor.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#122",
@@ -667,7 +667,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#132",
      "jp": "バムス中佐：<R>今連絡が入った。<W><H><P07>国王船がスラークを<R>出発するそうだ。<P15><W><H>どこにム連邦の残存部隊が<R>いるかわからないからな、<R>くれぐれも注意するように。<W><H>さあ、はやく行きたまえ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Word just came in.<W><H><P07>The royal ship is<R>departing Slark.<P15><W><H>There's no telling where<R>Federation remnants may<W><H>be lurking, so take<R>every precaution.<W><H>Now, off you go, quickly.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Word just came in.<W><H><P07>The royal ship is<R>departing Slark.<P15><W><H>There's no telling where<R>Federation remnants may<R>be lurking,<W><H>so take every precaution.<W><H>Now, off you go, quickly.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#133",
@@ -737,7 +737,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#146",
      "jp": "配給係：<R>戦闘で戦果をあげたら、<R>飛行記録を提出してくれよ。<W><E>",
-     "en": "Quartermaster:<R>When you rack up results<W><H>in battle, hand in your<R>flight record.<W><E>"
+     "en": "Quartermaster:<R>When you rack up<R>results in battle,<W><H>hand in your flight record.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#147",
@@ -787,7 +787,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#156",
      "jp": "ギダン兵：<R>結局は力で相手をねじ伏せないと<R>だめさ。シデル提督は正しいよ。<W><E>",
-     "en": "Gidan Soldier:<R>In the end, you've got to<W><H>crush the other side by force.<R>Admiral Sidel is right.<W><E>"
+     "en": "Gidan Soldier:<R>In the end, you've got to<R>crush the other side by force.<W><H>Admiral Sidel is right.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#157",
@@ -802,7 +802,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#159",
      "jp": "ガシザキノ大佐：<R>おお、<F62>じゃ<R>ないか！<W><H>どうだ、<R>ギダン軍での生活には慣れたか？<W><E>",
-     "en": "Colonel Gashizakino:<R>Oh, if it isn't <F62>!<W><H>Well? Getting used to<R>life in the Gidan army?<W><E>"
+     "en": "Colonel Gashizakino:<R>Oh, if it isn't <F62>! Well?<W><H>Getting used to life<R>in the Gidan army?<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#160",
@@ -812,7 +812,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#161",
      "jp": "カフィ：<R>ガシザキノ中佐……いえ、大佐の<R>昇進をお祝いしていたのよ。<W><E>",
-     "en": "Kafi:<R>We were celebrating Lieutenant<W><H>Colonel Gashizakino's... I mean,<R>Colonel Gashizakino's promotion.<W><E>"
+     "en": "Kafi:<R>We were celebrating Lieutenant<R>Colonel Gashizakino's...<W><H>I mean, Colonel<R>Gashizakino's promotion.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#162",
@@ -837,7 +837,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#166",
      "jp": "カフィ：<R>そうなんだけど、変わり者でね。<W><H>まだギダンとノイパスクの関係が<R>悪化する前のことだけど……<R>わざわざギダンに移り住んでたの。<W><H>わたしはギダンで育ったのよ。<W><E>",
-     "en": "Kafi:<R>They are, but they're a bit odd.<W><H>This was before relations<R>between Gidan and Noipask went<W><H>sour... but they went out of<R>their way to move to Gidan.<W><H>I grew up in Gidan.<W><E>"
+     "en": "Kafi:<R>They are, but they're a bit odd.<W><H>This was before relations between<R>Gidan and Noipask went sour...<W><H>but they went out of their<R>way to move to Gidan.<W><H>I grew up in Gidan.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#167",
@@ -867,7 +867,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#172",
      "jp": "ガシザキノ大佐：<R>おお、<F62>じゃ<R>ないか！<W><H>どうだ、ギダン軍での<R>生活には慣れたか？<W><E>",
-     "en": "Colonel Gashizakino:<R>Oh, if it isn't <F62>!<W><H>Well? Getting used to<R>life in the Gidan army?<W><E>"
+     "en": "Colonel Gashizakino:<R>Oh, if it isn't <F62>! Well?<W><H>Getting used to life<R>in the Gidan army?<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#173",
@@ -882,7 +882,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#175",
      "jp": "ガシザキノ大佐：<R>今度の作戦は、国王陛下をお守り<R>する名誉ある仕事だ。<W><H>俺も行くことになってるんだ。<R>援護をよろしく頼むぜ。<W><H>まあ、おまえも飲め！<W><E>",
-     "en": "Colonel Gashizakino:<R>This next operation is an<W><H>honorable job: guarding<R>His Majesty the King.<W><H>I'm going too. I'm counting<R>on you to cover me.<W><H>Now, have a drink!<W><E>"
+     "en": "Colonel Gashizakino:<R>This next operation<R>is an honorable<W><H>job: guarding His<R>Majesty the King.<W><H>I'm going too. I'm counting<R>on you to cover me.<W><H>Now, have a drink!<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#176",
@@ -957,7 +957,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#190",
      "jp": "女：<R>浮遊島を町に落とすんですって？<R>おお、恐い……<W><E>",
-     "en": "Woman:<R>They're going to drop a<W><H>floating island on a town?<R>Oh, how frightening...<W><E>"
+     "en": "Woman:<R>They're going to drop a<R>floating island on a town?<W><H>Oh, how frightening...<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#191",
@@ -1082,7 +1082,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#215",
      "jp": "<F62>：<R>もらいもんだから気にするな。<R>売れば多少の金になるぜ。<W><E>",
-     "en": "<F62>:<R>Somebody gave it to me, so<W><H>don't sweat it. It'll fetch a<R>bit of money if you sell it.<W><E>"
+     "en": "<F62>:<R>Somebody gave it to<R>me, so don't sweat it.<W><H>It'll fetch a bit of<R>money if you sell it.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#216",
@@ -1277,7 +1277,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#254",
      "jp": "女：<R>戦争が続くと日用品が<R>足りなくなってとても困るわ。<W><E>",
-     "en": "Woman:<R>With the war dragging on,<W><H>everyday goods are running<R>short. It's a real problem.<W><E>"
+     "en": "Woman:<R>With the war dragging on, everyday<R>goods are running short.<W><H>It's a real problem.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#255",

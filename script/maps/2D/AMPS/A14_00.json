@@ -512,7 +512,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#101",
      "jp": "男：<R>親の心配もしらんで好き勝手<R>やっておる。<W><H>わたしはノイパスクの大使として<R>ギダンで平和のために<R>つくしてきたつもりだ。<W><H>娘たちにも平和のためにつくす<R>よう教育してきたつもりだった<R>のだが……<W><H>いつも、ノイパスクのため、<R>そしてこの星のためになることを<R>考えろと。<W><E>",
-     "en": "Man:<R>They pay no mind to their<W><H>parents' worries and do<R>just as they please.<W><H>As Noipask's ambassador, I<R>believed I had devoted myself<R>to peace here in Gidan.<W><H>And I believed I had raised my<R>daughters to devote themselves<R>to peace as well...<W><H>I always told them to think<R>of what would serve Noipask,<R>and this planet too.<W><E>"
+     "en": "Man:<R>They pay no mind<R>to their parents'<W><H>worries and do just<R>as they please.<W><H>As Noipask's ambassador, I<R>believed I had devoted myself<R>to peace here in Gidan.<W><H>And I believed I had raised my<R>daughters to devote themselves<R>to peace as well...<W><H>I always told them to think<R>of what would serve Noipask,<R>and this planet too.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#102",
@@ -627,7 +627,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#124",
      "jp": "カルフ：<R>空賊は、パパが考えているような<R>ものとはちがうわ。<W><H>わたしは……パパとはちがう方法<R>だけど、平和を取りもどそうと<R>していることには変わらないわ。<W><E>",
-     "en": "Karf:<R>Sky pirates aren't what<R>you think they are, Papa.<W><H>I... My way may be different<R>from yours, Papa, but I'm<W><H>still trying to bring peace<R>back all the same.<W><E>"
+     "en": "Karf:<R>Sky pirates aren't what<R>you think they are, Papa.<W><H>I... My way may be different<R>from yours, Papa,<W><H>but I'm still trying to bring<R>peace back all the same.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#125",
@@ -722,7 +722,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#143",
      "jp": "カフィ：<R>今は事情があって、シデル提督の<R>親衛隊に追われているの。<W><H>でも、心配しないで。<R><F62>といっしょ<R>だから、だいじょうぶよ。<W><E>",
-     "en": "Kafi:<R>It's complicated, but<W><H>right now Admiral Sidel's<R>Royal Guard is after me.<W><H>But don't worry. I'm with<R><F62>, so I'll be just fine.<W><E>"
+     "en": "Kafi:<R>It's complicated,<W><H>but right now Admiral Sidel's<R>Royal Guard is after me.<W><H>But don't worry. I'm with<R><F62>, so I'll be just fine.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#144",
