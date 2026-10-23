@@ -452,7 +452,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#89",
      "jp": "ギダン兵：<R>今、ここをガキが<R>通らなかったか？<W><E>",
-     "en": "Gidan Soldier:<R>Did a brat just come through<R>here?<W><E>"
+     "en": "Gidan Soldier:<R>Did a brat just<R>come through here?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#90",
@@ -482,12 +482,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#95",
      "jp": "ギダン兵：<R>ここはギダン第２の都市、<R>「ダナデウノ」だよ。<W><E>",
-     "en": "Gidan Soldier:<R>This is Gidan's second city,<R>\"Danadeuno.\"<W><E>"
+     "en": "Gidan Soldier:<R>This is Gidan's second<R>city, \"Danadeuno.\"<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#96",
      "jp": "酒場の主人：<R>グルメの店、メグロ亭に<R>いらっしゃいませ。<W><E>",
-     "en": "Tavern Keeper:<R>Welcome to the Meguro, home of<R>fine dining.<W><E>"
+     "en": "Tavern Keeper:<R>Welcome to the Meguro,<R>home of fine dining.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#97",
@@ -502,17 +502,17 @@
     {
      "id": "2D/BMPS/B01_00@49800#99",
      "jp": "酒場の主人：<R>これでとびきりの<R>フカヒレ料理が作れます。<W><E>",
-     "en": "Tavern Keeper:<R>With this, I can make a superb<R>shark fin dish.<W><E>"
+     "en": "Tavern Keeper:<R>With this, I can make a<R>superb shark fin dish.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#100",
      "jp": "<F62>：<R>ここの酒場はいろいろな<R>つまみがあるんだな。<W><E>",
-     "en": "<F62>:<R>This tavern sure has all kinds of<R>snacks.<W><E>"
+     "en": "<F62>:<R>This tavern sure has<R>all kinds of snacks.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#101",
      "jp": "酒場の主人：<R>メグロ亭自慢の「グミブドウの<R>香菜和え」はいかがですか。<W><H>食べると幸せになれますよ。<W><E>",
-     "en": "Tavern Keeper:<R>May I suggest the Meguro's pride,<R>\"Gummy Grapes Tossed in<R>Coriander\"?<W><H>One bite will make you happy.<W><E>"
+     "en": "Tavern Keeper:<R>May I suggest the Meguro's<W><H>pride, \"Gummy Grapes<R>Tossed in Coriander\"?<W><H>One bite will make you happy.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#102",
@@ -527,7 +527,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#104",
      "jp": "<F62>：<R>おどろいたな、<R>こんなのはじめて食べたぜ！<W><H>ノイパスクの料理は<R>薬臭かったし、空賊料理は<R>肉ばかりだったからな。<W><E>",
-     "en": "<F62>:<R>Wow, I've never eaten anything<R>like this!<W><H>Noipask food tasted like medicine,<R>and pirate food was nothing but<R>meat.<W><E>"
+     "en": "<F62>:<R>Wow, I've never eaten<R>anything like this!<W><H>Noipask food tasted like<R>medicine, and pirate food<R>was nothing but meat.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#105",
@@ -542,7 +542,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#107",
      "jp": "酒場の主人：<R>南の果てでとれる貴重なブドウを<R>使っていますから。<W><E>",
-     "en": "Tavern Keeper:<R>We use precious grapes harvested<R>at the far southern edge of the<R>world.<W><E>"
+     "en": "Tavern Keeper:<R>We use precious grapes<W><H>harvested at the far<R>southern edge of the world.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#108",
@@ -577,12 +577,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#114",
      "jp": "酒場の主人：<R>最近、戦乱のせいか、<W><H>上質の<P07>「昇天フカヒレ」<P15>が<R>手に入りにくいんですよ……<W><H>もし「昇天フカヒレ」を買って<R>きてくれたら、高く買いますよ。<W><E>",
-     "en": "Tavern Keeper:<R>Lately, perhaps because of the<R>war,<W><H>top-quality <P07>\"Heavenly Shark Fin\"<P15><R>has been hard to come by...<W><H>If you bring me a \"Heavenly Shark<R>Fin,\" I'll pay you well for it.<W><E>"
+     "en": "Tavern Keeper:<R>Lately, perhaps<R>because of the war,<W><H>top-quality <P07>\"Heavenly Shark Fin\"<P15><R>has been hard to come by...<W><H>If you bring me a \"Heavenly Shark<R>Fin,\" I'll pay you well for it.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#115",
      "jp": "酒場の主人：<R>なんと！　「昇天フカヒレ」を<R>持っているんですか！？<W><H>１個だけでいいから<R>売ってください！<W><H>５０００Ｚで買いますよ！<W><E>",
-     "en": "Tavern Keeper:<R>What! You have a \"Heavenly Shark<R>Fin\"!?<W><H>Just one will do, please sell it<R>to me!<W><H>I'll buy it for 5000Z!<W><E>"
+     "en": "Tavern Keeper:<R>What! You have a<R>\"Heavenly Shark Fin\"!?<W><H>Just one will do,<R>please sell it to me!<W><H>I'll buy it for 5000Z!<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#116",
@@ -612,12 +612,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#121",
      "jp": "酒場の主人：<R>せっかく持ってきていただいた<R>のに申しわけありませんね。<W><H>「昇天フカヒレ」は１個だけで<R>しばらく間に合うんです。<W><E>",
-     "en": "Tavern Keeper:<R>I'm sorry, after you went to the<R>trouble of bringing it.<W><H>One \"Heavenly Shark Fin\" will do<R>me for a while.<W><E>"
+     "en": "Tavern Keeper:<R>I'm sorry, after you went to<R>the trouble of bringing it.<W><H>One \"Heavenly Shark Fin\"<R>will do me for a while.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#122",
      "jp": "酒場の主人：<R>メグロ亭特製「昇天フカヒレの<R>特製スープ」でございます。<W><E>",
-     "en": "Tavern Keeper:<R>The Meguro's own \"Special Heavenly<R>Shark Fin Soup,\" at your<R>service.<W><E>"
+     "en": "Tavern Keeper:<R>The Meguro's own \"Special<W><H>Heavenly Shark Fin Soup,\"<R>at your service.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#123",
@@ -642,22 +642,22 @@
     {
      "id": "2D/BMPS/B01_00@49800#127",
      "jp": "ギダン国王：<R><F62>、こんな<R>うまいものがあったとは。<W><H>店主の名はメグロとゆうたかな。<R>記憶にとどめておくぞ。<W><H>フカヒレはメグロにかぎる、<R>とな。<W><E>",
-     "en": "King of Gidan:<R><F62>, to think there was<R>something so delicious!<W><H>The owner's name was Meguro, you<R>said? I shall commit it to<R>memory.<W><H>For shark fin, there is no place<R>like Meguro's!<W><E>"
+     "en": "King of Gidan:<R><F62>, to think there was<R>something so delicious!<W><H>The owner's name was<R>Meguro, you said? I shall<R>commit it to memory.<W><H>For shark fin, there is<R>no place like Meguro's!<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#128",
      "jp": "ギダン国王：<R><F62>、余の感謝の<R>意である。<W><H>遠慮せずにこの勲章を受け取るが<R>よいぞ。<W><E>",
-     "en": "King of Gidan:<R><F62>, this is a token of my<R>gratitude.<W><H>Do not be shy. Accept this<R>medal.<W><E>"
+     "en": "King of Gidan:<R><F62>, this is a<R>token of my gratitude.<W><H>Do not be shy.<R>Accept this medal.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#129",
      "jp": "<F62>：<R>だから、そんなもんいらねーって<R>言ってるだろうが。<W><E>",
-     "en": "<F62>:<R>Like I keep telling you, I don't<R>want that thing.<W><E>"
+     "en": "<F62>:<R>Like I keep telling you,<R>I don't want that thing.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#130",
      "jp": "酒場の主人：<R>せっかくくれるんだから<R>もらっておけば？<W><E>",
-     "en": "Tavern Keeper:<R>He's giving it to you, so why not<R>just take it?<W><E>"
+     "en": "Tavern Keeper:<R>He's giving it to you,<R>so why not just take it?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#131",
@@ -682,12 +682,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#135",
      "jp": "男：<R>「グミブドウの香菜和え」って<R>いうのがうまいぞ。<W><E>",
-     "en": "Man:<R>The \"Gummy Grapes Tossed in<R>Coriander\" is great.<W><E>"
+     "en": "Man:<R>The \"Gummy Grapes Tossed<R>in Coriander\" is great.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#136",
      "jp": "老人：<R>やれやれ、ぶっそうな世の中に<R>なったもんだ。<W><E>",
-     "en": "Old Man:<R>Dear me, the world's become a<R>dangerous place.<W><E>"
+     "en": "Old Man:<R>Dear me, the world's<R>become a dangerous place.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#137",
@@ -697,12 +697,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#138",
      "jp": "ギダン兵：<R>前線に行った友達……<R>だいじょうぶかなあ。<W><E>",
-     "en": "Gidan Soldier:<R>My friend who went to the front...<R>I hope he's all right.<W><E>"
+     "en": "Gidan Soldier:<R>My friend who went to the<R>front... I hope he's all right.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#139",
      "jp": "ギダン兵：<R>真っ黒い船なら、シャッハの方に<R>向かったのを見たぜ。<W><E>",
-     "en": "Gidan Soldier:<R>A pitch-black ship? I saw one<R>heading toward Schach.<W><E>"
+     "en": "Gidan Soldier:<R>A pitch-black ship? I saw<R>one heading toward Schach.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#140",
@@ -717,12 +717,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#142",
      "jp": "修理屋：<R>はっはっは、<R>どうだ俺さまの腕前は。<W><E>",
-     "en": "Repairman:<R>Hahaha, how about that for<R>skill?<W><E>"
+     "en": "Repairman:<R>Hahaha, how about<R>that for skill?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#143",
      "jp": "ジャンク屋：<R>いつでもどこでもあなたのお役に<R>立ちたい立たせたい。<W><H>コンビニな当店へようこそ。<W><E>",
-     "en": "Junk Dealer:<R>Anytime, anywhere, we want to<R>serve you, and we want you<R>served!<W><H>Welcome to your convenient<R>store!<W><E>"
+     "en": "Junk Dealer:<R>Anytime, anywhere, we<W><H>want to serve you, and<R>we want you served!<W><H>Welcome to your<R>convenient store!<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#144",
@@ -742,47 +742,47 @@
     {
      "id": "2D/BMPS/B01_00@49800#147",
      "jp": "老人：<R>ワザノでゆっくりしてきたのか？<W><E>",
-     "en": "Old Man:<R>Did you have a nice rest in<R>Wazano?<W><E>"
+     "en": "Old Man:<R>Did you have a nice<R>rest in Wazano?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#148",
      "jp": "老人：<R>「ワシツバメノの巣のココナツ<R>ミルク」はうまいぞ。<W><E>",
-     "en": "Old Man:<R>The \"Eagle-Swallow Nest Coconut<R>Milk\" is great.<W><E>"
+     "en": "Old Man:<R>The \"Eagle-Swallow Nest<R>Coconut Milk\" is great.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#149",
      "jp": "老女：<R>ワザノの温泉といえば万病に効く<R>といって、有名なんじゃ。<W><E>",
-     "en": "Old Woman:<R>Wazano's hot springs are famous.<R>They say they cure every<R>illness.<W><E>"
+     "en": "Old Woman:<R>Wazano's hot springs are<W><H>famous. They say they<R>cure every illness.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#150",
      "jp": "老女：<R>ほっほっほ……<R>肌がつるつるになっただろ？<W><E>",
-     "en": "Old Woman:<R>Hohoho... Your skin's gone all<R>smooth, hasn't it?<W><E>"
+     "en": "Old Woman:<R>Hohoho... Your skin's gone<R>all smooth, hasn't it?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#151",
      "jp": "老女：<R>「こおろぎのゼリー」は<R>うまかろ？<W><E>",
-     "en": "Old Woman:<R>The \"Cricket Jelly\"... tasty,<R>eh?<W><E>"
+     "en": "Old Woman:<R>The \"Cricket<R>Jelly\"... tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#152",
      "jp": "老人：<R>グラシアルとマクシララキをつな<R>ぐ南航路は、商人が多く通るよ。<W><E>",
-     "en": "Old Man:<R>Lots of merchants use the southern<R>route linking Glacial and<R>Maxilaraki.<W><E>"
+     "en": "Old Man:<R>Lots of merchants use the<W><H>southern route linking<R>Glacial and Maxilaraki.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#153",
      "jp": "老人：<R>そんな老人は見なかったな。<W><E>",
-     "en": "Old Man:<R>Didn't see any old man like<R>that.<W><E>"
+     "en": "Old Man:<R>Didn't see any old<R>man like that.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#154",
      "jp": "老人：<R>「火ネズミの生き肝」は<R>うまかろ？<W><E>",
-     "en": "Old Man:<R>The \"Raw Fire Rat Liver\"... tasty,<R>eh?<W><E>"
+     "en": "Old Man:<R>The \"Raw Fire Rat<R>Liver\"... tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#155",
      "jp": "老女：<R>グラシアルとマクシララキを<R>つなぐ北の航路は、<W><H>空賊が多くて危険だという話を<R>聞いたことがあるのう。<W><E>",
-     "en": "Old Woman:<R>The northern route linking Glacial<R>and Maxilaraki...<W><H>I've heard it's dangerous, full of<R>sky pirates.<W><E>"
+     "en": "Old Woman:<R>The northern route linking<R>Glacial and Maxilaraki...<W><H>I've heard it's dangerous,<R>full of sky pirates.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#156",
@@ -802,32 +802,32 @@
     {
      "id": "2D/BMPS/B01_00@49800#159",
      "jp": "老人：<R>人さがしとは、ごくろうさん<R>だねえ。<W><E>",
-     "en": "Old Man:<R>Looking for someone, eh? That's<R>hard work.<W><E>"
+     "en": "Old Man:<R>Looking for someone,<R>eh? That's hard work.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#160",
      "jp": "老人：<R>「ギダンガエルの活き作り」は<R>うまかろ？<W><E>",
-     "en": "Old Man:<R>The \"Live Gidan Frog Sashimi\"...<R>tasty, eh?<W><E>"
+     "en": "Old Man:<R>The \"Live Gidan Frog<R>Sashimi\"... tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#161",
      "jp": "老女：<R>「ダナデウノまんじゅう」は<R>うまかろ？<W><E>",
-     "en": "Old Woman:<R>The \"Danadeuno Buns\"... tasty,<R>eh?<W><E>"
+     "en": "Old Woman:<R>The \"Danadeuno<R>Buns\"... tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#162",
      "jp": "少女：<R>あたい、お金がないんだ。<R>何か買ってよ、おじさん。<W><E>",
-     "en": "Girl:<R>I don't have any money. Buy<R>something, mister.<W><E>"
+     "en": "Girl:<R>I don't have any money.<R>Buy something, mister.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#163",
      "jp": "少女：<R>黒い船なら西に飛んでくのを<R>見たよ。かっこよかったわ。<W><E>",
-     "en": "Girl:<R>I saw a black ship flying west. It<R>looked so cool.<W><E>"
+     "en": "Girl:<R>I saw a black ship flying<R>west. It looked so cool.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#164",
      "jp": "少女：<R>「大トカゲの酒むし」が<R>食べたいな。<W><E>",
-     "en": "Girl:<R>I want to eat \"Wine-Steamed Giant<R>Lizard.\"<W><E>"
+     "en": "Girl:<R>I want to eat \"Wine-Steamed<R>Giant Lizard.\"<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#165",
@@ -842,17 +842,17 @@
     {
      "id": "2D/BMPS/B01_00@49800#167",
      "jp": "女：<R>最近、物価が高くて<R>困っちゃうわ。<W><E>",
-     "en": "Woman:<R>Prices are so high lately, it's<R>awful.<W><E>"
+     "en": "Woman:<R>Prices are so high<R>lately, it's awful.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#168",
      "jp": "女：<R>「海底アルマジロの蒸し煮」は<R>うまかろ？<W><E>",
-     "en": "Woman:<R>The \"Braised Seabed Armadillo\"...<R>tasty, eh?<W><E>"
+     "en": "Woman:<R>The \"Braised Seabed<R>Armadillo\"... tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#169",
      "jp": "商人：<R>ここで儲けて<R>ワザノで遊ぶんだ。<W><E>",
-     "en": "Merchant:<R>I'll make my money here and go<R>have fun in Wazano.<W><E>"
+     "en": "Merchant:<R>I'll make my money here<R>and go have fun in Wazano.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#170",
@@ -867,7 +867,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#172",
      "jp": "商人：<R>町の人に食べ物をすすめられ<R>るんで太っちゃったよ。<W><E>",
-     "en": "Merchant:<R>The townsfolk keep pushing food on<R>me. I've gotten fat.<W><E>"
+     "en": "Merchant:<R>The townsfolk keep pushing<R>food on me. I've gotten fat.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#173",
@@ -882,7 +882,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#175",
      "jp": "商人：<R>黒い船なら見たけど……どこかで<R>見たような形の船だったな。<W><E>",
-     "en": "Merchant:<R>I saw a black ship, yeah... The<R>shape looked like a ship I'd<R>seen somewhere before.<W><E>"
+     "en": "Merchant:<R>I saw a black ship, yeah...<W><H>The shape looked like a ship<R>I'd seen somewhere before.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#176",
@@ -897,7 +897,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#178",
      "jp": "商人：<R>ここの町の人間は<R>グルメな連中が多いんだ。<W><E>",
-     "en": "Merchant:<R>Lots of the people in this town<R>are foodies.<W><E>"
+     "en": "Merchant:<R>Lots of the people in<R>this town are foodies.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#179",
@@ -972,7 +972,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#193",
      "jp": "ドックの職人：<R>いい船がそろってるよ。<W><E>",
-     "en": "Shipwright:<R>We've got a fine lineup of<R>ships.<W><E>"
+     "en": "Shipwright:<R>We've got a fine<R>lineup of ships.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#194",
@@ -992,12 +992,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#197",
      "jp": "衛兵：<R>ここはダナデウノ基地司令部だ。<R>軍関係者以外は入れないぞ。<W><E>",
-     "en": "Guard:<R>This is Danadeuno Base<R>Headquarters. No entry except<R>for military personnel.<W><E>"
+     "en": "Guard:<R>This is Danadeuno Base<W><H>Headquarters. No entry except<R>for military personnel.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#198",
      "jp": "ペンキ屋：<R>俺はギダンいちの芸術家だ。<W><H>あんたの船を好きな色に<R>ぬりかえてやってもいいぜ。<W><E>",
-     "en": "Painter:<R>I'm the greatest artist in<R>Gidan.<W><H>I could repaint your ship any<R>color you like.<W><E>"
+     "en": "Painter:<R>I'm the greatest<R>artist in Gidan.<W><H>I could repaint your<R>ship any color you like.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#199",
@@ -1007,7 +1007,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#200",
      "jp": "ペンキ屋：<R>これぞ芸術的なできばえだ！<R>汚すんじゃないぜ。<W><E>",
-     "en": "Painter:<R>Now that's a work of art! Don't<R>you go getting it dirty.<W><E>"
+     "en": "Painter:<R>Now that's a work of art!<R>Don't you go getting it dirty.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#201",

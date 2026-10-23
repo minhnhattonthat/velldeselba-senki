@@ -452,22 +452,22 @@
     {
      "id": "2D/FMPS/F09_00@49800#89",
      "jp": "<F62>：<R>もうだいじょうぶだ。<W><H>これで待ち伏せしてる<R>ヤツはいなくなっただろう。<W><E>",
-     "en": "<F62>:<R>It's all right now.<W><H>That should be the last of anyone<R>lying in ambush.<W><E>"
+     "en": "<F62>:<R>It's all right now.<W><H>That should be the last of<R>anyone lying in ambush.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#90",
      "jp": "ゼシカ大尉：<R>ごくろうさま。<W><H>でも、単独行動は危険よ。<R>今後は許可しませんからね。<W><E>",
-     "en": "Captain Zeshika:<R>Good work out there.<W><H>But going off on your own is<R>dangerous. I won't allow it from<R>now on.<W><E>"
+     "en": "Captain Zeshika:<R>Good work out there.<W><H>But going off on your own<R>is dangerous. I won't<R>allow it from now on.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#91",
      "jp": "<F62>：<R>ああ。<W><H>で、ここで何してるんだ？<W><H>次の作戦が決まったのか？<W><E>",
-     "en": "<F62>:<R>Yeah.<W><H>So, what are you doing here?<W><H>Has the next operation been<R>decided?<W><E>"
+     "en": "<F62>:<R>Yeah.<W><H>So, what are you doing here?<W><H>Has the next operation<R>been decided?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#92",
      "jp": "ゼシカ大尉：<R>ええ。コステリフ長官が<R>悲しんでいても始まらないって。<W><H>とにかくパナスガルを<R>奪い返そう、ということに<R>なったの。<W><E>",
-     "en": "Captain Zeshika:<R>Yes. Commander Kosterif said<R>grieving won't get us anywhere.<W><H>So it's been decided that,<R>whatever else happens, we take<R>back Panasgal.<W><E>"
+     "en": "Captain Zeshika:<R>Yes. Commander Kosterif said<R>grieving won't get us anywhere.<W><H>So it's been decided that,<R>whatever else happens, we<R>take back Panasgal.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#93",
@@ -492,17 +492,17 @@
     {
      "id": "2D/FMPS/F09_00@49800#97",
      "jp": "管制員：<R>よし！　次はいよいよ<R>パナスガルだ！<W><H>あそこを取り返せば、親衛部隊を<R>ム連邦から追い出せるんですよ！<W><E>",
-     "en": "Controller:<R>All right! Next up, at long last,<R>is Panasgal!<W><H>Take it back, and we can drive the<R>Royal Guard units out of the<R>Federation!<W><E>"
+     "en": "Controller:<R>All right! Next up, at<R>long last, is Panasgal!<W><H>Take it back, and we can<R>drive the Royal Guard units<R>out of the Federation!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#98",
      "jp": "管制員：<R>よし！　次はいよいよ<R>パナスガルだ！<W><E>",
-     "en": "Controller:<R>All right! Next up, at long last,<R>is Panasgal!<W><E>"
+     "en": "Controller:<R>All right! Next up, at<R>long last, is Panasgal!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#99",
      "jp": "管制員：<R>タカテリフ長官の死を<R>むだにするな！<W><E>",
-     "en": "Controller:<R>Don't let Commander Takaterif's<R>death be in vain!<W><E>"
+     "en": "Controller:<R>Don't let Commander<R>Takaterif's death be in vain!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#100",
@@ -527,7 +527,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#104",
      "jp": "配給係：<R>いよいよ今度こそ、パナスガルを<R>取りもどすんですね……<W><H>大尉、がんばってください！<W><E>",
-     "en": "Quartermaster:<R>So this time we finally take back<R>Panasgal...<W><H>Captain, good luck out there!<W><E>"
+     "en": "Quartermaster:<R>So this time we finally<R>take back Panasgal...<W><H>Captain, good luck out there!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#105",
@@ -542,17 +542,17 @@
     {
      "id": "2D/FMPS/F09_00@49800#107",
      "jp": "ム連兵：<R>シデルの親衛部隊を<R>追い出したぜ！<W><E>",
-     "en": "Federation Soldier:<R>We drove out Sidel's Royal Guard<R>units!<W><E>"
+     "en": "Federation Soldier:<R>We drove out Sidel's<R>Royal Guard units!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#108",
      "jp": "ム連兵：<R>シデルめ、<R>ゆるせない……！<W><E>",
-     "en": "Federation Soldier:<R>Damn you, Sidel... I'll never<R>forgive this...!<W><E>"
+     "en": "Federation Soldier:<R>Damn you, Sidel... I'll<R>never forgive this...!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#109",
      "jp": "ム連兵：<R>ギダン軍の捕虜から聞いた話<R>ですが、<W><H>ギダンのアダクダという町で<R>政治犯の囚人による<R>暴動が起きているそうですよ。<W><E>",
-     "en": "Federation Soldier:<R>This is something I heard from a<R>Gidan prisoner,<W><H>but in a Gidan town called<R>Adakuda, political prisoners have<R>started a riot.<W><E>"
+     "en": "Federation Soldier:<R>This is something I heard<R>from a Gidan prisoner,<W><H>but in a Gidan town called<R>Adakuda, political prisoners<R>have started a riot.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#110",
@@ -562,7 +562,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#111",
      "jp": "ム連兵：<R>ええ。なんでも空賊の連中が<R>うしろ盾になっているようで、<W><H>かなり大規模な暴動だと<R>聞いてます。<W><E>",
-     "en": "Federation Soldier:<R>Yes. Apparently the sky pirates<R>are backing them,<W><H>and I hear it's quite a<R>large-scale riot.<W><E>"
+     "en": "Federation Soldier:<R>Yes. Apparently the sky<R>pirates are backing them,<W><H>and I hear it's quite<R>a large-scale riot.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#112",
@@ -577,7 +577,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#114",
      "jp": "ム連兵：<R>ギダン軍の内部にもシデルに反対<R>する人が増えているそうですよ。<W><E>",
-     "en": "Federation Soldier:<R>Even inside the Gidan army, more<R>and more people are opposing<R>Sidel, I hear.<W><E>"
+     "en": "Federation Soldier:<R>Even inside the Gidan army,<W><H>more and more people are<R>opposing Sidel, I hear.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#115",
@@ -587,7 +587,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#116",
      "jp": "男：<R>一時はどうなるかと思ったよ……<R>よかった、よかった。<W><E>",
-     "en": "Man:<R>For a while there I didn't know<R>what would happen... Thank<R>goodness, thank goodness.<W><E>"
+     "en": "Man:<R>For a while there I didn't know<W><H>what would happen... Thank<R>goodness, thank goodness.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#117",
@@ -597,37 +597,37 @@
     {
      "id": "2D/FMPS/F09_00@49800#118",
      "jp": "女：<R>パナスガルにいるおじいちゃん、<R>元気かしら？　心配だわ……<W><E>",
-     "en": "Woman:<R>I wonder if Grandpa in Panasgal is<R>okay? I'm so worried...<W><E>"
+     "en": "Woman:<R>I wonder if Grandpa in Panasgal<R>is okay? I'm so worried...<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#119",
      "jp": "女：<R>兵隊さんたち元気がないけど、<R>なにかあったの？<W><E>",
-     "en": "Woman:<R>The soldiers all seem so down. Did<R>something happen?<W><E>"
+     "en": "Woman:<R>The soldiers all seem so<R>down. Did something happen?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#120",
      "jp": "少年：<R>ぶーん、どかーん！……って<R>ギダンをやっつけるんだ！<W><E>",
-     "en": "Boy:<R>Vrrrm, kaboom! ...That's how I'll<R>beat Gidan!<W><E>"
+     "en": "Boy:<R>Vrrrm, kaboom! ...That's<R>how I'll beat Gidan!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#121",
      "jp": "少年：<R>ボクだったら、<R>シデルにだって負けないよ！<W><E>",
-     "en": "Boy:<R>If it were me, I wouldn't even<R>lose to Sidel!<W><E>"
+     "en": "Boy:<R>If it were me, I wouldn't<R>even lose to Sidel!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#122",
      "jp": "少女：<R>飛空船ってステキね！　大きく<R>なったら、飛空船乗りになるわ！<W><E>",
-     "en": "Girl:<R>Airships are wonderful! When I<R>grow up, I'm going to fly<R>airships!<W><E>"
+     "en": "Girl:<R>Airships are wonderful!<W><H>When I grow up, I'm<R>going to fly airships!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#123",
      "jp": "少女：<R>飛空船乗りは、いつも危険と<R>となりあわせ……<W><E>",
-     "en": "Girl:<R>Airship fliers always live side by<R>side with danger...<W><E>"
+     "en": "Girl:<R>Airship fliers always live<R>side by side with danger...<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#124",
      "jp": "タカテリフ長官：<R>……ふむ、なるほど、<R>で、その反対勢力とは？<W><E>",
-     "en": "Commander Takaterif:<R>...Hmm, I see. And who is this<R>opposition?<W><E>"
+     "en": "Commander Takaterif:<R>...Hmm, I see. And who<R>is this opposition?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#125",
@@ -637,22 +637,22 @@
     {
      "id": "2D/FMPS/F09_00@49800#126",
      "jp": "コステリフ長官：<R>国王派には、ギダンでも<R>名うての古将が多いと聞くが。<W><E>",
-     "en": "Commander Kosterif:<R>I hear the royalists include many<R>veteran generals of renown, even<R>in Gidan.<W><E>"
+     "en": "Commander Kosterif:<R>I hear the royalists include<W><H>many veteran generals of<R>renown, even in Gidan.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#127",
      "jp": "ム連兵：<R>はっ。<R>今はそれ以上のことは……<W><E>",
-     "en": "Federation Soldier:<R>Sir. That's all we know for<R>now...<W><E>"
+     "en": "Federation Soldier:<R>Sir. That's all we<R>know for now...<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#128",
      "jp": "タカテリフ長官：<R>アダクダの暴動といい……<W><E>",
-     "en": "Commander Takaterif:<R>What with the Adakuda riot as<R>well...<W><E>"
+     "en": "Commander Takaterif:<R>What with the Adakuda<R>riot as well...<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#129",
      "jp": "コステリフ長官：<R>われわれには追い風ですな。<W><E>",
-     "en": "Commander Kosterif:<R>The wind is at our backs, it<R>seems.<W><E>"
+     "en": "Commander Kosterif:<R>The wind is at our<R>backs, it seems.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#130",
@@ -677,7 +677,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#134",
      "jp": "ゼシカ大尉：<R>パナスガル奪回のため、<W><H>ヨグナスカヤ山地を<R>越えていくのよ。<W><H>山の高度が高いので、<R>飛行に支障をきたすことが<R>あるかもしれないわ。<W><H>ギダン軍もすんなりとは<R>通してくれないでしょうね。<W><H>さ、準備がいいなら<R>出発するわよ。<W><E>",
-     "en": "Captain Zeshika:<R>To retake Panasgal,<W><H>we'll cross the Yognaskaya<R>Mountains.<W><H>The mountains are high, so we may<R>run into trouble flying.<W><H>And the Gidan army won't let us<R>through easily, either.<W><H>Now, if you're ready, we'll head<R>out.<W><E>"
+     "en": "Captain Zeshika:<R>To retake Panasgal,<W><H>we'll cross the<R>Yognaskaya Mountains.<W><H>The mountains are high, so we<R>may run into trouble flying.<W><H>And the Gidan army won't let<R>us through easily, either.<W><H>Now, if you're ready,<R>we'll head out.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#135",
@@ -687,7 +687,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#136",
      "jp": "コステリフ長官：<R>大統領の期待もかかっている。<W><H>何としてでも<R>取りもどさなくては。<W><E>",
-     "en": "Commander Kosterif:<R>The President is counting on us.<W><H>We must take it back, whatever it<R>takes.<W><E>"
+     "en": "Commander Kosterif:<R>The President is counting on us.<W><H>We must take it back,<R>whatever it takes.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#137",
@@ -702,7 +702,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#139",
      "jp": "ム連兵：<R>大尉、何かお手伝いできる<R>ことは？<W><E>",
-     "en": "Federation Soldier:<R>Captain, is there anything I can<R>help with?<W><E>"
+     "en": "Federation Soldier:<R>Captain, is there anything<R>I can help with?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#140",
@@ -722,7 +722,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#143",
      "jp": "ム連兵：<R>大尉、くじけず……<R>がんばりましょう！<W><E>",
-     "en": "Federation Soldier:<R>Captain, don't lose heart... Let's<R>keep at it!<W><E>"
+     "en": "Federation Soldier:<R>Captain, don't lose<R>heart... Let's keep at it!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#144",
@@ -742,12 +742,12 @@
     {
      "id": "2D/FMPS/F09_00@49800#147",
      "jp": "ム連兵：<R>爆風に巻き込まれたんです。<R>あっという間でした………<W><E>",
-     "en": "Federation Soldier:<R>He was caught in the blast. It was<R>over in an instant......<W><E>"
+     "en": "Federation Soldier:<R>He was caught in the blast. It<R>was over in an instant......<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#148",
      "jp": "コステリフ長官：<R>わたしたちは軍人だ。<R>戦争をやっているんだ………<W><H>いつかこうなることは、<R>わかっていたつもりだった。<W><E>",
-     "en": "Commander Kosterif:<R>We are soldiers. We are fighting a<R>war......<W><H>I thought I understood that it<R>would come to this one day.<W><E>"
+     "en": "Commander Kosterif:<R>We are soldiers. We are<R>fighting a war......<W><H>I thought I understood that it<R>would come to this one day.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#149",
@@ -762,7 +762,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#151",
      "jp": "<F62>：<R>俺、ちょっと偵察に出てくる。<W><E>",
-     "en": "<F62>:<R>I'm heading out on a little<R>recon.<W><E>"
+     "en": "<F62>:<R>I'm heading out on<R>a little recon.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#152",
@@ -922,12 +922,12 @@
     {
      "id": "2D/FMPS/F09_00@49800#183",
      "jp": "バ・マッグ：<R>これからム連邦軍は<R>どうなるのでしょうか？<W><E>",
-     "en": "Ba Magg:<R>What will become of the Federation<R>army now?<W><E>"
+     "en": "Ba Magg:<R>What will become of the<R>Federation army now?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#184",
      "jp": "<F62>：<R>コステリフがいるから<R>心配いらないさ。<W><H>さあ、みんな持ち場にもどれ。<W><E>",
-     "en": "<F62>:<R>Kosterif's still here, so there's<R>nothing to worry about.<W><H>Come on, everyone, back to your<R>posts.<W><E>"
+     "en": "<F62>:<R>Kosterif's still here, so<R>there's nothing to worry about.<W><H>Come on, everyone,<R>back to your posts.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#185",
@@ -937,7 +937,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#186",
      "jp": "<F62>：<R>アグ、パトロールにでも<R>でかけようか。<W><E>",
-     "en": "<F62>:<R>Ag, how about we head out on<R>patrol or something?<W><E>"
+     "en": "<F62>:<R>Ag, how about we head out<R>on patrol or something?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#187",
@@ -947,7 +947,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#188",
      "jp": "<F62>：<R>この下でタカテリフが眠って<R>いるのか……<W><H>いや……入るのはよそう。<W><E>",
-     "en": "<F62>:<R>So Takaterif is sleeping under<R>here...<W><H>No... I won't go in.<W><E>"
+     "en": "<F62>:<R>So Takaterif is<R>sleeping under here...<W><H>No... I won't go in.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#189",

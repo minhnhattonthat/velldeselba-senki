@@ -17,12 +17,12 @@
     {
      "id": "3D/GMPS1/G07#2",
      "jp": "オユ・キクル：<R>撤退命令です！　船団の後を<R>ついてこいとのことです。<R><@18>味方の船団は、<R>進路を、オルダナスピ方面に<R>変更しています。<R><@18><%S><_00>：<R>オルダナスピ？<R><@18>ハウエズナ：<R>四方を高い山に囲まれた<R>永世中立国です。<R><@18>永世中立国に逃げ込んで、<R>ギダン軍との戦闘を<R>回避するつもりでしょうか？<R><@18><%S><_00>：<R>だろうな。<R><@20>",
-     "en": "Oyu Kikuru:<R>Retreat orders! We're to<R>follow the convoy.<R><@18>Our convoy has changed course<R>toward Oldanaspi.<R><@18><%S><_00>:<R>Oldanaspi?<R><@18>Hauezna:<R>A permanently neutral nation<R>ringed by high mountains.<R><@18>Do they mean to flee into a<R>neutral nation to avoid<R>fighting the Gidan army?<R><@18><%S><_00>:<R>Guess so.<R><@20>"
+     "en": "Oyu Kikuru:<R>Retreat orders! We're<R>to follow the convoy.<R><@18>Our convoy has changed<R>course toward Oldanaspi.<R><@18><%S><_00>:<R>Oldanaspi?<R><@18>Hauezna:<R>A permanently neutral nation<R>ringed by high mountains.<R><@18>Do they mean to flee into<R>a neutral nation to avoid<R>fighting the Gidan army?<R><@18><%S><_00>:<R>Guess so.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G07#3",
      "jp": "民間船を守る事が<R>できなかった。<R><@20>",
-     "en": "We failed to protect the<R>civilian ships.<R><@20>"
+     "en": "We failed to protect<R>the civilian ships.<R><@20>"
     }
    ]
   }

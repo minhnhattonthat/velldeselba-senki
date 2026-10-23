@@ -472,12 +472,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#93",
      "jp": "空賊：<R>こりゃあマルダマンの旦那。<W><H>景気はどうですかい？<W><H>ここのドックは壊れてて<R>使えませんよ。<W><E>",
-     "en": "Sky Pirate:<R>Well, if it isn't Mister<R>Mardaman.<W><H>How's business?<W><H>The dock here's broken. You can't<R>use it.<W><E>"
+     "en": "Sky Pirate:<R>Well, if it isn't<R>Mister Mardaman.<W><H>How's business?<W><H>The dock here's broken.<R>You can't use it.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#94",
      "jp": "空賊：<R>しってるか？<W><H>ム連邦軍に腕利きの<R>空賊退治部隊ができたらしいぜ。<W><E>",
-     "en": "Sky Pirate:<R>You hear?<W><H>The Federation army's got itself a<R>crack pirate-hunting unit now.<W><E>"
+     "en": "Sky Pirate:<R>You hear?<W><H>The Federation army's got itself<R>a crack pirate-hunting unit now.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#95",
@@ -507,17 +507,17 @@
     {
      "id": "2D/EMPS/E02_00@3d000#100",
      "jp": "ブアブナム：<R>なんだ、ヒマそうだな。<W><H>よし、仕事をやろう。<W><H>ちょうど誰に頼むか<R>迷ってたところなんだ。<W><E>",
-     "en": "Buabnam:<R>What, you look bored.<W><H>All right, I've got a job for<R>you.<W><H>I was just wondering who to give<R>it to.<W><E>"
+     "en": "Buabnam:<R>What, you look bored.<W><H>All right, I've<R>got a job for you.<W><H>I was just wondering<R>who to give it to.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#101",
      "jp": "<F62>：<R>いいよ、どうせろくな<R>仕事じゃないんだろ？<W><E>",
-     "en": "<F62>:<R>I'll pass. Bet it's some lousy job<R>anyway, right?<W><E>"
+     "en": "<F62>:<R>I'll pass. Bet it's some<R>lousy job anyway, right?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#102",
      "jp": "ブアブナム：<R>わはは！　まあ、そういうな。<W><H>おまえパナスガルって町、<R>知ってるか？<W><H>そこに<P07>荷物を届けて<R>欲しい<P15>んだけどな。<W><E>",
-     "en": "Buabnam:<R>Wahaha! Now, don't be like that.<W><H>You know a town called Panasgal?<W><H>I want you to <P07>deliver some cargo<P15><R>there.<W><E>"
+     "en": "Buabnam:<R>Wahaha! Now, don't be like that.<W><H>You know a town called Panasgal?<W><H>I want you to <P07>deliver<R>some cargo<P15> there.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#103",
@@ -532,22 +532,22 @@
     {
      "id": "2D/EMPS/E02_00@3d000#105",
      "jp": "<F62>：<R>この時期に無事に国境を越え<R>られるとは思えないぜ。<W><E>",
-     "en": "<F62>:<R>I don't see anyone crossing that<R>border safely at a time like<R>this.<W><E>"
+     "en": "<F62>:<R>I don't see anyone crossing<W><H>that border safely at a time<R>like this.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#106",
      "jp": "ブアブナム：<R>そんなことはわかっている。<R>だからおまえに頼むんだ。<W><H>もちろん礼はたっぷりする。<W><E>",
-     "en": "Buabnam:<R>I know that. That's why I'm asking<R>you.<W><H>Of course, I'll pay you plenty.<W><E>"
+     "en": "Buabnam:<R>I know that. That's<R>why I'm asking you.<W><H>Of course, I'll pay you plenty.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#107",
      "jp": "<F62>：<R>まったく、<R>調子のいいおやじだな。<W><E>",
-     "en": "<F62>:<R>Honestly, what a smooth-talking<R>old man.<W><E>"
+     "en": "<F62>:<R>Honestly, what a<R>smooth-talking old man.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#108",
      "jp": "<P07>仕事を引き受けると、<R>そのまま国境越えの戦闘に<R>突入します。<W><H>今断っても、またチャンスは<R>あります。<P15><W><E>",
-     "en": "<P07>Taking the job leads straight into<R>a battle to cross the border.<W><H>If you turn it down now, you'll<R>get another chance.<P15><W><E>"
+     "en": "<P07>Taking the job leads straight into<R>a battle to cross the border.<W><H>If you turn it down now,<R>you'll get another chance.<P15><W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#109",
@@ -572,12 +572,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#113",
      "jp": "ブアブナム：<R>木箱を一つと、密書をな……<W><H>パナスガルにいるム連邦の<R>軍人に渡してほしいのだ。<W><H>相手への連絡は、<R>あらかじめこちらからしておく。<W><H>パナスガルに着いたら、<R><P07>兵舎の裏で待っていろ。<P15><W><E>",
-     "en": "Buabnam:<R>A wooden crate, and a secret<R>letter...<W><H>I want you to hand them to a<R>Federation soldier in Panasgal.<W><H>I'll get word to them ahead of<R>time.<W><H>Once you reach Panasgal, <P07>wait<R>behind the barracks.<P15><W><E>"
+     "en": "Buabnam:<R>A wooden crate, and<R>a secret letter...<W><H>I want you to hand them to a<R>Federation soldier in Panasgal.<W><H>I'll get word to<R>them ahead of time.<W><H>Once you reach Panasgal,<R><P07>wait behind the barracks.<P15><W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#114",
      "jp": "<F62>：<R>兵舎の裏ね。了解。<W><E>",
-     "en": "<F62>:<R>Behind the barracks, huh. Got<R>it.<W><E>"
+     "en": "<F62>:<R>Behind the barracks,<R>huh. Got it.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#115",
@@ -587,7 +587,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#116",
      "jp": "<P07>木箱と密書を預かりました。<P15><W><E>",
-     "en": "<P07>Received the Wooden Crate and the<R>Secret Letter.<P15><W><E>"
+     "en": "<P07>Received the Wooden Crate<R>and the Secret Letter.<P15><W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#117",
@@ -597,12 +597,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#118",
      "jp": "ブアブナム：<R>ああいいとも、やる気になったら<R>また来てくれ。<W><E>",
-     "en": "Buabnam:<R>Sure, fine. Come back when you're<R>up for it.<W><E>"
+     "en": "Buabnam:<R>Sure, fine. Come back<R>when you're up for it.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#119",
      "jp": "ブアブナム：<R>おお、気が変わったか？<W><H>パナスガルに行って<R>くれるんだな？<W><E>",
-     "en": "Buabnam:<R>Oh, changed your mind?<W><H>You'll go to Panasgal for me,<R>then?<W><E>"
+     "en": "Buabnam:<R>Oh, changed your mind?<W><H>You'll go to Panasgal<R>for me, then?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#120",
@@ -667,12 +667,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#132",
      "jp": "<F62>：<R>任務終了、だ。<W><H>約束の金をもらおうか。<W><E>",
-     "en": "<F62>:<R>Mission complete.<W><H>Now let's have the money you<R>promised.<W><E>"
+     "en": "<F62>:<R>Mission complete.<W><H>Now let's have the<R>money you promised.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#133",
      "jp": "ブアブナム：<R>わはははは。<W><H>空賊稼業が板について<R>きたじゃないか。<W><H>よし、これを持っていけ。<W><E>",
-     "en": "Buabnam:<R>Wahahahaha.<W><H>You're getting the hang of the<R>pirate trade.<W><H>All right, take this.<W><E>"
+     "en": "Buabnam:<R>Wahahahaha.<W><H>You're getting the hang<R>of the pirate trade.<W><H>All right, take this.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#134",
@@ -682,7 +682,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#135",
      "jp": "<P13>プロペラ魚雷を１００発<R>もらいました。<P15><W><E>",
-     "en": "<P13>Received 100 propeller<R>torpedoes.<P15><W><E>"
+     "en": "<P13>Received 100<R>propeller torpedoes.<P15><W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#136",
@@ -692,17 +692,17 @@
     {
      "id": "2D/EMPS/E02_00@3d000#137",
      "jp": "ブアブナム：<R>わはははは。<R>ダ・クダによろしくな。<W><E>",
-     "en": "Buabnam:<R>Wahahahaha. Give my regards to Da<R>Kuda.<W><E>"
+     "en": "Buabnam:<R>Wahahahaha. Give my<R>regards to Da Kuda.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#138",
      "jp": "男：<R>マルダマンじゃないか、<R>よく来たな！<W><H>ダ・クダのおやじは元気かい？<W><E>",
-     "en": "Man:<R>Well, if it isn't Mardaman! Good<R>to see you!<W><H>How's old Da Kuda doing?<W><E>"
+     "en": "Man:<R>Well, if it isn't<R>Mardaman! Good to see you!<W><H>How's old Da Kuda doing?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#139",
      "jp": "マルダマン：<R>ええ、おかげさまで、<R>ブアブナムのだんな。<W><E>",
-     "en": "Mardaman:<R>He's doing well, thanks, Mister<R>Buabnam.<W><E>"
+     "en": "Mardaman:<R>He's doing well, thanks,<R>Mister Buabnam.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#140",
@@ -727,7 +727,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#144",
      "jp": "ブアブナム：<R>そいつはご苦労だったな。<W><H>どれどれ……<W><H>わはははは。<W><H>相変わらず、ダ・クダの<R>考えることは豪快だな！<W><E>",
-     "en": "Buabnam:<R>Good of you to bring it.<W><H>Let's see...<W><H>Wahahahaha.<W><H>Da Kuda's ideas are as bold as<R>ever!<W><E>"
+     "en": "Buabnam:<R>Good of you to bring it.<W><H>Let's see...<W><H>Wahahahaha.<W><H>Da Kuda's ideas are<R>as bold as ever!<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#145",
@@ -737,7 +737,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#146",
      "jp": "ブアブナム：<R>まあ、いいじゃねえか。<R>気にするな！<W><H>カルフ！　客人におまえの<R>踊りを見せてやってくれ！<W><E>",
-     "en": "Buabnam:<R>Ah, never mind that. Don't worry<R>about it!<W><H>Karf! Show our guest your dance!<W><E>"
+     "en": "Buabnam:<R>Ah, never mind that.<R>Don't worry about it!<W><H>Karf! Show our guest your dance!<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#147",
@@ -777,7 +777,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#154",
      "jp": "ブアブナム：<R>パナスガルの兵舎の裏だ。<R>わかったな。<W><E>",
-     "en": "Buabnam:<R>Behind the barracks in Panasgal.<R>Got it?<W><E>"
+     "en": "Buabnam:<R>Behind the barracks<R>in Panasgal. Got it?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#155",
@@ -797,37 +797,37 @@
     {
      "id": "2D/EMPS/E02_00@3d000#158",
      "jp": "カルフ：<R>……だれ、あなた？<W><H>くどき文句にしちゃ、<R>ずいぶんとまわりくどいわね。<W><E>",
-     "en": "Karf:<R>...Who are you?<W><H>As pickup lines go, that one's<R>pretty roundabout.<W><E>"
+     "en": "Karf:<R>...Who are you?<W><H>As pickup lines go, that<R>one's pretty roundabout.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#159",
      "jp": "<F62>：<R>俺だよ、<F62>だ。<R>俺を忘れたのか？<W><E>",
-     "en": "<F62>:<R>It's me, <F62>. Don't you<R>remember me?<W><E>"
+     "en": "<F62>:<R>It's me, <F62>.<R>Don't you remember me?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#160",
      "jp": "ブアブナム：<R>なんでえ、<R>てめえら知り合いかよ。<W><E>",
-     "en": "Buabnam:<R>What's this? You two know each<R>other?<W><E>"
+     "en": "Buabnam:<R>What's this? You two<R>know each other?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#161",
      "jp": "カルフ：<R>知らないわ。<W><H>なかなかいい男だけれど、<R>しつこいのは願い下げよ。<W><E>",
-     "en": "Karf:<R>I don't know him.<W><H>You're quite a looker, but I've no<R>time for pushy men.<W><E>"
+     "en": "Karf:<R>I don't know him.<W><H>You're quite a looker, but<R>I've no time for pushy men.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#162",
      "jp": "<F62>：<R>ほんとにカフィじゃないのか？<W><H>信じられないな、そっくりだよ。<W><E>",
-     "en": "<F62>:<R>You're really not Kafi?<W><H>I can't believe it. You're the<R>spitting image of her.<W><E>"
+     "en": "<F62>:<R>You're really not Kafi?<W><H>I can't believe it. You're<R>the spitting image of her.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#163",
      "jp": "カルフ：<R>カフィですって？<W><H>もしかして、あなた……<R>ノイパスクの人？<W><E>",
-     "en": "Karf:<R>Kafi, you say?<W><H>Don't tell me... you're from<R>Noipask?<W><E>"
+     "en": "Karf:<R>Kafi, you say?<W><H>Don't tell me...<R>you're from Noipask?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#164",
      "jp": "<F62>：<R>ああ、この間まで<R>ノイパスクにいたんだ。<W><E>",
-     "en": "<F62>:<R>Yeah, I was in Noipask until<R>recently.<W><E>"
+     "en": "<F62>:<R>Yeah, I was in Noipask<R>until recently.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#165",
@@ -842,17 +842,17 @@
     {
      "id": "2D/EMPS/E02_00@3d000#167",
      "jp": "カルフ：<R>空賊の妹がいるなんて、<W><H>あまり胸張って言えること<R>じゃないでしょ。<W><E>",
-     "en": "Karf:<R>Having a sky pirate for a<R>sister...<W><H>isn't exactly something to brag<R>about, is it?<W><E>"
+     "en": "Karf:<R>Having a sky pirate<R>for a sister...<W><H>isn't exactly something<R>to brag about, is it?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#168",
      "jp": "<F62>：<R>それもそうだな。<W><H>いったいどういうわけで<R>空賊になったんだ？<W><E>",
-     "en": "<F62>:<R>Fair enough.<W><H>So how on earth did you end up a<R>sky pirate?<W><E>"
+     "en": "<F62>:<R>Fair enough.<W><H>So how on earth did you<R>end up a sky pirate?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#169",
      "jp": "カルフ：<R>うちは家族そろって<R>変わり者なのよ。<W><E>",
-     "en": "Karf:<R>Our whole family's a bunch of<R>oddballs.<W><E>"
+     "en": "Karf:<R>Our whole family's a<R>bunch of oddballs.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#170",
@@ -862,7 +862,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#171",
      "jp": "カルフ：<R>姉貴は親のことも隠してるのね。<W><H>父親も母親も生きてるわ、<R>しかもギダンでね。<W><H><P07>ヤズサの郊外<P15>で<R>ひっそり暮らしているわ。<W><E>",
-     "en": "Karf:<R>So Sis keeps quiet about our<R>parents too.<W><H>Father and Mother are both alive,<R>and in Gidan, no less.<W><H>They live quietly <P07>outside<R>Yazusa<P15>.<W><E>"
+     "en": "Karf:<R>So Sis keeps quiet<R>about our parents too.<W><H>Father and Mother are both<R>alive, and in Gidan, no less.<W><H>They live quietly<R><P07>outside Yazusa<P15>.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#172",
@@ -877,7 +877,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#174",
      "jp": "<F62>：<R>カフィは、今、<R>ギダン軍にいるんだ。<W><E>",
-     "en": "<F62>:<R>Kafi is with the Gidan army right<R>now.<W><E>"
+     "en": "<F62>:<R>Kafi is with the Gidan<R>army right now.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#175",
@@ -887,7 +887,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#176",
      "jp": "ブアブナム：<R>まあまあ、こみいった話なら<R>いつでもできるぞお！<W><H>話はそのくらいにして<R>酒を飲もうや！<W><E>",
-     "en": "Buabnam:<R>Now, now, there's always time for<R>complicated talk!<W><H>That's enough chatter. Let's<R>drink!<W><E>"
+     "en": "Buabnam:<R>Now, now, there's always<R>time for complicated talk!<W><H>That's enough chatter.<R>Let's drink!<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#177",
@@ -897,12 +897,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#178",
      "jp": "ブアブナム：<R>いい女だろう？<R>きにいったか？<W><E>",
-     "en": "Buabnam:<R>Fine woman, isn't she? Taken a<R>shine to her?<W><E>"
+     "en": "Buabnam:<R>Fine woman, isn't she?<R>Taken a shine to her?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#179",
      "jp": "<F62>：<R>あんたがカフィの妹なのか。<R>あんたの両親に会ったよ。<W><H>ずいぶん君たちに<R>おかんむりのようだな。<W><E>",
-     "en": "<F62>:<R>So you're Kafi's sister. I met<R>your parents.<W><H>They seem pretty cross with you<R>two.<W><E>"
+     "en": "<F62>:<R>So you're Kafi's sister.<R>I met your parents.<W><H>They seem pretty<R>cross with you two.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#180",
@@ -947,7 +947,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#188",
      "jp": "空賊：<R>空賊退治部隊の隊長は、<R>まだ若い女らしいぜ。<W><E>",
-     "en": "Sky Pirate:<R>Word is the leader of that<R>pirate-hunting unit is a young<R>woman.<W><E>"
+     "en": "Sky Pirate:<R>Word is the leader of<W><H>that pirate-hunting<R>unit is a young woman.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#189",
@@ -957,12 +957,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#190",
      "jp": "空賊：<R>ム連邦に女隊長がいるなんて<R>知らなかったぜ。<W><E>",
-     "en": "Sky Pirate:<R>Never knew the Federation had a<R>woman commander.<W><E>"
+     "en": "Sky Pirate:<R>Never knew the Federation<R>had a woman commander.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#191",
      "jp": "空賊：<R>ダ・クダのだんなとうちの親分、<R>また何かたくらんでるのかな？<W><E>",
-     "en": "Sky Pirate:<R>Boss Da Kuda and our boss...<R>cooking up something again, I<R>wonder?<W><E>"
+     "en": "Sky Pirate:<R>Boss Da Kuda and our<W><H>boss... cooking up<R>something again, I wonder?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#192",
@@ -972,7 +972,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#193",
      "jp": "酒場の主人：<R>いらっしゃい。<R>自家製のブドウ酒はいかがかね。<W><E>",
-     "en": "Tavern Keeper:<R>Welcome. How about a glass of our<R>homemade wine?<W><E>"
+     "en": "Tavern Keeper:<R>Welcome. How about a glass<R>of our homemade wine?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#194",
@@ -982,7 +982,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#195",
      "jp": "カルフ：<R>ああ、さっきのお客さんね。<W><E>",
-     "en": "Karf:<R>Oh, you're the guest from<R>earlier.<W><E>"
+     "en": "Karf:<R>Oh, you're the guest<R>from earlier.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#196",
@@ -1002,32 +1002,32 @@
     {
      "id": "2D/EMPS/E02_00@3d000#199",
      "jp": "カルフ：<R>ギダンとノイパスクって、<R>今、戦争してるのよ！<W><H>ノイパスク人の姉貴がギダンで<R>無事にいられるわけないじゃ<R>ない！<W><E>",
-     "en": "Karf:<R>Gidan and Noipask are at war right<R>now!<W><H>Sis is from Noipask. There's no<R>way she's safe in Gidan!<W><E>"
+     "en": "Karf:<R>Gidan and Noipask are<R>at war right now!<W><H>Sis is from Noipask. There's<R>no way she's safe in Gidan!<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#200",
      "jp": "<F62>：<R>だいじょうぶだって。<W><H>信頼できるやつと<R>いっしょなんだ。<W><E>",
-     "en": "<F62>:<R>Relax.<W><H>She's with someone she can<R>trust.<W><E>"
+     "en": "<F62>:<R>Relax.<W><H>She's with someone<R>she can trust.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#201",
      "jp": "カルフ：<R>でも心配だわ……<W><H>そうだ！<R>わたしをあんたの船に乗せて！<W><H>姉貴のところに<R>つれていってくれない？<W><E>",
-     "en": "Karf:<R>But I'm worried...<W><H>I know! Let me ride on your<R>ship!<W><H>Won't you take me to Sis?<W><E>"
+     "en": "Karf:<R>But I'm worried...<W><H>I know! Let me<R>ride on your ship!<W><H>Won't you take me to Sis?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#202",
      "jp": "<F62>：<R>おいおい、<W><H>姉貴をさがしたいのなら、<R>ブアブナムに頼めばいいだろう。<W><E>",
-     "en": "<F62>:<R>Whoa, whoa.<W><H>If you want to find your sister,<R>just ask Buabnam.<W><E>"
+     "en": "<F62>:<R>Whoa, whoa.<W><H>If you want to find your<R>sister, just ask Buabnam.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#203",
      "jp": "カルフ：<R>だめよ。<W><H>あのとおり酒ばかり飲んでいて、<R>頼りにならないんだから。<W><E>",
-     "en": "Karf:<R>No way.<W><H>He's always drinking like that.<R>He's no help at all.<W><E>"
+     "en": "Karf:<R>No way.<W><H>He's always drinking like<R>that. He's no help at all.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#204",
      "jp": "カルフ：<R>それに、すぐ会わせろ<R>ってわけじゃないの。<W><H>チャンスがあるときでいいのよ。<W><H>ね、お願い！！<W><E>",
-     "en": "Karf:<R>Besides, I don't mean right<R>away.<W><H>Whenever you get the chance is<R>fine.<W><H>Please!!<W><E>"
+     "en": "Karf:<R>Besides, I don't<R>mean right away.<W><H>Whenever you get the<R>chance is fine.<W><H>Please!!<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#205",
@@ -1042,7 +1042,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#207",
      "jp": "<F62>：<R>しょうがないなあ。<W><H>そこまでいうなら乗せてやるよ。<W><H>ただし、一度はヤズサのご両親に<R>顔を見せてやるんだ。いいな。<W><E>",
-     "en": "<F62>:<R>Oh, all right.<W><H>If you insist, I'll take you<R>aboard.<W><H>But you're showing your face to<R>your parents in Yazusa at least<R>once. Got it?<W><E>"
+     "en": "<F62>:<R>Oh, all right.<W><H>If you insist, I'll<R>take you aboard.<W><H>But you're showing your face<R>to your parents in Yazusa at<R>least once. Got it?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#208",
@@ -1057,7 +1057,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#210",
      "jp": "マルダマン：<R>じゃあ、カルフは俺が船まで<R>案内しておくから。<W><H>あんたは、ブアブナムの親分に<R>あいさつしておいてくれるか？<W><E>",
-     "en": "Mardaman:<R>Then I'll show Karf to the ship.<W><H>Could you go pay your respects to<R>Boss Buabnam?<W><E>"
+     "en": "Mardaman:<R>Then I'll show Karf to the ship.<W><H>Could you go pay your<R>respects to Boss Buabnam?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#211",
@@ -1077,12 +1077,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#214",
      "jp": "少女：<R>おじさんたち、ダクから来たの？<W><E>",
-     "en": "Girl:<R>Mister, did you all come from<R>Dak?<W><E>"
+     "en": "Girl:<R>Mister, did you<R>all come from Dak?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#215",
      "jp": "少女：<R>パナスガルはね、<R>デゼの北にあるのよ。<W><E>",
-     "en": "Girl:<R>Panasgal is north of Deze, you<R>know.<W><E>"
+     "en": "Girl:<R>Panasgal is north<R>of Deze, you know.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#216",
@@ -1097,7 +1097,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#218",
      "jp": "空賊：<R>ブアブナムの親分から<R>頼まれごとをされたんだって？<W><E>",
-     "en": "Sky Pirate:<R>I hear Boss Buabnam asked you for<R>a favor?<W><E>"
+     "en": "Sky Pirate:<R>I hear Boss Buabnam<R>asked you for a favor?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#219",
@@ -1112,12 +1112,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#221",
      "jp": "女：<R>国境越えをするんだって？<R>度胸があるね。<W><E>",
-     "en": "Woman:<R>Crossing the border, I hear?<R>You've got nerve.<W><E>"
+     "en": "Woman:<R>Crossing the border, I<R>hear? You've got nerve.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#222",
      "jp": "女：<R>ダクのみんなによろしくね。<W><E>",
-     "en": "Woman:<R>Say hi to everyone in Dak for<R>me.<W><E>"
+     "en": "Woman:<R>Say hi to everyone<R>in Dak for me.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#223",
@@ -1127,12 +1127,12 @@
     {
      "id": "2D/EMPS/E02_00@3d000#224",
      "jp": "酒場のマスター：<R>演奏中は話しかけないで<R>くださいよ。<W><E>",
-     "en": "Bartender:<R>Please don't interrupt the<R>performance.<W><E>"
+     "en": "Bartender:<R>Please don't interrupt<R>the performance.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#225",
      "jp": "修理屋：<R>やあ、同志よ。<R>修理かい？<W><E>",
-     "en": "Repairman:<R>Hey there, comrade. Need<R>repairs?<W><E>"
+     "en": "Repairman:<R>Hey there, comrade.<R>Need repairs?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#226",
@@ -1177,7 +1177,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#234",
      "jp": "<F62>：<R>このテントは……<R>入れないのか。<W><H>そういや、ダクにも<R>こんなのがあったなあ。<W><E>",
-     "en": "<F62>:<R>This tent... I can't go in?<W><H>Come to think of it, there was one<R>like this in Dak too.<W><E>"
+     "en": "<F62>:<R>This tent... I can't go in?<W><H>Come to think of it, there was<R>one like this in Dak too.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#235",
@@ -1197,17 +1197,17 @@
     {
      "id": "2D/EMPS/E02_00@3d000#238",
      "jp": "マルダマン：<R>おっと、ブアブナムのだんなに<R>会わなくてもいいのか？<W><E>",
-     "en": "Mardaman:<R>Whoa, don't you want to see Mister<R>Buabnam first?<W><E>"
+     "en": "Mardaman:<R>Whoa, don't you want to<R>see Mister Buabnam first?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#239",
      "jp": "マルダマン：<R>もうちょっとゆっくり<R>していこうぜ。<W><E>",
-     "en": "Mardaman:<R>Let's hang around a little<R>longer.<W><E>"
+     "en": "Mardaman:<R>Let's hang around<R>a little longer.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#240",
      "jp": "<F62>：<R>ブアブナムに一応別れを<R>言っておくか。<W><E>",
-     "en": "<F62>:<R>I guess I should at least say<R>goodbye to Buabnam.<W><E>"
+     "en": "<F62>:<R>I guess I should at least<R>say goodbye to Buabnam.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#241",

@@ -457,7 +457,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#90",
      "jp": "国王派の男：<R>変な形の浮遊島がこっちに<R>向かってきているぞ！<W><E>",
-     "en": "Royalist:<R>A weird-shaped floating island is<R>heading this way!<W><E>"
+     "en": "Royalist:<R>A weird-shaped floating<R>island is heading this way!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#91",
@@ -467,7 +467,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#92",
      "jp": "ダ・クダ：<R>急げ！<R>ニ・デム島がせめてくるぞ！<W><H>出撃できるやつから出ろ！<W><E>",
-     "en": "Da Kuda:<R>Hurry! Ni-Dem Island is coming to<R>attack!<W><H>Everyone who can sortie, get out<R>there!<W><E>"
+     "en": "Da Kuda:<R>Hurry! Ni-Dem Island<R>is coming to attack!<W><H>Everyone who can<R>sortie, get out there!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#93",
@@ -487,7 +487,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#96",
      "jp": "<F62>：<R>国王なら、ダクにいるぜ。<R>ぴんぴんしてるよ。<W><E>",
-     "en": "<F62>:<R>The King's in Dak. Fit as a<R>fiddle.<W><E>"
+     "en": "<F62>:<R>The King's in Dak.<R>Fit as a fiddle.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#97",
@@ -497,22 +497,22 @@
     {
      "id": "2D/AMPS/A08_00@47000#98",
      "jp": "<F62>：<R>あんたには辛い思いをさせて<R>しまった、と言ってたぜ。<W><E>",
-     "en": "<F62>:<R>He said he's sorry for what he put<R>you through.<W><E>"
+     "en": "<F62>:<R>He said he's sorry for<R>what he put you through.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#99",
      "jp": "ガークス：<R>陛下……<W><H>陛下にお会いすることは<R>できるでしょうか？<W><E>",
-     "en": "Garks:<R>Your Majesty...<W><H>Might I be able to see His<R>Majesty?<W><E>"
+     "en": "Garks:<R>Your Majesty...<W><H>Might I be able to<R>see His Majesty?<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#100",
      "jp": "<F62>：<R>もちろんさ。<W><H>そうだな……ダ・クダの船に<R>乗って行くといいだろう。<W><E>",
-     "en": "<F62>:<R>Sure thing.<W><H>Let's see... You'd best ride along<R>on Da Kuda's ship.<W><E>"
+     "en": "<F62>:<R>Sure thing.<W><H>Let's see... You'd best ride<R>along on Da Kuda's ship.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#101",
      "jp": "ガークス：<R>ああ、わかりました！<R>ありがとうございます！<W><E>",
-     "en": "Garks:<R>Ah, understood! Thank you so<R>much!<W><E>"
+     "en": "Garks:<R>Ah, understood!<R>Thank you so much!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#102",
@@ -532,7 +532,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#105",
      "jp": "ガシザキノ：<R><F62>か！　おまえが<R>作戦に参加してくれていたのか！<W><E>",
-     "en": "Gashizakino:<R><F62>! So you were taking part<R>in this operation!<W><E>"
+     "en": "Gashizakino:<R><F62>! So you were taking<R>part in this operation!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#106",
@@ -542,7 +542,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#107",
      "jp": "ガシザキノ：<R>このままシデルの行いを、黙って<R>見ているわけにはいかんのでな。<W><H>こうして国王派の連中を<R>率いて戦っているわけだ。<W><E>",
-     "en": "Gashizakino:<R>I can't just stand by and watch<R>Sidel do as he pleases.<W><H>So here I am, leading the<R>royalists into battle.<W><E>"
+     "en": "Gashizakino:<R>I can't just stand by and<R>watch Sidel do as he pleases.<W><H>So here I am, leading the<R>royalists into battle.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#108",
@@ -562,27 +562,27 @@
     {
      "id": "2D/AMPS/A08_00@47000#111",
      "jp": "ブアブナム：<R>ダ・クダの親分に頼まれちゃ<R>いやとは言えないからな。<W><H>手伝うぜ。<W><E>",
-     "en": "Buabnam:<R>When boss Da Kuda asks, I can't<R>exactly say no.<W><H>I'll lend a hand.<W><E>"
+     "en": "Buabnam:<R>When boss Da Kuda asks,<R>I can't exactly say no.<W><H>I'll lend a hand.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#112",
      "jp": "ダ・クダ：<R>話はあとだ。<R>急げ、親衛部隊の増援が来るぞ！<W><E>",
-     "en": "Da Kuda:<R>Talk later. Hurry, Royal Guard<R>units are coming as<R>reinforcements!<W><E>"
+     "en": "Da Kuda:<R>Talk later. Hurry, Royal<W><H>Guard units are coming<R>as reinforcements!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#113",
      "jp": "ガシザキノ：<R>わかった！<R>全員、飛空港に向かえ！<W><E>",
-     "en": "Gashizakino:<R>Got it! Everyone, head for the<R>airport!<W><E>"
+     "en": "Gashizakino:<R>Got it! Everyone, head<R>for the airport!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#114",
      "jp": "ダ・クダ：<R><F62>もはやく<R>出発しろよ。<W><H>親衛隊を撃破して、<R>アダクダを防衛するんだ。<W><E>",
-     "en": "Da Kuda:<R><F62>, you get going too,<R>quick.<W><H>Smash the Royal Guard and defend<R>Adakuda.<W><E>"
+     "en": "Da Kuda:<R><F62>, you get<R>going too, quick.<W><H>Smash the Royal Guard<R>and defend Adakuda.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#115",
      "jp": "ガシザキノ：<R><F62>、<W><H>おまえといっしょに戦えて<R>うれしいぜ。<W><E>",
-     "en": "Gashizakino:<R><F62>,<W><H>I'm glad to be fighting alongside<R>you.<W><E>"
+     "en": "Gashizakino:<R><F62>,<W><H>I'm glad to be fighting<R>alongside you.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#116",
@@ -592,17 +592,17 @@
     {
      "id": "2D/AMPS/A08_00@47000#117",
      "jp": "ギダン兵：<R>民間人がこんなところに<R>何の用だ？<W><E>",
-     "en": "Gidan Soldier:<R>What business does a civilian have<R>in a place like this?<W><E>"
+     "en": "Gidan Soldier:<R>What business does a civilian<R>have in a place like this?<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#118",
      "jp": "ギダン兵：<R>ここは収容所の町「アダクダ」<R>だ。<W><E>",
-     "en": "Gidan Soldier:<R>This is the prison town,<R>\"Adakuda.\"<W><E>"
+     "en": "Gidan Soldier:<R>This is the prison<R>town, \"Adakuda.\"<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#119",
      "jp": "ギダン兵：<R>最近、やけに政治犯が<R>増えたなあ。<W><E>",
-     "en": "Gidan Soldier:<R>Lately there sure are a lot more<R>political prisoners.<W><E>"
+     "en": "Gidan Soldier:<R>Lately there sure are a lot<R>more political prisoners.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#120",
@@ -612,7 +612,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#121",
      "jp": "空賊：<R>配給品は全部いただいたぜ。<R>必要な物があったら持ってきな。<W><E>",
-     "en": "Sky Pirate:<R>We took every last bit of the<R>rations. If you need anything,<R>take it.<W><E>"
+     "en": "Sky Pirate:<R>We took every last bit<W><H>of the rations. If you<R>need anything, take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#122",
@@ -622,7 +622,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#123",
      "jp": "空賊：<R>おつかれさん。<R>必要な物があったら持ってきな。<W><E>",
-     "en": "Sky Pirate:<R>Good work. If you need anything,<R>take it.<W><E>"
+     "en": "Sky Pirate:<R>Good work. If you need<R>anything, take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#124",
@@ -637,17 +637,17 @@
     {
      "id": "2D/AMPS/A08_00@47000#126",
      "jp": "修理係：<R>本当は軍用機の修理しか<R>できないんだが……<W><H>困ってるようだしな……<W><E>",
-     "en": "Repair Tech:<R>Truth is, I'm only supposed to fix<R>military craft...<W><H>But you look like you're in a<R>bind...<W><E>"
+     "en": "Repair Tech:<R>Truth is, I'm only supposed<R>to fix military craft...<W><H>But you look like<R>you're in a bind...<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#127",
      "jp": "修理係：<R>困ったときにはまた、<R>こっそりおいで。<W><E>",
-     "en": "Repair Tech:<R>If you're ever in trouble again,<R>come by on the quiet.<W><E>"
+     "en": "Repair Tech:<R>If you're ever in trouble<R>again, come by on the quiet.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#128",
      "jp": "修理屋：<R>修理できたよ。<R>また、こっそりおいで。<W><E>",
-     "en": "Repairman:<R>All fixed. Come by on the quiet<R>again.<W><E>"
+     "en": "Repairman:<R>All fixed. Come by<R>on the quiet again.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#129",
@@ -662,12 +662,12 @@
     {
      "id": "2D/AMPS/A08_00@47000#131",
      "jp": "空賊：<R>ふう、うまくできたかな。<R>またいつでも来いよ。<W><E>",
-     "en": "Sky Pirate:<R>Phew, hope that came out right.<R>Come back anytime.<W><E>"
+     "en": "Sky Pirate:<R>Phew, hope that came out<R>right. Come back anytime.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#132",
      "jp": "ギダン兵：<R>ここには極悪犯が大勢入って<R>いるんだ。面会？　だめだめ。<W><E>",
-     "en": "Gidan Soldier:<R>We've got loads of hardened<R>criminals locked up in here.<R>Visitors? No way, no way.<W><E>"
+     "en": "Gidan Soldier:<R>We've got loads of hardened<W><H>criminals locked up in here.<R>Visitors? No way, no way.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#133",
@@ -712,7 +712,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#141",
      "jp": "<F62>：<R>ケンリ、物音をたてないように<R>いっしょにくるんだ。いいな。<W><E>",
-     "en": "<F62>:<R>Kenri, come with me and don't make<R>a sound. Got it?<W><E>"
+     "en": "<F62>:<R>Kenri, come with me and<R>don't make a sound. Got it?<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#142",
@@ -727,7 +727,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#144",
      "jp": "男：<R>ケンリ……どうしてここに？<W><E>",
-     "en": "Man:<R>Kenri... What are you doing<R>here?<W><E>"
+     "en": "Man:<R>Kenri... What are<R>you doing here?<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#145",
@@ -747,7 +747,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#148",
      "jp": "マルダマン：<R>やっぱり、おまえの<R>息子だったか。<W><E>",
-     "en": "Mardaman:<R>I knew it. He's your son after<R>all.<W><E>"
+     "en": "Mardaman:<R>I knew it. He's your<R>son after all.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#149",
@@ -757,7 +757,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#150",
      "jp": "カムチョム：<R>何をいっているんだ、<R>この人たちは空賊だよ。<W><E>",
-     "en": "Kamchom:<R>What are you talking about? These<R>people are sky pirates.<W><E>"
+     "en": "Kamchom:<R>What are you talking about?<R>These people are sky pirates.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#151",
@@ -767,12 +767,12 @@
     {
      "id": "2D/AMPS/A08_00@47000#152",
      "jp": "マルダマン：<R>大きくなったな、ケンリ！<W><H>おじさんの顔なんか<R>覚えてないよなあ。<W><H>まだ、よちよち歩き<R>だったもんなあ。<W><E>",
-     "en": "Mardaman:<R>You've gotten big, Kenri!<W><H>Bet you don't remember your old<R>uncle's face, huh?<W><H>You were still just toddling<R>around back then.<W><E>"
+     "en": "Mardaman:<R>You've gotten big, Kenri!<W><H>Bet you don't remember your<R>old uncle's face, huh?<W><H>You were still just<R>toddling around back then.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#153",
      "jp": "カムチョム：<R>ははは！　そりゃそうだ！<W><H>覚えていろったって、<R>無理な話だ！<W><E>",
-     "en": "Kamchom:<R>Hahaha! Of course he doesn't!<W><H>Asking him to remember that is<R>asking too much!<W><E>"
+     "en": "Kamchom:<R>Hahaha! Of course he doesn't!<W><H>Asking him to remember<R>that is asking too much!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#154",
@@ -797,7 +797,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#158",
      "jp": "ギダン兵：<R>な……何をするか！<W><E>",
-     "en": "Gidan Soldier:<R>Wh... What do you think you're<R>doing!<W><E>"
+     "en": "Gidan Soldier:<R>Wh... What do you<R>think you're doing!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#159",

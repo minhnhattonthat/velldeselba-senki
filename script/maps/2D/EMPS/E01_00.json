@@ -452,7 +452,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#89",
      "jp": "イジロフ：<R>それじゃあ、俺たちは<R>ここまでだ。<W><E>",
-     "en": "Ijirov:<R>Well then, this is as far as we<R>go.<W><E>"
+     "en": "Ijirov:<R>Well then, this is<R>as far as we go.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#90",
@@ -462,37 +462,37 @@
     {
      "id": "2D/EMPS/E01_00@48000#91",
      "jp": "ダ・クダ：<R>がははははは！<R>今日は酒盛りだ！<W><H>もうすぐ準備ができるから、<R>あとで酒場まで来てくれ。<W><H>仲間も連れて来たらどうだ？<W><E>",
-     "en": "Da Kuda:<R>Gahahahaha! Today we drink!<W><H>It'll be ready soon, so come by<R>the tavern later.<W><H>Why not bring your friends<R>along?<W><E>"
+     "en": "Da Kuda:<R>Gahahahaha! Today we drink!<W><H>It'll be ready soon, so<R>come by the tavern later.<W><H>Why not bring your<R>friends along?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#92",
      "jp": "チバラガ：<R>ひっく！<R>酒が抜けねえぜ。<W><H>ダナスピに行くんだろ？<R>よろしくな。<W><H>おめえが出発したら俺たちも<R>すぐに出るからな。<W><E>",
-     "en": "Chibaraga:<R>Hic! Can't shake off the booze.<W><H>You're headin' for Danaspi, right?<R>Count on us.<W><H>Once you head out, we'll be right<R>behind ya.<W><E>"
+     "en": "Chibaraga:<R>Hic! Can't shake off the booze.<W><H>You're headin' for Danaspi,<R>right? Count on us.<W><H>Once you head out, we'll<R>be right behind ya.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#93",
      "jp": "チバラガ：<R>おめえが出発したら俺たちも<R>すぐに出るからな。<W><E>",
-     "en": "Chibaraga:<R>Once you head out, we'll be right<R>behind ya.<W><E>"
+     "en": "Chibaraga:<R>Once you head out, we'll<R>be right behind ya.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#94",
      "jp": "イジロフ：<R>親分からきいたぜ。<W><H>まかせときな。<R>俺とチバラガで援護して<R>やるからな。<W><H>準備ができたら出ようぜ。<W><E>",
-     "en": "Ijirov:<R>Heard it from the boss.<W><H>Leave it to us. Chibaraga and I'll<R>cover you.<W><H>Let's head out once you're<R>ready.<W><E>"
+     "en": "Ijirov:<R>Heard it from the boss.<W><H>Leave it to us. Chibaraga<R>and I'll cover you.<W><H>Let's head out<R>once you're ready.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#95",
      "jp": "イジロフ：<R>準備ができたら出ようぜ。<W><E>",
-     "en": "Ijirov:<R>Let's head out once you're<R>ready.<W><E>"
+     "en": "Ijirov:<R>Let's head out<R>once you're ready.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#96",
      "jp": "女：<R>みかけない顔だね。<W><E>",
-     "en": "Woman:<R>Haven't seen your face around<R>here.<W><E>"
+     "en": "Woman:<R>Haven't seen your<R>face around here.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#97",
      "jp": "女：<R>ああ、あんたが元ノイパスクの<R>軍人さんだね。<W><E>",
-     "en": "Woman:<R>Ah, so you're the former Noipask<R>soldier.<W><E>"
+     "en": "Woman:<R>Ah, so you're the former<R>Noipask soldier.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#98",
@@ -512,12 +512,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#101",
      "jp": "少女：<R>いま、あそんでるの。<R>じゃましないでね。<W><E>",
-     "en": "Girl:<R>I'm playing right now. Don't<R>bother me.<W><E>"
+     "en": "Girl:<R>I'm playing right now.<R>Don't bother me.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#102",
      "jp": "少女：<R>空賊は番犬がわりに<R>オオカミを飼うのよ。<W><E>",
-     "en": "Girl:<R>Sky pirates keep wolves instead of<R>watchdogs.<W><E>"
+     "en": "Girl:<R>Sky pirates keep wolves<R>instead of watchdogs.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#103",
@@ -527,7 +527,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#104",
      "jp": "少年：<R>おじさんも空賊になったんだね。<W><E>",
-     "en": "Boy:<R>So you became a sky pirate too,<R>mister.<W><E>"
+     "en": "Boy:<R>So you became a sky<R>pirate too, mister.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#105",
@@ -572,7 +572,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#113",
      "jp": "ドックの職人：<R>見かけない顔だな。<R>帰った帰った！<W><E>",
-     "en": "Shipwright:<R>Don't know your face. Off with<R>you, off!<W><E>"
+     "en": "Shipwright:<R>Don't know your face.<R>Off with you, off!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#114",
@@ -592,17 +592,17 @@
     {
      "id": "2D/EMPS/E01_00@48000#117",
      "jp": "ドックの職人：<R>……あれ？<W><H>ちょっと荷物が<R>多すぎるようだな。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>ジャンク屋かどこかで<R>荷物を売ってからまた来いよ。<W><E>",
-     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a bit<R>too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
+     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying<R>a bit too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#118",
      "jp": "修理屋：<R>知らないやつの飛空船を<R>修理するわけにはいかないな。<W><E>",
-     "en": "Repairman:<R>Can't go fixing some stranger's<R>airship.<W><E>"
+     "en": "Repairman:<R>Can't go fixing some<R>stranger's airship.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#119",
      "jp": "修理屋：<R>おお、空賊になったんだってな。<W><H>これからはなんでも安く<R>なおしてやるぜ。<W><E>",
-     "en": "Repairman:<R>Oh, I hear you became a sky<R>pirate.<W><H>From now on, I'll fix anything for<R>you cheap.<W><E>"
+     "en": "Repairman:<R>Oh, I hear you<R>became a sky pirate.<W><H>From now on, I'll fix<R>anything for you cheap.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#120",
@@ -632,7 +632,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#125",
      "jp": "ジャンク屋：<R>売ってやってもいいが、<R>よそ者じゃあな………<W><E>",
-     "en": "Junk Dealer:<R>I could sell to you, but you're an<R>outsider......<W><E>"
+     "en": "Junk Dealer:<R>I could sell to you, but<R>you're an outsider......<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#126",
@@ -682,22 +682,22 @@
     {
      "id": "2D/EMPS/E01_00@48000#135",
      "jp": "ダ・クダのかみさん：<R>ほほほほほ、<R>久々の大作戦だったわね。<W><E>",
-     "en": "Da Kuda's Wife:<R>Hohohohoho, that was our first big<R>operation in ages.<W><E>"
+     "en": "Da Kuda's Wife:<R>Hohohohoho, that was our<R>first big operation in ages.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#136",
      "jp": "ギダン国王：<R>危ないところをたすけて<R>もらった。<W><H>感謝するぞ、ダ・クダとやら。<W><E>",
-     "en": "King of Gidan:<R>You rescued me from a perilous<R>spot.<W><H>I am grateful to you, Da Kuda, was<R>it?<W><E>"
+     "en": "King of Gidan:<R>You rescued me from<R>a perilous spot.<W><H>I am grateful to you,<R>Da Kuda, was it?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#137",
      "jp": "ダ・クダ：<R>礼には及びません。<R>当然のことをしたまでです。<W><E>",
-     "en": "Da Kuda:<R>No thanks are needed. I only did<R>what was right.<W><E>"
+     "en": "Da Kuda:<R>No thanks are needed. I<R>only did what was right.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#138",
      "jp": "ギダン国王：<R>チャンタケ、おまえがいなければ<W><H>わたしは今頃ここにこうして<R>いることはなかったであろう。<W><H>感謝する。<W><E>",
-     "en": "King of Gidan:<R>Chantake, had it not been for<R>you,<W><H>I would not be here like this<R>now.<W><H>I thank you.<W><E>"
+     "en": "King of Gidan:<R>Chantake, had it<R>not been for you,<W><H>I would not be here<R>like this now.<W><H>I thank you.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#139",
@@ -707,12 +707,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#140",
      "jp": "<F62>：<R>何だ、ガークスがからんで<R>いたのか。<W><E>",
-     "en": "<F62>:<R>What, so Garks was mixed up in<R>this?<W><E>"
+     "en": "<F62>:<R>What, so Garks was<R>mixed up in this?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#141",
      "jp": "チャンタケ大尉：<R>ガークス殿はあなたが空賊だと<R>は知らないようでしたが……<W><H>あなたはきっとお力になって<R>いただける方だとおっしゃって<R>おりました。<W><E>",
-     "en": "Captain Chantake:<R>Garks-dono didn't seem to know you<R>were a sky pirate...<W><H>but he said you were surely<R>someone who would lend us your<R>strength.<W><E>"
+     "en": "Captain Chantake:<R>Garks-dono didn't seem to know<R>you were a sky pirate...<W><H>but he said you were<R>surely someone who would<R>lend us your strength.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#142",
@@ -722,12 +722,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#143",
      "jp": "<F62>：<R>そういえばガークスは<R>どこに行ったんだ？<W><E>",
-     "en": "<F62>:<R>Come to think of it, where did<R>Garks go?<W><E>"
+     "en": "<F62>:<R>Come to think of it,<R>where did Garks go?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#144",
      "jp": "ギダン国王：<R>彼がム連邦のスパイだという<R>密告があってな。<W><H>シデルの親衛隊の連中に<R>逮捕されてしまったよ……<W><E>",
-     "en": "King of Gidan:<R>Someone informed on him as a<R>Federation spy.<W><H>Sidel's Royal Guard came and<R>arrested him...<W><E>"
+     "en": "King of Gidan:<R>Someone informed on him<R>as a Federation spy.<W><H>Sidel's Royal Guard came<R>and arrested him...<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#145",
@@ -737,17 +737,17 @@
     {
      "id": "2D/EMPS/E01_00@48000#146",
      "jp": "ダ・クダ：<R>国王陛下、しばらくこのダクに<R>留まられてはどうですかな？<W><H>グラシアルにもどっても、危険が<R>待ちかまえているだけでしょう。<W><E>",
-     "en": "Da Kuda:<R>Your Majesty, why not stay here in<R>Dak for a while?<W><H>If you return to Glacial, nothing<R>but danger awaits you.<W><E>"
+     "en": "Da Kuda:<R>Your Majesty, why not stay<R>here in Dak for a while?<W><H>If you return to Glacial,<R>nothing but danger awaits you.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#147",
      "jp": "ギダン国王：<R>そちの申すとおりだ。<W><H>しばらくやっかいになると<R>しよう。<W><E>",
-     "en": "King of Gidan:<R>It is as you say.<W><H>I shall impose on you for a<R>while.<W><E>"
+     "en": "King of Gidan:<R>It is as you say.<W><H>I shall impose on<R>you for a while.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#148",
      "jp": "ギダン国王：<R><F62>、<W><H>そなたの忠告を、もっとまじめに<R>聞いておくべきだったな。<W><E>",
-     "en": "King of Gidan:<R><F62>,<W><H>I should have heeded your advice<R>more seriously.<W><E>"
+     "en": "King of Gidan:<R><F62>,<W><H>I should have heeded your<R>advice more seriously.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#149",
@@ -762,12 +762,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#151",
      "jp": "マルダマン：<R>さてさて……<R>たいへんなことになったな。<W><E>",
-     "en": "Mardaman:<R>Well, well... This has turned into<R>quite a mess.<W><E>"
+     "en": "Mardaman:<R>Well, well... This has<R>turned into quite a mess.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#152",
      "jp": "チャンタケ大尉：<R>わたしはグラシアルにもどり、<W><H>このことをガシザキノ大佐に<R>伝えます。<W><E>",
-     "en": "Captain Chantake:<R>I will return to Glacial<W><H>and report this to Colonel<R>Gashizakino.<W><E>"
+     "en": "Captain Chantake:<R>I will return to Glacial<W><H>and report this to<R>Colonel Gashizakino.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#153",
@@ -782,17 +782,17 @@
     {
      "id": "2D/EMPS/E01_00@48000#155",
      "jp": "酒場の主人：<R>酒盛りの準備で忙しいよ。<W><H>空賊はみんな酒好きだからね。<W><E>",
-     "en": "Tavern Keeper:<R>I'm busy getting ready for the<R>party.<W><H>Sky pirates all love their<R>drink.<W><E>"
+     "en": "Tavern Keeper:<R>I'm busy getting<R>ready for the party.<W><H>Sky pirates all<R>love their drink.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#156",
      "jp": "酒場の主人：<R>さあさあ、存分に<R>飲んでいってくれ。<W><E>",
-     "en": "Tavern Keeper:<R>Come on, come on, drink all you<R>like.<W><E>"
+     "en": "Tavern Keeper:<R>Come on, come on,<R>drink all you like.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#157",
      "jp": "酒場の主人：<R>ダ・クダのだんなに会いたい<R>時は、ここに来るといい。<W><E>",
-     "en": "Tavern Keeper:<R>When you want to see Boss Da Kuda,<R>just come here.<W><E>"
+     "en": "Tavern Keeper:<R>When you want to see Boss<R>Da Kuda, just come here.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#158",
@@ -807,7 +807,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#160",
      "jp": "空賊：<R>あんたが<F62>だね。<W><H>俺も昔は軍隊にいたんだが、<R>あんなところにいても<R>いいことないよ。<W><E>",
-     "en": "Sky Pirate:<R>So you're <F62>.<W><H>I was in the army once too, but<R>nothing good comes of staying in a<R>place like that.<W><E>"
+     "en": "Sky Pirate:<R>So you're <F62>.<W><H>I was in the army once too,<R>but nothing good comes of<R>staying in a place like that.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#161",
@@ -832,12 +832,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#165",
      "jp": "<F62>：<R>なんだか、どこにでもある田舎町、<R>って雰囲気だな。<W><E>",
-     "en": "<F62>:<R>Kinda feels like any old country<R>town, really.<W><E>"
+     "en": "<F62>:<R>Kinda feels like any old<R>country town, really.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#166",
      "jp": "ダ・クダ：<R>そりゃそうだ。<W><H>立派な建物を作って<R>そこにふんぞり返るって<R>ガラでもないだろう？<W><H>でもな、俺たちは<R>ベルデセルバの平和のために、<R>軍隊の奴等と戦っているんだ。<W><H>愚かな戦争を延々と続ける<R>バカ軍隊は、この星には必要の<R>ないものだからな。<W><E>",
-     "en": "Da Kuda:<R>Well, naturally.<W><H>Building some grand palace and<R>lounging around in it? That's not<R>our style, is it?<W><H>But see, we fight the armies for<R>the sake of peace on<R>Velldeselba.<W><H>Fool armies that drag out a stupid<R>war forever are something this<R>planet doesn't need.<W><E>"
+     "en": "Da Kuda:<R>Well, naturally.<W><H>Building some grand palace<R>and lounging around in it?<R>That's not our style, is it?<W><H>But see, we fight the<R>armies for the sake of<R>peace on Velldeselba.<W><H>Fool armies that drag out a<R>stupid war forever are something<R>this planet doesn't need.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#167",
@@ -847,17 +847,17 @@
     {
      "id": "2D/EMPS/E01_00@48000#168",
      "jp": "ダ・クダ：<R>がははははは。<R>そうこなくっちゃ。<W><H>よし！<W><H>強力な仲間が増えたんだ、<R>祝い酒といこうじゃないか！<W><E>",
-     "en": "Da Kuda:<R>Gahahahaha! That's what I like to<R>hear.<W><H>Right!<W><H>We've got a strong new comrade, so<R>let's drink to it!<W><E>"
+     "en": "Da Kuda:<R>Gahahahaha! That's<R>what I like to hear.<W><H>Right!<W><H>We've got a strong new<R>comrade, so let's drink to it!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#169",
      "jp": "<F62>：<R>ちょっと待ってくれ。<W><H>その前に、ダナスピに<R>逃げ込んだノイパスクの連中を<R>ギダンから助けてやりたいんだ。<W><H>手を貸してくれないか？<W><E>",
-     "en": "<F62>:<R>Hold on a second.<W><H>Before that, I want to save the<R>Noipask folks who fled to Danaspi<R>from Gidan.<W><H>Will you help me?<W><E>"
+     "en": "<F62>:<R>Hold on a second.<W><H>Before that, I want to save<R>the Noipask folks who fled<R>to Danaspi from Gidan.<W><H>Will you help me?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#170",
      "jp": "ダ・クダ：<R>悪いがそれはできねえ相談だ。<W><H>ノイパスクはダナスピを<R>占領しちまったんだ。<W><H>そんなやつらの<R>手助けはできん！<W><E>",
-     "en": "Da Kuda:<R>Sorry, but that's out of the<R>question.<W><H>Noipask went and occupied<R>Danaspi.<W><H>I won't help people like that!<W><E>"
+     "en": "Da Kuda:<R>Sorry, but that's<R>out of the question.<W><H>Noipask went and<R>occupied Danaspi.<W><H>I won't help people like that!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#171",
@@ -867,7 +867,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#172",
      "jp": "マルダマン：<R>ゼクセルってヤツは、<R>最低の野郎だよ。<W><H>中立国を占領した上、<R>ダナスピ陛下を監禁する<R>なんてな。<W><E>",
-     "en": "Mardaman:<R>That Zexel guy is the lowest of<R>the low.<W><H>Occupying a neutral country, and<R>locking up His Majesty Danaspi on<R>top of it.<W><E>"
+     "en": "Mardaman:<R>That Zexel guy is the<R>lowest of the low.<W><H>Occupying a neutral country,<R>and locking up His Majesty<R>Danaspi on top of it.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#173",
@@ -877,7 +877,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#174",
      "jp": "ダ・クダ：<R>ああ。<W><H>これから陛下をお助けする<R>作戦をねろうとしてたんだ。<W><H>どうしてそんなやつらを<R>助ける必要がある？<W><E>",
-     "en": "Da Kuda:<R>Yeah.<W><H>We were just about to work out a<R>plan to rescue His Majesty.<W><H>Why should we help people like<R>that?<W><E>"
+     "en": "Da Kuda:<R>Yeah.<W><H>We were just about to work out<R>a plan to rescue His Majesty.<W><H>Why should we help<R>people like that?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#175",
@@ -912,7 +912,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#181",
      "jp": "ダ・クダ：<R>しょうがねえな。<W><H>ここはこいつの言うことを<R>信じてみるか。<W><H>手を貸してやるぜ。<W><E>",
-     "en": "Da Kuda:<R>Ah, what the heck.<W><H>Let's try trusting what this guy<R>says.<W><H>I'll lend you a hand.<W><E>"
+     "en": "Da Kuda:<R>Ah, what the heck.<W><H>Let's try trusting<R>what this guy says.<W><H>I'll lend you a hand.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#182",
@@ -932,12 +932,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#185",
      "jp": "ダ・クダ：<R>そうだ、<F62>。<W><H>このマルダマンをおめえの船に<R>乗せるから、空賊のイロハを<R>おそわっとけ。<W><H>こいつはおめえの相談役兼、<R>子分と思ってかまわん。<W><E>",
-     "en": "Da Kuda:<R>Oh yeah, <F62>.<W><H>I'm putting Mardaman here on your<R>ship, so learn the ABCs of sky<R>piracy from him.<W><H>Think of him as your adviser and<R>your underling both.<W><E>"
+     "en": "Da Kuda:<R>Oh yeah, <F62>.<W><H>I'm putting Mardaman here on<R>your ship, so learn the ABCs<R>of sky piracy from him.<W><H>Think of him as your adviser<R>and your underling both.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#186",
      "jp": "マルダマン：<R>わかんねえことは何でも俺に<R>聞いてくんな。<W><E>",
-     "en": "Mardaman:<R>Anything you don't know, just ask<R>me.<W><E>"
+     "en": "Mardaman:<R>Anything you don't<R>know, just ask me.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#187",
@@ -962,12 +962,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#191",
      "jp": "<F62>：<R>やつらがオルダナスピを制圧する<R>前にもぐり込まないとな………<W><E>",
-     "en": "<F62>:<R>We've got to slip in before they<R>take Oldanaspi......<W><E>"
+     "en": "<F62>:<R>We've got to slip in before<R>they take Oldanaspi......<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#192",
      "jp": "マルダマン：<R>そうだ、その前に……<W><H>一度ダ・クダのだんなに<R>あいさつをしてきたほうが<R>いいぞ。<W><H>俺は船に行ってる。<W><E>",
-     "en": "Mardaman:<R>Oh, right, before that...<W><H>You'd better go say hi to Boss Da<R>Kuda once.<W><H>I'll be at the ship.<W><E>"
+     "en": "Mardaman:<R>Oh, right, before that...<W><H>You'd better go say hi<R>to Boss Da Kuda once.<W><H>I'll be at the ship.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#193",
@@ -977,7 +977,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#194",
      "jp": "ダ・クダ：<R>オルダナスピのことは<R>おめえにまかせる。<W><H>ただし、<P07>ダナスピに行ったら<R>必ずダナスピ陛下を<R>お助けするんだ。<P15><W><H>わかったな。<W><H>仲間の船を２機つけてやるから<R>それで何とかしてこい。<W><E>",
-     "en": "Da Kuda:<R>I'm leaving Oldanaspi to you.<W><H>But <P07>when you get to Danaspi, you<R>make sure to rescue His Majesty<R>Danaspi.<P15><W><H>Got it?<W><H>I'll send two of our ships with<R>you, so make do with those.<W><E>"
+     "en": "Da Kuda:<R>I'm leaving Oldanaspi to you.<W><H>But <P07>when you get to Danaspi,<R>you make sure to rescue His<R>Majesty Danaspi.<P15><W><H>Got it?<W><H>I'll send two of our ships with<R>you, so make do with those.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#195",
@@ -987,7 +987,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#196",
      "jp": "ダ・クダ：<R>それにしても何か、おめえは<R>空賊らしくならねえな。<W><E>",
-     "en": "Da Kuda:<R>Still, somehow you just don't come<R>off like a sky pirate.<W><E>"
+     "en": "Da Kuda:<R>Still, somehow you just don't<R>come off like a sky pirate.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#197",
@@ -997,7 +997,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#198",
      "jp": "ダ・クダ：<R>これをやろう。<R>空賊のしるしだ。<W><H>これをつけていりゃあ、<R>少しはハクがつくってもんだ。<W><E>",
-     "en": "Da Kuda:<R>Here, take this. It's the Sky<R>Pirate Mark.<W><H>Wear this, and you'll carry a bit<R>more clout.<W><E>"
+     "en": "Da Kuda:<R>Here, take this. It's<R>the Sky Pirate Mark.<W><H>Wear this, and you'll<R>carry a bit more clout.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#199",
@@ -1022,7 +1022,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#203",
      "jp": "ダ・クダ：<R>仲間になった<R>祝儀のようなものだ。<W><H>好きに使え。<W><E>",
-     "en": "Da Kuda:<R>Call it a gift for joining the<R>crew.<W><H>Spend it however you like.<W><E>"
+     "en": "Da Kuda:<R>Call it a gift for<R>joining the crew.<W><H>Spend it however you like.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#204",
@@ -1032,7 +1032,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#205",
      "jp": "ダ・クダ：<R>オルダナスピのことは、おめえに<R>まかせたぜ。好きにやってきな。<W><E>",
-     "en": "Da Kuda:<R>Oldanaspi's in your hands. Go do<R>it your way.<W><E>"
+     "en": "Da Kuda:<R>Oldanaspi's in your hands.<R>Go do it your way.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#206",
@@ -1042,7 +1042,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#207",
      "jp": "ダ・クダ：<R>何だ、もう帰ってきたのか？<W><H>そうか、ブアブナムは<R>元気だったか。<W><H>ご苦労だったな。<W><E>",
-     "en": "Da Kuda:<R>What, back already?<W><H>I see, so Buabnam was doing<R>well.<W><H>Good work out there.<W><E>"
+     "en": "Da Kuda:<R>What, back already?<W><H>I see, so Buabnam<R>was doing well.<W><H>Good work out there.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#208",
@@ -1052,17 +1052,17 @@
     {
      "id": "2D/EMPS/E01_00@48000#209",
      "jp": "ダ・クダ：<R>はっはっは、<R>今はまだ言えねえよ。<W><E>",
-     "en": "Da Kuda:<R>Ha ha ha! Can't tell you just<R>yet.<W><E>"
+     "en": "Da Kuda:<R>Ha ha ha! Can't<R>tell you just yet.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#210",
      "jp": "ダ・クダ：<R>カフィとかいう女をさがしてるん<R>だって？　おめえのコレなのか？<W><E>",
-     "en": "Da Kuda:<R>You're looking for some woman<R>called Kafi? She your<R>sweetheart?<W><E>"
+     "en": "Da Kuda:<R>You're looking for some<W><H>woman called Kafi? She<R>your sweetheart?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#211",
      "jp": "ダ・クダ：<R>仲間を思いやる心ってのも<R>空賊には大切なんだ。<W><H>たまにはどこかで息抜きでもして<R>きたらどうだ？　ワザノの温泉<R>なんか、みんなよろこぶぜ。<W><E>",
-     "en": "Da Kuda:<R>Caring for your crew matters to a<R>sky pirate too.<W><H>Why not go somewhere and unwind<R>once in a while? Everyone would<R>love the hot springs at Wazano.<W><E>"
+     "en": "Da Kuda:<R>Caring for your crew matters<R>to a sky pirate too.<W><H>Why not go somewhere and unwind<R>once in a while? Everyone would<R>love the hot springs at Wazano.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#212",
@@ -1072,22 +1072,22 @@
     {
      "id": "2D/EMPS/E01_00@48000#213",
      "jp": "ダ・クダ：<R>どうだい、空賊も悪くないだろ？<W><E>",
-     "en": "Da Kuda:<R>Well? Sky piracy's not so bad,<R>huh?<W><E>"
+     "en": "Da Kuda:<R>Well? Sky piracy's<R>not so bad, huh?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#214",
      "jp": "ダ・クダ：<R><F62>よ、<W><H>ニ・デム島というのを<R>知っているか？<W><E>",
-     "en": "Da Kuda:<R><F62>,<W><H>do you know of a place called<R>Ni-Dem Island?<W><E>"
+     "en": "Da Kuda:<R><F62>,<W><H>do you know of a place<R>called Ni-Dem Island?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#215",
      "jp": "<F62>：<R>ニ・デム島……浮遊島か？<W><E>",
-     "en": "<F62>:<R>Ni-Dem Island... A floating<R>island?<W><E>"
+     "en": "<F62>:<R>Ni-Dem Island... A<R>floating island?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#216",
      "jp": "ダ・クダ：<R>ああ。<W><H>ノイパスクの浮遊島の一つで、<R>軍事基地だ。<W><H>ギダン軍によって<R>占拠されていたんだが……<W><H>それがこつぜんと消えて<R>しまったそうだ。<W><E>",
-     "en": "Da Kuda:<R>Yeah.<W><H>One of Noipask's floating islands,<R>a military base.<W><H>The Gidan army had seized it,<R>but...<W><H>word is it's vanished without a<R>trace.<W><E>"
+     "en": "Da Kuda:<R>Yeah.<W><H>One of Noipask's floating<R>islands, a military base.<W><H>The Gidan army had<R>seized it, but...<W><H>word is it's vanished<R>without a trace.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#217",
@@ -1097,17 +1097,17 @@
     {
      "id": "2D/EMPS/E01_00@48000#218",
      "jp": "ダ・クダ：<R>ああ。<W><H>ひょっとして、シデルが<R>からんでいるのかもしれんぞ。<W><H>浮遊島は動く最終兵器だ。<W><H>現に、ホウノム島という<R>クナシティの北東にあった<R>無人の浮遊島が、<W><H>シデルの指揮によって<R>ム連邦領土内に<R>侵入しつつあるらしい。<W><E>",
-     "en": "Da Kuda:<R>Yeah.<W><H>Sidel just might be mixed up in<R>it.<W><H>A floating island is the ultimate<R>weapon, and it moves.<W><H>In fact, an uninhabited floating<R>island northeast of Kuna City,<R>Hounom Island,<W><H>is apparently pushing into<R>Federation territory under Sidel's<R>command.<W><E>"
+     "en": "Da Kuda:<R>Yeah.<W><H>Sidel just might<R>be mixed up in it.<W><H>A floating island is the<R>ultimate weapon, and it moves.<W><H>In fact, an uninhabited<R>floating island northeast of<R>Kuna City, Hounom Island,<W><H>is apparently pushing into<R>Federation territory under<R>Sidel's command.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#219",
      "jp": "<F62>：<R>やっかいだな……<W><H>あんなでかいもの、<R>止めようがないよな……<W><E>",
-     "en": "<F62>:<R>That's trouble...<W><H>There's no way to stop something<R>that huge...<W><E>"
+     "en": "<F62>:<R>That's trouble...<W><H>There's no way to stop<R>something that huge...<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#220",
      "jp": "ダ・クダ：<R>シデルの支配するギダンは、今や<R>危険な戦闘国家と化している。<W><H>このままでは、ノイパスクや<R>ム連邦との争いは激しくなる<R>一方だ。<W><E>",
-     "en": "Da Kuda:<R>Under Sidel's rule, Gidan has<R>become a dangerous warmongering<R>nation.<W><H>At this rate, the fighting with<R>Noipask and the Federation will<R>only get worse.<W><E>"
+     "en": "Da Kuda:<R>Under Sidel's rule, Gidan<W><H>has become a dangerous<R>warmongering nation.<W><H>At this rate, the fighting with<R>Noipask and the Federation will<R>only get worse.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#221",
@@ -1117,7 +1117,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#222",
      "jp": "ダ・クダ：<R>じつはな、アダクダの軍事基地で、<W><H>ギダンの国王派の人間が、暴動を<R>起こそうとしているらしいんだ。<W><E>",
-     "en": "Da Kuda:<R>The truth is, at the military base<R>at Adakuda,<W><H>it seems Gidan's royalists are<R>planning to start an uprising.<W><E>"
+     "en": "Da Kuda:<R>The truth is, at the<R>military base at Adakuda,<W><H>it seems Gidan's royalists are<R>planning to start an uprising.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#223",
@@ -1127,7 +1127,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#224",
      "jp": "ダ・クダ：<R>その暴動に俺たち空賊も<R>加わることになった。<W><H>ブアブナムたちもだ。<W><E>",
-     "en": "Da Kuda:<R>We sky pirates are joining that<R>uprising.<W><H>Buabnam's bunch too.<W><E>"
+     "en": "Da Kuda:<R>We sky pirates are<R>joining that uprising.<W><H>Buabnam's bunch too.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#225",
@@ -1137,7 +1137,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#226",
      "jp": "ダ・クダ：<R>おめえ、国王派に会いに<R>ヤズサに行かないか？<W><H>もちろん俺も行く。<W><H>暴動作戦の計画を<R>練らねばならんのだ。<W><E>",
-     "en": "Da Kuda:<R>How about it? Want to go to Yazusa<R>to meet the royalists?<W><H>I'm going too, of course.<W><H>We have to work out the plan for<R>the uprising.<W><E>"
+     "en": "Da Kuda:<R>How about it? Want to go to<R>Yazusa to meet the royalists?<W><H>I'm going too, of course.<W><H>We have to work out the<R>plan for the uprising.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#227",
@@ -1147,7 +1147,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#228",
      "jp": "ダ・クダ：<R>おめえの船に乗せてもらうぞ。<R>目立たん方がいいからな。<W><H>出発はあしたの夜にしよう。<R>闇に紛れてヤズサに乗り込むぞ。<W><H>じゃあ、俺は出発の<R>準備をしてくる。<W><H>おめえはいまのうち、国王に<R>あいさつでもしてきた方が<R>いいんじゃねえか？<W><E>",
-     "en": "Da Kuda:<R>I'll be riding on your ship.<R>Better not to stand out.<W><H>We'll leave tomorrow night and<R>slip into Yazusa under cover of<R>darkness.<W><H>Well, I'm off to get ready to<R>leave.<W><H>Meanwhile, maybe you ought to go<R>pay your respects to the King?<W><E>"
+     "en": "Da Kuda:<R>I'll be riding on your ship.<R>Better not to stand out.<W><H>We'll leave tomorrow night<R>and slip into Yazusa under<R>cover of darkness.<W><H>Well, I'm off to get<R>ready to leave.<W><H>Meanwhile, maybe you ought to go<R>pay your respects to the King?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#229",
@@ -1157,12 +1157,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#230",
      "jp": "<F62>：<R>ああ。あんたによろしくと<R>いってたよ。<W><H>ノイパスクの連中も<R>うまく逃がせたし……<W><H>これでノイパスクに<R>思い残すことはない。<W><H>思う存分、空賊としてあばれる<R>ことができるぜ。<W><E>",
-     "en": "<F62>:<R>Yeah. He said to give you his<R>regards.<W><H>And we got the Noipask folks away<R>safely too...<W><H>Now I've got nothing left holding<R>me to Noipask.<W><H>I can raise all the hell I want as<R>a sky pirate.<W><E>"
+     "en": "<F62>:<R>Yeah. He said to give<R>you his regards.<W><H>And we got the Noipask<R>folks away safely too...<W><H>Now I've got nothing left<R>holding me to Noipask.<W><H>I can raise all the hell<R>I want as a sky pirate.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#231",
      "jp": "ダ・クダ：<R>あばれるのはいいが、<R>おきては厳守だ。<W><H>決して民間船は襲うな。<R>襲うのは軍船だけだぞ。<W><H>平和のために、<R>軍の戦力を衰えさせるんだ。<W><E>",
-     "en": "Da Kuda:<R>Raise hell all you like, but the<R>code is absolute.<W><H>Never attack civilian ships.<R>Military ships only.<W><H>We wear down the armies' strength<R>for the sake of peace.<W><E>"
+     "en": "Da Kuda:<R>Raise hell all you like,<R>but the code is absolute.<W><H>Never attack civilian ships.<R>Military ships only.<W><H>We wear down the armies'<R>strength for the sake of peace.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#232",
@@ -1172,7 +1172,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#233",
      "jp": "ダ・クダ：<R>まあなんにせよ、オルダナスピの<R>件はこれで一件落着だな。<W><H>そうだ、<R>ちょっと頼みたい用がある。<W><H>ダハという町に「ブアブナム」と<R>いう男がいる。そいつにこれを<R>渡してくれないか。<W><E>",
-     "en": "Da Kuda:<R>Well, whatever the case, that<R>settles the Oldanaspi business.<W><H>Oh yeah, there's a little favor I<R>want to ask.<W><H>In a town called Daha there's a<R>man named \"Buabnam.\" Could you<R>deliver this to him?<W><E>"
+     "en": "Da Kuda:<R>Well, whatever the case, that<R>settles the Oldanaspi business.<W><H>Oh yeah, there's a little<R>favor I want to ask.<W><H>In a town called Daha there's<R>a man named \"Buabnam.\" Could<R>you deliver this to him?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#234",
@@ -1187,12 +1187,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#236",
      "jp": "ダ・クダ：<R>はるか西だ。途中の町に<R>寄りながら行くといい。<W><E>",
-     "en": "Da Kuda:<R>Way out west. Stop by the towns<R>along the way.<W><E>"
+     "en": "Da Kuda:<R>Way out west. Stop by<R>the towns along the way.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#237",
      "jp": "ダ・クダ：<R>ダハへの行き方は３つある。<W><H>まず西のマクシララキまで行き、<R>その後、ガー、ガジス、アザミグ<R>を通る西回りの道。<W><H>それからダナデウノ、シャッハ、<R>ヤルスキルを通る、南回りの道。<W><H>あと、東のオガツに向かい<R>砂漠を越える東回りの道だ。<W><H>好きなほうを通って行け。<W><E>",
-     "en": "Da Kuda:<R>There are three ways to get to<R>Daha.<W><H>The western route goes west to<R>Maxilaraki, then through Gar,<R>Gajis and Azamig.<W><H>The southern route goes through<R>Danadeuno, Schach and Yarskill.<W><H>And the eastern route heads east<R>to Ogatsu and crosses the<R>desert.<W><H>Take whichever you like.<W><E>"
+     "en": "Da Kuda:<R>There are three ways<R>to get to Daha.<W><H>The western route goes west<R>to Maxilaraki, then through<R>Gar, Gajis and Azamig.<W><H>The southern route goes through<R>Danadeuno, Schach and Yarskill.<W><H>And the eastern route<R>heads east to Ogatsu and<R>crosses the desert.<W><H>Take whichever you like.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#238",
@@ -1207,12 +1207,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#240",
      "jp": "<P07>大ラッコの毛皮を<R>もらいました。<P15><W><E>",
-     "en": "<P07>Received the Giant Sea Otter<R>Pelt.<P15><W><E>"
+     "en": "<P07>Received the Giant<R>Sea Otter Pelt.<P15><W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#241",
      "jp": "ダ・クダ：<R>これを持って歩いてりゃ、<R>どこから見ても立派な商人だ。<W><H>金に困ったときには、<R>高く買ってくれる店を<R>さがして売るがいい。<W><H>こういった品は「交易品」と<R>いってな、売買して小銭を<R>かせぐこともできるんだ。<W><H>ただし、ふつうの<R>ジャンク屋じゃあダメだぜ。<W><H>あいつらには交易品の価値って<R>もんがわかってないからな。<W><H>ただ、交易品は１種類につき<R>２５５個までしか持つことが<R>できないことになっている。<W><H>これは、オルダナスピの国王陛下<R>がベルデセルバ星に健全な経済を<R>発展させるために定められた、<W><H>万国共通のおきてなんだ。<W><H>それからもちろん、<R>おまえの船に積めるだけしか<R>買うことはできない。<W><H>自分の船の「積載量」は<R>いつも頭に入れておけよ。<W><E>",
-     "en": "Da Kuda:<R>Walk around with that, and you'll<R>look every bit the merchant.<W><H>When you're short on money, find a<R>shop that'll pay well for it and<R>sell it.<W><H>Stuff like this is called \"trade<R>goods.\" You can buy and sell it to<R>earn some pocket money.<W><H>But a regular Junk Dealer won't<R>do.<W><H>Those guys don't understand what<R>trade goods are worth.<W><H>Mind you, you can only carry up to<R>255 of each kind of trade goods.<W><H>That's a law set by His Majesty<R>the King of Oldanaspi to grow a<R>healthy economy on the planet<R>Velldeselba,<W><H>and it holds in every nation.<W><H>And of course, you can only buy as<R>much as your ship can carry.<W><H>Always keep your ship's \"cargo<R>capacity\" in mind.<W><E>"
+     "en": "Da Kuda:<R>Walk around with that, and you'll<R>look every bit the merchant.<W><H>When you're short on money,<R>find a shop that'll pay well<R>for it and sell it.<W><H>Stuff like this is called \"trade<R>goods.\" You can buy and sell it<R>to earn some pocket money.<W><H>But a regular Junk<R>Dealer won't do.<W><H>Those guys don't understand<R>what trade goods are worth.<W><H>Mind you, you can only carry up to<R>255 of each kind of trade goods.<W><H>That's a law set by His<R>Majesty the King of Oldanaspi<W><H>to grow a healthy economy on<R>the planet Velldeselba,<W><H>and it holds in every nation.<W><H>And of course, you can only buy<R>as much as your ship can carry.<W><H>Always keep your ship's<R>\"cargo capacity\" in mind.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#242",
@@ -1222,12 +1222,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#243",
      "jp": "チバラガ：<R>う～、ひと仕事したあとの酒は<R>うめえ！<W><E>",
-     "en": "Chibaraga:<R>Ahh, a drink after a good day's<R>work tastes great!<W><E>"
+     "en": "Chibaraga:<R>Ahh, a drink after a good<R>day's work tastes great!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#244",
      "jp": "チバラガ：<R>デゼにシデル親衛部隊の大艦隊が<R>集まっているそうだぜ。<W><E>",
-     "en": "Chibaraga:<R>Word is a huge fleet of Sidel's<R>Royal Guard units is gathering<R>at Deze.<W><E>"
+     "en": "Chibaraga:<R>Word is a huge fleet of<W><H>Sidel's Royal Guard units<R>is gathering at Deze.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#245",
@@ -1237,22 +1237,22 @@
     {
      "id": "2D/EMPS/E01_00@48000#246",
      "jp": "イジロフ：<R>シデルはム連邦本国も<R>攻略するつもりなのか？<W><E>",
-     "en": "Ijirov:<R>Is Sidel planning to take the<R>Federation homeland too?<W><E>"
+     "en": "Ijirov:<R>Is Sidel planning to take<R>the Federation homeland too?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#247",
      "jp": "<F62>：<R>あんたに会いたいっていう<R>軍人を連れてきたよ。<W><E>",
-     "en": "<F62>:<R>I brought a soldier who says he<R>wants to meet you.<W><E>"
+     "en": "<F62>:<R>I brought a soldier who<R>says he wants to meet you.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#248",
      "jp": "ダ・クダ：<R>ほーう？　軍人か。<R>めずらしいな。<W><E>",
-     "en": "Da Kuda:<R>Oho? A soldier, eh? That's a rare<R>one.<W><E>"
+     "en": "Da Kuda:<R>Oho? A soldier, eh?<R>That's a rare one.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#249",
      "jp": "チャンタケ：<R>わたしはギダン軍の<R>チャンタケ大尉。<W><H>用件を簡潔に話します。<W><H>実は、わがギダン国王の命が、<R>シデル提督とその側近に<R>狙われているのです。<W><E>",
-     "en": "Chantake:<R>I am Captain Chantake of the Gidan<R>army.<W><H>I will state my business<R>briefly.<W><H>The truth is, the life of our King<R>of Gidan is being targeted by<R>Admiral Sidel and his aides.<W><E>"
+     "en": "Chantake:<R>I am Captain Chantake<R>of the Gidan army.<W><H>I will state my<R>business briefly.<W><H>The truth is, the life of our<R>King of Gidan is being targeted<R>by Admiral Sidel and his aides.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#250",
@@ -1262,7 +1262,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#251",
      "jp": "チャンタケ大尉：<R>まちがいありません。<W><H>わたしはシデル提督の側近、<R>バムス長官の部下です。<W><H>たまたま、長官が国王暗殺<R>計画を練っているのを<R>聞いてしまったのです。<W><E>",
-     "en": "Captain Chantake:<R>There is no mistake.<W><H>I serve under Commander Bams, one<R>of Admiral Sidel's aides.<W><H>By chance, I overheard the<R>Commander working out a plot to<R>assassinate the King.<W><E>"
+     "en": "Captain Chantake:<R>There is no mistake.<W><H>I serve under Commander Bams,<R>one of Admiral Sidel's aides.<W><H>By chance, I overheard the<R>Commander working out a plot<R>to assassinate the King.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#252",
@@ -1282,7 +1282,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#255",
      "jp": "チャンタケ大尉：<R>お願いです！<W><H>今、ギダン国王にもしものことが<R>あると、シデル提督の軍事力拡張<R>に歯止めが利かなくなります！<W><H>戦乱はさらに激しくなり、大勢の<R>人間が命を落とすはず。<W><H>このまま、だまって見過ごす<R>訳にはいかない！<W><E>",
-     "en": "Captain Chantake:<R>Please!<W><H>If anything happens to the King of<R>Gidan now, nothing will be able to<R>stop Admiral Sidel's military<R>buildup!<W><H>The war will grow even fiercer,<R>and a great many people will<R>surely die.<W><H>I cannot just stand by in silence<R>and let this happen!<W><E>"
+     "en": "Captain Chantake:<R>Please!<W><H>If anything happens to the<R>King of Gidan now, nothing<W><H>will be able to stop Admiral<R>Sidel's military buildup!<W><H>The war will grow even<R>fiercer, and a great many<R>people will surely die.<W><H>I cannot just stand by in<R>silence and let this happen!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#256",
@@ -1297,7 +1297,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#258",
      "jp": "ダ・クダ：<R>よろこんで協力しよう。<W><H>その暗殺計画を、<R>くわしく聞かせてくれないかね？<W><E>",
-     "en": "Da Kuda:<R>I'll gladly lend a hand.<W><H>Would you tell me the details of<R>this assassination plot?<W><E>"
+     "en": "Da Kuda:<R>I'll gladly lend a hand.<W><H>Would you tell me the details<R>of this assassination plot?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#259",
@@ -1307,12 +1307,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#260",
      "jp": "チャンタケ大尉：<R>国王船とその護衛船を<W><H>バムス艦と２機の親衛隊機で<R>襲う……これが暗殺計画の<R>あらましです。<W><E>",
-     "en": "Captain Chantake:<R>The royal ship and its escort<R>ship<W><H>will be attacked by Bams's ship<R>and two Royal Guard craft... That<R>is the outline of the<R>assassination plot.<W><E>"
+     "en": "Captain Chantake:<R>The royal ship and<R>its escort ship<W><H>will be attacked by Bams's<R>ship and two Royal Guard<W><H>craft... That is the outline<R>of the assassination plot.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#261",
      "jp": "ダ・クダ：<R>よし。まず、俺たちが<R>後方の２機を落とし、<W><H>そのあとバムス艦を攻撃する。<W><H><F62>は自分の判断で<R>加わってくれ。<W><H>今こそ空賊の力を見せるときだ。<R>いくぞ！<W><E>",
-     "en": "Da Kuda:<R>All right. First, we take down the<R>two ships at the rear,<W><H>then we hit Bams's ship.<W><H><F62>, join in as you see<R>fit.<W><H>Now's the time to show what sky<R>pirates can do. Let's go!<W><E>"
+     "en": "Da Kuda:<R>All right. First, we take down<R>the two ships at the rear,<W><H>then we hit Bams's ship.<W><H><F62>, join in<R>as you see fit.<W><H>Now's the time to show what<R>sky pirates can do. Let's go!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#262",
@@ -1322,22 +1322,22 @@
     {
      "id": "2D/EMPS/E01_00@48000#263",
      "jp": "空賊：<R>おめえが、<F62>か。<R>なかなかいい男じゃねえか。<W><E>",
-     "en": "Sky Pirate:<R>So you're <F62>, huh? Not a<R>bad-looking guy.<W><E>"
+     "en": "Sky Pirate:<R>So you're <F62>, huh?<R>Not a bad-looking guy.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#264",
      "jp": "ギダン国王：<R>あ～、<F62>よ。<W><H>余はこんな田舎の料理は<R>食べられないのだ。<W><H>何かうまいものが食べたいのう。<W><E>",
-     "en": "King of Gidan:<R>Ahh, <F62>.<W><H>I cannot eat this sort of country<R>cooking.<W><H>I long for something delicious.<W><E>"
+     "en": "King of Gidan:<R>Ahh, <F62>.<W><H>I cannot eat this sort<R>of country cooking.<W><H>I long for something delicious.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#265",
      "jp": "<F62>：<R>なにいってんだ。<R>がまんしろよ。<W><E>",
-     "en": "<F62>:<R>What are you talking about? Just<R>put up with it.<W><E>"
+     "en": "<F62>:<R>What are you talking about?<R>Just put up with it.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#266",
      "jp": "ギダン国王：<R><F62>、命令だ。<W><H>どこかで余にうまいものを<R>食わせるのだ。<W><E>",
-     "en": "King of Gidan:<R><F62>, this is an order.<W><H>You shall take me somewhere to eat<R>something delicious.<W><E>"
+     "en": "King of Gidan:<R><F62>, this is an order.<W><H>You shall take me somewhere<R>to eat something delicious.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#267",
@@ -1362,12 +1362,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#271",
      "jp": "<F62>：<R>待ってくれ、わかったから。<W><H>ダナデウノのあの店が<R>いいかな……？<W><H>おい、国王、<R>ちょっとだけだぜ。<W><E>",
-     "en": "<F62>:<R>Wait, all right, I get it.<W><H>Maybe that place in Danadeuno<R>would do...?<W><H>Hey, King, just for a little<R>while.<W><E>"
+     "en": "<F62>:<R>Wait, all right, I get it.<W><H>Maybe that place in<R>Danadeuno would do...?<W><H>Hey, King, just for<R>a little while.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#272",
      "jp": "国王と<F62>は、<W><H>暗闇にまぎれてダクを抜け出し、<R>急ぎダナデウノに向かった……<W><E>",
-     "en": "The King and <F62><W><H>slipped out of Dak under cover of<R>darkness and hurried to<R>Danadeuno...<W><E>"
+     "en": "The King and <F62><W><H>slipped out of Dak under<R>cover of darkness and<R>hurried to Danadeuno...<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#273",
@@ -1377,12 +1377,12 @@
     {
      "id": "2D/EMPS/E01_00@48000#274",
      "jp": "ギダン国王：<R>そちの忠告を、もっとまじめに<R>聞いておくべきだった……<W><E>",
-     "en": "King of Gidan:<R>I should have taken your advice<R>more seriously...<W><E>"
+     "en": "King of Gidan:<R>I should have taken your<R>advice more seriously...<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#275",
      "jp": "商人：<R>売るも得、買うも得……<W><E>",
-     "en": "Merchant:<R>Profit in selling, profit in<R>buying...<W><E>"
+     "en": "Merchant:<R>Profit in selling,<R>profit in buying...<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#276",
@@ -1397,7 +1397,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#278",
      "jp": "<F62>：<R>このテントはなんだ？<W><H>……入れないのか。<W><H>だれか住んでいるようだが……<R>空賊たちの家なのかな？<W><E>",
-     "en": "<F62>:<R>What's this tent?<W><H>...Can't get in, huh.<W><H>Looks like someone lives here... A<R>sky pirate's home, maybe?<W><E>"
+     "en": "<F62>:<R>What's this tent?<W><H>...Can't get in, huh.<W><H>Looks like someone lives here...<R>A sky pirate's home, maybe?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#279",

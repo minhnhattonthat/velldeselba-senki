@@ -12,12 +12,12 @@
     {
      "id": "3D/GMPS3/G31#1",
      "jp": "バ・マッグ：<R>司令部より、補給を行い次の攻撃<R>に備えよ、との命令です。<R><@1e><%S><_00>：<R>そうか。<@18>一度ヌーヌルスに引き上げるぞ。<R><@1e>",
-     "en": "Ba Magg:<R>Headquarters orders us to<R>resupply for the next attack.<R><@1e><%S><_00>:<R>I see.<@18>We'll pull back to Nunurus for<R>now.<R><@1e>"
+     "en": "Ba Magg:<R>Headquarters orders us to<R>resupply for the next attack.<R><@1e><%S><_00>:<R>I see.<@18>We'll pull back to<R>Nunurus for now.<R><@1e>"
     },
     {
      "id": "3D/GMPS3/G31#2",
      "jp": "ハウエズナ：<R>敵艦隊が引き上げて行きます。<R><@1e>バ・マッグ：<R>司令部より、補給を行い次の攻撃<R>に備えよ、との命令です。<R><@1e><%S><_00>：<R>そうか。<@18>一度ヌーヌルスに引き上げるぞ。<R><@1e>",
-     "en": "Hauezna:<R>The enemy fleet is<R>withdrawing.<R><@1e>Ba Magg:<R>Headquarters orders us to<R>resupply for the next attack.<R><@1e><%S><_00>:<R>I see.<@18>We'll pull back to Nunurus for<R>now.<R><@1e>"
+     "en": "Hauezna:<R>The enemy fleet<R>is withdrawing.<R><@1e>Ba Magg:<R>Headquarters orders us to<R>resupply for the next attack.<R><@1e><%S><_00>:<R>I see.<@18>We'll pull back to<R>Nunurus for now.<R><@1e>"
     }
    ]
   }

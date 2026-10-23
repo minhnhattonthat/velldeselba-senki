@@ -447,22 +447,22 @@
     {
      "id": "2D/BMPS/B02_00@3c000#88",
      "jp": "<F62>：<R>ちくしょう！<W><H>あの女たちのせいで、<R>せっかくの輸送船団が<R>逃げてしまったじゃないか。<W><H>あの女たち、何なんだ？<W><E>",
-     "en": "<F62>:<R>Dammit!<W><H>Thanks to those women, the convoy<R>got away from us.<W><H>Who the heck are they?<W><E>"
+     "en": "<F62>:<R>Dammit!<W><H>Thanks to those women, the<R>convoy got away from us.<W><H>Who the heck are they?<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#89",
      "jp": "マルダマン：<R>ありゃうわさの「女空賊」だよ。<W><H>人のえものを横どりして<R>食ってるんだ。<W><H>このへんを好き勝手に<R>あばれまわっているって話だぜ。<W><E>",
-     "en": "Mardaman:<R>That's the \"women sky pirates\"<R>everyone's talking about.<W><H>They steal other folks' prey and<R>feed on it.<W><H>Word is they run wild around here,<R>doing whatever they please.<W><E>"
+     "en": "Mardaman:<R>That's the \"women sky pirates\"<R>everyone's talking about.<W><H>They steal other folks'<R>prey and feed on it.<W><H>Word is they run wild around here,<R>doing whatever they please.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#90",
      "jp": "オユ・キクル：<R>それにしても、まったく<R>やり方が汚いわね。<W><E>",
-     "en": "Oyu Kikuru:<R>Still, what a dirty way to do<R>things!<W><E>"
+     "en": "Oyu Kikuru:<R>Still, what a dirty<R>way to do things!<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#91",
      "jp": "<F62>：<R>今度会ったら許さねえからな！<W><E>",
-     "en": "<F62>:<R>Next time I see them, they're<R>gonna pay!<W><E>"
+     "en": "<F62>:<R>Next time I see them,<R>they're gonna pay!<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#92",
@@ -472,7 +472,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#93",
      "jp": "オユ・キクル：<R>ねえ、もう一回、<R>輸送船団を襲いましょ！<W><E>",
-     "en": "Oyu Kikuru:<R>Hey, let's hit a convoy one more<R>time!<W><E>"
+     "en": "Oyu Kikuru:<R>Hey, let's hit a<R>convoy one more time!<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#94",
@@ -482,17 +482,17 @@
     {
      "id": "2D/BMPS/B02_00@3c000#95",
      "jp": "マルダマン：<R>じゃあ、俺は出発の<R>準備をしてるぜ。<W><E>",
-     "en": "Mardaman:<R>Right, I'll go get ready to set<R>off.<W><E>"
+     "en": "Mardaman:<R>Right, I'll go get<R>ready to set off.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#96",
      "jp": "<F62>：<R>頭にくるなあ、あの女ども。<W><H>また輸送船に逃げられて<R>しまったじゃないか。<W><H>これじゃ全然もうからないぜ。<W><E>",
-     "en": "<F62>:<R>Those women make my blood boil.<W><H>They made us lose the transport<R>again.<W><H>At this rate we'll never make any<R>money.<W><E>"
+     "en": "<F62>:<R>Those women make my blood boil.<W><H>They made us lose<R>the transport again.<W><H>At this rate we'll<R>never make any money.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#97",
      "jp": "マルダマン：<R>まあ、相手にせずに<R>他の町に行こうぜ。<W><H>あんなやつらを相手に<R>してたってしようがないぜ。<W><E>",
-     "en": "Mardaman:<R>Eh, let's ignore them and head to<R>another town.<W><H>No point wasting time on the likes<R>of them.<W><E>"
+     "en": "Mardaman:<R>Eh, let's ignore them and<R>head to another town.<W><H>No point wasting time<R>on the likes of them.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#98",
@@ -502,7 +502,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#99",
      "jp": "酒場の主人：<R>そういえば、軍人が時々ここで<R>打ち合わせをしていたよ。<W><H>基地もないこんな町でいったい<R>何の話をしてるんだろうと気に<R>なったんで、覚えているんだ。<W><H>ヒゲの生えた軍人と……<R>きれいなねえちゃんが<R>いっしょだったな。<W><H>ここ数日は見かけないが。<W><E>",
-     "en": "Tavern Keeper:<R>Come to think of it, some military<R>men used to hold meetings here<R>now and then.<W><H>It's a town without even a base,<R>so I wondered what they were<R>talking about. That's why I<R>remember.<W><H>A soldier with a beard... and he<R>had a pretty young lady with<R>him.<W><H>Haven't seen them these last few<R>days, though.<W><E>"
+     "en": "Tavern Keeper:<R>Come to think of it, some<W><H>military men used to hold<R>meetings here now and then.<W><H>It's a town without even a<R>base, so I wondered what<W><H>they were talking about.<R>That's why I remember.<W><H>A soldier with a beard...<R>and he had a pretty young<R>lady with him.<W><H>Haven't seen them these<R>last few days, though.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#100",
@@ -527,12 +527,12 @@
     {
      "id": "2D/BMPS/B02_00@3c000#104",
      "jp": "女：<R>女性がひとり、護送船に<R>乗せられて行ったわ。<W><H>アダクダにでも<R>送られるんじゃないの？<W><E>",
-     "en": "Woman:<R>A woman was put on a prisoner ship<R>and taken away.<W><H>Probably being sent to Adakuda or<R>someplace.<W><E>"
+     "en": "Woman:<R>A woman was put on a prisoner<R>ship and taken away.<W><H>Probably being sent to<R>Adakuda or someplace.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#105",
      "jp": "女：<R>あたし、若い男じゃないと<R>興味ないの。<W><H>じいさんなんて知らないわ。<W><E>",
-     "en": "Woman:<R>I'm only interested in young<R>men.<W><H>I don't know anything about some<R>old geezer.<W><E>"
+     "en": "Woman:<R>I'm only interested<R>in young men.<W><H>I don't know anything<R>about some old geezer.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#106",
@@ -547,7 +547,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#108",
      "jp": "男：<R>小太りのおじいさん？<R>知らないな。<W><E>",
-     "en": "Man:<R>A chubby old man? Never seen<R>him.<W><E>"
+     "en": "Man:<R>A chubby old man?<R>Never seen him.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#109",
@@ -557,12 +557,12 @@
     {
      "id": "2D/BMPS/B02_00@3c000#110",
      "jp": "老人：<R>あんた、どこから来なさった？<R>見かけない顔だねえ。<W><E>",
-     "en": "Old Man:<R>Where'd you come from? I don't<R>recognize your face.<W><E>"
+     "en": "Old Man:<R>Where'd you come from? I<R>don't recognize your face.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#111",
      "jp": "老人：<R>シデル提督は<R>疑い深いからな……<W><E>",
-     "en": "Old Man:<R>Admiral Sidel is a suspicious<R>man...<W><E>"
+     "en": "Old Man:<R>Admiral Sidel is a<R>suspicious man...<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#112",
@@ -572,7 +572,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#113",
      "jp": "老人：<R>何じゃ……酒のじゃまを<R>せんでくれ。<W><E>",
-     "en": "Old Man:<R>What is it...? Don't interrupt my<R>drinking.<W><E>"
+     "en": "Old Man:<R>What is it...? Don't<R>interrupt my drinking.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#114",
@@ -587,7 +587,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#116",
      "jp": "シルカ：<R>ちょっとここらへんじゃ<R>見かけないいい男だわ。<W><E>",
-     "en": "Silka:<R>You don't see a handsome man like<R>him around here often.<W><E>"
+     "en": "Silka:<R>You don't see a handsome man<R>like him around here often.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#117",
@@ -597,7 +597,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#118",
      "jp": "デファイナ：<R>ホホホホ……<R>あとでゆっくり飲みましょう。<W><E>",
-     "en": "Defaina:<R>Ohohoho... Let's have a nice long<R>drink later.<W><E>"
+     "en": "Defaina:<R>Ohohoho... Let's have a<R>nice long drink later.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#119",
@@ -607,7 +607,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#120",
      "jp": "<F62>：<R>何だあいつら？<R>妙に慣れ慣れしいな。<W><E>",
-     "en": "<F62>:<R>What's with them? Awfully<R>friendly.<W><E>"
+     "en": "<F62>:<R>What's with them?<R>Awfully friendly.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#121",
@@ -622,7 +622,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#123",
      "jp": "酒場の主人：<R>お客さん、お勘定をたのむよ。<W><E>",
-     "en": "Tavern Keeper:<R>Sir, I'll need you to settle the<R>bill.<W><E>"
+     "en": "Tavern Keeper:<R>Sir, I'll need you<R>to settle the bill.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#124",
@@ -632,7 +632,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#125",
      "jp": "酒場の主人：<R>あんたの連れの女たちの<R>ぶんだよ。<W><E>",
-     "en": "Tavern Keeper:<R>It's for those lady friends of<R>yours.<W><E>"
+     "en": "Tavern Keeper:<R>It's for those lady<R>friends of yours.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#126",
@@ -642,7 +642,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#127",
      "jp": "酒場の主人：<R>あんた、楽しそうに<R>話をしてたじゃないか。<W><H>とにかく払ってくれないと<R>困るよ！<W><E>",
-     "en": "Tavern Keeper:<R>You seemed to be having a fine old<R>chat with them.<W><H>Anyway, you've got to pay up!<W><E>"
+     "en": "Tavern Keeper:<R>You seemed to be having a<R>fine old chat with them.<W><H>Anyway, you've got to pay up!<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#128",
@@ -652,7 +652,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#129",
      "jp": "酒場の主人：<R>８３０Ｚだよ。<W><H>金が無いならあるだけでいいから<R>置いてってくれ。<W><E>",
-     "en": "Tavern Keeper:<R>830Z.<W><H>If you don't have that much, just<R>leave whatever you've got.<W><E>"
+     "en": "Tavern Keeper:<R>830Z.<W><H>If you don't have that much,<R>just leave whatever you've got.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#130",
@@ -672,12 +672,12 @@
     {
      "id": "2D/BMPS/B02_00@3c000#133",
      "jp": "<F62>：<R>何だか腹が立つなあ。<W><H>輸送船団でも襲うとするか。<R>せっかく空賊なんだしな。<W><E>",
-     "en": "<F62>:<R>Something about this really ticks<R>me off.<W><H>Maybe I'll go hit a convoy. I am a<R>sky pirate, after all.<W><E>"
+     "en": "<F62>:<R>Something about this<R>really ticks me off.<W><H>Maybe I'll go hit a convoy. I<R>am a sky pirate, after all.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#134",
      "jp": "修理屋：<R>ダンナ……<R>女難の相が出てますね。<W><E>",
-     "en": "Repairman:<R>Boss... I see woman trouble in<R>your stars.<W><E>"
+     "en": "Repairman:<R>Boss... I see woman<R>trouble in your stars.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#135",
@@ -687,7 +687,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#136",
      "jp": "修理屋：<R>ダンナ、くれぐれも女には<R>気をつけてくださいね。<W><E>",
-     "en": "Repairman:<R>Boss, whatever you do, watch out<R>for women.<W><E>"
+     "en": "Repairman:<R>Boss, whatever you do,<R>watch out for women.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#137",
@@ -707,7 +707,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#140",
      "jp": "老人：<R>ガシザキノのだんなには<R>お世話になったがの。<W><E>",
-     "en": "Old Man:<R>Mister Gashizakino did a lot for<R>me, you know.<W><E>"
+     "en": "Old Man:<R>Mister Gashizakino did a<R>lot for me, you know.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#141",
@@ -737,12 +737,12 @@
     {
      "id": "2D/BMPS/B02_00@3c000#146",
      "jp": "少年：<R>東の町はダナデウノ、<R>西の町はヤルスキルだよ。<W><E>",
-     "en": "Boy:<R>The town to the east is Danadeuno,<R>and the town to the west is<R>Yarskill.<W><E>"
+     "en": "Boy:<R>The town to the east is<W><H>Danadeuno, and the town<R>to the west is Yarskill.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#147",
      "jp": "少年：<R>黒い船だったら、さっきまで入港<R>してたけど、行っちゃったよ。<W><E>",
-     "en": "Boy:<R>The black ship? It was in port<R>till a little while ago, but it<R>left.<W><E>"
+     "en": "Boy:<R>The black ship? It was<W><H>in port till a little<R>while ago, but it left.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#148",
@@ -757,12 +757,12 @@
     {
      "id": "2D/BMPS/B02_00@3c000#150",
      "jp": "少年：<R>黒い船だったら、<R>おひさまが沈む方に向かったよ。<W><E>",
-     "en": "Boy:<R>The black ship went toward where<R>the sun goes down.<W><E>"
+     "en": "Boy:<R>The black ship went toward<R>where the sun goes down.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#151",
      "jp": "少年：<R>おじさん、ひょっとして<R>空賊なの？<W><E>",
-     "en": "Boy:<R>Mister, are you a sky pirate,<R>maybe?<W><E>"
+     "en": "Boy:<R>Mister, are you a<R>sky pirate, maybe?<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#152",

@@ -447,7 +447,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#88",
      "jp": "ブアブナム：<R>おまえたちのおかげで大成功<R>だぜ。<W><H>さあ、これがおまえの取り分だ。<R>受け取ってくれ。<W><E>",
-     "en": "Buabnam:<R>Thanks to you lot, it was a huge<R>success.<W><H>Here, this is your cut. Take it.<W><E>"
+     "en": "Buabnam:<R>Thanks to you lot, it<R>was a huge success.<W><H>Here, this is your cut. Take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#89",
@@ -457,17 +457,17 @@
     {
      "id": "2D/AMPS/A02_00@3b800#90",
      "jp": "ブアブナム：<R>じゃあ俺たちは、帰って<R>祝杯だ。<W><H>ダハのそばを通ることがあったら<R>遠慮なく寄ってくれ。<W><H>わははは。<W><E>",
-     "en": "Buabnam:<R>Now we're heading home to<R>celebrate.<W><H>If you ever pass near Daha, drop<R>by anytime.<W><H>Wahahaha.<W><E>"
+     "en": "Buabnam:<R>Now we're heading<R>home to celebrate.<W><H>If you ever pass near<R>Daha, drop by anytime.<W><H>Wahahaha.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#91",
      "jp": "写し絵屋：<R>写し絵はいかがかね～？<W><E>",
-     "en": "Portrait Maker:<R>Portraits! Who wants a<R>portraaait?<W><E>"
+     "en": "Portrait Maker:<R>Portraits! Who wants<R>a portraaait?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#92",
      "jp": "<F62>：<R>写真屋か。<W><H>ガークスが記念写真を<R>撮れとか何とか言ってたが……<W><E>",
-     "en": "<F62>:<R>A photo shop, huh.<W><H>Garks was saying something about<R>getting a souvenir photo<R>taken...<W><E>"
+     "en": "<F62>:<R>A photo shop, huh.<W><H>Garks was saying something<R>about getting a souvenir<R>photo taken...<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#93",
@@ -527,7 +527,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#104",
      "jp": "男：<R>おまえ………<W><H>空賊の一味、だな？<W><E>",
-     "en": "Man:<R>You......<W><H>You're one of the sky pirates,<R>aren't you?<W><E>"
+     "en": "Man:<R>You......<W><H>You're one of the sky<R>pirates, aren't you?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#105",
@@ -542,7 +542,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#107",
      "jp": "<F62>：<R>軍人がこの俺に何の用なんだ？<W><E>",
-     "en": "<F62>:<R>And what does a soldier want with<R>me?<W><E>"
+     "en": "<F62>:<R>And what does a<R>soldier want with me?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#108",
@@ -552,7 +552,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#109",
      "jp": "<F62>：<R>会ってどうするつもりだ？<W><E>",
-     "en": "<F62>:<R>And what'll you do when you meet<R>him?<W><E>"
+     "en": "<F62>:<R>And what'll you do<R>when you meet him?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#110",
@@ -582,7 +582,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#115",
      "jp": "<F62>：<R>よし、こっちにこい。<R>ダクまで連れてってやる。<W><E>",
-     "en": "<F62>:<R>Okay, this way. I'll take you to<R>Dak.<W><E>"
+     "en": "<F62>:<R>Okay, this way. I'll<R>take you to Dak.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#116",
@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#118",
      "jp": "写し絵屋：<R>わたしの発明した<R>「撮影機」だよ。<W><H>これであんたに生き写しの<R>絵ができあがるんだ。<W><E>",
-     "en": "Portrait Maker:<R>It's the \"Picture-Taker,\" my own<R>invention.<W><H>It makes a picture of you that's<R>the spitting image of the real<R>thing.<W><E>"
+     "en": "Portrait Maker:<R>It's the \"Picture-Taker,\"<R>my own invention.<W><H>It makes a picture of<R>you that's the spitting<R>image of the real thing.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#119",
@@ -607,12 +607,12 @@
     {
      "id": "2D/AMPS/A02_00@3b800#120",
      "jp": "写し絵屋：<R>ギダン中から記念撮影をしに<R>お客さんが来るんだ。<W><H>大繁盛だよ。<W><E>",
-     "en": "Portrait Maker:<R>Folks come from all over Gidan to<R>get souvenir pictures taken.<W><H>Business is booming.<W><E>"
+     "en": "Portrait Maker:<R>Folks come from all over Gidan<R>to get souvenir pictures taken.<W><H>Business is booming.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#121",
      "jp": "写し絵屋：<R>記念に「写し絵」はいかがかね。<W><E>",
-     "en": "Portrait Maker:<R>How about a \"portrait\" as a<R>souvenir?<W><E>"
+     "en": "Portrait Maker:<R>How about a \"portrait\"<R>as a souvenir?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#122",
@@ -622,12 +622,12 @@
     {
      "id": "2D/AMPS/A02_00@3b800#123",
      "jp": "男：<R>だから……君に……いっしょに<R>グラシアルに来てほしいんだ……<W><E>",
-     "en": "Man:<R>So... I want you... to come with<R>me to Glacial...<W><E>"
+     "en": "Man:<R>So... I want you... to<R>come with me to Glacial...<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#124",
      "jp": "女：<R>老いた父を置いてこの町を離れる<R>わけにはいかないわ……<W><E>",
-     "en": "Woman:<R>I can't leave this town and my old<R>father behind...<W><E>"
+     "en": "Woman:<R>I can't leave this town and<R>my old father behind...<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#125",
@@ -652,17 +652,17 @@
     {
      "id": "2D/AMPS/A02_00@3b800#129",
      "jp": "<F62>：<R>たまにとは思えないがな……<W><E>",
-     "en": "<F62>:<R>Doesn't look like \"now and then\"<R>to me...<W><E>"
+     "en": "<F62>:<R>Doesn't look like \"now<R>and then\" to me...<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#130",
      "jp": "マルダマン：<R>堅いことはいいっこなしだぜ。<W><H>じゃ、飛空船に<R>もどってるからな。<W><E>",
-     "en": "Mardaman:<R>Don't be such a stiff.<W><H>Well, I'll be heading back to the<R>airship.<W><E>"
+     "en": "Mardaman:<R>Don't be such a stiff.<W><H>Well, I'll be heading<R>back to the airship.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#131",
      "jp": "空賊：<R>今日は、うちの大将と<R>記念撮影しにきたんだ。<W><E>",
-     "en": "Sky Pirate:<R>Today we came to get a souvenir<R>photo with our boss.<W><E>"
+     "en": "Sky Pirate:<R>Today we came to get a<R>souvenir photo with our boss.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#132",
@@ -672,7 +672,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#133",
      "jp": "ブアブナム：<R>おう、<F62>。<W><H>おまえの腕試しにぴったりの<R>仕事があるんだが、<W><H>手伝ってくれないか？<W><E>",
-     "en": "Buabnam:<R>Hey, <F62>.<W><H>I've got a job that's perfect for<R>testing your skills,<W><H>will you give me a hand?<W><E>"
+     "en": "Buabnam:<R>Hey, <F62>.<W><H>I've got a job that's perfect<R>for testing your skills,<W><H>will you give me a hand?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#134",
@@ -682,12 +682,12 @@
     {
      "id": "2D/AMPS/A02_00@3b800#135",
      "jp": "ブアブナム：<R>よーし。<W><H>じつはな、もうすぐギダン軍の<R>大輸送船団がここを通るんだ。<W><H>そいつを襲っちまおうって計画だ。<W><H>この輸送船団を襲えば<R>ギダンもちょっと寒くなるぞ。<W><H>上で待っているから、<R>しっかり準備してこい。<W><E>",
-     "en": "Buabnam:<R>All right!<W><H>Truth is, a big Gidan army<R>transport convoy is about to pass<R>through here.<W><H>The plan is to hit it.<W><H>If we hit this convoy, Gidan's<R>gonna feel the pinch.<W><H>I'll be waiting up top, so get<R>yourself ready.<W><E>"
+     "en": "Buabnam:<R>All right!<W><H>Truth is, a big Gidan army<R>transport convoy is about<R>to pass through here.<W><H>The plan is to hit it.<W><H>If we hit this convoy, Gidan's<R>gonna feel the pinch.<W><H>I'll be waiting up top,<R>so get yourself ready.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#136",
      "jp": "女：<R>うちの息子はグラシアルに<R>就職が決まったんですのよ。<W><E>",
-     "en": "Woman:<R>My son landed a job in Glacial,<R>you know.<W><E>"
+     "en": "Woman:<R>My son landed a job in<R>Glacial, you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#137",
@@ -697,7 +697,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#138",
      "jp": "修理屋：<R>なんか用か？<W><H>オレ、記念写真撮りに<R>この町に来たんだけど……<W><H>工具は持ってるから、<R>なんだったら<R>修理してやってもいいぜ。<W><E>",
-     "en": "Repairman:<R>Need something?<W><H>I came to this town to get a<R>souvenir photo taken...<W><H>But I've got my tools, so if you<R>want, I could do some repairs for<R>you.<W><E>"
+     "en": "Repairman:<R>Need something?<W><H>I came to this town to get<R>a souvenir photo taken...<W><H>But I've got my tools,<R>so if you want, I could<R>do some repairs for you.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#139",
@@ -707,12 +707,12 @@
     {
      "id": "2D/AMPS/A02_00@3b800#140",
      "jp": "修理屋：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": "Repairman:<R>Thanks for your business. Come<R>again.<W><E>"
+     "en": "Repairman:<R>Thanks for your<R>business. Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#141",
      "jp": "修理屋：<R>またあんたか。<R>修理してやってもいいぜ。<W><E>",
-     "en": "Repairman:<R>You again? I could do some repairs<R>for you.<W><E>"
+     "en": "Repairman:<R>You again? I could do<R>some repairs for you.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#142",

@@ -12,7 +12,7 @@
     {
      "id": "3D/GMPS2/G15#1",
      "jp": "<%S><_00>：<R>よし、ダナスピに強行着陸だ！<R><@14>ハウエズナ：<R>しかし、まだ危険です！<R><@10><%S><_00>：<R>かまうもんか！<R><@18>",
-     "en": "<%S><_00>:<R>Right, we're forcing a landing<R>at Danaspi!<R><@14>Hauezna:<R>But it's still dangerous!<R><@10><%S><_00>:<R>Who cares!<R><@18>"
+     "en": "<%S><_00>:<R>Right, we're forcing a<R>landing at Danaspi!<R><@14>Hauezna:<R>But it's still dangerous!<R><@10><%S><_00>:<R>Who cares!<R><@18>"
     }
    ]
   }

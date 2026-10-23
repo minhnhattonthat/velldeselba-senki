@@ -447,12 +447,12 @@
     {
      "id": "2D/AMPS/A01_10@3c800#88",
      "jp": "ギダン士官：<R>ああ、君か、<W><H>バムス中佐といっしょに<R>帰って来たというのは。<W><H>いいことを教えてやろう。<W><H>ノイパスク侵攻作戦が<R>再開されたらしいぞ。<W><H>なんでも、シデル提督直属の<R>強力な援軍が到着しているから、<R>こんどはだいじょうぶだそうだ。<W><E>",
-     "en": "Gidan Officer:<R>Ah, so you're the one<W><H>who came back with Lieutenant<R>Colonel Bams.<W><H>Let me tell you some good news.<W><H>Word is the Noipask invasion has<R>resumed.<W><H>Seems strong reinforcements under<R>Admiral Sidel's own command have<R>arrived, so this time we can't<R>lose.<W><E>"
+     "en": "Gidan Officer:<R>Ah, so you're the one<W><H>who came back with<R>Lieutenant Colonel Bams.<W><H>Let me tell you some good news.<W><H>Word is the Noipask<R>invasion has resumed.<W><H>Seems strong reinforcements<R>under Admiral Sidel's own<W><H>command have arrived, so<R>this time we can't lose.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#89",
      "jp": "<F62>：<R>あの時すれちがった親衛部隊か？<W><H>シデルはノイパスクを<R>本気で攻撃するつもりなのか！<W><E>",
-     "en": "<F62>:<R>The Royal Guard units I passed<R>back there?<W><H>Is Sidel really going all out<R>against Noipask?<W><E>"
+     "en": "<F62>:<R>The Royal Guard units<R>I passed back there?<W><H>Is Sidel really going<R>all out against Noipask?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#90",
@@ -467,32 +467,32 @@
     {
      "id": "2D/AMPS/A01_10@3c800#92",
      "jp": "ギダン士官：<R>シデル提督のお考えは<R>誰にもわからない……<W><E>",
-     "en": "Gidan Officer:<R>No one can tell what Admiral Sidel<R>is thinking...<W><E>"
+     "en": "Gidan Officer:<R>No one can tell what Admiral<R>Sidel is thinking...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#93",
      "jp": "ギダン士官：<R>ノイパスクも<R>年貢の納めどきだな。<W><E>",
-     "en": "Gidan Officer:<R>Looks like Noipask's day of<R>reckoning has come.<W><E>"
+     "en": "Gidan Officer:<R>Looks like Noipask's day<R>of reckoning has come.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#94",
      "jp": "ギダン兵：<R>前線から来たのですか？<R>それはご苦労さまですね。<W><E>",
-     "en": "Gidan Soldier:<R>You came from the front line? Good<R>work out there.<W><E>"
+     "en": "Gidan Soldier:<R>You came from the front<R>line? Good work out there.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#95",
      "jp": "ギダン兵：<R>俺もいつ前線に送られるか、<R>ひやひやしてるんだ。<W><E>",
-     "en": "Gidan Soldier:<R>I'm on edge, never knowing when<R>they'll ship me off to the front<R>myself.<W><E>"
+     "en": "Gidan Soldier:<R>I'm on edge, never knowing<W><H>when they'll ship me off<R>to the front myself.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#96",
      "jp": "バムス中佐：<R>おお、大尉。どうかね？<R>グラシアルは。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Ah, Captain. What do you think of<R>Glacial?<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Ah, Captain. What do<R>you think of Glacial?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#97",
      "jp": "<F62>：<R>ああ、楽しんでるよ。<W><H>ところで、ひとつ<R>聞きたいことがあって………<W><E>",
-     "en": "<F62>:<R>Yeah, I'm enjoying it.<W><H>By the way, there's something I<R>want to ask you......<W><E>"
+     "en": "<F62>:<R>Yeah, I'm enjoying it.<W><H>By the way, there's something<R>I want to ask you......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#98",
@@ -532,7 +532,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#105",
      "jp": "バムス中佐：<R>出発の準備ができたら、わたしも<R>空港まで見送りに行くからな。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>When you're ready to depart, I'll<R>come to the airport to see you<R>off as well.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>When you're ready to depart,<W><H>I'll come to the airport to<R>see you off as well.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#106",
@@ -547,27 +547,27 @@
     {
      "id": "2D/AMPS/A01_10@3c800#108",
      "jp": "<F62>：<R>ノイパスクへの攻撃が再開された<R>というのは本当なのか？<W><E>",
-     "en": "<F62>:<R>Is it true the attack on Noipask<R>has resumed?<W><E>"
+     "en": "<F62>:<R>Is it true the attack on<R>Noipask has resumed?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#109",
      "jp": "バムス中佐：<R>らしいな。<R>シデル提督の命令だ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>So it seems. On Admiral Sidel's<R>orders.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>So it seems. On Admiral<R>Sidel's orders.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#110",
      "jp": "<F62>：<R>攻撃をやめさせることが、<R>なぜできないんだ？<W><E>",
-     "en": "<F62>:<R>Why can't anyone get the attack<R>called off?<W><E>"
+     "en": "<F62>:<R>Why can't anyone get<R>the attack called off?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#111",
      "jp": "バムス中佐：<R>ノイパスクをこの星から追い出す<R>ことはわれわれの悲願なのだ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Driving Noipask off this planet is<R>our long-cherished dream.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Driving Noipask off this planet<R>is our long-cherished dream.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#112",
      "jp": "<F62>：<R>攻撃してどうするつもりだ？<R>占領するのか？<W><H>それじゃかつてのパスクと<R>同じことをやってるだけ<R>じゃないのか？<W><E>",
-     "en": "<F62>:<R>And what then? Attack them and<R>occupy them?<W><H>Isn't that just doing the same<R>thing the Pask did back then?<W><E>"
+     "en": "<F62>:<R>And what then? Attack<R>them and occupy them?<W><H>Isn't that just doing the same<R>thing the Pask did back then?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#113",
@@ -582,12 +582,12 @@
     {
      "id": "2D/AMPS/A01_10@3c800#115",
      "jp": "バムス中佐：<R>すべてはシデル提督の<R>ご意志なのだよ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>All of it is Admiral Sidel's<R>will.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>All of it is Admiral<R>Sidel's will.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#116",
      "jp": "<F62>：<R>国王はノイパスク攻撃に<R>反対してたんじゃないのか？<W><E>",
-     "en": "<F62>:<R>Wasn't the King against attacking<R>Noipask?<W><E>"
+     "en": "<F62>:<R>Wasn't the King against<R>attacking Noipask?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#117",
@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#118",
      "jp": "<F62>：<R>らちがあかないな……<R>会わせてくれ、ギダン王に。<W><E>",
-     "en": "<F62>:<R>This is going nowhere... Let me<R>see the King of Gidan.<W><E>"
+     "en": "<F62>:<R>This is going nowhere... Let<R>me see the King of Gidan.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#119",
@@ -617,12 +617,12 @@
     {
      "id": "2D/AMPS/A01_10@3c800#122",
      "jp": "配給係：<R>配給ですか？<W><H>おかしいな……<W><H>グラシアル基地の名簿に<R>あなたのお名前は<R>ありませんが……<W><E>",
-     "en": "Quartermaster:<R>Supplies, is it?<W><H>That's odd...<W><H>Your name isn't on the Glacial<R>Base roster...<W><E>"
+     "en": "Quartermaster:<R>Supplies, is it?<W><H>That's odd...<W><H>Your name isn't on the<R>Glacial Base roster...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#123",
      "jp": "配給係：<R>ギダン軍の者でなければ<R>配給は受けられませんよ。<W><E>",
-     "en": "Quartermaster:<R>Only members of the Gidan army can<R>receive supplies.<W><E>"
+     "en": "Quartermaster:<R>Only members of the Gidan<R>army can receive supplies.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#124",
@@ -657,7 +657,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#130",
      "jp": "ミユキ：<R>あの、シデルさまはどうして<R>戦争をなさるのですか？<W><E>",
-     "en": "Miyuki:<R>Um, Sidel-sama, why do you wage<R>war?<W><E>"
+     "en": "Miyuki:<R>Um, Sidel-sama, why<R>do you wage war?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#131",
@@ -667,12 +667,12 @@
     {
      "id": "2D/AMPS/A01_10@3c800#132",
      "jp": "シデル提督：<R>わたしは人々を変えたいのだよ。<W><H>戦争という力を使って、<R>人々の考え方、行動を<R>変えてみたいのだよ。<W><E>",
-     "en": "Admiral Sidel:<R>I wish to change people.<W><H>Using the force that is war, I<R>wish to try to change how people<R>think and how they act.<W><E>"
+     "en": "Admiral Sidel:<R>I wish to change people.<W><H>Using the force that is war, I<R>wish to try to change how<R>people think and how they act.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#133",
      "jp": "ミユキ：<R>変える……ですか？<W><H>じゃあ、わたしやシデルさまも<R>変わってしまうんですか？<W><E>",
-     "en": "Miyuki:<R>Change them...?<W><H>Then will you and I change too,<R>Sidel-sama?<W><E>"
+     "en": "Miyuki:<R>Change them...?<W><H>Then will you and I<R>change too, Sidel-sama?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#134",
@@ -687,7 +687,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#136",
      "jp": "シデル提督：<R>おまえは不思議な娘だな……<W><H>おまえと話していると、<R>いろいろなことを<R>考えてしまう……<W><E>",
-     "en": "Admiral Sidel:<R>You are a strange girl...<W><H>When I talk with you, I find<R>myself thinking about so many<R>things...<W><E>"
+     "en": "Admiral Sidel:<R>You are a strange girl...<W><H>When I talk with you, I<R>find myself thinking<R>about so many things...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#137",
@@ -702,7 +702,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#139",
      "jp": "ミユキ：<R>シデルさま、<W><H>わたし、<R>ちょっと外に出てきます。<W><E>",
-     "en": "Miyuki:<R>Sidel-sama,<W><H>I'm going to step outside for a<R>bit.<W><E>"
+     "en": "Miyuki:<R>Sidel-sama,<W><H>I'm going to step<R>outside for a bit.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#140",
@@ -712,12 +712,12 @@
     {
      "id": "2D/AMPS/A01_10@3c800#141",
      "jp": "ミユキ：<R>わたしたち、<R>どうなるのかしら……？<W><H>この星の人たちは……？<W><H>わたし、どうすればいい？<W><E>",
-     "en": "Miyuki:<R>What will become of us...?<W><H>And the people of this<R>planet...?<W><H>What should I do?<W><E>"
+     "en": "Miyuki:<R>What will become of us...?<W><H>And the people of<R>this planet...?<W><H>What should I do?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#142",
      "jp": "バムス中佐：<R>こらっ！<W><H>そこはわたし専用の通路だ。<R>入ってはいかん！<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Hey!<W><H>That's my private passage. You<R>can't go in there!<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Hey!<W><H>That's my private passage.<R>You can't go in there!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#143",

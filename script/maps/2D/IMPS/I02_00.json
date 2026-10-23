@@ -447,17 +447,17 @@
     {
      "id": "2D/IMPS/I02_00@30000#88",
      "jp": "ギダン国王：<R>シデルが余を殺そうと<R>するとは………<W><E>",
-     "en": "King of Gidan:<R>To think that Sidel would seek my<R>life......<W><E>"
+     "en": "King of Gidan:<R>To think that Sidel<R>would seek my life......<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#89",
      "jp": "カ・ジャルコ：<R>急に歩き回って<R>だいじょうぶですか？<W><E>",
-     "en": "Ka Jarko:<R>Are you all right walking around<R>so suddenly?<W><E>"
+     "en": "Ka Jarko:<R>Are you all right walking<R>around so suddenly?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#90",
      "jp": "カ・ジャルコ：<R>この船の人たち、信用できますか？<W><E>",
-     "en": "Ka Jarko:<R>Can we trust the people on this<R>ship?<W><E>"
+     "en": "Ka Jarko:<R>Can we trust the<R>people on this ship?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#91",
@@ -477,7 +477,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#94",
      "jp": "カ・ジャルコ：<R>今、パックという<R>ム連邦の商人の船の中です。<W><H>偶然通り掛かった彼らに<R>たすけてもらったんですよ。<W><E>",
-     "en": "Ka Jarko:<R>We're aboard the ship of a<R>Federation merchant named Pack.<W><H>They happened to be passing by,<R>and they rescued us.<W><E>"
+     "en": "Ka Jarko:<R>We're aboard the ship of a<R>Federation merchant named Pack.<W><H>They happened to be passing<R>by, and they rescued us.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#95",
@@ -492,7 +492,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#97",
      "jp": "<F62>：<R>……そうか。ありがとう。<R>感謝するよ。<W><E>",
-     "en": "<F62>:<R>...I see. Thank you. I owe you<R>one.<W><E>"
+     "en": "<F62>:<R>...I see. Thank you.<R>I owe you one.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#98",
@@ -507,7 +507,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#100",
      "jp": "<F62>：<R>さっき言ってたパックってのは？<W><E>",
-     "en": "<F62>:<R>So who's this Pack you<R>mentioned?<W><E>"
+     "en": "<F62>:<R>So who's this Pack<R>you mentioned?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#101",
@@ -522,17 +522,17 @@
     {
      "id": "2D/IMPS/I02_00@30000#103",
      "jp": "ギダン国王：<R>お、おお……<R><F62>大尉か。<W><E>",
-     "en": "King of Gidan:<R>Oh, ohh... Captain <F62>, is<R>it?<W><E>"
+     "en": "King of Gidan:<R>Oh, ohh... Captain<R><F62>, is it?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#104",
      "jp": "<F62>：<R>じいさん、どうだい？<R>痛まないか？<W><E>",
-     "en": "<F62>:<R>How you doing, gramps? Does it<R>hurt?<W><E>"
+     "en": "<F62>:<R>How you doing, gramps?<R>Does it hurt?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#105",
      "jp": "ギダン国王：<R>すぐには起きあがれんが、<R>まあ、だいじょうぶだろう。<W><H>この船はどこに<R>向かっているのだ？<W><E>",
-     "en": "King of Gidan:<R>I cannot rise just yet, but I<R>daresay I shall be fine.<W><H>Where is this ship bound?<W><E>"
+     "en": "King of Gidan:<R>I cannot rise just yet, but<R>I daresay I shall be fine.<W><H>Where is this ship bound?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#106",
@@ -542,12 +542,12 @@
     {
      "id": "2D/IMPS/I02_00@30000#107",
      "jp": "ギダン国王：<R>この船は……敵なのか？<R>味方なのか？<W><E>",
-     "en": "King of Gidan:<R>This ship... is it friend or<R>foe?<W><E>"
+     "en": "King of Gidan:<R>This ship... is it<R>friend or foe?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#108",
      "jp": "<F62>：<R>安心していいだろう。<R>この船は商船らしい……<W><H>しかし……<R>シデルの親衛部隊は、明らかに<R>あんたを狙っていたな。<W><E>",
-     "en": "<F62>:<R>I think we can relax. Looks like<R>it's a merchant ship...<W><H>But... Sidel's Royal Guard units<R>were clearly after you.<W><E>"
+     "en": "<F62>:<R>I think we can relax. Looks<R>like it's a merchant ship...<W><H>But... Sidel's Royal Guard<R>units were clearly after you.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#109",
@@ -557,32 +557,32 @@
     {
      "id": "2D/IMPS/I02_00@30000#110",
      "jp": "<F62>：<R>おそらく、あんたを暗殺する<R>つもりだったんだろう。<W><E>",
-     "en": "<F62>:<R>They probably meant to assassinate<R>you.<W><E>"
+     "en": "<F62>:<R>They probably meant<R>to assassinate you.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#111",
      "jp": "ギダン国王：<R>なんということだ……<R>どうしてこんなことに……<W><H>しかし、バムスがシデル側に<R>ついていたとなると、<W><H>あそこでいきなり襲われたのも<R>うなずけるな。<W><E>",
-     "en": "King of Gidan:<R>How can this be... How did it come<R>to this...<W><H>Yet if Bams has sided with<R>Sidel,<W><H>it is no wonder we were attacked<R>so suddenly back there.<W><E>"
+     "en": "King of Gidan:<R>How can this be... How<R>did it come to this...<W><H>Yet if Bams has<R>sided with Sidel,<W><H>it is no wonder we were attacked<R>so suddenly back there.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#112",
      "jp": "<F62>：<R>どうやら、しばらく隠れて<R>行動したほうがよさそうだ。<W><E>",
-     "en": "<F62>:<R>Looks like we'd better lie low for<R>a while.<W><E>"
+     "en": "<F62>:<R>Looks like we'd better<R>lie low for a while.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#113",
      "jp": "カ・ジャルコ：<R>カフィさんたちには知らせます？<W><E>",
-     "en": "Ka Jarko:<R>Should we let Kafi-san and the<R>others know?<W><E>"
+     "en": "Ka Jarko:<R>Should we let Kafi-san<R>and the others know?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#114",
      "jp": "<F62>：<R>ああ、そうだな。<W><H>しかし、どうやって<R>知らせるかな………<W><E>",
-     "en": "<F62>:<R>Yeah, we should.<W><H>But how do we get word to<R>them......<W><E>"
+     "en": "<F62>:<R>Yeah, we should.<W><H>But how do we get<R>word to them......<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#115",
      "jp": "パック：<R>だいじょうぶですか？<R>動いても平気なんですか？<W><E>",
-     "en": "Pack:<R>Are you all right? Is it safe for<R>you to be up and about?<W><E>"
+     "en": "Pack:<R>Are you all right? Is it safe<R>for you to be up and about?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#116",
@@ -592,17 +592,17 @@
     {
      "id": "2D/IMPS/I02_00@30000#117",
      "jp": "パック：<R>あたしはム連邦の商人、<R>パックというものです。<W><E>",
-     "en": "Pack:<R>I'm a Federation merchant. The<R>name's Pack.<W><E>"
+     "en": "Pack:<R>I'm a Federation merchant.<R>The name's Pack.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#118",
      "jp": "<F62>：<R>俺は<F62>だ。<R>たすけてくれてありがとう。<W><E>",
-     "en": "<F62>:<R>I'm <F62>. Thanks for saving<R>us.<W><E>"
+     "en": "<F62>:<R>I'm <F62>. Thanks<R>for saving us.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#119",
      "jp": "パック：<R>あなたたちは<R>ほんとに運がよかった。<W><H>飛空船はもうめちゃめちゃ、<R>あなたたちが生きているのが<R>不思議なくらいでしたよ。<W><E>",
-     "en": "Pack:<R>You folks were real lucky.<W><H>That airship was a total wreck.<R>It's a wonder you're still<R>alive.<W><E>"
+     "en": "Pack:<R>You folks were real lucky.<W><H>That airship was a total<R>wreck. It's a wonder<R>you're still alive.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#120",
@@ -622,7 +622,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#123",
      "jp": "パック：<R>落ちた飛空船は今まで見たことも<R>ないような立派なヤツだし、<W><H>お連れの方も<R>普通じゃない雰囲気だ。<W><H>ねぇ、何があったんです？<W><E>",
-     "en": "Pack:<R>That airship that went down was a<R>finer one than any I've ever<R>seen,<W><H>and your companions don't seem<R>like ordinary folks either.<W><H>Come on, what happened?<W><E>"
+     "en": "Pack:<R>That airship that went<W><H>down was a finer one<R>than any I've ever seen,<W><H>and your companions don't seem<R>like ordinary folks either.<W><H>Come on, what happened?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#124",
@@ -632,7 +632,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#125",
      "jp": "パック：<R>そうですか。<R>いや、いいんですよ。<W><H>わかりました。<W><H>わたしたちの船でよければ<R>乗せていってあげましょう。<W><E>",
-     "en": "Pack:<R>I see. No, that's fine.<W><H>Understood.<W><H>If our ship will do, we'll give<R>you a lift.<W><E>"
+     "en": "Pack:<R>I see. No, that's fine.<W><H>Understood.<W><H>If our ship will do,<R>we'll give you a lift.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#126",
@@ -642,12 +642,12 @@
     {
      "id": "2D/IMPS/I02_00@30000#127",
      "jp": "グールド：<R>お！　気がついたか！<R>傷の具合はどうだ？<W><E>",
-     "en": "Gould:<R>Oh! You're awake! How are your<R>wounds?<W><E>"
+     "en": "Gould:<R>Oh! You're awake!<R>How are your wounds?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#128",
      "jp": "<F62>：<R>ああ、たいしたことはないよ。<R>今、どのへんを飛んでるんだい？<W><E>",
-     "en": "<F62>:<R>Eh, nothing serious. Whereabouts<R>are we flying now?<W><E>"
+     "en": "<F62>:<R>Eh, nothing serious.<R>Whereabouts are we flying now?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#129",
@@ -667,7 +667,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#132",
      "jp": "パック：<R>ああ、だんな。<R>そろそろ町ですよ。<W><E>",
-     "en": "Pack:<R>Ah, boss. We're nearly at the<R>town.<W><E>"
+     "en": "Pack:<R>Ah, boss. We're<R>nearly at the town.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#133",
@@ -687,7 +687,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#136",
      "jp": "ギダン国王：<R>余は、船の外に出ないほうが<R>いいじゃろう。<W><E>",
-     "en": "King of Gidan:<R>It would be best that I not leave<R>the ship.<W><E>"
+     "en": "King of Gidan:<R>It would be best that<R>I not leave the ship.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#137",
@@ -702,7 +702,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#139",
      "jp": "カ・ジャルコ：<R>これでもギダン軍人ですよ。<W><H>軍の飛空船に乗せてもらって<R>イ・デム島に行くぐらいなら、<R>なんとかなるでしょう。<W><H>大尉ではきっと目立ちます。<W><E>",
-     "en": "Ka Jarko:<R>I'm a Gidan soldier, you know.<W><H>Catching a ride on a military<R>airship to I-Dem Island should be<R>easy enough.<W><H>You'd stand out for sure,<R>Captain.<W><E>"
+     "en": "Ka Jarko:<R>I'm a Gidan soldier, you know.<W><H>Catching a ride on a military<R>airship to I-Dem Island should<R>be easy enough.<W><H>You'd stand out<R>for sure, Captain.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#140",
@@ -717,17 +717,17 @@
     {
      "id": "2D/IMPS/I02_00@30000#142",
      "jp": "<F62>：<R>俺は彼らの商売の<R>手伝いでもするかな。<W><E>",
-     "en": "<F62>:<R>Guess I'll help these guys out<R>with their business.<W><E>"
+     "en": "<F62>:<R>Guess I'll help these guys<R>out with their business.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#143",
      "jp": "カ・ジャルコ：<R>案外似合うかもしれませんよ。<W><E>",
-     "en": "Ka Jarko:<R>It might suit you better than you<R>think.<W><E>"
+     "en": "Ka Jarko:<R>It might suit you<R>better than you think.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#144",
      "jp": "パック：<R>さ、店を開く準備を<R>しに行こうか。<W><E>",
-     "en": "Pack:<R>Well, let's go get the shop ready<R>to open.<W><E>"
+     "en": "Pack:<R>Well, let's go get the<R>shop ready to open.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#145",
@@ -737,7 +737,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#146",
      "jp": "パック：<R>あ、いけね、日誌を書くのを<R>忘れてたよ……<W><H>だんな、良かったらわたしの<R>代わりにこの日誌に飛行記録を<R>書いておいてもらえませんか？<W><H>いえ、むりにとは<R>いいませんがね。<W><E>",
-     "en": "Pack:<R>Oh, shoot, I forgot to write in<R>the log...<W><H>Boss, if you don't mind, could you<R>write the flight record in this<R>log for me?<W><H>Not that I'm forcing you, mind.<W><E>"
+     "en": "Pack:<R>Oh, shoot, I forgot to<R>write in the log...<W><H>Boss, if you don't mind,<R>could you write the flight<R>record in this log for me?<W><H>Not that I'm forcing you, mind.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#147",
@@ -757,7 +757,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#150",
      "jp": "<F62>：<R>じゃあな、カ・ジャルコ。<R>気をつけて行ってこい。<W><E>",
-     "en": "<F62>:<R>See you, Ka Jarko. Take care out<R>there.<W><E>"
+     "en": "<F62>:<R>See you, Ka Jarko.<R>Take care out there.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#151",

@@ -452,7 +452,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#89",
      "jp": "ゼクセル大佐：<R>きさま、今ごろのこのこと<R>何をしに来たのだ！<W><E>",
-     "en": "Colonel Zexel:<R>You! What business have you,<R>showing up here at this late<R>hour!<W><E>"
+     "en": "Colonel Zexel:<R>You! What business have<W><H>you, showing up here at<R>this late hour!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#90",
@@ -462,12 +462,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#91",
      "jp": "ゼクセル大佐：<R>きさまも、カフィと同じ<R>ことしかいわんな！<W><H>ム連邦との同盟がなくなっただけ<R>でも、この計画は成功なのだ！<W><E>",
-     "en": "Colonel Zexel:<R>You say nothing Kafi hasn't said<R>already!<W><H>Ending the alliance with the<R>Federation alone makes this plan a<R>success!<W><E>"
+     "en": "Colonel Zexel:<R>You say nothing Kafi<R>hasn't said already!<W><H>Ending the alliance with<R>the Federation alone makes<R>this plan a success!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#92",
      "jp": "<F62>：<R>そのために、ダナスピを<R>占領したのか！？<W><E>",
-     "en": "<F62>:<R>You occupied Danaspi just for<R>that!?<W><E>"
+     "en": "<F62>:<R>You occupied Danaspi<R>just for that!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#93",
@@ -477,17 +477,17 @@
     {
      "id": "2D/DMPS/D01_00@62000#94",
      "jp": "<F62>：<R>ばかやろう！<W><H>そんな考え方が、<R>ノイパスクを衰退させる<R>ことになるんだ！<W><E>",
-     "en": "<F62>:<R>You idiot!<W><H>Thinking like that is exactly<R>what's sending Noipask into<R>decline!<W><E>"
+     "en": "<F62>:<R>You idiot!<W><H>Thinking like that is<R>exactly what's sending<R>Noipask into decline!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#95",
      "jp": "ゼクセル大佐：<R>われわれがベルデセルバの原住民<R>と手を組むことなど許されない。<W><H>わがノイパスクは、あくまで<R>この星を征服するために<R>やってきたのだからな。<W><E>",
-     "en": "Colonel Zexel:<R>We cannot allow ourselves to join<R>hands with the natives of<R>Velldeselba.<W><H>Our Noipask came here, after all,<R>to conquer this planet.<W><E>"
+     "en": "Colonel Zexel:<R>We cannot allow ourselves<W><H>to join hands with the<R>natives of Velldeselba.<W><H>Our Noipask came here, after<R>all, to conquer this planet.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#96",
      "jp": "ノイパスク兵：<R>ゼクセル大佐、<R>脱出をお急ぎください！<W><E>",
-     "en": "Noipask Soldier:<R>Colonel Zexel, please hurry and<R>escape!<W><E>"
+     "en": "Noipask Soldier:<R>Colonel Zexel, please<R>hurry and escape!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#97",
@@ -507,12 +507,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#100",
      "jp": "<F62>：<R>い、いや……<R>ただの通りすがりだよ……<W><E>",
-     "en": "<F62>:<R>N-no... I'm just passing<R>through...<W><E>"
+     "en": "<F62>:<R>N-no... I'm just<R>passing through...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#101",
      "jp": "ガシザキノ中佐：<R>ふむ……<W><H>おい、若いの。<R>名前はなんていうんだ？<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>Hmm...<W><H>Hey, youngster. What's your<R>name?<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Hmm...<W><H>Hey, youngster.<R>What's your name?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#102",
@@ -522,37 +522,37 @@
     {
      "id": "2D/DMPS/D01_00@62000#103",
      "jp": "ガジザキノ中佐：<R>ふ、やっぱりな。<W><H>カフィの言ったとおり<R>小生意気な面をしてやがるぜ。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>Heh, I knew it.<W><H>Just like Kafi said, you've got a<R>cheeky little mug.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Heh, I knew it.<W><H>Just like Kafi said, you've<R>got a cheeky little mug.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#104",
      "jp": "<F62>：<R>何？<W><H>じゃあ、カフィの言っていた<R>ギダンの知り合い、っていうのは<R>あんたのことか？<W><E>",
-     "en": "<F62>:<R>What?<W><H>Then the Gidan acquaintance Kafi<R>mentioned... that's you?<W><E>"
+     "en": "<F62>:<R>What?<W><H>Then the Gidan acquaintance<R>Kafi mentioned... that's you?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#105",
      "jp": "ガシザキノ中佐：<R>いかにも、わたしがギダン王国軍<R>のガシザキノ中佐だ。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>Indeed. I am Lieutenant Colonel<R>Gashizakino of the Gidan Royal<R>Army.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Indeed. I am Lieutenant<W><H>Colonel Gashizakino of<R>the Gidan Royal Army.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#106",
      "jp": "<F62>：<R>もうギダン軍がここまで<R>来ちまってるんじゃ、<W><H>ノイパスク人の救出は<R>無理そうだな。<W><E>",
-     "en": "<F62>:<R>If the Gidan army's already made<R>it this far,<W><H>rescuing the Noipask people looks<R>hopeless.<W><E>"
+     "en": "<F62>:<R>If the Gidan army's<R>already made it this far,<W><H>rescuing the Noipask<R>people looks hopeless.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#107",
      "jp": "ガシザキノ中佐：<R>いや、<R>先陣はわたしたちだけだ。<W><H>カフィもム連邦の軍人も、<R>ゼクセルに反対して、<R>監禁されてしまったと聞いている。<W><H>彼らを逃がしてやろうと<R>思って来たんだ。<W><H>本隊が来てしまっては、<R>ノイパスク兵もム連邦兵も捕虜に<R>されてしまうからな。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>No, we're only the vanguard.<W><H>I hear Kafi and the Federation<R>officers opposed Zexel and got<R>locked up.<W><H>I came hoping to help them<R>escape.<W><H>Once the main force arrives,<R>Noipask and Federation soldiers<R>alike will be taken prisoner.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>No, we're only the vanguard.<W><H>I hear Kafi and the<R>Federation officers opposed<R>Zexel and got locked up.<W><H>I came hoping to<R>help them escape.<W><H>Once the main force arrives,<R>Noipask and Federation soldiers<R>alike will be taken prisoner.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#108",
      "jp": "<F62>：<R>なんだって！？<W><H>カフィやゼシカも<R>つかまってるのか？<W><E>",
-     "en": "<F62>:<R>What!?<W><H>Kafi and Zeshika have been caught<R>too?<W><E>"
+     "en": "<F62>:<R>What!?<W><H>Kafi and Zeshika have<R>been caught too?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#109",
      "jp": "ガシザキノ中佐：<R>急がないと、本隊が来てしまう。<W><H>手分けしてカフィたちを<R>さがすとしよう！<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>We must hurry, or the main force<R>will arrive.<W><H>Let's split up and search for Kafi<R>and the others!<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>We must hurry, or the<R>main force will arrive.<W><H>Let's split up and search<R>for Kafi and the others!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#110",
@@ -562,7 +562,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#111",
      "jp": "<F62>：<R>どこへ逃げるつもりだ、<R>ゼクセル！<W><E>",
-     "en": "<F62>:<R>Where do you think you're running,<R>Zexel!<W><E>"
+     "en": "<F62>:<R>Where do you think<R>you're running, Zexel!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#112",
@@ -572,37 +572,37 @@
     {
      "id": "2D/DMPS/D01_00@62000#113",
      "jp": "ゼクセル大佐：<R>なぜ、きさまがギダン軍に！？<W><E>",
-     "en": "Colonel Zexel:<R>Why are you with the Gidan<R>army!?<W><E>"
+     "en": "Colonel Zexel:<R>Why are you with<R>the Gidan army!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#114",
      "jp": "<F62>：<R>ダナスピを解放しにきたんだ！<W><H>俺は、この星の人の気持ちを<R>無視したおまえのやりかたに<R>賛成できない。<W><E>",
-     "en": "<F62>:<R>I came to liberate Danaspi!<W><H>I can't go along with the way you<R>ignore the feelings of this<R>planet's people.<W><E>"
+     "en": "<F62>:<R>I came to liberate Danaspi!<W><H>I can't go along with the<R>way you ignore the feelings<R>of this planet's people.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#115",
      "jp": "ゼクセル大佐：<R>わたしはノイパスクのためを<R>考えて働いているのだ。<W><H>それが君に理解してもらえ<R>なかったのは残念だな。<W><E>",
-     "en": "Colonel Zexel:<R>I work with Noipask's best<R>interests in mind.<W><H>A pity you couldn't understand<R>that.<W><E>"
+     "en": "Colonel Zexel:<R>I work with Noipask's<R>best interests in mind.<W><H>A pity you couldn't<R>understand that.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#116",
      "jp": "<F62>：<R>おまえのような考え方のせいで、<W><H>ノイパスク自体が滅びようと<R>しているのがわからないのか！<W><E>",
-     "en": "<F62>:<R>Because of thinking like yours,<W><H>Noipask itself is headed for ruin.<R>Can't you see that!<W><E>"
+     "en": "<F62>:<R>Because of thinking like yours,<W><H>Noipask itself is headed for<R>ruin. Can't you see that!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#117",
      "jp": "ゼクセル大佐：<R>ほう………<W><H>ノイパスク人でもない君が、<R>どうしてそこまで心配する？<W><H>われわれのことなど、<R>どうでもいいことだろう？<W><E>",
-     "en": "Colonel Zexel:<R>Well, well......<W><H>Why would you, who aren't even<R>Noipask, worry so much?<W><H>What happens to us shouldn't<R>matter to you, should it?<W><E>"
+     "en": "Colonel Zexel:<R>Well, well......<W><H>Why would you, who aren't<R>even Noipask, worry so much?<W><H>What happens to us shouldn't<R>matter to you, should it?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#118",
      "jp": "<F62>：<R>おまえみたいな馬鹿を<R>ほっとけない性分でね。<W><E>",
-     "en": "<F62>:<R>I'm just not the type to leave an<R>idiot like you alone.<W><E>"
+     "en": "<F62>:<R>I'm just not the type to leave<R>an idiot like you alone.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#119",
      "jp": "ゼクセル大佐：<R>おせっかいやきかね？<W><H>まあがんばりたまえ。<R>陰ながら応援しているよ。<R>はははは……<W><H>これで、好きにするがいい。<W><E>",
-     "en": "Colonel Zexel:<R>A busybody, are you?<W><H>Well, do your best. I'll be<R>cheering for you from the shadows.<R>Hahahaha...<W><H>Here. Do as you like with this.<W><E>"
+     "en": "Colonel Zexel:<R>A busybody, are you?<W><H>Well, do your best. I'll<R>be cheering for you from<R>the shadows. Hahahaha...<W><H>Here. Do as you like with this.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#120",
@@ -642,7 +642,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#127",
      "jp": "<F62>：<R>時間かせぎのために<R>ひとあばれするか。<W><E>",
-     "en": "<F62>:<R>Guess I'll raise a little hell to<R>buy some time.<W><E>"
+     "en": "<F62>:<R>Guess I'll raise a little<R>hell to buy some time.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#128",
@@ -692,27 +692,27 @@
     {
      "id": "2D/DMPS/D01_00@62000#137",
      "jp": "カフィ中佐：<R>あの人たちはノイパスクを<R>孤立させるつもり！？<W><H>こんなことをして<R>何になるのよ！！<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Do those people mean to isolate<R>Noipask!?<W><H>What good will this do!!<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Do those people mean<R>to isolate Noipask!?<W><H>What good will this do!!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#138",
      "jp": "<F62>：<R>ここは、静かで変わった町だな。<W><E>",
-     "en": "<F62>:<R>This is a quiet, odd sort of<R>town.<W><E>"
+     "en": "<F62>:<R>This is a quiet,<R>odd sort of town.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#139",
      "jp": "ゼシカ大尉：<R>オルダナスピはダナスピ４世が<R>治めている永世中立国よ。<W><H>ベルデセルバ人がパスク人から<R>独立したときに、<W><H>国王の祖先、英雄ダ・ダナスピが<R>この星の永遠の自立と平和を<R>願い、この国を建国したの。<W><H>その首都が、ここダナスピよ。<W><H>だから、ここの町は<R>ベルデセルバの人たちにとって<R>大切な場所なのよ。<W><E>",
-     "en": "Captain Zeshika:<R>Oldanaspi is a permanently neutral<R>nation ruled by Danaspi IV.<W><H>When the people of Velldeselba won<R>independence from the Pask,<W><H>the King's ancestor, the hero Da<R>Danaspi, founded it, praying for<R>the planet's lasting freedom and<R>peace.<W><H>Its capital is right here:<R>Danaspi.<W><H>That's why this town is a special<R>place to the people of<R>Velldeselba.<W><E>"
+     "en": "Captain Zeshika:<R>Oldanaspi is a permanently neutral<R>nation ruled by Danaspi IV.<W><H>When the people of Velldeselba<R>won independence from the Pask,<W><H>the King's ancestor, the<R>hero Da Danaspi, founded it,<W><H>praying for the planet's<R>lasting freedom and peace.<W><H>Its capital is right here:<R>Danaspi.<W><H>That's why this town is<R>a special place to the<R>people of Velldeselba.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#140",
      "jp": "<F62>：<R>独立記念地みたいなものか。<W><E>",
-     "en": "<F62>:<R>So it's like an independence<R>memorial.<W><E>"
+     "en": "<F62>:<R>So it's like an<R>independence memorial.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#141",
      "jp": "ゼシカ大尉：<R>ダナスピはベルデセルバの人たち<R>にとって大切な場所なのよ。<W><E>",
-     "en": "Captain Zeshika:<R>Danaspi is a special place to the<R>people of Velldeselba.<W><E>"
+     "en": "Captain Zeshika:<R>Danaspi is a special place to<R>the people of Velldeselba.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#142",
@@ -722,7 +722,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#143",
      "jp": "ゼシカ大尉：<R><F62>少尉、<R>お願いするわ。<W><E>",
-     "en": "Captain Zeshika:<R>Lieutenant <F62>, I'm counting<R>on you.<W><E>"
+     "en": "Captain Zeshika:<R>Lieutenant <F62>,<R>I'm counting on you.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#144",
@@ -732,27 +732,27 @@
     {
      "id": "2D/DMPS/D01_00@62000#145",
      "jp": "タカテリフ長官：<R>われわれは長くは待てないぞ。<W><E>",
-     "en": "Commander Takaterif:<R>We cannot wait for long, you<R>know.<W><E>"
+     "en": "Commander Takaterif:<R>We cannot wait for<R>long, you know.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#146",
      "jp": "ギダン兵：<R>ノイパスク軍もム連邦軍も<R>もう逃げてしまったのか。<W><E>",
-     "en": "Gidan Soldier:<R>The Noipask and Federation forces<R>have already fled?<W><E>"
+     "en": "Gidan Soldier:<R>The Noipask and Federation<R>forces have already fled?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#147",
      "jp": "ギダン兵：<R>解放作戦は成功だ！<W><E>",
-     "en": "Gidan Soldier:<R>The liberation operation was a<R>success!<W><E>"
+     "en": "Gidan Soldier:<R>The liberation operation<R>was a success!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#148",
      "jp": "ギダン兵：<R><F62>少尉、<R>ずいぶんはやいお着きでしたね。<W><H>あれ、その女性は……？<W><E>",
-     "en": "Gidan Soldier:<R>Lieutenant <F62>, you got here<R>awfully fast.<W><H>Huh, who's that woman...?<W><E>"
+     "en": "Gidan Soldier:<R>Lieutenant <F62>, you<R>got here awfully fast.<W><H>Huh, who's that woman...?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#149",
      "jp": "オデナウデ長官：<R>われわれはここを占領する。<R>すぐに宮殿を制圧しろ。<W><E>",
-     "en": "Commander Odenaude:<R>We are occupying this place. Seize<R>the palace at once.<W><E>"
+     "en": "Commander Odenaude:<R>We are occupying this place.<R>Seize the palace at once.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#150",
@@ -767,7 +767,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#152",
      "jp": "カフィ中佐：<R>長官！　一体これは……！？<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Commander! What is the meaning of<R>this...!?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Commander! What is the<R>meaning of this...!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#153",
@@ -777,7 +777,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#154",
      "jp": "オデナウデ長官：<R>われわれは最初からム連邦と協力<R>するつもりなどないわ！<W><E>",
-     "en": "Commander Odenaude:<R>We never meant to cooperate with<R>the Federation in the first<R>place!<W><E>"
+     "en": "Commander Odenaude:<R>We never meant to cooperate<W><H>with the Federation in the<R>first place!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#155",
@@ -787,12 +787,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#156",
      "jp": "<F62>：<R>どういうことだ、ゼクセル！！<W><E>",
-     "en": "<F62>:<R>What's the meaning of this,<R>Zexel!!<W><E>"
+     "en": "<F62>:<R>What's the meaning<R>of this, Zexel!!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#157",
      "jp": "ゼクセル大佐：<R>少尉、<R>これは本国からの指示なのだ。<W><H>ナデス島を脱出するときから<R>決定していたことだ。<W><H>われわれは元々この星を征服しに<R>宇宙からきた民族！<R>セルバの人間とはちがうのだ。<W><E>",
-     "en": "Colonel Zexel:<R>Lieutenant, these are orders from<R>the homeland.<W><H>It was decided from the moment we<R>left Nades Island.<W><H>We are a people who came from<R>space to conquer this planet! We<R>are not like the people of<R>Selva.<W><E>"
+     "en": "Colonel Zexel:<R>Lieutenant, these are<R>orders from the homeland.<W><H>It was decided from the<R>moment we left Nades Island.<W><H>We are a people who came<R>from space to conquer this<W><H>planet! We are not like<R>the people of Selva.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#158",
@@ -802,7 +802,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#159",
      "jp": "ゼクセル大佐：<R>当然だ。<W><H>そうすれば、<R>このうんざりするほど<R>長い戦争に決着がつく。<W><E>",
-     "en": "Colonel Zexel:<R>Naturally.<W><H>That way, this tediously long war<R>will finally be settled.<W><E>"
+     "en": "Colonel Zexel:<R>Naturally.<W><H>That way, this tediously long<R>war will finally be settled.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#160",
@@ -832,7 +832,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#165",
      "jp": "<F62>：<R>ちょっと待ってくれ！<W><H>今、ム連邦との同盟が切れたら、<R>ノイパスクは孤立してしまうだろ？<W><H>そうなったら、もう、<R>ノイパスクはおしまいなんだよ。<W><H>な、頼む！<R>ちょっとだけ時間をくれ。<W><H>俺が何とかしてみる。<W><E>",
-     "en": "<F62>:<R>Hold on a second!<W><H>If the alliance with the<R>Federation breaks now, Noipask<R>will be cut off, right?<W><H>If that happens, Noipask is<R>finished.<W><H>Come on, please! Just give me a<R>little time.<W><H>I'll figure something out.<W><E>"
+     "en": "<F62>:<R>Hold on a second!<W><H>If the alliance with the<R>Federation breaks now, Noipask<R>will be cut off, right?<W><H>If that happens,<R>Noipask is finished.<W><H>Come on, please! Just<R>give me a little time.<W><H>I'll figure something out.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#166",
@@ -852,27 +852,27 @@
     {
      "id": "2D/DMPS/D01_00@62000#169",
      "jp": "ゼシカ大尉：<R>長官、よろしいのですか！？<W><E>",
-     "en": "Captain Zeshika:<R>Commander, are you sure about<R>this!?<W><E>"
+     "en": "Captain Zeshika:<R>Commander, are you<R>sure about this!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#170",
      "jp": "<F62>：<R>とはいったものの、<R>どうしたもんかなあ……<W><E>",
-     "en": "<F62>:<R>Easy to say, but what am I<R>supposed to do...<W><E>"
+     "en": "<F62>:<R>Easy to say, but what<R>am I supposed to do...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#171",
      "jp": "ノイパスク兵：<R>ゼクセル大佐からの命令を<R>お伝えします！<W><H><F62>少尉は<R>デナムスに向かい、<R>警備に当たれ、とのことです！<W><E>",
-     "en": "Noipask Soldier:<R>I bring orders from Colonel<R>Zexel!<W><H>Lieutenant <F62> is to proceed<R>to Denamus and stand guard there,<R>sir!<W><E>"
+     "en": "Noipask Soldier:<R>I bring orders from<R>Colonel Zexel!<W><H>Lieutenant <F62> is to<R>proceed to Denamus and<R>stand guard there, sir!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#172",
      "jp": "<F62>：<R>待ってくれよ、<R>俺にはすることがあるんだ。<W><E>",
-     "en": "<F62>:<R>Wait a minute, I've got things to<R>do.<W><E>"
+     "en": "<F62>:<R>Wait a minute, I've<R>got things to do.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#173",
      "jp": "ノイパスク兵：<R>大佐命令であります！<W><E>",
-     "en": "Noipask Soldier:<R>These are the Colonel's orders,<R>sir!<W><E>"
+     "en": "Noipask Soldier:<R>These are the<R>Colonel's orders, sir!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#174",
@@ -882,32 +882,32 @@
     {
      "id": "2D/DMPS/D01_00@62000#175",
      "jp": "<F62>：<R>デナムスっていうと……<W><H>ここに来るとき通った、<R>南にある町か。<W><E>",
-     "en": "<F62>:<R>Denamus, huh...<W><H>That's the town to the south we<R>passed on the way here.<W><E>"
+     "en": "<F62>:<R>Denamus, huh...<W><H>That's the town to the south<R>we passed on the way here.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#176",
      "jp": "ノイパスク兵：<R>あそこさえ守れば、<R>誰もここまで攻めて来れません。<W><E>",
-     "en": "Noipask Soldier:<R>As long as we hold it, no one can<R>attack this far.<W><E>"
+     "en": "Noipask Soldier:<R>As long as we hold it, no<R>one can attack this far.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#177",
      "jp": "<F62>：<R>今、ギダン軍に攻め込まれちゃ、<R>ひとたまりもないからな……<W><H>とっとと終わらせてくるか……<W><E>",
-     "en": "<F62>:<R>If the Gidan army hit us right<R>now, we wouldn't stand a<R>chance...<W><H>Guess I'll get this over with<R>fast...<W><E>"
+     "en": "<F62>:<R>If the Gidan army hit us<W><H>right now, we wouldn't<R>stand a chance...<W><H>Guess I'll get this<R>over with fast...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#178",
      "jp": "ノイパスク兵：<R>少尉の任務は<R>デナムスの警備であります！<W><E>",
-     "en": "Noipask Soldier:<R>Your mission is to guard Denamus,<R>Lieutenant!<W><E>"
+     "en": "Noipask Soldier:<R>Your mission is to guard<R>Denamus, Lieutenant!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#179",
      "jp": "オルダナスピ衛兵：<R>ここはオルダナスピの首都、<R>ダナスピです。<W><E>",
-     "en": "Oldanaspi Guard:<R>This is Danaspi, the capital of<R>Oldanaspi.<W><E>"
+     "en": "Oldanaspi Guard:<R>This is Danaspi, the<R>capital of Oldanaspi.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#180",
      "jp": "みやげもの屋：<R>ダナスピに戦艦で乗り込むなど<R>……全く、無礼にも程があるよ。<W><E>",
-     "en": "Souvenir Seller:<R>Barging into Danaspi with a<R>battleship... Honestly, the<R>rudeness of it!<W><E>"
+     "en": "Souvenir Seller:<R>Barging into Danaspi with<W><H>a battleship... Honestly,<R>the rudeness of it!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#181",
@@ -917,12 +917,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#182",
      "jp": "みやげもの屋：<R>ノイパスクなんて<R>信じられないよ……！<W><E>",
-     "en": "Souvenir Seller:<R>I can't believe Noipask would do<R>this...!<W><E>"
+     "en": "Souvenir Seller:<R>I can't believe Noipask<R>would do this...!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#183",
      "jp": "みやげもの屋：<R>やっと元通りに<R>お店が開けるよ。<W><E>",
-     "en": "Souvenir Seller:<R>At last I can open my shop like<R>before.<W><E>"
+     "en": "Souvenir Seller:<R>At last I can open<R>my shop like before.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#184",
@@ -952,22 +952,22 @@
     {
      "id": "2D/DMPS/D01_00@62000#189",
      "jp": "みやげもの屋：<R>あたしはノイパスクなんて<R>だいっきらいだね……！<W><E>",
-     "en": "Souvenir Seller:<R>I can't stand Noipask, I tell<R>you...!<W><E>"
+     "en": "Souvenir Seller:<R>I can't stand Noipask,<R>I tell you...!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#190",
      "jp": "みやげもの屋：<R>ノイパスクがオルダナスピに……<R>なぜなのかしら？<W><E>",
-     "en": "Souvenir Seller:<R>Noipask, in Oldanaspi... I wonder<R>why?<W><E>"
+     "en": "Souvenir Seller:<R>Noipask, in Oldanaspi...<R>I wonder why?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#191",
      "jp": "みやげもの屋：<R>あんたたち、オルダナスピを<R>占領するつもり？<W><E>",
-     "en": "Souvenir Seller:<R>Are you people going to occupy<R>Oldanaspi?<W><E>"
+     "en": "Souvenir Seller:<R>Are you people going<R>to occupy Oldanaspi?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#192",
      "jp": "みやげもの屋：<R>ノイパスクはまたこの星を<R>占領するつもりなのね！<W><E>",
-     "en": "Souvenir Seller:<R>So Noipask means to occupy this<R>planet again!<W><E>"
+     "en": "Souvenir Seller:<R>So Noipask means to occupy<R>this planet again!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#193",
@@ -982,7 +982,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#195",
      "jp": "みやげもの屋：<R>ダナスピが解放されて<R>うれしいよ。<W><E>",
-     "en": "Souvenir Seller:<R>I'm so glad Danaspi has been<R>liberated.<W><E>"
+     "en": "Souvenir Seller:<R>I'm so glad Danaspi<R>has been liberated.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#196",
@@ -992,12 +992,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#197",
      "jp": "みやげもの屋：<R>まいどあり。<R>きっといい思い出になるよ。<W><E>",
-     "en": "Souvenir Seller:<R>Thanks for your business. I'm sure<R>it'll make a nice memory.<W><E>"
+     "en": "Souvenir Seller:<R>Thanks for your business. I'm<R>sure it'll make a nice memory.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#198",
      "jp": "みやげもの屋：<R>戦争の間はギダンに守ってもらう<R>しかないんだろうね。<W><E>",
-     "en": "Souvenir Seller:<R>I suppose we have no choice but to<R>rely on Gidan for protection<R>during the war.<W><E>"
+     "en": "Souvenir Seller:<R>I suppose we have no choice<W><H>but to rely on Gidan for<R>protection during the war.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#199",
@@ -1012,27 +1012,27 @@
     {
      "id": "2D/DMPS/D01_00@62000#201",
      "jp": "みやげもの屋：<R>兵隊なんてはやく<R>出ていってほしいよ！<W><E>",
-     "en": "Souvenir Seller:<R>I wish the soldiers would hurry up<R>and leave!<W><E>"
+     "en": "Souvenir Seller:<R>I wish the soldiers would<R>hurry up and leave!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#202",
      "jp": "商人：<R>ここがどんな意味をもつ町か<R>知っているのか？<W><E>",
-     "en": "Merchant:<R>Do you know what this town means<R>to people?<W><E>"
+     "en": "Merchant:<R>Do you know what this<R>town means to people?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#203",
      "jp": "商人：<R>これで、この星の総ての人間を<R>敵にまわすことになるんだぞ。<W><E>",
-     "en": "Merchant:<R>Now you've made an enemy of every<R>person on this planet.<W><E>"
+     "en": "Merchant:<R>Now you've made an enemy of<R>every person on this planet.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#204",
      "jp": "商人：<R>おまえたちなんかに<R>売る商品はないよ。<W><E>",
-     "en": "Merchant:<R>I've got nothing to sell to the<R>likes of you.<W><E>"
+     "en": "Merchant:<R>I've got nothing to sell<R>to the likes of you.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#205",
      "jp": "商人：<R>兵隊を追い払ってくれた<R>お礼だ。<W><H>あんたにだけ特別に<R>何か売ってもいいよ。<W><E>",
-     "en": "Merchant:<R>This is my thanks for driving out<R>the soldiers.<W><H>For you, and only you, I might<R>sell a thing or two.<W><E>"
+     "en": "Merchant:<R>This is my thanks for<R>driving out the soldiers.<W><H>For you, and only you, I<R>might sell a thing or two.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#206",
@@ -1077,12 +1077,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#214",
      "jp": "老人：<R>いつもより騒々しいようだが、<R>何かあったのですかな？<W><E>",
-     "en": "Old Man:<R>It seems noisier than usual. Has<R>something happened?<W><E>"
+     "en": "Old Man:<R>It seems noisier than usual.<R>Has something happened?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#215",
      "jp": "老人：<R>自分たちのやっていることが<R>どんなことかわかってるのか？<W><E>",
-     "en": "Old Man:<R>Do you understand what it is<R>you're doing?<W><E>"
+     "en": "Old Man:<R>Do you understand what<R>it is you're doing?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#216",
@@ -1092,7 +1092,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#217",
      "jp": "老人：<R>一時はどうなることかと<R>思いました。<W><E>",
-     "en": "Old Man:<R>For a while there, I didn't know<R>what would become of us.<W><E>"
+     "en": "Old Man:<R>For a while there, I didn't<R>know what would become of us.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#218",
@@ -1102,7 +1102,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#219",
      "jp": "男：<R>ダナスピは聖地だから<R>時々来るんだが……<W><E>",
-     "en": "Man:<R>Danaspi is a holy land, so I come<R>here now and then...<W><E>"
+     "en": "Man:<R>Danaspi is a holy land, so I<R>come here now and then...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#220",
@@ -1112,7 +1112,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#221",
      "jp": "男：<R>そろそろクナシティに<R>帰らなきゃな……<W><E>",
-     "en": "Man:<R>I should be getting back to Kuna<R>City soon...<W><E>"
+     "en": "Man:<R>I should be getting back<R>to Kuna City soon...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#222",
@@ -1127,7 +1127,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#224",
      "jp": "女：<R>オルダナスピにはいろいろな<R>国から人が集まるのよ。<W><E>",
-     "en": "Woman:<R>People from all sorts of countries<R>gather in Oldanaspi.<W><E>"
+     "en": "Woman:<R>People from all sorts of<R>countries gather in Oldanaspi.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#225",
@@ -1142,7 +1142,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#227",
      "jp": "女：<R>何だか昔のダナスピとは<R>変わっちゃったわね。<W><E>",
-     "en": "Woman:<R>Somehow Danaspi isn't what it used<R>to be.<W><E>"
+     "en": "Woman:<R>Somehow Danaspi isn't<R>what it used to be.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#228",
@@ -1152,7 +1152,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#229",
      "jp": "少女：<R>わたし、スラークから来たの。<R>子供たちだけで来たのよ。<W><E>",
-     "en": "Girl:<R>I came from Slark. Just us kids,<R>all by ourselves.<W><E>"
+     "en": "Girl:<R>I came from Slark. Just us<R>kids, all by ourselves.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#230",
@@ -1167,12 +1167,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#232",
      "jp": "少女：<R>親切なギダン軍のおじさんが<R>家に連れてってくれるって。<W><E>",
-     "en": "Girl:<R>A nice man from the Gidan army<R>said he'd take me home.<W><E>"
+     "en": "Girl:<R>A nice man from the Gidan<R>army said he'd take me home.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#233",
      "jp": "少女：<R>ここはあわただしいのね。<R>家に帰りたいわ<W><E>",
-     "en": "Girl:<R>It's so hectic here. I want to go<R>home.<W><E>"
+     "en": "Girl:<R>It's so hectic here.<R>I want to go home.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#234",
@@ -1182,12 +1182,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#235",
      "jp": "ノイパスク兵：<R>カフィ中佐もダナスピ王も<R>宮殿の中に監禁されてるよ。<W><E>",
-     "en": "Noipask Soldier:<R>Lieutenant Colonel Kafi and King<R>Danaspi are both locked up<R>inside the palace.<W><E>"
+     "en": "Noipask Soldier:<R>Lieutenant Colonel Kafi and<W><H>King Danaspi are both locked<R>up inside the palace.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#236",
      "jp": "ノイパスク兵：<R>宮殿の中のカギはたしか、真ん中<R>の聖なる球に隠してあるはずだ。<W><E>",
-     "en": "Noipask Soldier:<R>I think the key inside the palace<R>is hidden in the holy orb in the<R>middle.<W><E>"
+     "en": "Noipask Soldier:<R>I think the key inside the<W><H>palace is hidden in the<R>holy orb in the middle.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#237",
@@ -1202,17 +1202,17 @@
     {
      "id": "2D/DMPS/D01_00@62000#239",
      "jp": "女：<R>一度は来てみたいって、<R>あこがれていたのよ。<W><E>",
-     "en": "Woman:<R>I always dreamed of coming here at<R>least once.<W><E>"
+     "en": "Woman:<R>I always dreamed of coming<R>here at least once.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#240",
      "jp": "少年：<R>ギダン軍が守っているから<R>もう安心だね。<W><E>",
-     "en": "Boy:<R>The Gidan army is protecting us,<R>so we're safe now.<W><E>"
+     "en": "Boy:<R>The Gidan army is protecting<R>us, so we're safe now.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#241",
      "jp": "空賊：<R>やあ、<F62>。<R>こんなところで何やってんだ？<W><E>",
-     "en": "Sky Pirate:<R>Hey, <F62>. What are you doing<R>in a place like this?<W><E>"
+     "en": "Sky Pirate:<R>Hey, <F62>. What are you<R>doing in a place like this?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#242",
@@ -1222,52 +1222,52 @@
     {
      "id": "2D/DMPS/D01_00@62000#243",
      "jp": "空賊：<R>おみやげを買いたいんだけど、<R>高いなあ……<W><E>",
-     "en": "Sky Pirate:<R>I want to buy some souvenirs, but<R>they're so pricey...<W><E>"
+     "en": "Sky Pirate:<R>I want to buy some souvenirs,<R>but they're so pricey...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#244",
      "jp": "女：<R>なぜ軍隊が<R>この国に入ってきたの？<W><E>",
-     "en": "Woman:<R>Why did an army come into this<R>country?<W><E>"
+     "en": "Woman:<R>Why did an army come<R>into this country?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#245",
      "jp": "女：<R>ダナスピ陛下を、ら致して<R>しまうなんて……なぜ！？<W><E>",
-     "en": "Woman:<R>Abducting His Majesty Danaspi...<R>Why!?<W><E>"
+     "en": "Woman:<R>Abducting His Majesty<R>Danaspi... Why!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#246",
      "jp": "女：<R>ム連邦を敵に回して<R>どうする気なの？！<W><E>",
-     "en": "Woman:<R>What do you think you'll gain by<R>making an enemy of the<R>Federation!?<W><E>"
+     "en": "Woman:<R>What do you think you'll<W><H>gain by making an enemy<R>of the Federation!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#247",
      "jp": "女：<R>ノイパスクを追い払ってくれて<R>ありがとう！<W><E>",
-     "en": "Woman:<R>Thank you for driving Noipask<R>away!<W><E>"
+     "en": "Woman:<R>Thank you for driving<R>Noipask away!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#248",
      "jp": "女：<R>ダナスピ陛下をたすけて<R>くださってありがとう！<W><E>",
-     "en": "Woman:<R>Thank you for rescuing His Majesty<R>Danaspi!<W><E>"
+     "en": "Woman:<R>Thank you for rescuing<R>His Majesty Danaspi!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#249",
      "jp": "女：<R>ダナスピ陛下はお元気ですよ。<W><E>",
-     "en": "Woman:<R>His Majesty Danaspi is doing<R>well.<W><E>"
+     "en": "Woman:<R>His Majesty Danaspi<R>is doing well.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#250",
      "jp": "女：<R>これからはノイパスクなんて<R>ぜったいに信じないわ。<W><E>",
-     "en": "Woman:<R>From now on, I'll never trust<R>Noipask again.<W><E>"
+     "en": "Woman:<R>From now on, I'll never<R>trust Noipask again.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#251",
      "jp": "男：<R>まさか、このオルダナスピを占領<R>するのではないでしょうね？<W><E>",
-     "en": "Man:<R>Surely you don't intend to occupy<R>Oldanaspi?<W><E>"
+     "en": "Man:<R>Surely you don't intend<R>to occupy Oldanaspi?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#252",
      "jp": "男：<R>われわれは、心の支えを<R>失ったのも同じだ。<W><E>",
-     "en": "Man:<R>It's as if we've lost what held<R>our hearts together.<W><E>"
+     "en": "Man:<R>It's as if we've lost what<R>held our hearts together.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#253",
@@ -1277,12 +1277,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#254",
      "jp": "男：<R>ダナスピが解放されて<R>安心しました。<W><E>",
-     "en": "Man:<R>I'm relieved Danaspi has been<R>liberated.<W><E>"
+     "en": "Man:<R>I'm relieved Danaspi<R>has been liberated.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#255",
      "jp": "男：<R>永世中立国のわが国がギダン軍に<R>頼らねばならないとは……<W><E>",
-     "en": "Man:<R>To think our eternally neutral<R>nation must rely on the Gidan<R>army...<W><E>"
+     "en": "Man:<R>To think our eternally<W><H>neutral nation must rely<R>on the Gidan army...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#256",
@@ -1292,22 +1292,22 @@
     {
      "id": "2D/DMPS/D01_00@62000#257",
      "jp": "オルダナスピ衛兵：<R>許可のない者は<R>入ることはできません。<W><E>",
-     "en": "Oldanaspi Guard:<R>No one may enter without<R>permission.<W><E>"
+     "en": "Oldanaspi Guard:<R>No one may enter<R>without permission.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#258",
      "jp": "オルダナスピ衛兵：<R>どうしてもお入りになりたい<R>のでしたら、<W><H>責任者の方をお連れください。<W><E>",
-     "en": "Oldanaspi Guard:<R>If you insist on entering,<W><H>please bring the person in<R>charge.<W><E>"
+     "en": "Oldanaspi Guard:<R>If you insist on entering,<W><H>please bring the<R>person in charge.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#259",
      "jp": "オルダナスピ衛兵：<R>ダナスピ４世陛下は<R>ご無事でしょうか……<W><H>扉のカギが見つからず、<R>陛下をお助けできないのです！<W><E>",
-     "en": "Oldanaspi Guard:<R>Is His Majesty Danaspi IV<R>safe...?<W><H>We can't find the key to the door,<R>so we can't rescue His Majesty!<W><E>"
+     "en": "Oldanaspi Guard:<R>Is His Majesty<R>Danaspi IV safe...?<W><H>We can't find the key to the door,<R>so we can't rescue His Majesty!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#260",
      "jp": "オルダナスピ衛兵：<R>陛下をたすけて下さり<R>ありがとうございました。<W><E>",
-     "en": "Oldanaspi Guard:<R>Thank you very much for rescuing<R>His Majesty.<W><E>"
+     "en": "Oldanaspi Guard:<R>Thank you very much for<R>rescuing His Majesty.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#261",
@@ -1327,7 +1327,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#264",
      "jp": "オルダナスピ衛兵：<R>ギダン軍のおかげで<R>われわれは助かりました。<W><E>",
-     "en": "Oldanaspi Guard:<R>Thanks to the Gidan army, we were<R>saved.<W><E>"
+     "en": "Oldanaspi Guard:<R>Thanks to the Gidan<R>army, we were saved.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#265",
@@ -1357,12 +1357,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#270",
      "jp": "<F62>：<R>あれ？　イジロフじゃないか。<W><H>なんでこんなとこにいるんだ？<W><E>",
-     "en": "<F62>:<R>Huh? Isn't that Ijirov?<W><H>What are you doing in a place like<R>this?<W><E>"
+     "en": "<F62>:<R>Huh? Isn't that Ijirov?<W><H>What are you doing in<R>a place like this?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#271",
      "jp": "イジロフ：<R>いやな、ダ・クダの親分、<R>ダナスピ国王に呼ばれたんだよ。<W><E>",
-     "en": "Ijirov:<R>Well, see, the boss, Da Kuda, got<R>summoned by King Danaspi.<W><E>"
+     "en": "Ijirov:<R>Well, see, the boss, Da Kuda,<R>got summoned by King Danaspi.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#272",
@@ -1372,7 +1372,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#273",
      "jp": "イジロフ：<R>ときどきあるんだよ。<W><H>国王にいきなり呼びつけられて、<R>説教されるんだとさ。<W><E>",
-     "en": "Ijirov:<R>It happens now and then.<W><H>The King calls him in out of the<R>blue and gives him a lecture,<R>apparently.<W><E>"
+     "en": "Ijirov:<R>It happens now and then.<W><H>The King calls him in out<R>of the blue and gives him<R>a lecture, apparently.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#274",
@@ -1407,7 +1407,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#280",
      "jp": "修理屋：<R>ほっほっほ……わたしは<R>無国籍の修理屋です。<W><H>どこの国の船でも修理しますよ。<W><E>",
-     "en": "Repairman:<R>Ho ho ho... I am a repairman of no<R>nation.<W><H>I'll fix a ship from any<R>country.<W><E>"
+     "en": "Repairman:<R>Ho ho ho... I am a<R>repairman of no nation.<W><H>I'll fix a ship<R>from any country.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#281",
@@ -1422,32 +1422,32 @@
     {
      "id": "2D/DMPS/D01_00@62000#283",
      "jp": "男：<R>ようやく修行を<R>再開できるかな……<W><E>",
-     "en": "Man:<R>Maybe I can finally get back to my<R>training...<W><E>"
+     "en": "Man:<R>Maybe I can finally get<R>back to my training...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#284",
      "jp": "男：<R>ギダン人の観光客が増えたねぇ。<W><E>",
-     "en": "Man:<R>Lots more tourists from Gidan<R>these days.<W><E>"
+     "en": "Man:<R>Lots more tourists<R>from Gidan these days.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#285",
      "jp": "男：<R>ギダンから来たんだが、この騒ぎ<R>のせいで修行どころじゃないよ。<W><E>",
-     "en": "Man:<R>I came from Gidan, but with all<R>this commotion, training is out<R>of the question.<W><E>"
+     "en": "Man:<R>I came from Gidan, but with<W><H>all this commotion, training<R>is out of the question.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#286",
      "jp": "老人：<R>魂のふるさと、<R>ダナスピは永遠なのだ。<W><E>",
-     "en": "Old Man:<R>Danaspi, home of the soul, is<R>eternal.<W><E>"
+     "en": "Old Man:<R>Danaspi, home of the<R>soul, is eternal.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#287",
      "jp": "老人：<R>また観光客が増えて<R>騒々しくなったな。<W><E>",
-     "en": "Old Man:<R>More tourists again, and noisier<R>for it.<W><E>"
+     "en": "Old Man:<R>More tourists again,<R>and noisier for it.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#288",
      "jp": "老人：<R>何ということだ……<R>おちおち外を散歩もできん。<W><E>",
-     "en": "Old Man:<R>What is the world coming to... A<R>man can't even take a walk in<R>peace.<W><E>"
+     "en": "Old Man:<R>What is the world coming<W><H>to... A man can't even<R>take a walk in peace.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#289",
@@ -1457,32 +1457,32 @@
     {
      "id": "2D/DMPS/D01_00@62000#290",
      "jp": "女：<R>ここは観光の町だから、<R>人が多いのはいいことだわ。<W><E>",
-     "en": "Woman:<R>This is a tourist town, so lots of<R>people is a good thing.<W><E>"
+     "en": "Woman:<R>This is a tourist town, so lots<R>of people is a good thing.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#291",
      "jp": "女：<R>ああ、やだやだ。<R>ぶっそうなこと……<W><E>",
-     "en": "Woman:<R>Oh, how awful. Such dangerous<R>times...<W><E>"
+     "en": "Woman:<R>Oh, how awful. Such<R>dangerous times...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#292",
      "jp": "男：<R>町が解放されてうれしいよ。<W><E>",
-     "en": "Man:<R>I'm glad the town's been<R>liberated.<W><E>"
+     "en": "Man:<R>I'm glad the town's<R>been liberated.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#293",
      "jp": "男：<R>ダナスピ陛下の平和への願いが<R>全世界に広がれば良いのですが。<W><E>",
-     "en": "Man:<R>If only His Majesty Danaspi's wish<R>for peace would spread to the<R>whole world.<W><E>"
+     "en": "Man:<R>If only His Majesty Danaspi's<W><H>wish for peace would spread to<R>the whole world.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#294",
      "jp": "男：<R>武力で人の心を<R>支配することはできんぞ。<W><E>",
-     "en": "Man:<R>You can't rule people's hearts by<R>force.<W><E>"
+     "en": "Man:<R>You can't rule people's<R>hearts by force.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#295",
      "jp": "ペンキ屋：<R>わしは、絵の道を志して<R>ここで修行をしているんじゃ。<W><H>ふむ、あんたの船を好きな色に<R>ぬりかえてやってもいいが。<W><E>",
-     "en": "Painter:<R>I've set my heart on the path of<R>painting, and I train here.<W><H>Hmm, I could repaint your ship any<R>color you like.<W><E>"
+     "en": "Painter:<R>I've set my heart on the path<R>of painting, and I train here.<W><H>Hmm, I could repaint your<R>ship any color you like.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#296",
@@ -1492,12 +1492,12 @@
     {
      "id": "2D/DMPS/D01_00@62000#297",
      "jp": "ペンキ屋：<R>絵の道はまだまだ<R>けわしいわい……<W><E>",
-     "en": "Painter:<R>The path of painting is still a<R>steep one...<W><E>"
+     "en": "Painter:<R>The path of painting is<R>still a steep one...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#298",
      "jp": "<F62>：<R>もう宮殿に用はないな。<W><E>",
-     "en": "<F62>:<R>Nothing left for me at the<R>palace.<W><E>"
+     "en": "<F62>:<R>Nothing left for<R>me at the palace.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#299",
@@ -1507,22 +1507,22 @@
     {
      "id": "2D/DMPS/D01_00@62000#300",
      "jp": "<F62>：<R>いま、礼拝堂に入っても<R>しょうがないな。<W><E>",
-     "en": "<F62>:<R>No point going into the chapel<R>right now.<W><E>"
+     "en": "<F62>:<R>No point going into<R>the chapel right now.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#301",
      "jp": "<F62>：<R>礼拝堂だ。<R>入ってもしょうがないな。<W><E>",
-     "en": "<F62>:<R>It's the chapel. No point going<R>in.<W><E>"
+     "en": "<F62>:<R>It's the chapel.<R>No point going in.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#302",
      "jp": "<F62>：<R>いや……オデナウデたちを<R>追いかけた方がいいな。<W><E>",
-     "en": "<F62>:<R>No... I'd better go after Odenaude<R>and the others.<W><E>"
+     "en": "<F62>:<R>No... I'd better go after<R>Odenaude and the others.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#303",
      "jp": "カフィ中佐：<R>待って、<F62>。<W><H>ダナスピ国王陛下を<R>お助けしなくていいの？<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Wait, <F62>.<W><H>Shouldn't we rescue His Majesty<R>King Danaspi?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Wait, <F62>.<W><H>Shouldn't we rescue His<R>Majesty King Danaspi?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#304",

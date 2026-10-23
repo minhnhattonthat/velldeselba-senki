@@ -447,22 +447,22 @@
     {
      "id": "2D/FMPS/F11_00@3c800#88",
      "jp": "ム連兵：<R>ここに新たな前線基地を<R>作るんだ！　急げ！<W><E>",
-     "en": "Federation Soldier:<R>We're building a new forward base<R>here! Hurry!<W><E>"
+     "en": "Federation Soldier:<R>We're building a new<R>forward base here! Hurry!<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#89",
      "jp": "ム連兵：<R>浮遊島はここにも<R>攻めてくるのかね？<W><E>",
-     "en": "Federation Soldier:<R>You think the floating island will<R>come attack us here too?<W><E>"
+     "en": "Federation Soldier:<R>You think the floating island<R>will come attack us here too?<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#90",
      "jp": "ム連兵：<R>パナスガルのシデル親衛部隊が<R>本格的に動き出したみたいだね。<W><E>",
-     "en": "Federation Soldier:<R>Looks like Sidel's Royal Guard<R>units at Panasgal have started<R>moving in earnest.<W><E>"
+     "en": "Federation Soldier:<R>Looks like Sidel's Royal<W><H>Guard units at Panasgal have<R>started moving in earnest.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#91",
      "jp": "ム連兵：<R>物資の搬入を急げ！<W><E>",
-     "en": "Federation Soldier:<R>Hurry up and bring in those<R>supplies!<W><E>"
+     "en": "Federation Soldier:<R>Hurry up and bring<R>in those supplies!<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#92",
@@ -472,12 +472,12 @@
     {
      "id": "2D/FMPS/F11_00@3c800#93",
      "jp": "ム連兵：<R>新型の砲弾が完成したんだぜ！<R>もう配給してもらった？<W><E>",
-     "en": "Federation Soldier:<R>They've finished a new type of<R>shell! Have you gotten yours<R>yet?<W><E>"
+     "en": "Federation Soldier:<R>They've finished a new<W><H>type of shell! Have<R>you gotten yours yet?<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#94",
      "jp": "マハシ大佐：<R>やあ、<F62>大尉！<W><H>もう配給部には行ったかな？<R>新型の砲弾が完成したんだ、<R>うけとってくれ。<W><H>わたしはここを守るから、<R>君たちは心おきなくパナスガルに<R>向かってくれ。<W><H>すでにパナスガルは敵の手に<R>落ちたらしい。<R>次は隣のアヤメミが危ないぞ！<W><E>",
-     "en": "Colonel Mahashi:<R>Hey, Captain <F62>!<W><H>Have you been to the Supply Office<R>yet? They've finished a new type<R>of shell. Go pick some up.<W><H>I'll hold this place, so you all<R>can head for Panasgal without<R>worrying.<W><H>It seems Panasgal has already<R>fallen to the enemy. Ayamemi next<R>door is in danger next!<W><E>"
+     "en": "Colonel Mahashi:<R>Hey, Captain <F62>!<W><H>Have you been to the Supply Office<R>yet? They've finished a new type<R>of shell. Go pick some up.<W><H>I'll hold this place, so<R>you all can head for<R>Panasgal without worrying.<W><H>It seems Panasgal has already<R>fallen to the enemy. Ayamemi<R>next door is in danger next!<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#95",
@@ -492,12 +492,12 @@
     {
      "id": "2D/FMPS/F11_00@3c800#97",
      "jp": "ム連邦士官：<R>アヤメミはパナスガルの北にある<R>小さな基地だ。<W><E>",
-     "en": "Federation Officer:<R>Ayamemi is a small base north of<R>Panasgal.<W><E>"
+     "en": "Federation Officer:<R>Ayamemi is a small base<R>north of Panasgal.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#98",
      "jp": "配給係：<R>知ってますか？<W><H>カチタ中佐の部隊が研究してた、<R>「ホーミング魚雷」が<R>完成したんですよ。<W><H>プロペラ魚雷に有線誘導式の<R>安定翼をつけた誘導弾です。<W><H>ちょっとコントロールが<R>難しいかもしれませんが、<W><H>これがあれば親衛隊の装甲を<R>打ち破れますよ！<R>持ってってください。<W><E>",
-     "en": "Quartermaster:<R>Have you heard?<W><H>The \"homing torpedo\" Lieutenant<R>Colonel Kachita's unit was<R>researching is finished.<W><H>It's a guided shell: a propeller<R>torpedo fitted with wire-guided<R>stabilizer fins.<W><H>It might be a little hard to<R>control, though...<W><H>With these, you can break through<R>the Royal Guard's armor! Take some<R>with you.<W><E>"
+     "en": "Quartermaster:<R>Have you heard?<W><H>The \"homing torpedo\" Lieutenant<R>Colonel Kachita's unit was<R>researching is finished.<W><H>It's a guided shell: a<R>propeller torpedo fitted with<R>wire-guided stabilizer fins.<W><H>It might be a little hard<R>to control, though...<W><H>With these, you can break<R>through the Royal Guard's<R>armor! Take some with you.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#99",
@@ -507,7 +507,7 @@
     {
      "id": "2D/FMPS/F11_00@3c800#100",
      "jp": "配給係：<R>これからの長旅にそなえて、<R>いっぱい持ってってください。<W><E>",
-     "en": "Quartermaster:<R>Take plenty with you for the long<R>journey ahead.<W><E>"
+     "en": "Quartermaster:<R>Take plenty with you for<R>the long journey ahead.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#101",
@@ -517,7 +517,7 @@
     {
      "id": "2D/FMPS/F11_00@3c800#102",
      "jp": "配給係：<R>長い道中、どうかお気をつけて。<W><E>",
-     "en": "Quartermaster:<R>Please be careful on your long<R>journey.<W><E>"
+     "en": "Quartermaster:<R>Please be careful on<R>your long journey.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#103",
@@ -527,22 +527,22 @@
     {
      "id": "2D/FMPS/F11_00@3c800#104",
      "jp": "ム連兵：<R>パナスガルは小さな基地さ。<R>狙われたらひとたまりもないよ。<W><E>",
-     "en": "Federation Soldier:<R>Panasgal's a small base. If they<R>target it, it won't stand a<R>chance.<W><E>"
+     "en": "Federation Soldier:<R>Panasgal's a small base.<W><H>If they target it, it<R>won't stand a chance.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#105",
      "jp": "ム連兵：<R>ホウノム島が襲って<R>来ませんように……<W><E>",
-     "en": "Federation Soldier:<R>Please don't let Hounom Island<R>come attack us...<W><E>"
+     "en": "Federation Soldier:<R>Please don't let Hounom<R>Island come attack us...<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#106",
      "jp": "ム連兵：<R>この町の民間人は全員<R>避難したよ。<W><E>",
-     "en": "Federation Soldier:<R>All the civilians in this town<R>have been evacuated.<W><E>"
+     "en": "Federation Soldier:<R>All the civilians in this<R>town have been evacuated.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#107",
      "jp": "次の補給基地はムノギイだな。<R>よし、行くか。<W><E>",
-     "en": "The next supply base is Munogi.<R>All right, let's go.<W><E>"
+     "en": "The next supply base is<R>Munogi. All right, let's go.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#108",

@@ -537,7 +537,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#106",
      "jp": "カフィ：<R>さっき帰ったわ。<W><H>次の作戦の準備があるん<R>ですって。<W><E>",
-     "en": ""
+     "en": "Kafi:<R>She went back a little while<R>ago.<W><H>She said she has to get ready for<R>the next operation.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#107",
@@ -962,7 +962,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#191",
      "jp": "ハウエズナ：<R>樹海だろうが何だろうが<R>……ほ、ほんとに平気です。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Forest or no forest... i-it really<R>doesn't bother me.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#192",
@@ -1027,7 +1027,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#204",
      "jp": "ハウエズナ：<R>せっかくですが、<R>わたしはお酒に弱くて……<W><H>ただ、空賊がどんなことを<R>考えているのか、知りたい<R>ところではあります。<W><H>あとで詳しく教えてください。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>Kind of you to offer, but I can't<R>hold my liquor...<W><H>Still, I would like to know what<R>sky pirates think about.<W><H>Please tell me all about it<R>later.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#205",
@@ -1082,7 +1082,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#215",
      "jp": "<F62>：<R>また病院で会ったな。<W><H>あのメーアって看護婦に<R>大事な用でもあるのか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Ran into you at the hospital<R>again.<W><H>Got some important business with<R>that nurse, Meer?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#216",
@@ -1097,7 +1097,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#218",
      "jp": "<F62>：<R>おまえとメーアは本当に<R>仲がいいんだな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>You and Meer really get along,<R>huh?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#219",
@@ -1402,7 +1402,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#279",
      "jp": "オユ・キクル：<R>でも少尉……ホントのホントに<R>空賊になっちゃうんですか？<W><H>カフィ中佐、怒るかなあ……<W><E>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>But Lieutenant... are you really,<R>truly going to become a sky<R>pirate?<W><H>I wonder if Colonel Kafi will be<R>mad...<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#280",
@@ -1677,7 +1677,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#334",
      "jp": "フラグナム：<R>曹長のフラグナムです。<R>以後よろしくお願いいたします。<W><E>",
-     "en": ""
+     "en": "Fragnum:<R>I am Sergeant Major Fragnum. I<R>look forward to serving with<R>you.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#335",
@@ -2202,7 +2202,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#439",
      "jp": "グールド：<R>あ、相棒ががんばっているのに<R>お、俺だけ降りるわけには……<W><H>うええ。<W><E>",
-     "en": ""
+     "en": "Gould:<R>M-my partner's giving it his<R>all... I c-can't be the only one<R>to bail...<W><H>Urrgh.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#440",
@@ -2912,7 +2912,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#581",
      "jp": "秘書：<R>相手にもしてもらえない<R>社長が気の毒で……<W><E>",
-     "en": ""
+     "en": "Secretary:<R>I feel so sorry for the president.<R>She won't even give him the time<R>of day...<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#582",
@@ -3737,7 +3737,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#746",
      "jp": "ハウエズナ：<R>せっかくですが、わたしは、<R>船を残しては行けません。<W><E>",
-     "en": ""
+     "en": "Hauezna:<R>I appreciate the offer, but I<R>can't leave the ship behind,<R>sir.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#747",
@@ -4702,17 +4702,17 @@
     {
      "id": "2D/IMPS/I03_00@44000#939",
      "jp": "ミルト少尉：<R>なあ、カ・ジャルコ。<W><H>いつまで軍にいるつもり<R>なんだい？<W><E>",
-     "en": "Second Lieutenant Milt:<R>Say, Ka Jarko.<W><H>How long are you planning to stay<R>in the army?<W><E>"
+     "en": "Second Lieutenant Milt:<R>Say, Ka Jarko.<W><H>How long are you planning<R>to stay in the army?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#940",
      "jp": "カ・ジャルコ：<R>やめる気はないわよ。<W><E>",
-     "en": "Ka Jarko:<R>I've got no intention of<R>quitting.<W><E>"
+     "en": "Ka Jarko:<R>I've got no intention<R>of quitting.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#941",
      "jp": "ミルト少尉：<R>おねがいだ、ぼくの気持ちにも<R>なってみてくれよ。<W><H>前線にいる君のことを考えると、<R>とっても心配なんだ。<W><E>",
-     "en": "Second Lieutenant Milt:<R>Please, try to see it from my<R>side.<W><H>When I think of you out on the<R>front lines, I get so worried.<W><E>"
+     "en": "Second Lieutenant Milt:<R>Please, try to see<R>it from my side.<W><H>When I think of you out on the<R>front lines, I get so worried.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#942",
@@ -4727,7 +4727,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#944",
      "jp": "カ・ジャルコ：<R>この戦争をはやく終わらせる<R>ためよ。<W><H>あなたも軍人になったんだから<R>わかるでしょ？<W><H>今が一番重要なときなのよ。<W><E>",
-     "en": "Ka Jarko:<R>It's so this war ends sooner.<W><H>You're a soldier now too, so you<R>understand, right?<W><H>This is the most important time of<R>all.<W><E>"
+     "en": "Ka Jarko:<R>It's so this war ends sooner.<W><H>You're a soldier now too,<R>so you understand, right?<W><H>This is the most<R>important time of all.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#945",
@@ -4737,32 +4737,32 @@
     {
      "id": "2D/IMPS/I03_00@44000#946",
      "jp": "ギダン兵：<R>この船は、イ・デムを通って、<W><H>ワンクまで行く予定だよ。<W><E>",
-     "en": "Gidan Soldier:<R>This ship is going by way of<R>I-Dem,<W><H>and on to Wanku.<W><E>"
+     "en": "Gidan Soldier:<R>This ship is going<R>by way of I-Dem,<W><H>and on to Wanku.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#947",
      "jp": "カ・ジャルコ：<R>あら、ニ・デム島には<R>寄らないの？<W><E>",
-     "en": "Ka Jarko:<R>Oh, you're not stopping at Ni-Dem<R>Island?<W><E>"
+     "en": "Ka Jarko:<R>Oh, you're not stopping<R>at Ni-Dem Island?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#948",
      "jp": "ギダン兵：<R>ニ・デムはどこかに<R>移動させてるらしい。<W><E>",
-     "en": "Gidan Soldier:<R>Seems they're moving Ni-Dem<R>somewhere.<W><E>"
+     "en": "Gidan Soldier:<R>Seems they're moving<R>Ni-Dem somewhere.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#949",
      "jp": "カ・ジャルコ：<R>ふうん……<R>どうするつもりなんだろう？<W><E>",
-     "en": "Ka Jarko:<R>Hmm... I wonder what they're<R>planning?<W><E>"
+     "en": "Ka Jarko:<R>Hmm... I wonder what<R>they're planning?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#950",
      "jp": "ギダン兵：<R>シデル提督のお考えだ。<R>俺たちにはわからんよ。<W><E>",
-     "en": "Gidan Soldier:<R>It's Admiral Sidel's idea. Guys<R>like us wouldn't know.<W><E>"
+     "en": "Gidan Soldier:<R>It's Admiral Sidel's idea.<R>Guys like us wouldn't know.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#951",
      "jp": "ギダン兵：<R>イ・デムを通って、<R>ワンクまで行く予定だよ。<W><E>",
-     "en": "Gidan Soldier:<R>We're going by way of I-Dem, and<R>on to Wanku.<W><E>"
+     "en": "Gidan Soldier:<R>We're going by way of<R>I-Dem, and on to Wanku.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#952",
@@ -4782,7 +4782,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#955",
      "jp": "ミルト少尉：<R>短かい時間だったけど、<R>とても楽しかったよ。<W><H>あのさ、カ・ジャルコ。<W><H>君との旅の記念に、<R>この飛行日誌に何か書いて<R>行ってくれないか？<W><E>",
-     "en": "Second Lieutenant Milt:<R>It was a short time, but it was<R>really fun.<W><H>Hey, Ka Jarko.<W><H>To remember our trip together,<R>would you write something in this<R>flight log before you go?<W><E>"
+     "en": "Second Lieutenant Milt:<R>It was a short time,<R>but it was really fun.<W><H>Hey, Ka Jarko.<W><H>To remember our trip together,<R>would you write something in<R>this flight log before you go?<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#956",
@@ -4802,7 +4802,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#959",
      "jp": "ミルト少尉：<R>カ・ジャルコ、<W><H>ぼくはこれからワンクまで<R>いかなきゃならない……<W><H>これでまたしばらくお別れだね。<W><E>",
-     "en": "Second Lieutenant Milt:<R>Ka Jarko,<W><H>I have to go on to Wanku now...<W><H>So we're apart again for a<R>while.<W><E>"
+     "en": "Second Lieutenant Milt:<R>Ka Jarko,<W><H>I have to go on to Wanku now...<W><H>So we're apart<R>again for a while.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#960",
@@ -4812,7 +4812,7 @@
     {
      "id": "2D/IMPS/I03_00@44000#961",
      "jp": "ミルト少尉：<R>いま外に出ちゃ危ないよ、<R>カ・ジャルコ。<W><E>",
-     "en": "Second Lieutenant Milt:<R>It's dangerous to go outside right<R>now, Ka Jarko.<W><E>"
+     "en": "Second Lieutenant Milt:<R>It's dangerous to go outside<R>right now, Ka Jarko.<W><E>"
     },
     {
      "id": "2D/IMPS/I03_00@44000#962",

@@ -7,12 +7,12 @@
     {
      "id": "3D/KMPS3/K32#0",
      "jp": "ハウエズナ：<R>ガゼラントが２機、<R>こっちへ向かってきます。<R><@14><%S><_00>：<R>ゼシカたちが逃げるまで<R>時間かせぎだ！<R><@14>総員戦闘配置！<R><@0a>",
-     "en": "Hauezna:<R>Two Gazelants are heading this<R>way.<R><@14><%S><_00>:<R>Buy time till Zeshika and the<R>others escape!<R><@14>All hands, battle stations!<R><@0a>"
+     "en": "Hauezna:<R>Two Gazelants are<R>heading this way.<R><@14><%S><_00>:<R>Buy time till Zeshika<R>and the others escape!<R><@14>All hands, battle stations!<R><@0a>"
     },
     {
      "id": "3D/KMPS3/K32#1",
      "jp": "<%S><_00>：<R>よし、もう大丈夫だろう。<R>デナムスへ引き上げるぞ。<R><@20>",
-     "en": "<%S><_00>:<R>All right, they should be safe<R>now. Back to Denamus.<R><@20>"
+     "en": "<%S><_00>:<R>All right, they should be<R>safe now. Back to Denamus.<R><@20>"
     }
    ]
   }

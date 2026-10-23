@@ -447,7 +447,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#88",
      "jp": "ノイパスク兵：<R>少尉、長官がお呼びです。<R>至急司令部へ。<W><E>",
-     "en": "Noipask Soldier:<R>Lieutenant, the Commander is<R>calling for you. To<R>headquarters, at once.<W><E>"
+     "en": "Noipask Soldier:<R>Lieutenant, the Commander<W><H>is calling for you. To<R>headquarters, at once.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#89",
@@ -457,7 +457,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#90",
      "jp": "<F62>：<R>とうてい勝てる戦いだとは<R>思いませんね。<W><E>",
-     "en": "<F62>:<R>Can't say I think it's a war we<R>can win.<W><E>"
+     "en": "<F62>:<R>Can't say I think it's<R>a war we can win.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#91",
@@ -472,22 +472,22 @@
     {
      "id": "2D/GMPS/G11_00@51800#93",
      "jp": "ゼクセル大佐：<R>相変わらずだな。<W><H>その率直さには感服するよ、<R>少尉。<W><H>今日の会議はだな……<W><E>",
-     "en": "Colonel Zexel:<R>Same as ever, I see.<W><H>I do admire your candor,<R>Lieutenant.<W><H>Now, today's meeting...<W><E>"
+     "en": "Colonel Zexel:<R>Same as ever, I see.<W><H>I do admire your<R>candor, Lieutenant.<W><H>Now, today's meeting...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#94",
      "jp": "カフィ中佐：<R>長官！<W><H>ミデーレキサタへ撤退する<R>ようにと、本国からの命令です。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Commander!<W><H>Orders from the homeland: we're to<R>withdraw to Miderekisata.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Commander!<W><H>Orders from the homeland: we're<R>to withdraw to Miderekisata.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#95",
      "jp": "オデナウデ長官：<R>ミデーレキサタだと！？<W><H>ム連邦の街ではないか！<W><H>われわれノイパスクが、ム連邦の<R>ような低俗な連中にたすけを<R>求めるのか？<W><E>",
-     "en": "Commander Odenaude:<R>Miderekisata!?<W><H>That's a Federation city!<W><H>We Noipask, begging for help from<R>vulgar rabble like the<R>Federation?<W><E>"
+     "en": "Commander Odenaude:<R>Miderekisata!?<W><H>That's a Federation city!<W><H>We Noipask, begging for<R>help from vulgar rabble<R>like the Federation?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#96",
      "jp": "カフィ中佐：<R>しかし、このままナデス島で<R>戦い続けるつもりですか？<W><H>物資は不足しているし、<R>弾薬の補給もじゅうぶんに<R>できないのですよ！<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>But do you intend to keep fighting<R>here on Nades Island?<W><H>We're short of supplies, and we<R>can't get enough ammunition!<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>But do you intend to keep<R>fighting here on Nades Island?<W><H>We're short of supplies, and we<R>can't get enough ammunition!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#97",
@@ -502,32 +502,32 @@
     {
      "id": "2D/GMPS/G11_00@51800#99",
      "jp": "オデナウデ長官：<R>ム連邦に逃げるなど、<R>本国にもどったら笑いものだぞ！<W><E>",
-     "en": "Commander Odenaude:<R>Fleeing to the Federation? We'd be<R>a laughingstock back in the<R>homeland!<W><E>"
+     "en": "Commander Odenaude:<R>Fleeing to the Federation?<W><H>We'd be a laughingstock<R>back in the homeland!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#100",
      "jp": "ゼクセル大佐：<R>逃げる……？<W><H>ほんの一時、彼らを利用する<R>だけのことですよ、長官。<W><E>",
-     "en": "Colonel Zexel:<R>Fleeing...?<W><H>We'd merely be using them for a<R>short while, Commander.<W><E>"
+     "en": "Colonel Zexel:<R>Fleeing...?<W><H>We'd merely be using them for<R>a short while, Commander.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#101",
      "jp": "オデナウデ長官：<R>そ、そうか？<W><H>そういうことならかまわんが……<W><E>",
-     "en": "Commander Odenaude:<R>Wh-what?<W><H>Well, if that's how it is, I don't<R>mind...<W><E>"
+     "en": "Commander Odenaude:<R>Wh-what?<W><H>Well, if that's how it<R>is, I don't mind...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#102",
      "jp": "ゼクセル大佐：<R>カフィ中佐、ム連邦は撤退に<R>協力してくれるんだな？<W><E>",
-     "en": "Colonel Zexel:<R>Colonel Kafi, the Federation will<R>cooperate with our withdrawal,<R>then?<W><E>"
+     "en": "Colonel Zexel:<R>Colonel Kafi, the<W><H>Federation will cooperate<R>with our withdrawal, then?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#103",
      "jp": "カフィ中佐：<R>は、はい。<W><H>それには、まず<R>ミデーレキサタのム連邦軍と共に<R>計画を練る必要がありますが。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Y-yes, sir.<W><H>For that, though, we first need to<R>draw up a plan together with the<R>Federation forces in<R>Miderekisata.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Y-yes, sir.<W><H>For that, though, we first<R>need to draw up a plan<W><H>together with the Federation<R>forces in Miderekisata.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#104",
      "jp": "ゼクセル大佐：<R>では、<F62>少尉、<W><H>中佐に同行して、<R>ミデーレキサタに向かってくれ。<W><H>特別手当を支給するから、<R>配給部で受け取るがいい。<W><E>",
-     "en": "Colonel Zexel:<R>Then, Lieutenant <F62>,<W><H>accompany the Colonel and head to<R>Miderekisata.<W><H>You'll be granted a special<R>allowance. Collect it at the<R>Supply Office.<W><E>"
+     "en": "Colonel Zexel:<R>Then, Lieutenant <F62>,<W><H>accompany the Colonel and<R>head to Miderekisata.<W><H>You'll be granted a<R>special allowance. Collect<R>it at the Supply Office.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#105",
@@ -537,12 +537,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#106",
      "jp": "<F62>：<R>オデナウデは、ゼクセルを<R>ずいぶん信頼してるんだな。<W><E>",
-     "en": "<F62>:<R>Odenaude sure puts a lot of trust<R>in Zexel.<W><E>"
+     "en": "<F62>:<R>Odenaude sure puts a<R>lot of trust in Zexel.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#107",
      "jp": "カフィ中佐：<R>そうね。<W><H>彼がいなかったら<R>ナデス島はとっくに<R>占領されているでしょうね。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>He does.<W><H>If it weren't for him, Nades<R>Island would have been occupied<R>long ago.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>He does.<W><H>If it weren't for him,<R>Nades Island would have<R>been occupied long ago.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#108",
@@ -552,7 +552,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#109",
      "jp": "カフィ中佐：<R>ミデーレキサタまでは<R>とても危険な旅になるわ。<W><H>できるだけ良いエンジンを<R>積んでおいた方がいいわよ。<W><H>あ、そうだ。<W><H>ミデーレキサタに行く前に、<R>ちょっと病院に寄ってもいい？<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>The trip to Miderekisata is going<R>to be very dangerous.<W><H>You'd better fit the best engine<R>you can.<W><H>Oh, that's right.<W><H>Before we head to Miderekisata,<R>mind if we stop by the hospital?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>The trip to Miderekisata is<R>going to be very dangerous.<W><H>You'd better fit the<R>best engine you can.<W><H>Oh, that's right.<W><H>Before we head to Miderekisata,<R>mind if we stop by the hospital?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#110",
@@ -562,12 +562,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#111",
      "jp": "オユ・キクル：<R>街が空襲にあったんですって。<W><H>街の人たちは無事かしら……<R>気になるなぁ。<W><H>でもわたしたち、<R>ここを離れるわけには<R>いかないんですよね。<W><E>",
-     "en": "Oyu Kikuru:<R>I heard the town was hit by an air<R>raid!<W><H>I hope the townspeople are all<R>right... I'm so worried.<W><H>But we can't leave our post here,<R>can we?<W><E>"
+     "en": "Oyu Kikuru:<R>I heard the town was<R>hit by an air raid!<W><H>I hope the townspeople are<R>all right... I'm so worried.<W><H>But we can't leave our<R>post here, can we?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#112",
      "jp": "オユ・キクル：<R>街の人たちは無事かしら……<W><E>",
-     "en": "Oyu Kikuru:<R>I hope the townspeople are all<R>right...<W><E>"
+     "en": "Oyu Kikuru:<R>I hope the townspeople<R>are all right...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#113",
@@ -577,22 +577,22 @@
     {
      "id": "2D/GMPS/G11_00@51800#114",
      "jp": "<F62>：<R>だめだ。<R>みんな嘆くばかりで……<W><E>",
-     "en": "<F62>:<R>Not good. Everyone's just<R>grieving...<W><E>"
+     "en": "<F62>:<R>Not good. Everyone's<R>just grieving...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#115",
      "jp": "オユ・キクル：<R>そうですか……<W><H>そもそも、ノイパスク人全体が<R>疲れているのよ……<W><H>みんな、生きる目標を<R>見失っているみたい……<W><H>少尉、パトロールにでも<R>でかけませんか？<W><H>わたしたち、<R>船で準備してますから。<W><E>",
-     "en": "Oyu Kikuru:<R>I see...<W><H>The truth is, all of Noipask is<R>worn out...<W><H>It's like everyone's lost<R>something to live for...<W><H>Lieutenant, why don't we go out on<R>patrol or something?<W><H>We'll be getting ready on the<R>ship!<W><E>"
+     "en": "Oyu Kikuru:<R>I see...<W><H>The truth is, all of<R>Noipask is worn out...<W><H>It's like everyone's lost<R>something to live for...<W><H>Lieutenant, why don't we go<R>out on patrol or something?<W><H>We'll be getting<R>ready on the ship!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#116",
      "jp": "ハウエズナ：<R>空襲にあったそうですね。<R>なんてひどい……<W><E>",
-     "en": "Hauezna:<R>I heard there was an air raid. How<R>terrible...<W><E>"
+     "en": "Hauezna:<R>I heard there was an air<R>raid. How terrible...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#117",
      "jp": "ハウエズナ：<R>ノイパスク軍もずいぶんと戦力が<R>低下してしまいました。<W><E>",
-     "en": "Hauezna:<R>The Noipask army's fighting<R>strength has declined<R>considerably.<W><E>"
+     "en": "Hauezna:<R>The Noipask army's<W><H>fighting strength has<R>declined considerably.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#118",
@@ -602,17 +602,17 @@
     {
      "id": "2D/GMPS/G11_00@51800#119",
      "jp": "マスター：<R>もう店じまいだ。<R>終わりだ……全てが……<W><E>",
-     "en": "Bartender:<R>I'm closing up shop. It's over...<R>all of it...<W><E>"
+     "en": "Bartender:<R>I'm closing up shop. It's<R>over... all of it...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#120",
      "jp": "マスター：<R>また、敵襲か……<R>ここももうだめかな。<W><E>",
-     "en": "Bartender:<R>Another enemy attack... Maybe this<R>place is done for too.<W><E>"
+     "en": "Bartender:<R>Another enemy attack... Maybe<R>this place is done for too.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#121",
      "jp": "マスター：<R>この間のカップルじゃないか。<W><E>",
-     "en": "Bartender:<R>Well, if it isn't the couple from<R>the other day.<W><E>"
+     "en": "Bartender:<R>Well, if it isn't the<R>couple from the other day.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#122",
@@ -627,12 +627,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#124",
      "jp": "男：<R>酒でも薬でもいい……<R>お願いだから何かくれよぉ。<W><E>",
-     "en": "Man:<R>Booze, pills, anything... Please,<R>just give me something!<W><E>"
+     "en": "Man:<R>Booze, pills, anything...<R>Please, just give me something!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#125",
      "jp": "男：<R>ん？　あんた、<R>いい女を連れてるじゃないか。<W><E>",
-     "en": "Man:<R>Hm? Hey, that's a fine woman<R>you've got with you.<W><E>"
+     "en": "Man:<R>Hm? Hey, that's a fine<R>woman you've got with you.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#126",
@@ -642,27 +642,27 @@
     {
      "id": "2D/GMPS/G11_00@51800#127",
      "jp": "物知りじいさん：<R>ノイパスクの運命は<R>天のみぞ知る、じゃ……<W><E>",
-     "en": "Old Sage:<R>Noipask's fate... heaven alone<R>knows.<W><E>"
+     "en": "Old Sage:<R>Noipask's fate...<R>heaven alone knows.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#128",
      "jp": "物知りじいさん：<R>誇り高きノイパスク人として、<R>わしはここで朽ちるとしよう……<W><H>カフィ、<F62>、<R>おまえたちは生き延びるんじゃ。<W><H>そして、『ベルデセルバ』全体の<R>ことを考えて行動するのじゃ。<W><E>",
-     "en": "Old Sage:<R>As a proud Noipask, I shall stay<R>here and wither away...<W><H>Kafi, <F62>, you two must<R>survive.<W><H>And act with all of 'Velldeselba'<R>in mind.<W><E>"
+     "en": "Old Sage:<R>As a proud Noipask, I shall<R>stay here and wither away...<W><H>Kafi, <F62>, you<R>two must survive.<W><H>And act with all of<R>'Velldeselba' in mind.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#129",
      "jp": "物知りじいさん：<R>誇り高きノイパスク人として、<R>わしはここで朽ちるとしよう……<W><H><F62>よ、<R>おまえは生き延びるんじゃ。<W><H>そして、『ベルデセルバ』全体の<R>ことを考えて行動するのじゃ。<W><E>",
-     "en": "Old Sage:<R>As a proud Noipask, I shall stay<R>here and wither away...<W><H><F62>, you must survive.<W><H>And act with all of 'Velldeselba'<R>in mind.<W><E>"
+     "en": "Old Sage:<R>As a proud Noipask, I shall<R>stay here and wither away...<W><H><F62>, you must survive.<W><H>And act with all of<R>'Velldeselba' in mind.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#130",
      "jp": "物知りじいさん：<R>『ベルデセルバ』全体のことを<R>考えて行動するのじゃ。<W><E>",
-     "en": "Old Sage:<R>Act with all of 'Velldeselba' in<R>mind.<W><E>"
+     "en": "Old Sage:<R>Act with all of<R>'Velldeselba' in mind.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#131",
      "jp": "女：<R>ゴホゴホ……<R>ああ、気が滅入る……<W><E>",
-     "en": "Woman:<R>Cough, cough... Oh, this is so<R>depressing...<W><E>"
+     "en": "Woman:<R>Cough, cough... Oh, this<R>is so depressing...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#132",
@@ -672,47 +672,47 @@
     {
      "id": "2D/GMPS/G11_00@51800#133",
      "jp": "看護婦：<R>少尉さん、ご無事で何よりですわ。<W><E>",
-     "en": "Nurse:<R>Lieutenant, I'm so glad you're<R>safe.<W><E>"
+     "en": "Nurse:<R>Lieutenant, I'm so<R>glad you're safe.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#134",
      "jp": "看護婦：<R>もういや……ギダン軍をはやく<R>おっぱらってください！<W><E>",
-     "en": "Nurse:<R>I can't take it anymore... Please<R>hurry and drive the Gidan army<R>out!<W><E>"
+     "en": "Nurse:<R>I can't take it anymore...<W><H>Please hurry and drive the<R>Gidan army out!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#135",
      "jp": "看護婦：<R>カフィ中佐、また兵士たちの<R>お見舞いですか？<W><E>",
-     "en": "Nurse:<R>Colonel Kafi, visiting the<R>soldiers again?<W><E>"
+     "en": "Nurse:<R>Colonel Kafi, visiting<R>the soldiers again?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#136",
      "jp": "看護婦：<R>わたし、もうこんな環境に<R>耐えきれません……<W><E>",
-     "en": "Nurse:<R>I can't bear these conditions any<R>longer...<W><E>"
+     "en": "Nurse:<R>I can't bear these<R>conditions any longer...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#137",
      "jp": "ドクター：<R>ム連邦政府から届いた薬も、<R>底をつきそうだ……<W><H>薬さえあれば、<R>助かる患者もいるのに………<W><H>こんな状態で戦争したって<R>勝てるわけがないよ。<W><E>",
-     "en": "Doctor:<R>Even the medicine the Federation<R>government sent is about to run<R>out...<W><H>If only we had medicine, some of<R>the patients could be<R>saved......<W><H>There's no way to win a war in a<R>state like this.<W><E>"
+     "en": "Doctor:<R>Even the medicine the<W><H>Federation government sent<R>is about to run out...<W><H>If only we had medicine,<R>some of the patients<R>could be saved......<W><H>There's no way to win a<R>war in a state like this.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#138",
      "jp": "ドクター：<R>薬さえあれば、<R>助かる患者もいるのに………<W><E>",
-     "en": "Doctor:<R>If only we had medicine, some of<R>the patients could be<R>saved......<W><E>"
+     "en": "Doctor:<R>If only we had medicine,<W><H>some of the patients<R>could be saved......<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#139",
      "jp": "ドクター：<R>ここにかつぎ込まれるような<R>ことはないようにな……<W><E>",
-     "en": "Doctor:<R>Try not to end up being carried in<R>here...<W><E>"
+     "en": "Doctor:<R>Try not to end up being<R>carried in here...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#140",
      "jp": "ドクター：<R>ああ、カフィ中佐。<W><H>いつもお心づかいをいただき、<R>痛み入ります。<W><H>だが、もう限界ですよ。<W><H>薬がないんです！<W><H>痛み止めに、危険な<R>麻薬を使っている始末だ。<W><H>いったいどうしたら<R>いいんでしょう。<W><E>",
-     "en": "Doctor:<R>Ah, Colonel Kafi.<W><H>I'm grateful, as always, for your<R>concern.<W><H>But we're at our limit.<W><H>We have no medicine!<W><H>We've been reduced to using<R>dangerous narcotics as<R>painkillers.<W><H>What on earth are we supposed to<R>do?<W><E>"
+     "en": "Doctor:<R>Ah, Colonel Kafi.<W><H>I'm grateful, as always,<R>for your concern.<W><H>But we're at our limit.<W><H>We have no medicine!<W><H>We've been reduced to<R>using dangerous narcotics<R>as painkillers.<W><H>What on earth are<R>we supposed to do?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#141",
      "jp": "カフィ中佐：<R>そうなの……<W><H>わかったわ。<R>なんとかしてみる……<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>I see...<W><H>All right. I'll see what I can<R>do...<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>I see...<W><H>All right. I'll see<R>what I can do...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#142",
@@ -722,12 +722,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#143",
      "jp": "ドクター：<R>カフィ中佐、<R>薬がないんです！<W><E>",
-     "en": "Doctor:<R>Colonel Kafi, we have no<R>medicine!<W><E>"
+     "en": "Doctor:<R>Colonel Kafi, we<R>have no medicine!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#144",
      "jp": "ドクター：<R><F62>少尉、<R>薬がないんです！<W><E>",
-     "en": "Doctor:<R>Lieutenant <F62>, we have no<R>medicine!<W><E>"
+     "en": "Doctor:<R>Lieutenant <F62>,<R>we have no medicine!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#145",
@@ -757,12 +757,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#150",
      "jp": "患者：<R>はやく病院から出してくれ。<W><E>",
-     "en": "Patient:<R>Get me out of this hospital,<R>quick.<W><E>"
+     "en": "Patient:<R>Get me out of this<R>hospital, quick.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#151",
      "jp": "管制員：<R>おまえらのおかげで、<R>街はひどい損害だ！<W><E>",
-     "en": "Controller:<R>Thanks to you lot, the town took<R>heavy damage!<W><E>"
+     "en": "Controller:<R>Thanks to you lot, the<R>town took heavy damage!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#152",
@@ -777,22 +777,22 @@
     {
      "id": "2D/GMPS/G11_00@51800#154",
      "jp": "管制員：<R>これはカフィ中佐。何で<R>こんなヤツとごいっしょで……？<W><E>",
-     "en": "Controller:<R>Oh, Colonel Kafi. Why are you with<R>a guy like this...?<W><E>"
+     "en": "Controller:<R>Oh, Colonel Kafi. Why are<R>you with a guy like this...?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#155",
      "jp": "管制員：<R>なにをしてるんだ？<R>はやく出発したらどうだ。<W><E>",
-     "en": "Controller:<R>What are you doing? Why don't you<R>get going already?<W><E>"
+     "en": "Controller:<R>What are you doing? Why<R>don't you get going already?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#156",
      "jp": "ノイパスク兵：<R>ついに、ナデス島を捨てるときが<R>来たんですね……<W><E>",
-     "en": "Noipask Soldier:<R>So the time has finally come to<R>abandon Nades Island...<W><E>"
+     "en": "Noipask Soldier:<R>So the time has finally come<R>to abandon Nades Island...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#157",
      "jp": "ノイパスク兵：<R>ここにとどまっても、<R>死を待つようなものですから。<W><E>",
-     "en": "Noipask Soldier:<R>Staying here would just mean<R>waiting to die.<W><E>"
+     "en": "Noipask Soldier:<R>Staying here would just<R>mean waiting to die.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#158",
@@ -827,7 +827,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#164",
      "jp": "ノイパスク兵：<R>中佐、ム連邦に下るというのは<R>本当でありますか？<W><E>",
-     "en": "Noipask Soldier:<R>Colonel, is it true we're going<R>over to the Federation?<W><E>"
+     "en": "Noipask Soldier:<R>Colonel, is it true we're<R>going over to the Federation?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#165",
@@ -837,37 +837,37 @@
     {
      "id": "2D/GMPS/G11_00@51800#166",
      "jp": "ノイパスク兵：<R>この島の戦力だけでは<R>もう限界だ……<W><E>",
-     "en": "Noipask Soldier:<R>This island's forces alone can't<R>hold out much longer...<W><E>"
+     "en": "Noipask Soldier:<R>This island's forces alone<R>can't hold out much longer...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#167",
      "jp": "ノイパスク兵：<R>もうわれわれが生き残る道は<R>……ないのでしょうか。<W><E>",
-     "en": "Noipask Soldier:<R>Is there... no way left for us to<R>survive?<W><E>"
+     "en": "Noipask Soldier:<R>Is there... no way left<R>for us to survive?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#168",
      "jp": "オデナウデ長官：<R>その悪運の強さを見せるがいい！<W><E>",
-     "en": "Commander Odenaude:<R>Let's see that dumb luck of<R>yours!<W><E>"
+     "en": "Commander Odenaude:<R>Let's see that dumb<R>luck of yours!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#169",
      "jp": "オデナウデ長官：<R>ゼクセルがどうしてもと言うから<R>きさまを行かせるのだ。<W><H>ぶざまな結果は許さんぞ。<W><E>",
-     "en": "Commander Odenaude:<R>I'm only sending you because Zexel<R>insisted.<W><H>I won't tolerate a disgraceful<R>showing.<W><E>"
+     "en": "Commander Odenaude:<R>I'm only sending you<R>because Zexel insisted.<W><H>I won't tolerate a<R>disgraceful showing.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#170",
      "jp": "オデナウデ長官：<R>ぶざまな結果は許さんぞ！<W><E>",
-     "en": "Commander Odenaude:<R>I won't tolerate a disgraceful<R>showing!<W><E>"
+     "en": "Commander Odenaude:<R>I won't tolerate a<R>disgraceful showing!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#171",
      "jp": "オデナウデ長官：<R>どこまでできるか、とくと<R>見させてもらうぞ。<W><E>",
-     "en": "Commander Odenaude:<R>I'll be watching closely to see<R>just how far you get.<W><E>"
+     "en": "Commander Odenaude:<R>I'll be watching closely to<R>see just how far you get.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#172",
      "jp": "ゼクセル大佐：<R>何をしている？<R>おまえも向かうのだ、少尉！<W><E>",
-     "en": "Colonel Zexel:<R>What are you doing? You're going<R>too, Lieutenant!<W><E>"
+     "en": "Colonel Zexel:<R>What are you doing? You're<R>going too, Lieutenant!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#173",
@@ -877,7 +877,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#174",
      "jp": "ゼクセル大佐：<R>何としても任務を<R>成功させるのだ。<W><E>",
-     "en": "Colonel Zexel:<R>You must succeed in this mission,<R>whatever it takes.<W><E>"
+     "en": "Colonel Zexel:<R>You must succeed in this<R>mission, whatever it takes.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#175",
@@ -892,7 +892,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#177",
      "jp": "ゼクセル大佐：<R>少尉、調子よさそうじゃないか？<W><E>",
-     "en": "Colonel Zexel:<R>Lieutenant, you seem to be doing<R>well.<W><E>"
+     "en": "Colonel Zexel:<R>Lieutenant, you seem<R>to be doing well.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#178",
@@ -902,7 +902,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#179",
      "jp": "ゼクセル大佐：<R>どうやら、わたしの目に狂いは<R>なかったようだな。<W><H>君ならうまくやれると<R>思っていたよ。<W><E>",
-     "en": "Colonel Zexel:<R>It seems my eye did not deceive<R>me.<W><H>I thought you would do well.<W><E>"
+     "en": "Colonel Zexel:<R>It seems my eye did<R>not deceive me.<W><H>I thought you would do well.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#180",
@@ -912,7 +912,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#181",
      "jp": "ゼクセル大佐：<R>君も、いろいろ思うところが<R>あるかもしれんが、<W><H>ぜひ、ノイパスクのために<R>働いてくれたまえ。<W><E>",
-     "en": "Colonel Zexel:<R>You may have your own thoughts<R>about all this,<W><H>but I do hope you'll work for<R>Noipask.<W><E>"
+     "en": "Colonel Zexel:<R>You may have your own<R>thoughts about all this,<W><H>but I do hope you'll<R>work for Noipask.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#182",
@@ -932,12 +932,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#185",
      "jp": "配給係：<R>初の実戦はどうだった？<W><H>えーと、はい、<R>これがあんたの給料だよ。<W><H>いいよなぁ、傭兵にしては<R>給料が多くて。<R>うらやましいよ。<W><H>幹部に特別なコネでも<R>あるのかい？<W><H>必要な弾薬類は空港の方に<R>送っておくから。<W><E>",
-     "en": "Quartermaster:<R>How was your first real battle?<W><H>Let's see... here you go, this is<R>your pay.<W><H>Must be nice. For a mercenary,<R>your pay's pretty high. I'm<R>jealous.<W><H>Got some special connection with<R>the brass?<W><H>I'll send the ammo you need over<R>to the airport.<W><E>"
+     "en": "Quartermaster:<R>How was your first real battle?<W><H>Let's see... here you<R>go, this is your pay.<W><H>Must be nice. For a<R>mercenary, your pay's<R>pretty high. I'm jealous.<W><H>Got some special<R>connection with the brass?<W><H>I'll send the ammo you<R>need over to the airport.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#186",
      "jp": "配給係：<R>貴重な弾なんだから、<R>大切に使ってくれよ。<W><E>",
-     "en": "Quartermaster:<R>That ammo's precious, so use it<R>carefully.<W><E>"
+     "en": "Quartermaster:<R>That ammo's precious,<R>so use it carefully.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#187",
@@ -947,12 +947,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#188",
      "jp": "配給係：<R>大切な弾なんだから、<W><H>くれぐれも無駄にしないで<R>くれよ。<W><E>",
-     "en": "Quartermaster:<R>This ammo's valuable,<W><H>so whatever you do, don't waste<R>it.<W><E>"
+     "en": "Quartermaster:<R>This ammo's valuable,<W><H>so whatever you do,<R>don't waste it.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#189",
      "jp": "配給係：<R>カフィ中佐、<R><F62>少尉。<W><H>ゼクセル大佐から<R>連絡を受けていますよ。<W><H>特別手当でしたよね。<W><E>",
-     "en": "Quartermaster:<R>Colonel Kafi, Lieutenant<R><F62>.<W><H>I've received word from Colonel<R>Zexel.<W><H>A special allowance, wasn't it?<W><E>"
+     "en": "Quartermaster:<R>Colonel Kafi,<R>Lieutenant <F62>.<W><H>I've received word<R>from Colonel Zexel.<W><H>A special allowance, wasn't it?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#190",
@@ -962,12 +962,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#191",
      "jp": "配給係：<R>ミデーレキサタに向かうのに<R>必要な物を買ってくださいね。<W><H>それから……そろそろエンジンを<R>買い替えておいた方がいいと<R>思いますよ。<W><H>もう替えちゃったんなら、<R>それでいいんですけどね。<W><E>",
-     "en": "Quartermaster:<R>Please buy whatever you need for<R>the trip to Miderekisata.<W><H>And... I think it's about time you<R>replaced your engine.<W><H>If you've already swapped it, then<R>that's fine.<W><E>"
+     "en": "Quartermaster:<R>Please buy whatever you need<R>for the trip to Miderekisata.<W><H>And... I think it's about time<R>you replaced your engine.<W><H>If you've already swapped<R>it, then that's fine.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#192",
      "jp": "配給係：<R>中佐、お元気そうで……<R>うれしいです。<W><E>",
-     "en": "Quartermaster:<R>Colonel, you look well... I'm so<R>glad.<W><E>"
+     "en": "Quartermaster:<R>Colonel, you look<R>well... I'm so glad.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#193",
@@ -977,17 +977,17 @@
     {
      "id": "2D/GMPS/G11_00@51800#194",
      "jp": "配給係：<R>カフィ中佐！<R>お役目ご苦労さまです。<W><H>おっと……少尉のお給料<R>でしたっけ。<W><E>",
-     "en": "Quartermaster:<R>Colonel Kafi! Thank you for your<R>service, ma'am.<W><H>Oops... it was the Lieutenant's<R>pay, wasn't it?<W><E>"
+     "en": "Quartermaster:<R>Colonel Kafi! Thank you<R>for your service, ma'am.<W><H>Oops... it was the<R>Lieutenant's pay, wasn't it?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#195",
      "jp": "配給係：<R>大切な弾なんですから、<W><H>くれぐれも無駄にしないで<R>くださいね、少尉。<W><E>",
-     "en": "Quartermaster:<R>This ammo's valuable,<W><H>so please don't waste it,<R>Lieutenant.<W><E>"
+     "en": "Quartermaster:<R>This ammo's valuable,<W><H>so please don't waste<R>it, Lieutenant.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#196",
      "jp": "配給係：<R>そうだそうだ、<R>忘れるところだった。<W><H>ゼクセル大佐から<R>連絡を受けています。<W><H>特別手当があるんでしたよね。<W><E>",
-     "en": "Quartermaster:<R>Oh, right, right, I almost<R>forgot.<W><H>I've received word from Colonel<R>Zexel.<W><H>There's a special allowance for<R>you, isn't there?<W><E>"
+     "en": "Quartermaster:<R>Oh, right, right,<R>I almost forgot.<W><H>I've received word<R>from Colonel Zexel.<W><H>There's a special allowance<R>for you, isn't there?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#197",
@@ -997,17 +997,17 @@
     {
      "id": "2D/GMPS/G11_00@51800#198",
      "jp": "配給係：<R>ミデーレキサタに向かうのに<R>必要な物を買ってくださいね。<W><H>それから……そろそろエンジンを<R>買い替えておいた方がいいと<R>思いますよ。<W><E>",
-     "en": "Quartermaster:<R>Please buy whatever you need for<R>the trip to Miderekisata.<W><H>And... I think it's about time you<R>replaced your engine.<W><E>"
+     "en": "Quartermaster:<R>Please buy whatever you need<R>for the trip to Miderekisata.<W><H>And... I think it's about time<R>you replaced your engine.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#199",
      "jp": "配給係：<R>戦闘で戦果をあげたら、また<R>飛行記録を提出してくれよ。<W><E>",
-     "en": "Quartermaster:<R>When you score in battle, turn in<R>your flight record again.<W><E>"
+     "en": "Quartermaster:<R>When you score in battle, turn<R>in your flight record again.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#200",
      "jp": "ドックの職人：<R>飛空船の修理、改造なら<R>まかせてくれ。<W><E>",
-     "en": "Shipwright:<R>Leave airship repairs and<R>modifications to me.<W><E>"
+     "en": "Shipwright:<R>Leave airship repairs<R>and modifications to me.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#201",
@@ -1027,7 +1027,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#204",
      "jp": "カフィ中佐：<R>あら？　病院には行かないの？<R><F62>。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Hm? Aren't you going to the<R>hospital, <F62>?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Hm? Aren't you going to<R>the hospital, <F62>?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#205",
@@ -1037,7 +1037,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#206",
      "jp": "カフィ中佐：<R>病院に用があるんだけど……<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>I have something to take care of<R>at the hospital...<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>I have something to take<R>care of at the hospital...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#207",
@@ -1047,7 +1047,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#208",
      "jp": "カフィ中佐：<R>あら？<R>配給部には行かなくていいの？<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Hm? Don't you need to go to the<R>Supply Office?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Hm? Don't you need to go<R>to the Supply Office?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#209",

@@ -7,12 +7,12 @@
     {
      "id": "3D/GMPS2/G21#0",
      "jp": "<%S><_00>：<R>なんだよ、真っ白じゃないか。<R><@18>オユ・キクル：<R>こんな濃い霧だと<R>何も見えませんね。<R><@18>カフィ：<R>ノイパスク領である以上、<R>彼らの方が有利だわ。<R><@18>注意して。<R><@20>",
-     "en": "<%S><_00>:<R>Geez, everything's white!<R><@18>Oyu Kikuru:<R>We can't see a thing in fog<R>this thick.<R><@18>Kafi:<R>This is Noipask territory, so<R>they have the edge.<R><@18>Be careful.<R><@20>"
+     "en": "<%S><_00>:<R>Geez, everything's white!<R><@18>Oyu Kikuru:<R>We can't see a thing<R>in fog this thick.<R><@18>Kafi:<R>This is Noipask territory,<R>so they have the edge.<R><@18>Be careful.<R><@20>"
     },
     {
      "id": "3D/GMPS2/G21#1",
      "jp": "オユ・キクル：<R>撤退命令です。<R><@14>一度、態勢を立て直せ、<R>とのことです。<R><@18><%S><_00>：<R>くっ、仕方ないか。<R><@14>戻るぞ。<R><@20>",
-     "en": "Oyu Kikuru:<R>Retreat orders.<R><@14>We're to fall back and<R>regroup.<R><@18><%S><_00>:<R>Tch, no choice, I guess.<R><@14>We're heading back.<R><@20>"
+     "en": "Oyu Kikuru:<R>Retreat orders.<R><@14>We're to fall back<R>and regroup.<R><@18><%S><_00>:<R>Tch, no choice, I guess.<R><@14>We're heading back.<R><@20>"
     }
    ]
   }

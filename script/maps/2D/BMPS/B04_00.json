@@ -447,12 +447,12 @@
     {
      "id": "2D/BMPS/B04_00@36800#88",
      "jp": "男：<R>ミデーレキサタに巨大な<R>浮遊島が出現したらしいぞ！<W><E>",
-     "en": "Man:<R>I hear a huge floating island has<R>appeared at Miderekisata!<W><E>"
+     "en": "Man:<R>I hear a huge floating island<R>has appeared at Miderekisata!<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#89",
      "jp": "男：<R>なんだね？　私は忙しいんだ。<R>ここは「ダント」の町だよ。<W><E>",
-     "en": "Man:<R>What is it? I'm busy. This is the<R>town of \"Dant.\"<W><E>"
+     "en": "Man:<R>What is it? I'm busy. This<R>is the town of \"Dant.\"<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#90",
@@ -462,7 +462,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#91",
      "jp": "女：<R>ねえ、<R>私の家で何の会議をしてるの？<W><E>",
-     "en": "Woman:<R>Hey, what kind of meeting are you<R>having in my house?<W><E>"
+     "en": "Woman:<R>Hey, what kind of meeting<R>are you having in my house?<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#92",
@@ -472,7 +472,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#93",
      "jp": "老女：<R>ギダン軍はスラークも落とした<R>そうだよ。強いねえ。<W><E>",
-     "en": "Old Woman:<R>They say the Gidan army took Slark<R>too. They're strong, aren't<R>they?<W><E>"
+     "en": "Old Woman:<R>They say the Gidan army<W><H>took Slark too. They're<R>strong, aren't they?<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#94",
@@ -517,17 +517,17 @@
     {
      "id": "2D/BMPS/B04_00@36800#102",
      "jp": "コステリフ長官：<R>みなさん、ついにシデルの<R>いどころをつきとめましたぞ。<W><H><P07>ミデーレキサタ付近で、<R>強力な兵器として機械化された、<R>巨大浮遊島が確認されました。<P15><W><H>その島はまっすぐダナスピに<R>向かっているようです。<W><H>シデルにまちがいありません。<W><E>",
-     "en": "Commander Kosterif:<R>Everyone, we have at last found<R>out where Sidel is.<W><H><P07>A huge floating island, mechanized<R>into a powerful weapon, has been<R>sighted near Miderekisata.<P15><W><H>The island appears to be heading<R>straight for Danaspi.<W><H>It must be Sidel.<W><E>"
+     "en": "Commander Kosterif:<R>Everyone, we have at last<R>found out where Sidel is.<W><H><P07>A huge floating island, mechanized<R>into a powerful weapon, has been<R>sighted near Miderekisata.<P15><W><H>The island appears to be<R>heading straight for Danaspi.<W><H>It must be Sidel.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#103",
      "jp": "<F62>：<R>機械化された浮遊島……<W><H>カカナンのおっさんの言ってた、<R>ニ・デム島じゃないんだな？<W><E>",
-     "en": "<F62>:<R>A mechanized floating island...<W><H>So it's not Ni-Dem Island, like<R>old Kakanan said?<W><E>"
+     "en": "<F62>:<R>A mechanized floating island...<W><H>So it's not Ni-Dem Island,<R>like old Kakanan said?<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#104",
      "jp": "カカナン中佐：<R>そうです。<W><H>シデル提督が浮遊島の動力部を<R>かきあつめ、巨大な移動兵器を<R>建設している、<W><H>というウワサを聞いたことが<R>ありますから。<W><E>",
-     "en": "Lieutenant Colonel Kakanan:<R>That's right.<W><H>I've heard rumors that Admiral<R>Sidel was gathering the power<R>units of floating islands to<R>build a giant mobile weapon,<W><H>you see.<W><E>"
+     "en": "Lieutenant Colonel Kakanan:<R>That's right.<W><H>I've heard rumors that Admiral<R>Sidel was gathering the power<W><H>units of floating islands to<R>build a giant mobile weapon,<W><H>you see.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#105",
@@ -537,12 +537,12 @@
     {
      "id": "2D/BMPS/B04_00@36800#106",
      "jp": "カカナン中佐：<R>ええ、多分。<W><H>しかし、どうやって世界中に<R>声を聞かせたのか……それは<R>わたしにもわかりません。<W><E>",
-     "en": "Lieutenant Colonel Kakanan:<R>Yes, probably.<W><H>But how he made the whole world<R>hear his voice... that, I don't<R>know either.<W><E>"
+     "en": "Lieutenant Colonel Kakanan:<R>Yes, probably.<W><H>But how he made the whole<R>world hear his voice...<R>that, I don't know either.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#107",
      "jp": "カフィ：<R>ノイパスク人にもあのような<R>技術力はありません。<W><E>",
-     "en": "Kafi:<R>Even the Noipask don't have<R>technology like that.<W><E>"
+     "en": "Kafi:<R>Even the Noipask don't<R>have technology like that.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#108",
@@ -552,7 +552,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#109",
      "jp": "<F62>：<R>とにかく、ヤツをダナスピに<R>入らせるわけにはいかない。<W><H>それだけは絶対にダメだ。<W><H>どんなことをしてでも、<R>浮遊島をくい止めないと……<W><E>",
-     "en": "<F62>:<R>Anyway, we can't let him get into<R>Danaspi.<W><H>That's the one thing we absolutely<R>can't allow.<W><H>We have to stop that floating<R>island, whatever it takes...<W><E>"
+     "en": "<F62>:<R>Anyway, we can't let<R>him get into Danaspi.<W><H>That's the one thing we<R>absolutely can't allow.<W><H>We have to stop that floating<R>island, whatever it takes...<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#110",
@@ -567,7 +567,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#112",
      "jp": "ゼシカ大尉：<R>いいこと？　必ず生きて<R>戻ってくるのよ？<W><E>",
-     "en": "Captain Zeshika:<R>Listen, you hear me? You'd better<R>come back alive, okay?<W><E>"
+     "en": "Captain Zeshika:<R>Listen, you hear me? You'd<R>better come back alive, okay?<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#113",
@@ -582,37 +582,37 @@
     {
      "id": "2D/BMPS/B04_00@36800#115",
      "jp": "カフィ：<R>これが最後の戦いになるかも<R>しれないわね。<W><H>……先に船に行ってるわ。<W><E>",
-     "en": "Kafi:<R>This may turn out to be the final<R>battle.<W><H>...I'll go on ahead to the ship.<W><E>"
+     "en": "Kafi:<R>This may turn out to<R>be the final battle.<W><H>...I'll go on ahead to the ship.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#116",
      "jp": "カフィ：<R><F62>、<W><H>あなたと一緒に<R>戦えてよかったわ。<W><H>ほんとよ。<W><E>",
-     "en": "Kafi:<R><F62>,<W><H>I'm glad I got to fight alongside<R>you.<W><H>I mean it.<W><E>"
+     "en": "Kafi:<R><F62>,<W><H>I'm glad I got to<R>fight alongside you.<W><H>I mean it.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#117",
      "jp": "ガシザキノ：<R>お疲れさま。<W><H>渓谷戦ではみんな<R>よくやってくれた。<W><H>シデルの浮遊島はミデーレキサタ<R>付近まで来ているらしい。<W><H>やはりダナスピに<R>向かっているようだ。<W><E>",
-     "en": "Gashizakino:<R>Good work, all of you.<W><H>Everyone did well in the battle at<R>the gorge.<W><H>Sidel's floating island has<R>apparently come as far as the area<R>around Miderekisata.<W><H>It does seem to be heading for<R>Danaspi.<W><E>"
+     "en": "Gashizakino:<R>Good work, all of you.<W><H>Everyone did well in the<R>battle at the gorge.<W><H>Sidel's floating island has<R>apparently come as far as the<R>area around Miderekisata.<W><H>It does seem to be<R>heading for Danaspi.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#118",
      "jp": "ダ・クダ：<R>あそこに居座って、<R>この星を統一するつもりなのか？<W><E>",
-     "en": "Da Kuda:<R>He means to sit himself down there<R>and unify this planet?<W><E>"
+     "en": "Da Kuda:<R>He means to sit himself down<R>there and unify this planet?<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#119",
      "jp": "ガシザキノ：<R>おそらくは。<W><H>ダナスピはこの星の<R>象徴だからな……<W><E>",
-     "en": "Gashizakino:<R>Most likely.<W><H>Danaspi is the symbol of this<R>planet, after all...<W><E>"
+     "en": "Gashizakino:<R>Most likely.<W><H>Danaspi is the symbol of<R>this planet, after all...<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#120",
      "jp": "タカテリフ長官：<R>シデルという男、<R>なかなか頭が切れるようですな。<W><H>感心している場合では<R>ありませんがね……<W><E>",
-     "en": "Commander Takaterif:<R>This Sidel fellow seems to be<R>quite sharp.<W><H>Not that this is any time to be<R>admiring him...<W><E>"
+     "en": "Commander Takaterif:<R>This Sidel fellow seems<R>to be quite sharp.<W><H>Not that this is any time<R>to be admiring him...<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#121",
      "jp": "<F62>：<R>とにかく、ヤツをダナスピに<R>入らせるわけにはいかない。<W><H>それだけは絶対にダメだ。<W><H>どんなことをしてでも、<R>浮遊島を食い止めないと……<W><E>",
-     "en": "<F62>:<R>Anyway, we can't let him get into<R>Danaspi.<W><H>That's the one thing we absolutely<R>can't allow.<W><H>Whatever it takes, we have to stop<R>that floating island...<W><E>"
+     "en": "<F62>:<R>Anyway, we can't let<R>him get into Danaspi.<W><H>That's the one thing we<R>absolutely can't allow.<W><H>Whatever it takes, we have to<R>stop that floating island...<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#122",
@@ -622,7 +622,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#123",
      "jp": "タカテリフ長官：<R>どう考えても、シデルのやり方は<R>間違っています。<W><H>強引すぎます。<W><E>",
-     "en": "Commander Takaterif:<R>However one looks at it, Sidel's<R>methods are wrong.<W><H>He is far too heavy-handed.<W><E>"
+     "en": "Commander Takaterif:<R>However one looks at it,<R>Sidel's methods are wrong.<W><H>He is far too heavy-handed.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#124",
@@ -642,7 +642,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#127",
      "jp": "カフィ：<R>ベルデセルバの人たちが今、<R>こうして力を合わせて<R>戦っている。<W><H>その姿を見ているだけで、<W><H>わたしのやってきたことは<R>間違っていなかったんだと<R>思うわ。<W><H><F62>、<W><H>これが最後の戦いに<R>なるかもしれないわね。<W><H>がんばりましょ。<W><E>",
-     "en": "Kafi:<R>The people of Velldeselba are<R>fighting side by side like this<R>now.<W><H>Just seeing them like this...<W><H>makes me think that what I've done<R>wasn't wrong after all.<W><H><F62>,<W><H>this may well be our last<R>battle.<W><H>Let's give it our all.<W><E>"
+     "en": "Kafi:<R>The people of Velldeselba<W><H>are fighting side by side<R>like this now.<W><H>Just seeing them like this...<W><H>makes me think that what I've<R>done wasn't wrong after all.<W><H><F62>,<W><H>this may well be<R>our last battle.<W><H>Let's give it our all.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#128",
@@ -662,12 +662,12 @@
     {
      "id": "2D/BMPS/B04_00@36800#131",
      "jp": "少女：<R>今、勉強中なの。<R>将来は軍人になりたいわ。<W><E>",
-     "en": "Girl:<R>I'm studying right now. I want to<R>be a soldier when I grow up.<W><E>"
+     "en": "Girl:<R>I'm studying right now. I want<R>to be a soldier when I grow up.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#132",
      "jp": "配給係：<R>はいはい、仮設で悪いけど、<R>わたしが配給係ですよ。<W><E>",
-     "en": "Quartermaster:<R>Yes, yes, sorry it's only a<R>temporary post, but I'm the<R>quartermaster.<W><E>"
+     "en": "Quartermaster:<R>Yes, yes, sorry it's only<W><H>a temporary post, but I'm<R>the quartermaster.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#133",
@@ -687,12 +687,12 @@
     {
      "id": "2D/BMPS/B04_00@36800#136",
      "jp": "配給係：<R>空賊さん、えんりょしないで、<R>また来てくださいね。<W><E>",
-     "en": "Quartermaster:<R>Don't be shy, sky pirate, come<R>again.<W><E>"
+     "en": "Quartermaster:<R>Don't be shy, sky<R>pirate, come again.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#137",
      "jp": "配給係：<R>空賊のみなさん、戦闘で戦果を<R>あげたら、また来てくださいね。<W><E>",
-     "en": "Quartermaster:<R>Sky pirates, come again once<R>you've racked up some results in<R>battle.<W><E>"
+     "en": "Quartermaster:<R>Sky pirates, come again<W><H>once you've racked up<R>some results in battle.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#138",
@@ -702,7 +702,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#139",
      "jp": "ジャンク屋：<R>ム連邦軍とはめずらしいねえ。<W><E>",
-     "en": "Junk Dealer:<R>The Federation army, eh? Don't see<R>your kind around here much.<W><E>"
+     "en": "Junk Dealer:<R>The Federation army, eh? Don't<R>see your kind around here much.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#140",
@@ -762,7 +762,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#151",
      "jp": "ドックの職人：<R>出張ドックだよ。<W><H>特別に最強の装備を<R>用意してあるぜ。<W><E>",
-     "en": "Shipwright:<R>This here's a field dock.<W><H>I've got the strongest gear ready,<R>just for you.<W><E>"
+     "en": "Shipwright:<R>This here's a field dock.<W><H>I've got the strongest<R>gear ready, just for you.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#152",
@@ -772,12 +772,12 @@
     {
      "id": "2D/BMPS/B04_00@36800#153",
      "jp": "ドックの職人：<R>ありがとう。<R>応援してるからな。<W><E>",
-     "en": "Shipwright:<R>Thanks. We're all rooting for<R>you.<W><E>"
+     "en": "Shipwright:<R>Thanks. We're all<R>rooting for you.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#154",
      "jp": "ドックの職人：<R>……あれ？<W><H>ちょっと荷物が<R>多すぎるようだな。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>あんたの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>ジャンク屋かどこかで<R>荷物を売ってから<R>また来てくれよ。<W><E>",
-     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a bit<R>too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
+     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying<R>a bit too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>Sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#155",
@@ -802,7 +802,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#159",
      "jp": "カフィ：<R>さあみんな、船にもどって<R>準備をととのえるのよ。<W><E>",
-     "en": "Kafi:<R>All right, everyone, back to the<R>ship and get ready.<W><E>"
+     "en": "Kafi:<R>All right, everyone, back<R>to the ship and get ready.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#160",
@@ -822,17 +822,17 @@
     {
      "id": "2D/BMPS/B04_00@36800#163",
      "jp": "カルフ：<R>やっとシデルとの対決なのね。<W><H>もう、船を下りろ、<R>なんて言わないでね、姉貴。<W><E>",
-     "en": "Karf:<R>At last, the showdown with<R>Sidel.<W><H>And don't you tell me to get off<R>the ship again, Sis.<W><E>"
+     "en": "Karf:<R>At last, the<R>showdown with Sidel.<W><H>And don't you tell me to get<R>off the ship again, Sis.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#164",
      "jp": "カフィ：<R>あなたの頑固さには<R>あきれたわ。<W><E>",
-     "en": "Kafi:<R>Your stubbornness is beyond<R>belief.<W><E>"
+     "en": "Kafi:<R>Your stubbornness<R>is beyond belief.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#165",
      "jp": "<F62>：<R>さあみんな、船にもどって<R>準備をするんだ。<W><E>",
-     "en": "<F62>:<R>All right, everyone, back to the<R>ship and get ready.<W><E>"
+     "en": "<F62>:<R>All right, everyone, back<R>to the ship and get ready.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#166",

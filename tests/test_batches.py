@@ -14,6 +14,15 @@ def test_fit_dialogue_wraps_within_lint():
     assert out.startswith("Hauezna:<R>") and lint.problems(out, jp) == []
 
 
+def test_fit_balances_rows_and_boxes():
+    jp = "ガークス：<R>あ<W><E>"
+    assert batches.fit("Garks:<R>Why would an aide kidnap the King?<W><E>", jp) == \
+        "Garks:<R>Why would an aide<R>kidnap the King?<W><E>"
+    long = "The royal house of Danaspi is the anchor of our hearts. We must win it back, no matter what.<W><E>"
+    out = batches.fit("Soldier:<R>" + long, jp)
+    assert [len(p.split("<R>")) for p in out.split("<H>")] == [2, 2] and lint.problems(out, jp) == []
+
+
 def test_box_keeps_icon_columns():
     jp = "名前：　　<G88>　<G90><R>説明。<E>"
     out = batches.fit("Name:<G88><G90><R>About.<E>", jp)

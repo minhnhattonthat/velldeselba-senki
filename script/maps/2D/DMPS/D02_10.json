@@ -447,7 +447,7 @@
     {
      "id": "2D/DMPS/D02_10@2b800#88",
      "jp": "ノイパスク軍少佐：<R>ん？　新しい偵察隊か？<W><H>おまえたちの任務は<P07>デナムス<R>周辺のパトロール<P15>だ。<W><H>ギダン軍の偵察機がこのあたりを<R>うろついているはずだからな、<R>慎重に行動しろ。<W><H>わかったら、とっとと<R>パトロールに出かけたまえ。<W><E>",
-     "en": "Noipask Major:<R>Hm? A new recon unit?<W><H>Your mission is a <P07>patrol around<R>Denamus<P15>.<W><H>Gidan scout craft should be<R>prowling around here, so proceed<R>with caution.<W><H>Understood? Then get out on patrol<R>on the double.<W><E>"
+     "en": "Noipask Major:<R>Hm? A new recon unit?<W><H>Your mission is a <P07>patrol<R>around Denamus<P15>.<W><H>Gidan scout craft should<R>be prowling around here,<R>so proceed with caution.<W><H>Understood? Then get out<R>on patrol on the double.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#89",
@@ -457,17 +457,17 @@
     {
      "id": "2D/DMPS/D02_10@2b800#90",
      "jp": "ノイパスク軍少佐：<R>何だきさま、どうして<R>こんなところにいる？<W><H>パトロールを続けろ！<R>またいつ攻めてくるかわからん。<W><E>",
-     "en": "Noipask Major:<R>What, you? Why are you here?<W><H>Keep patrolling! There's no<R>telling when they'll attack<R>again.<W><E>"
+     "en": "Noipask Major:<R>What, you? Why are you here?<W><H>Keep patrolling! There's<R>no telling when they'll<R>attack again.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#91",
      "jp": "<F62>：<R>続けろといったって……<W><H>これだけの数じゃあ、ギダン軍に<R>遭遇しても、もちこたえられない<R>んじゃないのか？<W><E>",
-     "en": "<F62>:<R>Keep patrolling, you say...<W><H>With numbers like these, we won't<R>hold out if we run into the Gidan<R>army, will we?<W><E>"
+     "en": "<F62>:<R>Keep patrolling, you say...<W><H>With numbers like these, we<R>won't hold out if we run into<R>the Gidan army, will we?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#92",
      "jp": "ノイパスク軍少佐：<R>ええい、つべこべと<R>へりくつをぬかすな！<W><H>ここを死守せよとの<R>長官からの命令なのだ！<W><H>きさまは黙って<R>命令に従えばいいのだ！<W><E>",
-     "en": "Noipask Major:<R>Enough of your excuses and back<R>talk!<W><H>The Commander's orders are to hold<R>this place to the death!<W><H>You will shut up and follow<R>orders!<W><E>"
+     "en": "Noipask Major:<R>Enough of your excuses<R>and back talk!<W><H>The Commander's orders are to<R>hold this place to the death!<W><H>You will shut up<R>and follow orders!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#93",
@@ -487,12 +487,12 @@
     {
      "id": "2D/DMPS/D02_10@2b800#96",
      "jp": "ノイパスク士官：<R>ここは、最前線だからな……<R>死守しなければ。<W><E>",
-     "en": "Noipask Officer:<R>This is the front line... We have<R>to hold it to the death.<W><E>"
+     "en": "Noipask Officer:<R>This is the front line... We<R>have to hold it to the death.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#97",
      "jp": "ノイパスク士官：<R>軽はずみな行動は死を<R>まねくぞ。気をつけることだ。<W><E>",
-     "en": "Noipask Officer:<R>Rash action will get you killed.<R>Be careful.<W><E>"
+     "en": "Noipask Officer:<R>Rash action will get you<R>killed. Be careful.<W><E>"
     }
    ]
   }

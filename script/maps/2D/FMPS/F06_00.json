@@ -467,7 +467,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#92",
      "jp": "女：<R>となり町までギダンが<R>来てるって？！<W><E>",
-     "en": "Woman:<R>Gidan's come as far as the next<R>town?!<W><E>"
+     "en": "Woman:<R>Gidan's come as far<R>as the next town?!<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#93",
@@ -477,7 +477,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#94",
      "jp": "老人：<R>兵隊さん、<R>この町はだいじょうぶですよね？<W><E>",
-     "en": "Old Man:<R>Soldier, this town will be all<R>right, won't it?<W><E>"
+     "en": "Old Man:<R>Soldier, this town will<R>be all right, won't it?<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#95",
@@ -487,32 +487,32 @@
     {
      "id": "2D/FMPS/F06_00@46000#96",
      "jp": "ム連兵：<R>俺は見たんだ！<R>親衛部隊の新型艦を。<W><H>とてつもなく巨大なんだ！<R>あんなものに勝てるんだろうか。<W><E>",
-     "en": "Federation Soldier:<R>I saw it! The Royal Guard's new<R>ship.<W><H>It's absolutely enormous! Can we<R>really beat something like that?<W><E>"
+     "en": "Federation Soldier:<R>I saw it! The Royal<R>Guard's new ship.<W><H>It's absolutely enormous! Can we<R>really beat something like that?<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#97",
      "jp": "ム連兵：<R>俺は見たんだ！<R>親衛部隊の新型艦を。<W><E>",
-     "en": "Federation Soldier:<R>I saw it! The Royal Guard's new<R>ship.<W><E>"
+     "en": "Federation Soldier:<R>I saw it! The Royal<R>Guard's new ship.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#98",
      "jp": "ム連兵：<R>わが軍は総崩れです。このまま<R>ではムノギイも危ない……<W><E>",
-     "en": "Federation Soldier:<R>Our army is in total collapse. At<R>this rate, even Munogi is in<R>danger...<W><E>"
+     "en": "Federation Soldier:<R>Our army is in total<W><H>collapse. At this rate, even<R>Munogi is in danger...<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#99",
      "jp": "ム連兵：<R>シデルは、綿密に計画を<R>練っていたみたいですね。<W><H>アヤメミとヨウタコン、<R>それぞれの町が、ほぼ同時に<R>攻撃を受けていますから……<W><E>",
-     "en": "Federation Soldier:<R>Looks like Sidel planned this out<R>carefully.<W><H>Ayamemi and Youtakon are both<R>under attack at almost the same<R>time...<W><E>"
+     "en": "Federation Soldier:<R>Looks like Sidel planned<R>this out carefully.<W><H>Ayamemi and Youtakon are<R>both under attack at<R>almost the same time...<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#100",
      "jp": "ム連兵：<R>それぞれの町が、ほぼ同時に<R>攻撃を受けたんです。<W><E>",
-     "en": "Federation Soldier:<R>Both towns were attacked at almost<R>the same time.<W><E>"
+     "en": "Federation Soldier:<R>Both towns were attacked<R>at almost the same time.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#101",
      "jp": "ム連邦士官：<R>なんとしても、<R>ここを死守しなければ！<W><E>",
-     "en": "Federation Officer:<R>We must hold this place at all<R>costs!<W><E>"
+     "en": "Federation Officer:<R>We must hold this<R>place at all costs!<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#102",
@@ -522,7 +522,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#103",
      "jp": "コステリフ・タカテリフ長官：<R>いや………<W><E>",
-     "en": "Commanders Kosterif and Takaterif:<R>No......<W><E>"
+     "en": "Commanders Kosterif and<R>Takaterif: No......<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#104",
@@ -532,12 +532,12 @@
     {
      "id": "2D/FMPS/F06_00@46000#105",
      "jp": "コステリフ長官：<R>攻め込まれるのを<R>待っているようではダメです。<W><E>",
-     "en": "Commander Kosterif:<R>We mustn't simply sit and wait to<R>be attacked.<W><E>"
+     "en": "Commander Kosterif:<R>We mustn't simply sit<R>and wait to be attacked.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#106",
      "jp": "タカテリフ長官：<R>出鼻をくじかねば。<W><E>",
-     "en": "Commander Takaterif:<R>We must break their momentum<R>first.<W><E>"
+     "en": "Commander Takaterif:<R>We must break their<R>momentum first.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#107",
@@ -567,7 +567,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#112",
      "jp": "タカテリフ長官：<R>でも、わたしはあなたたちを<R>信じています。<W><H>必ず勝ってくれるとね………<W><E>",
-     "en": "Commander Takaterif:<R>But I believe in all of you.<W><H>I believe you will surely<R>win......<W><E>"
+     "en": "Commander Takaterif:<R>But I believe in all of you.<W><H>I believe you will<R>surely win......<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#113",
@@ -587,12 +587,12 @@
     {
      "id": "2D/FMPS/F06_00@46000#116",
      "jp": "<F62>：<R>もちろん。君のために<R>全力をつくすさ。<W><E>",
-     "en": "<F62>:<R>Of course. I'll give it everything<R>I've got, for you.<W><E>"
+     "en": "<F62>:<R>Of course. I'll give it<R>everything I've got, for you.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#117",
      "jp": "ゼシカ大尉：<R>ば、ばか！<R>ム連邦のために、よ！<W><E>",
-     "en": "Captain Zeshika:<R>Y-you idiot! For the Federation, I<R>mean!<W><E>"
+     "en": "Captain Zeshika:<R>Y-you idiot! For the<R>Federation, I mean!<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#118",
@@ -607,7 +607,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#120",
      "jp": "ゼシカ大尉：<R><F62>大尉、<R>ちゃんと戦ってね。いい？<W><E>",
-     "en": "Captain Zeshika:<R>Captain <F62>, fight properly<R>this time. Got it?<W><E>"
+     "en": "Captain Zeshika:<R>Captain <F62>, fight<R>properly this time. Got it?<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#121",
@@ -622,7 +622,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#123",
      "jp": "タカテリフ長官：<R>彼らに補給の時間を<R>与えてはいけません。<W><H>すぐにヨウタコンに向かい、<R>親衛部隊を撃破しましょう。<W><E>",
-     "en": "Commander Takaterif:<R>We mustn't give them time to<R>resupply.<W><H>Let us head for Youtakon at once<R>and destroy the Royal Guard<R>units.<W><E>"
+     "en": "Commander Takaterif:<R>We mustn't give them<R>time to resupply.<W><H>Let us head for Youtakon<R>at once and destroy the<R>Royal Guard units.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#124",
@@ -647,7 +647,7 @@
     {
      "id": "2D/FMPS/F06_00@46000#128",
      "jp": "マスター：<R>兵隊さん、今はこんなところに<R>いる場合じゃないだろ？<W><E>",
-     "en": "Bartender:<R>Soldier, shouldn't you be<R>somewhere other than here right<R>now?<W><E>"
+     "en": "Bartender:<R>Soldier, shouldn't you<W><H>be somewhere other<R>than here right now?<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#129",
@@ -667,12 +667,12 @@
     {
      "id": "2D/FMPS/F06_00@46000#132",
      "jp": "ム連兵：<R>あっという間にヨウタコンが<R>占領されたんだ。<W><E>",
-     "en": "Federation Soldier:<R>Youtakon was occupied in no time<R>at all.<W><E>"
+     "en": "Federation Soldier:<R>Youtakon was occupied<R>in no time at all.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#133",
      "jp": "ム連兵：<R>ギダン人は残酷だ。捕虜になった<R>ら生きて帰れないと聞いたぞ。<W><E>",
-     "en": "Federation Soldier:<R>The Gidan people are cruel. I hear<R>if you're taken prisoner, you<R>never come back alive.<W><E>"
+     "en": "Federation Soldier:<R>The Gidan people are cruel. I<W><H>hear if you're taken prisoner,<R>you never come back alive.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#134",
@@ -742,12 +742,12 @@
     {
      "id": "2D/FMPS/F06_00@46000#147",
      "jp": "女：<R>ギダン軍のすることって、<R>ほんと恐いわね。<W><E>",
-     "en": "Woman:<R>The things the Gidan army does are<R>really frightening.<W><E>"
+     "en": "Woman:<R>The things the Gidan army<R>does are really frightening.<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#148",
      "jp": "老人：<R>みんなあわてているが……<R>なにごとだ？<W><E>",
-     "en": "Old Man:<R>Everyone's in a panic... What's<R>going on?<W><E>"
+     "en": "Old Man:<R>Everyone's in a panic...<R>What's going on?<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#149",
@@ -757,12 +757,12 @@
     {
      "id": "2D/FMPS/F06_00@46000#150",
      "jp": "ム連兵：<R>今こそわが軍の強さを<R>思い知らせるときだ！<W><E>",
-     "en": "Federation Soldier:<R>Now's the time to show them how<R>strong our army is!<W><E>"
+     "en": "Federation Soldier:<R>Now's the time to show them<R>how strong our army is!<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#151",
      "jp": "ム連兵：<R>わが軍がギダンなどに<R>負けるわけがない！<W><E>",
-     "en": "Federation Soldier:<R>There's no way our army will lose<R>to the likes of Gidan!<W><E>"
+     "en": "Federation Soldier:<R>There's no way our army will<R>lose to the likes of Gidan!<W><E>"
     },
     {
      "id": "2D/FMPS/F06_00@46000#152",

@@ -457,12 +457,12 @@
     {
      "id": "2D/AMPS/A06_00@3b000#90",
      "jp": "<F62>：<R>おっ、いいね。<W><H>きっと、でかくて豪華な<R>船なんだろ？<W><H>一度そんなのに乗って<R>みたかったんだ。<W><E>",
-     "en": "<F62>:<R>Oh, nice.<W><H>Bet it's a big, fancy ship, huh?<W><H>Always wanted to ride in one of<R>those.<W><E>"
+     "en": "<F62>:<R>Oh, nice.<W><H>Bet it's a big, fancy ship, huh?<W><H>Always wanted to ride<R>in one of those.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#91",
      "jp": "マルダマン：<R>そうしなよ。<W><H>船は俺が操縦して、<R>ついて行くから。<W><E>",
-     "en": "Mardaman:<R>Go for it.<W><H>I'll fly your ship and follow<R>you.<W><E>"
+     "en": "Mardaman:<R>Go for it.<W><H>I'll fly your ship<R>and follow you.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#92",
@@ -472,7 +472,7 @@
     {
      "id": "2D/AMPS/A06_00@3b000#93",
      "jp": "ガークス：<R>あっ、来ました！<R>あれです。<W><E>",
-     "en": "Garks:<R>Ah, here it comes! That's the<R>one.<W><E>"
+     "en": "Garks:<R>Ah, here it comes!<R>That's the one.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#94",
@@ -482,7 +482,7 @@
     {
      "id": "2D/AMPS/A06_00@3b000#95",
      "jp": "酒場の主人：<R>客が少なくて、<R>商売あがったりだよ。<W><E>",
-     "en": "Tavern Keeper:<R>Hardly any customers. Business is<R>dead.<W><E>"
+     "en": "Tavern Keeper:<R>Hardly any customers.<R>Business is dead.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#96",
@@ -522,17 +522,17 @@
     {
      "id": "2D/AMPS/A06_00@3b000#103",
      "jp": "老人：<R>最近、グラシアルに出かせぎに<R>行く者が多くてな。<W><E>",
-     "en": "Old Man:<R>Lately, lots of folks have been<R>heading off to Glacial to find<R>work.<W><E>"
+     "en": "Old Man:<R>Lately, lots of folks<W><H>have been heading off to<R>Glacial to find work.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#104",
      "jp": "老女：<R>ヤルスキルもさびれて<R>しまったよ。<W><E>",
-     "en": "Old Woman:<R>Yarskill has really gone<R>downhill...<W><E>"
+     "en": "Old Woman:<R>Yarskill has really<R>gone downhill...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#105",
      "jp": "男：<R>俺もグラシアルに<R>引っ越そうかな……<W><E>",
-     "en": "Man:<R>Maybe I should move to Glacial<R>too...<W><E>"
+     "en": "Man:<R>Maybe I should move<R>to Glacial too...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#106",
@@ -542,7 +542,7 @@
     {
      "id": "2D/AMPS/A06_00@3b000#107",
      "jp": "少女：<R>パパ、仕事がないんだったら、<R>軍隊に入ったら？<W><E>",
-     "en": "Girl:<R>Papa, if there's no work, why<R>don't you join the army?<W><E>"
+     "en": "Girl:<R>Papa, if there's no work,<R>why don't you join the army?<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#108",
@@ -552,32 +552,32 @@
     {
      "id": "2D/AMPS/A06_00@3b000#109",
      "jp": "老女：<R>ふん、近頃は素性のしれない<R>連中がうろうろして、イヤだね。<W><E>",
-     "en": "Old Woman:<R>Hmph. These days, all sorts of<R>shady types are wandering about.<R>I don't like it.<W><E>"
+     "en": "Old Woman:<R>Hmph. These days, all sorts<W><H>of shady types are wandering<R>about. I don't like it.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#110",
      "jp": "老女：<R>さっき、怪しい男どもが空港で<R>給油してたけどね。<W><E>",
-     "en": "Old Woman:<R>A little while ago, some<R>suspicious men were refueling at<R>the airport.<W><E>"
+     "en": "Old Woman:<R>A little while ago, some<W><H>suspicious men were<R>refueling at the airport.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#111",
      "jp": "老人：<R>ここの郊外には２軒ほど家がある<R>が、今は誰も住んじゃいないよ。<W><E>",
-     "en": "Old Man:<R>There are a couple of houses on<R>the outskirts, but nobody lives<R>in them now.<W><E>"
+     "en": "Old Man:<R>There are a couple of houses<W><H>on the outskirts, but nobody<R>lives in them now.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#112",
      "jp": "老人：<R>そのようなお人は<R>見なかったが……<W><E>",
-     "en": "Old Man:<R>I haven't seen anyone like<R>that...<W><E>"
+     "en": "Old Man:<R>I haven't seen<R>anyone like that...<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#113",
      "jp": "女：<R>ギダンの情勢が知りたければ北の<R>グラシアルに行くのが一番だよ。<W><E>",
-     "en": "Woman:<R>If you want to know how things<R>stand in Gidan, your best bet is<R>Glacial, up north.<W><E>"
+     "en": "Woman:<R>If you want to know how things<W><H>stand in Gidan, your best bet<R>is Glacial, up north.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#114",
      "jp": "女：<R>黒い飛空船なら、<R>郊外の山の方に行ったよ。<W><E>",
-     "en": "Woman:<R>The black airship? It went off<R>toward the mountains outside<R>town.<W><E>"
+     "en": "Woman:<R>The black airship? It<W><H>went off toward the<R>mountains outside town.<W><E>"
     },
     {
      "id": "2D/AMPS/A06_00@3b000#115",

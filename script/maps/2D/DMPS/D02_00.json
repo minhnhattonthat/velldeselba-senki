@@ -457,17 +457,17 @@
     {
      "id": "2D/DMPS/D02_00@3f800#90",
      "jp": "ギダン兵：<R>今、民間人は立入禁止だぞ！<W><E>",
-     "en": "Gidan Soldier:<R>No civilians allowed in here right<R>now!<W><E>"
+     "en": "Gidan Soldier:<R>No civilians allowed<R>in here right now!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#91",
      "jp": "マルダマン：<R>どうもどうもこんにちは、<R>だんな。<W><H>実はダナスピに交易品を届けに<R>行こうと思いまして。<W><E>",
-     "en": "Mardaman:<R>Well, well, hello there, sir.<W><H>Truth is, we were thinking of<R>delivering some trade goods to<R>Danaspi.<W><E>"
+     "en": "Mardaman:<R>Well, well, hello there, sir.<W><H>Truth is, we were thinking<R>of delivering some trade<R>goods to Danaspi.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#92",
      "jp": "ギダン兵：<R>オルダナスピ領内は現在、<R>戦闘中だ。<W><H>ノイパスク軍は、おそれおおくも<R>オルダナスピの国王陛下を<R>人質にとって、<R>ダナスピを占拠したのだ。<W><H>それによってム連邦軍との<R>同盟も破棄されたらしい。<W><H>民間人が近づいては危険だぞ。<W><E>",
-     "en": "Gidan Soldier:<R>Oldanaspi territory is currently a<R>combat zone.<W><H>The Noipask army has dared to take<R>His Majesty the King of Oldanaspi<R>hostage and has occupied<R>Danaspi.<W><H>Because of that, their alliance<R>with the Federation army has been<R>broken off too, apparently.<W><H>It's dangerous for civilians to go<R>near.<W><E>"
+     "en": "Gidan Soldier:<R>Oldanaspi territory is<R>currently a combat zone.<W><H>The Noipask army has dared<R>to take His Majesty the<W><H>King of Oldanaspi hostage<R>and has occupied Danaspi.<W><H>Because of that, their alliance<R>with the Federation army has<R>been broken off too, apparently.<W><H>It's dangerous for<R>civilians to go near.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#93",
@@ -482,17 +482,17 @@
     {
      "id": "2D/DMPS/D02_00@3f800#95",
      "jp": "<F62>：<R>びっくりしたぜ。<W><H>よく空賊だってばれないな。<W><E>",
-     "en": "<F62>:<R>That gave me a scare.<W><H>Amazing they didn't figure out<R>you're a sky pirate.<W><E>"
+     "en": "<F62>:<R>That gave me a scare.<W><H>Amazing they didn't figure<R>out you're a sky pirate.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#96",
      "jp": "マルダマン：<R>言葉づかいに気をつければ、<R>民間人に見えるさ。<W><E>",
-     "en": "Mardaman:<R>Mind your language and you'll pass<R>for a civilian.<W><E>"
+     "en": "Mardaman:<R>Mind your language and<R>you'll pass for a civilian.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#97",
      "jp": "<F62>：<R>それにしてもゼクセルめ、<R>いったい何を考えているんだ……<W><E>",
-     "en": "<F62>:<R>Still, that damn Zexel... What on<R>earth is he thinking...<W><E>"
+     "en": "<F62>:<R>Still, that damn Zexel... What<R>on earth is he thinking...<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#98",
@@ -502,17 +502,17 @@
     {
      "id": "2D/DMPS/D02_00@3f800#99",
      "jp": "ギダン兵：<R>なんだ、またおまえたちか！<W><H>民間人は立入禁止だと<R>言っただろう？<W><E>",
-     "en": "Gidan Soldier:<R>What, you lot again!?<W><H>Didn't I tell you civilians aren't<R>allowed in here?<W><E>"
+     "en": "Gidan Soldier:<R>What, you lot again!?<W><H>Didn't I tell you civilians<R>aren't allowed in here?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#100",
      "jp": "マルダマン：<R>どうもすいません。<W><H>え～、<R>補給をしようと思いまして。<W><E>",
-     "en": "Mardaman:<R>Terribly sorry.<W><H>Uh, we were just hoping to<R>resupply.<W><E>"
+     "en": "Mardaman:<R>Terribly sorry.<W><H>Uh, we were just<R>hoping to resupply.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#101",
      "jp": "ギダン兵：<R>ダナスピから逃げ出している<R>ノイパスク兵が多いから、<W><H>気をつけるんだぞ。<W><H>やつらは、何をしだすか<R>わからないからな。<W><E>",
-     "en": "Gidan Soldier:<R>Lots of Noipask soldiers are<R>fleeing Danaspi,<W><H>so be careful.<W><H>There's no telling what they'll<R>do.<W><E>"
+     "en": "Gidan Soldier:<R>Lots of Noipask soldiers<R>are fleeing Danaspi,<W><H>so be careful.<W><H>There's no telling<R>what they'll do.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#102",
@@ -522,52 +522,52 @@
     {
      "id": "2D/DMPS/D02_00@3f800#103",
      "jp": "マルダマン：<R>おぼえておけ、<R><F62>。<W><H>こういう風に、こまめに<R>いろいろな情報を仕入れるのも<R>空賊の仕事のうちなんだ。<W><H>さて、ダクに帰るとするか。<W><E>",
-     "en": "Mardaman:<R>Remember this, <F62>.<W><H>Diligently picking up all kinds of<R>information like that is part of a<R>sky pirate's job too.<W><H>Well, time to head back to Dak.<W><E>"
+     "en": "Mardaman:<R>Remember this, <F62>.<W><H>Diligently picking up all kinds<R>of information like that is part<R>of a sky pirate's job too.<W><H>Well, time to head back to Dak.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#104",
      "jp": "ギダン兵：<R>何だ、民間人は<R>立入禁止だぞ。<W><E>",
-     "en": "Gidan Soldier:<R>What's this? Civilians aren't<R>allowed in here.<W><E>"
+     "en": "Gidan Soldier:<R>What's this? Civilians<R>aren't allowed in here.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#105",
      "jp": "ギダン兵：<R>オルダナスピの国王は<R>俺たちがお救いするんだ！<W><E>",
-     "en": "Gidan Soldier:<R>We're the ones who'll rescue the<R>King of Oldanaspi!<W><E>"
+     "en": "Gidan Soldier:<R>We're the ones who'll rescue<R>the King of Oldanaspi!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#106",
      "jp": "ギダン兵：<R>ダナスピ４世は無事だったと<R>いうじゃないか。<W><E>",
-     "en": "Gidan Soldier:<R>They say Danaspi IV came through<R>safe.<W><E>"
+     "en": "Gidan Soldier:<R>They say Danaspi IV<R>came through safe.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#107",
      "jp": "ギダン兵：<R>ノイパスクってほんと、<R>何をやるかわからないよな。<W><E>",
-     "en": "Gidan Soldier:<R>You really never know what the<R>Noipask will do next.<W><E>"
+     "en": "Gidan Soldier:<R>You really never know what<R>the Noipask will do next.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#108",
      "jp": "ギダン兵：<R>ノイパスク軍がダナスピから<R>逃げ出したってさ、ははは。<W><E>",
-     "en": "Gidan Soldier:<R>Word is the Noipask army ran away<R>from Danaspi, hahaha.<W><E>"
+     "en": "Gidan Soldier:<R>Word is the Noipask army ran<R>away from Danaspi, hahaha.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#109",
      "jp": "ギダン兵：<R>俺たちが監視しているから、もう<R>オルダナスピはだいじょうぶさ。<W><E>",
-     "en": "Gidan Soldier:<R>We're keeping watch now, so<R>Oldanaspi's safe.<W><E>"
+     "en": "Gidan Soldier:<R>We're keeping watch now,<R>so Oldanaspi's safe.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#110",
      "jp": "ギダン兵：<R>民間人は入れないぞ。<R>あっちに行った行った。<W><E>",
-     "en": "Gidan Soldier:<R>Civilians can't come in. Go on,<R>get lost.<W><E>"
+     "en": "Gidan Soldier:<R>Civilians can't come<R>in. Go on, get lost.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#111",
      "jp": "ガシザキノ中佐：<R>この基地はわれわれギダン軍が<R>制圧した！<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>This base has been taken by us,<R>the Gidan army!<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>This base has been taken<R>by us, the Gidan army!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#112",
      "jp": "ガシザキノ中佐：<R>このままダナスピに向かい、<W><H>ダナスピ上空に残る<R>ノイパスク軍をたおし、<R>オルダナスピを解放するんだ。<W><H>いいな！<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>We proceed straight to Danaspi,<W><H>defeat the Noipask forces<R>remaining over Danaspi, and<R>liberate Oldanaspi.<W><H>Understood!<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>We proceed straight to Danaspi,<W><H>defeat the Noipask forces<R>remaining over Danaspi,<R>and liberate Oldanaspi.<W><H>Understood!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#113",
@@ -582,7 +582,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#115",
      "jp": "ギダン兵：<R>やれやれ……すぐに出発か。<W><E>",
-     "en": "Gidan Soldier:<R>Good grief... Shipping out right<R>away?<W><E>"
+     "en": "Gidan Soldier:<R>Good grief... Shipping<R>out right away?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#116",
@@ -592,7 +592,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#117",
      "jp": "ギダン兵：<R>オルダナスピを守るのは<R>オレたちだぜ！<W><E>",
-     "en": "Gidan Soldier:<R>We're the ones who'll protect<R>Oldanaspi!<W><E>"
+     "en": "Gidan Soldier:<R>We're the ones who'll<R>protect Oldanaspi!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#118",
@@ -602,12 +602,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#119",
      "jp": "ノイパスク兵：<R>士官は全員、<R>司令部に集合してください！<W><E>",
-     "en": "Noipask Soldier:<R>All officers, please assemble at<R>headquarters!<W><E>"
+     "en": "Noipask Soldier:<R>All officers, please<R>assemble at headquarters!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#120",
      "jp": "ノイパスク兵：<R>はやく、パトロールに<R>出てください！<W><E>",
-     "en": "Noipask Soldier:<R>Hurry, please head out on<R>patrol!<W><E>"
+     "en": "Noipask Soldier:<R>Hurry, please head<R>out on patrol!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#121",
@@ -617,12 +617,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#122",
      "jp": "<F62>：<R>なんだと！<R>ゼシカや双子の長官たちもか？<W><E>",
-     "en": "<F62>:<R>What!? Zeshika and the twin<R>commanders too?<W><E>"
+     "en": "<F62>:<R>What!? Zeshika and the<R>twin commanders too?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#123",
      "jp": "ノイパスク兵：<R>たいへんなことに<R>なったよ……<W><E>",
-     "en": "Noipask Soldier:<R>This has turned into a real<R>mess...<W><E>"
+     "en": "Noipask Soldier:<R>This has turned into<R>a real mess...<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#124",
@@ -632,7 +632,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#125",
      "jp": "ノイパスク兵：<R>ム連邦の人間が<R>監禁されてしまった。<W><E>",
-     "en": "Noipask Soldier:<R>The Federation people have been<R>locked up.<W><E>"
+     "en": "Noipask Soldier:<R>The Federation people<R>have been locked up.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#126",
@@ -642,12 +642,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#127",
      "jp": "ノイパスク兵：<R>ふ、ム連邦まで敵にまわして<R>どうなるっていうんだ？！<W><E>",
-     "en": "Noipask Soldier:<R>Hmph, what good will come of<R>making enemies of the Federation<R>too!?<W><E>"
+     "en": "Noipask Soldier:<R>Hmph, what good will<W><H>come of making enemies<R>of the Federation too!?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#128",
      "jp": "ノイパスク兵：<R>仲間がずいぶん<R>減っちまったよ……<R>俺も足をケガしちまって<R>ここから動けないんだ。<W><E>",
-     "en": "Noipask Soldier:<R>We've lost a lot of comrades... I<R>hurt my leg too, and I can't<R>move from here.<W><E>"
+     "en": "Noipask Soldier:<R>We've lost a lot of<W><H>comrades... I hurt my leg too,<R>and I can't move from here.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#129",
@@ -657,17 +657,17 @@
     {
      "id": "2D/DMPS/D02_00@3f800#130",
      "jp": "ノイパスク兵：<R>このままでは<R>ノイパスクは自滅だ。<W><H>どうにかしてくれよ、<R>少尉。<W><E>",
-     "en": "Noipask Soldier:<R>At this rate, Noipask will destroy<R>itself.<W><H>Do something, Lieutenant.<W><E>"
+     "en": "Noipask Soldier:<R>At this rate, Noipask<R>will destroy itself.<W><H>Do something, Lieutenant.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#131",
      "jp": "<F62>：<R>自滅か……<W><H>…………<W><H>よし、決めた！<R>ガシザキノに会いに行くぞ！<W><E>",
-     "en": "<F62>:<R>Destroy itself, huh...<W><H>......<W><H>Right, I've decided! I'm going to<R>see Gashizakino!<W><E>"
+     "en": "<F62>:<R>Destroy itself, huh...<W><H>......<W><H>Right, I've decided! I'm<R>going to see Gashizakino!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#132",
      "jp": "ノイパスク兵：<R>少尉？<R>急にどうしたんだ？<W><E>",
-     "en": "Noipask Soldier:<R>Lieutenant? What's gotten into you<R>all of a sudden?<W><E>"
+     "en": "Noipask Soldier:<R>Lieutenant? What's gotten<R>into you all of a sudden?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#133",
@@ -682,7 +682,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#135",
      "jp": "ノイパスク兵：<R>何とかするって……<R>どうするつもりなんだ？<W><E>",
-     "en": "Noipask Soldier:<R>Figure something out... What are<R>you planning to do?<W><E>"
+     "en": "Noipask Soldier:<R>Figure something out... What<R>are you planning to do?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#136",
@@ -697,12 +697,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#138",
      "jp": "ノイパスク兵：<R>しょ、少尉！<W><H>ギダン軍につかまったと<R>聞いてたが……<W><E>",
-     "en": "Noipask Soldier:<R>L-Lieutenant!<W><H>I heard the Gidan army had<R>captured you...<W><E>"
+     "en": "Noipask Soldier:<R>L-Lieutenant!<W><H>I heard the Gidan army<R>had captured you...<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#139",
      "jp": "<F62>：<R>安心しろ。<R>この戦いを終わらせに来た。<W><H>ここはおとなしく<R>捕虜になるんだ。<W><H>捕虜といってもな、<R>今のノイパスク軍にいるよりは<R>よっぽどましだぜ。<W><H>ギダン軍の俺が言うんだから<R>まちがいない。<W><E>",
-     "en": "<F62>:<R>Relax. I came to end this fight.<W><H>Just come quietly and be taken<R>prisoner.<W><H>Prisoner or not, it beats being in<R>the Noipask army right now by a<R>mile.<W><H>That's coming from me, a Gidan<R>soldier, so you can trust it.<W><E>"
+     "en": "<F62>:<R>Relax. I came to end this fight.<W><H>Just come quietly and<R>be taken prisoner.<W><H>Prisoner or not, it beats<R>being in the Noipask army<R>right now by a mile.<W><H>That's coming from me, a Gidan<R>soldier, so you can trust it.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#140",
@@ -712,7 +712,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#141",
      "jp": "<F62>：<R>ああ。<W><H>これ以上犠牲者を<R>出したくないんだ。<W><H>ここは俺の言うことを<R>聞いてくれ。<W><E>",
-     "en": "<F62>:<R>Yeah.<W><H>I don't want any more<R>casualties.<W><H>For now, just do as I say.<W><E>"
+     "en": "<F62>:<R>Yeah.<W><H>I don't want any<R>more casualties.<W><H>For now, just do as I say.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#142",
@@ -722,7 +722,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#143",
      "jp": "ノイパスク兵：<R>ギダン軍の捕虜になるよ……<W><E>",
-     "en": "Noipask Soldier:<R>I'll be a prisoner of the Gidan<R>army...<W><E>"
+     "en": "Noipask Soldier:<R>I'll be a prisoner<R>of the Gidan army...<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#144",
@@ -732,12 +732,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#145",
      "jp": "ノイパスク兵：<R>このままでは援軍も<R>期待できまい。<W><E>",
-     "en": "Noipask Soldier:<R>At this rate, we can't expect any<R>reinforcements either.<W><E>"
+     "en": "Noipask Soldier:<R>At this rate, we can't expect<R>any reinforcements either.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#146",
      "jp": "ノイパスク兵：<R>俺、こんなところで<R>死にたくねえよ。<W><E>",
-     "en": "Noipask Soldier:<R>Man, I don't wanna die in a place<R>like this.<W><E>"
+     "en": "Noipask Soldier:<R>Man, I don't wanna die<R>in a place like this.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#147",
@@ -747,27 +747,27 @@
     {
      "id": "2D/DMPS/D02_00@3f800#148",
      "jp": "ノイパスク兵：<R>オルダナスピの首都ダナスピは、<W><H>ム連邦人にとっても<R>ギダン人にとっても<R>聖地なんだ。<W><H>そのオルダナスピの国王を<R>人質にしているような<R>ものだからな。<W><H>ギダン軍も簡単には<R>せめてこれまい。<W><E>",
-     "en": "Noipask Soldier:<R>Danaspi, the capital of<R>Oldanaspi,<W><H>is holy ground to Federation and<R>Gidan people alike.<W><H>So it's like we're holding the<R>king of Oldanaspi hostage.<W><H>The Gidan army won't attack us so<R>easily.<W><E>"
+     "en": "Noipask Soldier:<R>Danaspi, the capital<R>of Oldanaspi,<W><H>is holy ground to Federation<R>and Gidan people alike.<W><H>So it's like we're holding the<R>king of Oldanaspi hostage.<W><H>The Gidan army won't<R>attack us so easily.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#149",
      "jp": "ノイパスク兵：<R>ギダン軍も簡単にはせめて<R>これまい。<W><E>",
-     "en": "Noipask Soldier:<R>The Gidan army won't attack us so<R>easily.<W><E>"
+     "en": "Noipask Soldier:<R>The Gidan army won't<R>attack us so easily.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#150",
      "jp": "ノイパスク兵：<R>また、われわれは孤立無援と<R>いうことか。<W><E>",
-     "en": "Noipask Soldier:<R>So we're on our own again, with no<R>help coming.<W><E>"
+     "en": "Noipask Soldier:<R>So we're on our own again,<R>with no help coming.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#151",
      "jp": "ノイパスク兵：<R>オルダナスピは新たなノイパスク<R>の拠点になるんだぜ。<W><E>",
-     "en": "Noipask Soldier:<R>Oldanaspi's going to be Noipask's<R>new stronghold.<W><E>"
+     "en": "Noipask Soldier:<R>Oldanaspi's going to be<R>Noipask's new stronghold.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#152",
      "jp": "修理屋：<R>なんだかぶっそうな世の中ですが<R>……商売だけはやめませんよ。<W><E>",
-     "en": "Repairman:<R>These are dangerous times, it<R>seems... but I'm not closing up<R>shop.<W><E>"
+     "en": "Repairman:<R>These are dangerous<W><H>times, it seems... but<R>I'm not closing up shop.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#153",
@@ -822,7 +822,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#163",
      "jp": "ジャンク屋：<R>まいどありがとやんした～。<W><E>",
-     "en": "Junk Dealer:<R>Thanks for yer business, come<R>agaaain!<W><E>"
+     "en": "Junk Dealer:<R>Thanks for yer business,<R>come agaaain!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#164",
@@ -832,7 +832,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#165",
      "jp": "配給係：<R>いいよなぁ、傭兵は気楽で。<W><H>こんなにいっぱい弾がもらえる<R>のは、あんただけだぜ。<W><E>",
-     "en": "Quartermaster:<R>Must be nice, being a mercenary.<R>No worries at all.<W><H>You're the only one who gets this<R>much ammo, you know.<W><E>"
+     "en": "Quartermaster:<R>Must be nice, being a<R>mercenary. No worries at all.<W><H>You're the only one who gets<R>this much ammo, you know.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#166",
@@ -857,17 +857,17 @@
     {
      "id": "2D/DMPS/D02_00@3f800#170",
      "jp": "配給係：<R>ん？　しばらくどこに<R>行ってたんだ。<W><E>",
-     "en": "Quartermaster:<R>Hm? Where have you been all this<R>time?<W><E>"
+     "en": "Quartermaster:<R>Hm? Where have you<R>been all this time?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#171",
      "jp": "配給係：<R>もう弾がないんだ……<R>これが最後の配給だぞ。<W><E>",
-     "en": "Quartermaster:<R>We're out of ammo... This is the<R>last issue you'll get.<W><E>"
+     "en": "Quartermaster:<R>We're out of ammo... This is<R>the last issue you'll get.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#172",
      "jp": "配給係：<R>この基地ももう終わりだ。<R>俺、早く逃げたいよ。<W><E>",
-     "en": "Quartermaster:<R>This base is done for. I just want<R>to get out of here.<W><E>"
+     "en": "Quartermaster:<R>This base is done for. I just<R>want to get out of here.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#173",
@@ -877,17 +877,17 @@
     {
      "id": "2D/DMPS/D02_00@3f800#174",
      "jp": "ギダン兵：<R>補給なら急いでくれ。<W><E>",
-     "en": "Gidan Soldier:<R>If you're resupplying, make it<R>quick.<W><E>"
+     "en": "Gidan Soldier:<R>If you're resupplying,<R>make it quick.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#175",
      "jp": "配給係：<R>敵はてごわいからな、<R>弾は大事に使えよ。<W><E>",
-     "en": "Quartermaster:<R>The enemy's tough, so don't waste<R>your ammo.<W><E>"
+     "en": "Quartermaster:<R>The enemy's tough, so<R>don't waste your ammo.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#176",
      "jp": "ギダン兵：<R>ここは配給部だぞ。<R>うろうろするんじゃない。<W><E>",
-     "en": "Gidan Soldier:<R>This is the Supply Office. Quit<R>wandering around.<W><E>"
+     "en": "Gidan Soldier:<R>This is the Supply Office.<R>Quit wandering around.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#177",
@@ -912,7 +912,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#181",
      "jp": "ドックの職人：<R>やあ。<W><H>俺は、軍艦でも貿易船でも<R>何でも改造できるぜ。<W><E>",
-     "en": "Shipwright:<R>Hey.<W><H>Warship, trading ship, whatever--I<R>can rework anything.<W><E>"
+     "en": "Shipwright:<R>Hey.<W><H>Warship, trading ship,<R>whatever--I can rework anything.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#182",
@@ -932,7 +932,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#185",
      "jp": "<F62>：<R>会議中で入れないのか。<W><E>",
-     "en": "<F62>:<R>They're in a meeting, so I can't<R>go in, huh.<W><E>"
+     "en": "<F62>:<R>They're in a meeting,<R>so I can't go in, huh.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#186",
@@ -947,12 +947,12 @@
     {
      "id": "2D/DMPS/D02_00@3f800#188",
      "jp": "<F62>：<R>中はギダン兵でびっしりの<R>ようだな。<W><E>",
-     "en": "<F62>:<R>Looks like it's packed with Gidan<R>soldiers inside.<W><E>"
+     "en": "<F62>:<R>Looks like it's packed with<R>Gidan soldiers inside.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#189",
      "jp": "<F62>は急いで<R>ダナスピにもどった……<W><E>",
-     "en": "<F62> hurried back to<R>Danaspi...<W><E>"
+     "en": "<F62> hurried<R>back to Danaspi...<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#190",

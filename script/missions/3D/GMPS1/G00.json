@@ -12,7 +12,7 @@
     {
      "id": "3D/GMPS1/G00#1",
      "jp": "ノイパスク兵：<R>いったん、ナデス島から、<R>離れるぞ。ついてこい。<R><@3c>ノイパスク兵：<R>弾を、上下に避けながら、<R>俺の船に攻撃するんだ。<R><@28>俺の方をよく見て、<R>弾を撃ってきた！　と、<R>思ったら、急いでよけろよ。<R><@28>エアブレーキがあることも<R>忘れるな。<R><@1c>多少ダメージを受けても、<R>後ろをとれれば、有利に<R>なる。<R><@20>その時の状況にだけ、とら<R>われて、逃げ腰になってると<R>生き残れないぞ。<R><@28>",
-     "en": "Noipask Soldier:<R>We'll pull away from Nades<R>Island for now. Follow me.<R><@3c>Noipask Soldier:<R>Dodge up and down while you<R>attack my ship.<R><@28>Watch me closely. The moment<R>you think I've fired, get out<R>of the way, fast.<R><@28>And don't forget you have air<R>brakes.<R><@1c>Even if you take some damage,<R>getting on my tail gives you<R>the edge.<R><@20>Get caught up in the moment<R>and start running scared, and<R>you won't survive.<R><@28>"
+     "en": "Noipask Soldier:<R>We'll pull away from Nades<R>Island for now. Follow me.<R><@3c>Noipask Soldier:<R>Dodge up and down while<R>you attack my ship.<R><@28>Watch me closely. The moment<R>you think I've fired, get<R>out of the way, fast.<R><@28>And don't forget you<R>have air brakes.<R><@1c>Even if you take some<R>damage, getting on my<R>tail gives you the edge.<R><@20>Get caught up in the moment<R>and start running scared,<R>and you won't survive.<R><@28>"
     },
     {
      "id": "3D/GMPS1/G00#2",
@@ -22,12 +22,12 @@
     {
      "id": "3D/GMPS1/G00#3",
      "jp": "ノイパスク兵：<R>おいおい、それ以上やられたら<R>こっちの船がこわれちまう。<R><@18>訓練は、終わりだ。<R><@1c>いい腕してるぜ、まったく。<R><@20>",
-     "en": "Noipask Soldier:<R>Whoa, whoa, any more of that<R>and my ship'll fall apart.<R><@18>Training's over.<R><@1c>You've got some skill, I'll<R>give you that.<R><@20>"
+     "en": "Noipask Soldier:<R>Whoa, whoa, any more of that<R>and my ship'll fall apart.<R><@18>Training's over.<R><@1c>You've got some skill,<R>I'll give you that.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G00#4",
      "jp": "ノイパスク兵：<R>まだまだだな。<R><@18>まあ、その船の性能が、<R>悪いってのもあるが、<R><@18>もっと上下に、動いて、<R>敵の弾を、散らしてやらなきゃ<R>ダメだな。<R><@20>また、相手してやるよ。<R><@20>",
-     "en": "Noipask Soldier:<R>Not good enough yet.<R><@18>Well, part of it's that your<R>ship isn't up to much, but<R><@18>you've got to move up and down<R>more and scatter the enemy's<R>fire.<R><@20>I'll take you on again<R>sometime.<R><@20>"
+     "en": "Noipask Soldier:<R>Not good enough yet.<R><@18>Well, part of it's that your<R>ship isn't up to much, but<R><@18>you've got to move up and<R>down more and scatter the<R>enemy's fire.<R><@20>I'll take you on<R>again sometime.<R><@20>"
     }
    ]
   }

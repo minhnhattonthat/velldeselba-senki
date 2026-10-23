@@ -457,7 +457,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#90",
      "jp": "ム連兵：<R>やったー！<R>シデルの親衛部隊を追い払ったぞ！<W><E>",
-     "en": "Federation Soldier:<R>Hooray! We drove off Sidel's Royal<R>Guard units!<W><E>"
+     "en": "Federation Soldier:<R>Hooray! We drove off<R>Sidel's Royal Guard units!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#91",
@@ -477,17 +477,17 @@
     {
      "id": "2D/FMPS/F08_00@49800#94",
      "jp": "ム連兵：<R>さあさ、ぼさっとしてないで。<R>仕事は山ほどあるぜ。<W><E>",
-     "en": "Federation Soldier:<R>Come on, come on, don't just stand<R>around. There's a mountain of<R>work to do.<W><E>"
+     "en": "Federation Soldier:<R>Come on, come on, don't<W><H>just stand around. There's<R>a mountain of work to do.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#95",
      "jp": "ム連兵：<R>船体の修理と補給を急げ！<W><E>",
-     "en": "Federation Soldier:<R>Hurry with the hull repairs and<R>resupply!<W><E>"
+     "en": "Federation Soldier:<R>Hurry with the hull<R>repairs and resupply!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#96",
      "jp": "ペンキ屋：<R>出張ペンキ屋だよ。<R>船のぬりかえかい？<W><E>",
-     "en": "Painter:<R>On-site painter here. Want your<R>ship repainted?<W><E>"
+     "en": "Painter:<R>On-site painter here. Want<R>your ship repainted?<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#97",
@@ -502,7 +502,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#99",
      "jp": "ドックの職人：<R>ここで出張ドックを<R>やってるんだ。<W><H>工場はちょっと離れたところに<R>あるんだけどね。<W><E>",
-     "en": "Shipwright:<R>I'm running a field dock here.<W><H>The workshop's a ways off,<R>though.<W><E>"
+     "en": "Shipwright:<R>I'm running a field dock here.<W><H>The workshop's a<R>ways off, though.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#100",
@@ -512,7 +512,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#101",
      "jp": "ドックの職人：<R>まいどあり。<R>また来ておくれ。<W><E>",
-     "en": "Shipwright:<R>Thanks for your business. Come<R>again.<W><E>"
+     "en": "Shipwright:<R>Thanks for your<R>business. Come again.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#102",
@@ -527,22 +527,22 @@
     {
      "id": "2D/FMPS/F08_00@49800#104",
      "jp": "コステリフ長官：<R>あなたたちの働きで、この町を<R>無事解放することができました。<W><E>",
-     "en": "Commander Kosterif:<R>Thanks to your efforts, we were<R>able to liberate this town<R>safely.<W><E>"
+     "en": "Commander Kosterif:<R>Thanks to your efforts,<W><H>we were able to liberate<R>this town safely.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#105",
      "jp": "タカテリフ長官：<R>感謝しますよ。<R>特に<F62>大尉。<W><E>",
-     "en": "Commander Takaterif:<R>We are grateful. Especially to<R>you, Captain <F62>.<W><E>"
+     "en": "Commander Takaterif:<R>We are grateful. Especially<R>to you, Captain <F62>.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#106",
      "jp": "<F62>：<R>なんだよ、いきなり。<W><H>みんなでがんばって<R>手に入れた勝利だろ？<W><H>俺に感謝するのは間違いだぜ。<W><E>",
-     "en": "<F62>:<R>What's this, all of a sudden?<W><H>We all worked hard for this<R>victory, didn't we?<W><H>You've got the wrong guy to<R>thank.<W><E>"
+     "en": "<F62>:<R>What's this, all of a sudden?<W><H>We all worked hard for<R>this victory, didn't we?<W><H>You've got the wrong<R>guy to thank.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#107",
      "jp": "コステリフ長官：<R>これは失礼。<R>いや、そうでしたな。<W><H>我々自らの力で、あのシデル<R>親衛部隊からヨウタコンを<R>取り返したんですな……<W><E>",
-     "en": "Commander Kosterif:<R>Pardon me. No, quite right, quite<R>right.<W><H>We took Youtakon back from Sidel's<R>Royal Guard units with our own<R>strength...<W><E>"
+     "en": "Commander Kosterif:<R>Pardon me. No, quite<R>right, quite right.<W><H>We took Youtakon back from<R>Sidel's Royal Guard units<R>with our own strength...<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#108",
@@ -557,7 +557,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#110",
      "jp": "コステリフ長官：<R>これより、<R>アヤメミ奪回作戦に移ります。<R>兵を召集し、ただちに出撃！<W><E>",
-     "en": "Commander Kosterif:<R>We now move on to the operation to<R>recapture Ayamemi. Assemble the<R>troops and sortie immediately!<W><E>"
+     "en": "Commander Kosterif:<R>We now move on to the operation<W><H>to recapture Ayamemi. Assemble the<R>troops and sortie immediately!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#111",
@@ -567,7 +567,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#112",
      "jp": "ゼシカ大尉：<R><F62>大尉、<R>あなたがいてくれてよかったわ。<W><H>長官もおっしゃってたけど、<R>わたしも感謝してる。<R>ほんとよ。<W><E>",
-     "en": "Captain Zeshika:<R>Captain <F62>, I'm glad you<R>were here.<W><H>The Commanders said so too, but<R>I'm grateful as well. I mean it.<W><E>"
+     "en": "Captain Zeshika:<R>Captain <F62>, I'm<R>glad you were here.<W><H>The Commanders said so too, but<R>I'm grateful as well. I mean it.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#113",
@@ -577,7 +577,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#114",
      "jp": "コステリフ長官：<R>ここで安心して手をゆるめるわけ<R>にはいきませんよ。<W><E>",
-     "en": "Commander Kosterif:<R>We can't relax our grip here just<R>because we feel safe.<W><E>"
+     "en": "Commander Kosterif:<R>We can't relax our grip here<R>just because we feel safe.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#115",
@@ -617,22 +617,22 @@
     {
      "id": "2D/FMPS/F08_00@49800#122",
      "jp": "男：<R>次はアヤメミの人々を<R>助けてください！<W><E>",
-     "en": "Man:<R>Next, please save the people of<R>Ayamemi!<W><E>"
+     "en": "Man:<R>Next, please save the<R>people of Ayamemi!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#123",
      "jp": "女：<R>ギダン軍に食べ物を取られ<R>ちゃったのよ。ひどいわよね。<W><E>",
-     "en": "Woman:<R>The Gidan army took our food.<R>Isn't that awful?<W><E>"
+     "en": "Woman:<R>The Gidan army took our<R>food. Isn't that awful?<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#124",
      "jp": "少年：<R>おじさんたち強いんだね。<W><E>",
-     "en": "Boy:<R>You guys are really strong,<R>mister!<W><E>"
+     "en": "Boy:<R>You guys are really<R>strong, mister!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#125",
      "jp": "少女：<R>ギダンの兵隊って、いばってる<R>からとてもイヤだったわ。<W><E>",
-     "en": "Girl:<R>The Gidan soldiers were so bossy.<R>I really hated them.<W><E>"
+     "en": "Girl:<R>The Gidan soldiers were so<R>bossy. I really hated them.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#126",
@@ -642,12 +642,12 @@
     {
      "id": "2D/FMPS/F08_00@49800#127",
      "jp": "老人：<R>シデルの親衛部隊を<R>追い払ってくれてありがとう！<W><E>",
-     "en": "Old Man:<R>Thank you for driving off Sidel's<R>Royal Guard units!<W><E>"
+     "en": "Old Man:<R>Thank you for driving off<R>Sidel's Royal Guard units!<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#128",
      "jp": "老女：<R>アヤメミにはイヌやネコが<R>多いんじゃ。無事だろうか……<W><E>",
-     "en": "Old Woman:<R>There are lots of dogs and cats in<R>Ayamemi. I wonder if they're<R>safe...<W><E>"
+     "en": "Old Woman:<R>There are lots of dogs and<W><H>cats in Ayamemi. I wonder<R>if they're safe...<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#129",

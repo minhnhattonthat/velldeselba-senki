@@ -457,12 +457,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#90",
      "jp": "ハウエズナ：<R>温泉でのんびりできますね。<W><E>",
-     "en": "Hauezna:<R>We will be able to relax in the<R>hot springs.<W><E>"
+     "en": "Hauezna:<R>We will be able to relax<R>in the hot springs.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#91",
      "jp": "バ・マッグ：<R>ゆっくりと汗を流したいですね。<W><E>",
-     "en": "Ba Magg:<R>I would like to take a nice, slow<R>soak and sweat it all out.<W><E>"
+     "en": "Ba Magg:<R>I would like to take a nice,<R>slow soak and sweat it all out.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#92",
@@ -482,12 +482,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#95",
      "jp": "カルフ：<R>留守番ですって。<W><E>",
-     "en": "Karf:<R>They said they're staying behind<R>to mind the ship.<W><E>"
+     "en": "Karf:<R>They said they're staying<R>behind to mind the ship.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#96",
      "jp": "<F62>：<R>よし、じゃあ今日だけ<R>無礼講といくか！<W><E>",
-     "en": "<F62>:<R>All right, just for today, forget<R>about rank and let loose!<W><E>"
+     "en": "<F62>:<R>All right, just for today,<R>forget about rank and let loose!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#97",
@@ -497,17 +497,17 @@
     {
      "id": "2D/BMPS/B06_00@51000#98",
      "jp": "カフィ：<R>ねえ、こんなことしていて<R>いいのかしら……？<W><E>",
-     "en": "Kafi:<R>Hey, is it really all right for us<R>to be doing this...?<W><E>"
+     "en": "Kafi:<R>Hey, is it really all right<R>for us to be doing this...?<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#99",
      "jp": "<F62>：<R>たまの息抜きだ。<W><H>ずいぶんみんなには<R>苦労をかけているからさ……<R>わかるだろ？<W><E>",
-     "en": "<F62>:<R>Everybody needs a break now and<R>then.<W><H>I've put them all through a lot...<R>You get it, right?<W><E>"
+     "en": "<F62>:<R>Everybody needs a<R>break now and then.<W><H>I've put them all through a<R>lot... You get it, right?<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#100",
      "jp": "カフィ：<R>ふふ。<W><H>空賊になって、ずいぶんと<R>部下思いになったのね。<W><H>でもわたしは人目につくわけには<R>いかないの……<W><H>船にもどるわね。<W><E>",
-     "en": "Kafi:<R>Heh.<W><H>Since becoming a sky pirate,<R>you've really learned to look<R>after your crew.<W><H>But I can't let myself be seen in<R>public...<W><H>I'll head back to the ship.<W><E>"
+     "en": "Kafi:<R>Heh.<W><H>Since becoming a sky pirate,<R>you've really learned to<R>look after your crew.<W><H>But I can't let myself<R>be seen in public...<W><H>I'll head back to the ship.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#101",
@@ -532,12 +532,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#105",
      "jp": "<F62>：<R>いや、どんな人だか知らない<R>からなあ。<W><E>",
-     "en": "<F62>:<R>Nope. I don't even know what he<R>looks like.<W><E>"
+     "en": "<F62>:<R>Nope. I don't even know<R>what he looks like.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#106",
      "jp": "男：<R>そそそ、そうでした！<W><H>えーとですね、頭はつるつるで、<R>小太りで、けっこうお歳で………<W><E>",
-     "en": "Man:<R>R-r-right, of course!<W><H>Well, um, he's bald as an egg, a<R>bit chubby, and getting on in<R>years......<W><E>"
+     "en": "Man:<R>R-r-right, of course!<W><H>Well, um, he's bald as an<R>egg, a bit chubby, and<R>getting on in years......<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#107",
@@ -547,17 +547,17 @@
     {
      "id": "2D/BMPS/B06_00@51000#108",
      "jp": "男：<R>ああ！<R>やはり誘拐されてしまったか！<W><E>",
-     "en": "Man:<R>Oh no! So he really has been<R>kidnapped!<W><E>"
+     "en": "Man:<R>Oh no! So he really<R>has been kidnapped!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#109",
      "jp": "<F62>：<R>誘拐？　おだやかじゃないね。<W><E>",
-     "en": "<F62>:<R>Kidnapped? That doesn't sound<R>good.<W><E>"
+     "en": "<F62>:<R>Kidnapped? That<R>doesn't sound good.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#110",
      "jp": "男：<R>そうなんです！　わたしが風呂に<R>なんか入っていたばかりに！<W><E>",
-     "en": "Man:<R>That's right! And all because I<R>was off taking a bath!<W><E>"
+     "en": "Man:<R>That's right! And all because<R>I was off taking a bath!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#111",
@@ -567,12 +567,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#112",
      "jp": "男：<R>お礼はいくらでもします！<W><H>わたしの主人を<R>さがしてください！<W><E>",
-     "en": "Man:<R>I'll reward you as much as you<R>like!<W><H>Please, find my master!<W><E>"
+     "en": "Man:<R>I'll reward you as<R>much as you like!<W><H>Please, find my master!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#113",
      "jp": "<F62>：<R>でも誘拐だったら、<R>俺なんかが、さがすよりも……<W><E>",
-     "en": "<F62>:<R>But if it's a kidnapping, then<R>rather than a guy like me<R>searching...<W><E>"
+     "en": "<F62>:<R>But if it's a kidnapping,<W><H>then rather than a guy<R>like me searching...<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#114",
@@ -592,7 +592,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#117",
      "jp": "男：<R>ガークスです。<R>お礼はじゅうぶんにいたします。<W><E>",
-     "en": "Man:<R>I am Garks. You will be generously<R>rewarded.<W><E>"
+     "en": "Man:<R>I am Garks. You will be<R>generously rewarded.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#118",
@@ -617,7 +617,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#122",
      "jp": "<F62>：<R>それだ！<W><H>じゃあガークスさん、俺の船に<R>乗ってくれ。<W><H>まだ遠くへは行っていない<R>はずだ。<W><E>",
-     "en": "<F62>:<R>That's it!<W><H>Okay, Garks-san, get aboard my<R>ship.<W><H>They can't have gotten far yet.<W><E>"
+     "en": "<F62>:<R>That's it!<W><H>Okay, Garks-san, get<R>aboard my ship.<W><H>They can't have gotten far yet.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#123",
@@ -632,12 +632,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#125",
      "jp": "酒場の主人：<R>太った紳士ですか？<R>さあ……<W><E>",
-     "en": "Tavern Keeper:<R>A plump gentleman? Hmm, can't<R>say...<W><E>"
+     "en": "Tavern Keeper:<R>A plump gentleman?<R>Hmm, can't say...<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#126",
      "jp": "商人：<R>ぷはあ、生き返ったぜ。<W><E>",
-     "en": "Merchant:<R>Pwah! That brings me back to<R>life.<W><E>"
+     "en": "Merchant:<R>Pwah! That brings<R>me back to life.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#127",
@@ -647,7 +647,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#128",
      "jp": "男：<R>久々に休暇が取れたんで<R>遊びに来たんだ。<W><E>",
-     "en": "Man:<R>I finally got some time off, so I<R>came here to have fun.<W><E>"
+     "en": "Man:<R>I finally got some time off,<R>so I came here to have fun.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#129",
@@ -687,7 +687,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#136",
      "jp": "老人：<R>この町の老人は温泉のおかげで<R>長生きなんじゃ。<W><E>",
-     "en": "Old Man:<R>The old folks in this town live<R>long lives, thanks to the hot<R>springs.<W><E>"
+     "en": "Old Man:<R>The old folks in this town<W><H>live long lives, thanks to<R>the hot springs.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#137",
@@ -697,7 +697,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#138",
      "jp": "老女：<R>まあ、ゆっくりしていって<R>くださいな。<W><E>",
-     "en": "Old Woman:<R>Well, do take your time and<R>relax.<W><E>"
+     "en": "Old Woman:<R>Well, do take your<R>time and relax.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#139",
@@ -712,12 +712,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#141",
      "jp": "黒い船なら見たよ。ダナデウノの<R>方角に飛んでったよ。<W><E>",
-     "en": "I saw a black ship. It flew off<R>toward Danadeuno.<W><E>"
+     "en": "I saw a black ship. It<R>flew off toward Danadeuno.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#142",
      "jp": "少女：<R>浜辺に温泉がわいているのよ。<R>混浴じゃないけどね。<W><E>",
-     "en": "Girl:<R>There's a hot spring bubbling up<R>right on the beach. It's not<R>mixed bathing, though.<W><E>"
+     "en": "Girl:<R>There's a hot spring bubbling<W><H>up right on the beach. It's<R>not mixed bathing, though.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#143",
@@ -732,7 +732,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#145",
      "jp": "女：<R>新婚旅行はダナスピに<R>行きたかったのにぃ。<W><E>",
-     "en": "Woman:<R>And I wanted to go to Danaspi for<R>our honeymoon...<W><E>"
+     "en": "Woman:<R>And I wanted to go to<R>Danaspi for our honeymoon...<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#146",
@@ -747,7 +747,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#148",
      "jp": "女：<R>この町も昔はもっと<R>にぎわっていたんだけどね。<W><E>",
-     "en": "Woman:<R>This town used to be a lot<R>livelier, you know.<W><E>"
+     "en": "Woman:<R>This town used to be a<R>lot livelier, you know.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#149",
@@ -767,12 +767,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#152",
      "jp": "おねえさん：<R>あたしたち、看護婦なんです。<R>久しぶりに休暇が取れたの。<W><E>",
-     "en": "Young Woman:<R>We're nurses. We finally got some<R>time off.<W><E>"
+     "en": "Young Woman:<R>We're nurses. We finally<R>got some time off.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#153",
      "jp": "<F62>：<R>オユ・キクルじゃないか。<W><H>ここが温泉の入り口か？<W><E>",
-     "en": "<F62>:<R>Oyu Kikuru, is that you?<W><H>Is this the entrance to the hot<R>springs?<W><E>"
+     "en": "<F62>:<R>Oyu Kikuru, is that you?<W><H>Is this the entrance<R>to the hot springs?<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#154",
@@ -787,7 +787,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#156",
      "jp": "オユ・キクル：<R>ウソですよ。<W><H>わたしはカルフさんといっしょに<R>入るんですもの。<R>じゃあね。<W><E>",
-     "en": "Oyu Kikuru:<R>Just kidding!<W><H>I'm going in with Karf-san. See<R>you!<W><E>"
+     "en": "Oyu Kikuru:<R>Just kidding!<W><H>I'm going in with<R>Karf-san. See you!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#157",
@@ -797,7 +797,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#158",
      "jp": "男：<R>いい湯ですね。<R>どこからいらしたのですか？<W><E>",
-     "en": "Man:<R>Lovely water, isn't it? Where are<R>you from?<W><E>"
+     "en": "Man:<R>Lovely water, isn't it?<R>Where are you from?<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#159",
@@ -807,7 +807,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#160",
      "jp": "男：<R>ははは、これはおもしろい！<R>ノイパスク人の祖先ですか。<W><E>",
-     "en": "Man:<R>Hahaha, how amusing! So you're one<R>of the Noipask's ancestors?<W><E>"
+     "en": "Man:<R>Hahaha, how amusing! So you're<R>one of the Noipask's ancestors?<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#161",
@@ -817,7 +817,7 @@
     {
      "id": "2D/BMPS/B06_00@51000#162",
      "jp": "男：<R>いやあ、わたしもあまり人に言え<R>るような立場ではないのです。<W><H>さるお方のボディーガードをして<R>おりましてね。<W><E>",
-     "en": "Man:<R>Well, I'm not really in a position<R>to say.<W><H>I serve as bodyguard to a certain<R>distinguished person.<W><E>"
+     "en": "Man:<R>Well, I'm not really<R>in a position to say.<W><H>I serve as bodyguard to a<R>certain distinguished person.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#163",
@@ -827,17 +827,17 @@
     {
      "id": "2D/BMPS/B06_00@51000#164",
      "jp": "男：<R>ええ、せっかくワザノへ<R>来たのだからと、<W><H>ヒマを下さったのですよ。<W><E>",
-     "en": "Man:<R>Yes, well, since we'd come all the<R>way to Wazano,<W><H>I was kindly given some time<R>off.<W><E>"
+     "en": "Man:<R>Yes, well, since we'd come<R>all the way to Wazano,<W><H>I was kindly given<R>some time off.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#165",
      "jp": "<F62>：<R>なかなか物わかりのいい人<R>なんだな。<W><E>",
-     "en": "<F62>:<R>Sounds like a pretty understanding<R>boss.<W><E>"
+     "en": "<F62>:<R>Sounds like a pretty<R>understanding boss.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#166",
      "jp": "男：<R>ええ、立派なお方です。<W><H>それではわたしはお先に<R>失礼します。<W><H>これ以上入っているとのぼせて<R>しまうので。<W><E>",
-     "en": "Man:<R>Yes, a fine person indeed.<W><H>Well then, I'll take my leave<R>first.<W><H>If I stay in any longer, I'll get<R>light-headed.<W><E>"
+     "en": "Man:<R>Yes, a fine person indeed.<W><H>Well then, I'll take<R>my leave first.<W><H>If I stay in any longer,<R>I'll get light-headed.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#167",
@@ -847,12 +847,12 @@
     {
      "id": "2D/BMPS/B06_00@51000#168",
      "jp": "<F62>：<R>壊れてるのか。<R>まったく、しけたカジノだ。<W><E>",
-     "en": "<F62>:<R>It's broken? What a lousy<R>casino.<W><E>"
+     "en": "<F62>:<R>It's broken? What<R>a lousy casino.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#169",
      "jp": "カルフ：<R>５００Ｚもつぎこんだのに<R>こわれちゃったのよ！<W><H>責任者もいないっていうし。<R>ひどいわ！<W><E>",
-     "en": "Karf:<R>I sank 500Z into it, and it<R>broke!<W><H>And they say there's nobody in<R>charge. It's awful!<W><E>"
+     "en": "Karf:<R>I sank 500Z into<R>it, and it broke!<W><H>And they say there's nobody<R>in charge. It's awful!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#170",
@@ -872,22 +872,22 @@
     {
      "id": "2D/BMPS/B06_00@51000#173",
      "jp": "少年：<R>あれ？<R>おじさんは泳がないの？<W><E>",
-     "en": "Boy:<R>Huh? Mister, aren't you going<R>swimming?<W><E>"
+     "en": "Boy:<R>Huh? Mister, aren't<R>you going swimming?<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#174",
      "jp": "少女：<R>おじさん泳げないの？<R>だっさ～い。<W><E>",
-     "en": "Girl:<R>Mister, can't you swim? How<R>lame!<W><E>"
+     "en": "Girl:<R>Mister, can't you<R>swim? How lame!<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#175",
      "jp": "少女：<R>毎日でも泳いでいたいわ。<W><E>",
-     "en": "Girl:<R>I'd go swimming every day if I<R>could.<W><E>"
+     "en": "Girl:<R>I'd go swimming every<R>day if I could.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#176",
      "jp": "<F62>：<R>いや……<R>俺も温泉に入ってくるか。<W><E>",
-     "en": "<F62>:<R>Nah... Guess I'll go hit the hot<R>springs too.<W><E>"
+     "en": "<F62>:<R>Nah... Guess I'll go hit<R>the hot springs too.<W><E>"
     },
     {
      "id": "2D/BMPS/B06_00@51000#177",

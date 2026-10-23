@@ -447,17 +447,17 @@
     {
      "id": "2D/FMPS/F12_00@4b800#88",
      "jp": "カチタ中佐：<R>サロ将軍がお待ちです。<R>こちらにどうぞ。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>General Saro is expecting you.<R>This way, please.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>General Saro is expecting<R>you. This way, please.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#89",
      "jp": "デ・サロ将軍：<R>ギダン国王陛下、<R>ム連邦にようこそ。<W><H>至らぬ点があるかと<R>思いますが<R>無礼の段はお許しください。<W><E>",
-     "en": "General De Saro:<R>Your Majesty the King of Gidan,<R>welcome to the Federation.<W><H>I fear our hospitality may fall<R>short in places. Please forgive<R>any discourtesy.<W><E>"
+     "en": "General De Saro:<R>Your Majesty the King of Gidan,<R>welcome to the Federation.<W><H>I fear our hospitality may<R>fall short in places. Please<R>forgive any discourtesy.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#90",
      "jp": "ギダン国王：<R>おお、君がウワサに高い<R>サロ将軍か。<W><E>",
-     "en": "King of Gidan:<R>Oho, so you are the famous General<R>Saro.<W><E>"
+     "en": "King of Gidan:<R>Oho, so you are the<R>famous General Saro.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#91",
@@ -477,7 +477,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#94",
      "jp": "ギダン国王：<R>いかにも。余はそのつもりで<R>ここまで来た。<W><E>",
-     "en": "King of Gidan:<R>Indeed. That is why I came all<R>this way.<W><E>"
+     "en": "King of Gidan:<R>Indeed. That is why<R>I came all this way.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#95",
@@ -487,7 +487,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#96",
      "jp": "ギダン国王：<R>息子……シデルに命を<R>狙われているのだ。<W><E>",
-     "en": "King of Gidan:<R>My son... Sidel is after my<R>life.<W><E>"
+     "en": "King of Gidan:<R>My son... Sidel is<R>after my life.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#97",
@@ -497,7 +497,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#98",
      "jp": "ギダン国王：<R>余はノイパスクとの和平を<R>計画していたのだが……<W><H>おそらく、それが<R>気にいらなかったのだろう。<W><E>",
-     "en": "King of Gidan:<R>I had been planning to make peace<R>with Noipask...<W><H>No doubt that is what displeased<R>him.<W><E>"
+     "en": "King of Gidan:<R>I had been planning to<R>make peace with Noipask...<W><H>No doubt that is<R>what displeased him.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#99",
@@ -507,12 +507,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#100",
      "jp": "ギダン国王：<R>余はギダン国王だ。<W><H>まだまだ余の目が黒いうちは、<R>国をあやつの好きなようには<R>させん。<W><E>",
-     "en": "King of Gidan:<R>I am the King of Gidan.<W><H>So long as I still draw breath, I<R>shall not let him do as he pleases<R>with my country.<W><E>"
+     "en": "King of Gidan:<R>I am the King of Gidan.<W><H>So long as I still draw<R>breath, I shall not let him do<R>as he pleases with my country.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#101",
      "jp": "デ・サロ将軍：<R>最近のギダンの軍事攻勢はシデル<R>提督の暴走だったのですか？<W><E>",
-     "en": "General De Saro:<R>Then Gidan's recent military<R>offensives were Admiral Sidel<R>running wild?<W><E>"
+     "en": "General De Saro:<R>Then Gidan's recent military<W><H>offensives were Admiral<R>Sidel running wild?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#102",
@@ -527,32 +527,32 @@
     {
      "id": "2D/FMPS/F12_00@4b800#104",
      "jp": "ギダン国王：<R>そろそろ終わらせようでは<R>ないか。<W><H>この戦争は長く続きすぎたよ。<W><E>",
-     "en": "King of Gidan:<R>Is it not time we brought it to an<R>end?<W><H>This war has gone on far too<R>long.<W><E>"
+     "en": "King of Gidan:<R>Is it not time we<R>brought it to an end?<W><H>This war has gone<R>on far too long.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#105",
      "jp": "デ・サロ将軍：<R>わたしも同感です。<W><H>こんな無益な争いはすぐ<R>やめるべきです。<W><E>",
-     "en": "General De Saro:<R>I agree.<W><H>This pointless fighting should<R>stop at once.<W><E>"
+     "en": "General De Saro:<R>I agree.<W><H>This pointless fighting<R>should stop at once.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#106",
      "jp": "ギダン国王：<R>……そなたは余が<R>思っていた通りの男だ。<W><E>",
-     "en": "King of Gidan:<R>...You are just the man I took you<R>for.<W><E>"
+     "en": "King of Gidan:<R>...You are just the<R>man I took you for.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#107",
      "jp": "デ・サロ将軍：<R>国王、わたしはよろこんであなた<R>をム連邦にお迎えします。<W><H>さっそくわが国の大統領に<R>連絡しましょう。<W><H>ご足労（そくろう）ですが、<R>首都ムノギイまでご同行<R>お願いいたします。<W><E>",
-     "en": "General De Saro:<R>Your Majesty, I gladly welcome you<R>into the Federation.<W><H>I shall contact our President at<R>once.<W><H>I am sorry to trouble you, but I<R>must ask you to accompany us to<R>the capital, Munogi.<W><E>"
+     "en": "General De Saro:<R>Your Majesty, I gladly welcome<R>you into the Federation.<W><H>I shall contact our<R>President at once.<W><H>I am sorry to trouble you, but<R>I must ask you to accompany us<R>to the capital, Munogi.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#108",
      "jp": "ギダン国王：<R>ああ、いいとも。<W><H>オタワ大統領とは前々から<R>話し合いたかったのだ。<W><E>",
-     "en": "King of Gidan:<R>Ah, certainly.<W><H>I have long wished to speak with<R>President Otawa.<W><E>"
+     "en": "King of Gidan:<R>Ah, certainly.<W><H>I have long wished to speak<R>with President Otawa.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#109",
      "jp": "デ・サロ将軍：<R>では、出発までゆっくりと<R>おくつろぎください。<W><H>カチタ、たのむ。<W><E>",
-     "en": "General De Saro:<R>Then please rest at your ease<R>until we depart.<W><H>Kachita, see to it.<W><E>"
+     "en": "General De Saro:<R>Then please rest at your<R>ease until we depart.<W><H>Kachita, see to it.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#110",
@@ -562,12 +562,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#111",
      "jp": "デ・サロ将軍：<R><F62>大尉も<R>お役目ご苦労であった。<W><H>君には特別に、わが基地内での<R>自由行動を許可しよう。<W><H>ではわたしはこれで……<W><E>",
-     "en": "General De Saro:<R>Captain <F62>, you too have<R>served well.<W><H>As a special privilege, you may<R>move freely within our base.<W><H>Now, if you'll excuse me...<W><E>"
+     "en": "General De Saro:<R>Captain <F62>, you<R>too have served well.<W><H>As a special privilege, you may<R>move freely within our base.<W><H>Now, if you'll excuse me...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#112",
      "jp": "マハシ大佐：<R>弟が世話になっているそうだな、<R><F62>大尉。<W><E>",
-     "en": "Colonel Mahashi:<R>I hear my little brother's been in<R>your care, Captain <F62>.<W><E>"
+     "en": "Colonel Mahashi:<R>I hear my little brother's been<R>in your care, Captain <F62>.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#113",
@@ -577,7 +577,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#114",
      "jp": "マハシ大佐：<R>ああ。あいつは時々考えすぎる<R>ことはあるが、まじめなヤツだ。<W><H>これからもよろしく頼む。<W><E>",
-     "en": "Colonel Mahashi:<R>That's right. He overthinks things<R>sometimes, but he's an earnest<R>one.<W><H>Keep looking out for him.<W><E>"
+     "en": "Colonel Mahashi:<R>That's right. He overthinks<W><H>things sometimes, but he's<R>an earnest one.<W><H>Keep looking out for him.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#115",
@@ -587,7 +587,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#116",
      "jp": "マハシ大佐：<R>サロ将軍の娘さんだな？<W><H>おお、いるぞ。<R>さがしてみるといい。<W><H>多分、配給部２階にある<R>士官専用の宿舎にいるはずだ。<W><E>",
-     "en": "Colonel Mahashi:<R>General Saro's daughter, you<R>mean?<W><H>Yes, they're here. Go look for<R>them.<W><H>They should be in the officers'<R>quarters on the second floor of<R>the Supply Office.<W><E>"
+     "en": "Colonel Mahashi:<R>General Saro's<R>daughter, you mean?<W><H>Yes, they're here.<R>Go look for them.<W><H>They should be in the officers'<R>quarters on the second floor of<R>the Supply Office.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#117",
@@ -612,7 +612,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#121",
      "jp": "ガシザキノ大佐：<R><F62>、<W><H>国王陛下と俺は、サロ将軍と<R>共にムノギイに向かうぞ。<W><E>",
-     "en": "Colonel Gashizakino:<R><F62>,<W><H>His Majesty and I are heading to<R>Munogi with General Saro.<W><E>"
+     "en": "Colonel Gashizakino:<R><F62>,<W><H>His Majesty and I are heading<R>to Munogi with General Saro.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#122",
@@ -622,12 +622,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#123",
      "jp": "ガシザキノ大佐：<R>陛下は俺の船で<R>お連れするが……<W><H>おまえはどうする？<W><E>",
-     "en": "Colonel Gashizakino:<R>I'll be taking His Majesty on my<R>ship...<W><H>What about you?<W><E>"
+     "en": "Colonel Gashizakino:<R>I'll be taking His<R>Majesty on my ship...<W><H>What about you?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#124",
      "jp": "<F62>：<R>そうだなあ、大統領なんかに<R>会ってもつまんないし、<W><H>ここで傭兵として雇って<R>もらおうかな。<W><E>",
-     "en": "<F62>:<R>Let's see... Meeting some<R>president sounds boring,<W><H>so maybe I'll get them to hire me<R>here as a mercenary.<W><E>"
+     "en": "<F62>:<R>Let's see... Meeting some<R>president sounds boring,<W><H>so maybe I'll get them to<R>hire me here as a mercenary.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#125",
@@ -642,12 +642,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#127",
      "jp": "ガシザキノ大佐：<R>ギダン軍の次はム連邦軍か。<R>全く変なやつだよ、おまえは。<W><E>",
-     "en": "Colonel Gashizakino:<R>First the Gidan army, now the<R>Federation army. You're a<R>strange one, I swear.<W><E>"
+     "en": "Colonel Gashizakino:<R>First the Gidan army, now<W><H>the Federation army. You're<R>a strange one, I swear.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#128",
      "jp": "ガシザキノ大佐：<R>カ・ジャルコとフラグナムを<R>連れていくぞ。<W><H>国王のお供が俺ひとりじゃ、<R>カッコつかないだろ？<W><E>",
-     "en": "Colonel Gashizakino:<R>I'm taking Ka Jarko and Fragnum<R>with me.<W><H>If I'm the King's only attendant,<R>it won't look right, will it?<W><E>"
+     "en": "Colonel Gashizakino:<R>I'm taking Ka Jarko<R>and Fragnum with me.<W><H>If I'm the King's only attendant,<R>it won't look right, will it?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#129",
@@ -657,7 +657,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#130",
      "jp": "ム連兵：<R>ガシザキノ大佐！<R>出発の時間です。<W><E>",
-     "en": "Federation Soldier:<R>Colonel Gashizakino! It's time to<R>depart.<W><E>"
+     "en": "Federation Soldier:<R>Colonel Gashizakino!<R>It's time to depart.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#131",
@@ -677,7 +677,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#134",
      "jp": "マハシ大佐：<R>彼らの装甲は今までとちがう！<R>何か対策を考えねば！<W><E>",
-     "en": "Colonel Mahashi:<R>Their armor is unlike anything<R>we've seen! We must find a<R>countermeasure!<W><E>"
+     "en": "Colonel Mahashi:<R>Their armor is unlike<W><H>anything we've seen! We must<R>find a countermeasure!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#135",
@@ -687,7 +687,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#136",
      "jp": "ゼシカ大尉：<R>今は味方の攻撃を集中して、<R>一機ずつ落とすしかないわね……<W><E>",
-     "en": "Captain Zeshika:<R>For now, all we can do is<R>concentrate our fire and bring<R>them down one at a time...<W><E>"
+     "en": "Captain Zeshika:<R>For now, all we can do is<W><H>concentrate our fire and bring<R>them down one at a time...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#137",
@@ -712,7 +712,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#141",
      "jp": "カチタ中佐：<R>今、うちの部下が<R>研究している砲弾は、<W><H>強力な火薬を積んだ<R>プロペラ魚雷に有線誘導式の<R>安定翼をつけた誘導弾だ。<W><H>コントロールに慣れれば、<R>確実に敵にダメージを<R>与えることができる。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>The shell my men are researching<R>right now<W><H>is a guided shell: a propeller<R>torpedo packed with powerful<R>explosive and fitted with<R>wire-guided stabilizer fins.<W><H>Once you're used to the controls,<R>you can be sure of damaging the<R>enemy.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>The shell my men are<R>researching right now<W><H>is a guided shell: a propeller<R>torpedo packed with powerful<W><H>explosive and fitted with<R>wire-guided stabilizer fins.<W><H>Once you're used to the<R>controls, you can be sure<R>of damaging the enemy.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#142",
@@ -722,7 +722,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#143",
      "jp": "カチタ中佐：<R>この砲弾なら、親衛部隊の装甲を<R>打ち破れるかもしれません。<W><H>すぐに生産に入りましょう！<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>This shell might be able to break<R>through the Royal Guard units'<R>armor.<W><H>Let's put it into production at<R>once!<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>This shell might be able<W><H>to break through the Royal<R>Guard units' armor.<W><H>Let's put it into<R>production at once!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#144",
@@ -737,12 +737,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#146",
      "jp": "タカテリフ長官：<R>ギダンの国王陛下はムノギイに<R>無事に到着したそうだ。<W><E>",
-     "en": "Commander Takaterif:<R>His Majesty the King of Gidan has<R>arrived safely in Munogi.<W><E>"
+     "en": "Commander Takaterif:<R>His Majesty the King of Gidan<R>has arrived safely in Munogi.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#147",
      "jp": "コステリフ・タカテリフ長官：<R>これで、ギダンとム連邦の和平が<R>一歩近づいたわけだ……<W><E>",
-     "en": "Commanders Kosterif and Takaterif:<R>That brings peace between Gidan<R>and the Federation one step<R>closer...<W><E>"
+     "en": "Commanders Kosterif and<R>Takaterif: That brings peace<W><H>between Gidan and the<R>Federation one step closer...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#148",
@@ -757,7 +757,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#150",
      "jp": "ゼシカ大尉：<R>急に移動し始めたらしいの。<W><E>",
-     "en": "Captain Zeshika:<R>Apparently it suddenly started<R>moving.<W><E>"
+     "en": "Captain Zeshika:<R>Apparently it suddenly<R>started moving.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#151",
@@ -792,12 +792,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#157",
      "jp": "コステリフ・タカテリフ長官：<R>ホウノム島をこれ以上<R>近づけるのは危険ですよ。<W><E>",
-     "en": "Commanders Kosterif and Takaterif:<R>It's dangerous to let Hounom<R>Island come any closer.<W><E>"
+     "en": "Commanders Kosterif and<R>Takaterif: It's dangerous to let<R>Hounom Island come any closer.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#158",
      "jp": "ゼシカ大尉：<R>出撃しましょう！<R>なんとかくい止めないと！<W><E>",
-     "en": "Captain Zeshika:<R>Let's sortie! We have to stop it<R>somehow!<W><E>"
+     "en": "Captain Zeshika:<R>Let's sortie! We have<R>to stop it somehow!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#159",
@@ -812,7 +812,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#161",
      "jp": "<F62>：<R>とにかく行ってみよう。<R>相手が動き出すかもしれない。<W><E>",
-     "en": "<F62>:<R>Let's just go and see. They might<R>make a move.<W><E>"
+     "en": "<F62>:<R>Let's just go and see.<R>They might make a move.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#162",
@@ -832,7 +832,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#165",
      "jp": "デ・サロ将軍：<R>なんだ！　あの島は！<W><H>もう目の前に<R>来ているではないか！？<W><E>",
-     "en": "General De Saro:<R>What! That island!<W><H>It's already right in front of<R>us!?<W><E>"
+     "en": "General De Saro:<R>What! That island!<W><H>It's already right<R>in front of us!?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#166",
@@ -842,27 +842,27 @@
     {
      "id": "2D/FMPS/F12_00@4b800#167",
      "jp": "タカテリフ長官：<R>将軍のいない間にとんでもない<R>ことになってしまいました。<W><E>",
-     "en": "Commander Takaterif:<R>Things took a terrible turn while<R>you were away, General.<W><E>"
+     "en": "Commander Takaterif:<R>Things took a terrible turn<R>while you were away, General.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#168",
      "jp": "マハシ大佐：<R>おそらくシデルが移動させて<R>いるものと………<W><E>",
-     "en": "Colonel Mahashi:<R>Most likely Sidel is the one<R>moving it...<W><E>"
+     "en": "Colonel Mahashi:<R>Most likely Sidel is<R>the one moving it...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#169",
      "jp": "デ・サロ将軍：<R>いいわけはもういい。<W><H>あれを止める方法はないのか！<W><E>",
-     "en": "General De Saro:<R>Enough excuses.<W><H>Is there no way to stop that<R>thing!?<W><E>"
+     "en": "General De Saro:<R>Enough excuses.<W><H>Is there no way to<R>stop that thing!?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#170",
      "jp": "カチタ中佐：<R>あの大きさだと砲撃しても<R>びくともしません。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>At that size, shelling won't so<R>much as budge it.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>At that size, shelling<R>won't so much as budge it.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#171",
      "jp": "デ・サロ将軍：<R>では上陸部隊を編成し、浮遊島<R>内部に突入するしかないだろう。<W><H>カチタ、<R>急いで人を集めたまえ。<W><E>",
-     "en": "General De Saro:<R>Then we have no choice but to form<R>a landing party and storm the<R>inside of the floating island.<W><H>Kachita, gather men at once.<W><E>"
+     "en": "General De Saro:<R>Then we have no choice but to<W><H>form a landing party and storm the<R>inside of the floating island.<W><H>Kachita, gather men at once.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#172",
@@ -872,7 +872,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#173",
      "jp": "デ・サロ将軍：<R>マハシは上陸部隊を<R>後方から援護してくれ。<W><E>",
-     "en": "General De Saro:<R>Mahashi, cover the landing party<R>from the rear.<W><E>"
+     "en": "General De Saro:<R>Mahashi, cover the landing<R>party from the rear.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#174",
@@ -887,12 +887,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#176",
      "jp": "デ・サロ将軍：<R>どうしたものか……この町は<R>もはや制圧されたも同然だ。<W><E>",
-     "en": "General De Saro:<R>What are we to do... This town is<R>as good as captured already.<W><E>"
+     "en": "General De Saro:<R>What are we to do... This town<R>is as good as captured already.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#177",
      "jp": "コステリフ・タカテリフ長官：<R>………………<W><E>",
-     "en": "Commanders Kosterif and Takaterif:<R>......<W><E>"
+     "en": "Commanders Kosterif<R>and Takaterif: ......<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#178",
@@ -922,7 +922,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#183",
      "jp": "ギダン軍特使：<R>現在、ホウノム島はヤーダス<R>上空にあります。<W><H>この浮遊島の動力を破壊すれば、<R>自動的にこの町の上に<R>落下することになります。<W><H>そうなれば、町は完全に<R>壊滅するでしょう。<W><E>",
-     "en": "Gidan Envoy:<R>Hounom Island is currently in the<R>sky above Yadas.<W><H>If this floating island's power<R>plant is destroyed, it will<R>automatically fall onto this<R>town.<W><H>Should that happen, the town will<R>be utterly wiped out.<W><E>"
+     "en": "Gidan Envoy:<R>Hounom Island is currently<R>in the sky above Yadas.<W><H>If this floating island's<R>power plant is destroyed,<W><H>it will automatically fall<R>onto this town.<W><H>Should that happen, the town<R>will be utterly wiped out.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#184",
@@ -932,7 +932,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#185",
      "jp": "ギダン軍特使：<R>ただし、シデル提督は無用の<R>争いは望んでいません。<W><H>ただちにこの町を<R>明け渡してください。<W><H>無駄な抵抗をすれば、すぐに<R>浮遊島の動力装置を破壊する<R>手はずになっています。<W><E>",
-     "en": "Gidan Envoy:<R>However, Admiral Sidel desires no<R>needless conflict.<W><H>Surrender this town at once.<W><H>Should you resist in vain, we are<R>prepared to destroy the floating<R>island's power unit immediately.<W><E>"
+     "en": "Gidan Envoy:<R>However, Admiral Sidel desires<R>no needless conflict.<W><H>Surrender this town at once.<W><H>Should you resist in vain, we are<R>prepared to destroy the floating<R>island's power unit immediately.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#186",
@@ -952,7 +952,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#189",
      "jp": "デ・サロ将軍：<R>やめろ、特使を捕えても<R>何の解決にもならないぞ！<W><E>",
-     "en": "General De Saro:<R>Stop! Seizing the envoy won't<R>solve anything!<W><E>"
+     "en": "General De Saro:<R>Stop! Seizing the envoy<R>won't solve anything!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#190",
@@ -1012,12 +1012,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#201",
      "jp": "デ・サロ将軍：<R>東の山岳地帯にある、<R>ギダンと国境を接している町だ。<W><E>",
-     "en": "General De Saro:<R>It's a town in the eastern<R>mountains, on the border with<R>Gidan.<W><E>"
+     "en": "General De Saro:<R>It's a town in the<W><H>eastern mountains, on<R>the border with Gidan.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#202",
      "jp": "デ・サロ将軍：<R>偵察部隊から入った情報では、<W><H>ギダンのデゼにシデル親衛部隊が<R>集結しつつあるらしい。<W><H>国境線を超えてパナスガルを<R>攻撃してくるのは<R>時間の問題だろうな。<W><E>",
-     "en": "General De Saro:<R>According to our scouts,<W><H>Sidel's Royal Guard units seem to<R>be massing at Deze in Gidan.<W><H>It's only a matter of time before<R>they cross the border and attack<R>Panasgal.<W><E>"
+     "en": "General De Saro:<R>According to our scouts,<W><H>Sidel's Royal Guard units seem<R>to be massing at Deze in Gidan.<W><H>It's only a matter of time<R>before they cross the border<R>and attack Panasgal.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#203",
@@ -1032,7 +1032,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#205",
      "jp": "デ・サロ将軍：<R>ゼシカ大尉は長官たちと<R>同行してくれ。<W><H>もちろん<F62>、<R>君にも行ってもらいたい。<W><E>",
-     "en": "General De Saro:<R>Captain Zeshika, go with the<R>commanders.<W><H>And of course, <F62>, I'd like<R>you to go too.<W><E>"
+     "en": "General De Saro:<R>Captain Zeshika, go<R>with the commanders.<W><H>And of course, <F62>,<R>I'd like you to go too.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#206",
@@ -1052,12 +1052,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#209",
      "jp": "デ・サロ将軍：<R>シデルがここに浮遊島を<R>持ってきたのは、<W><H>われわれが浮遊島に<R>気を取られている間に<R>戦力をデゼに集中させ、<W><H>一気に攻め込むつもりだからでは<R>ないだろうか？<W><H>そうだとすれば、フェルムに<R>大部隊を置いておく必要はない。<W><E>",
-     "en": "General De Saro:<R>Sidel brought the floating island<R>here,<W><H>so that while we're distracted by<R>it, he can mass his forces at<R>Deze<W><H>and strike all at once. Wouldn't<R>you say?<W><H>If so, there's no need to keep a<R>large force at Ferum.<W><E>"
+     "en": "General De Saro:<R>Sidel brought the<R>floating island here,<W><H>so that while we're<R>distracted by it, he can<R>mass his forces at Deze<W><H>and strike all at once.<R>Wouldn't you say?<W><H>If so, there's no need to<R>keep a large force at Ferum.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#210",
      "jp": "<F62>：<R>ここの浮遊島はおどし目的に<R>使うだけ、ということか？<W><E>",
-     "en": "<F62>:<R>So the floating island here is<R>just for scaring us?<W><E>"
+     "en": "<F62>:<R>So the floating island here<R>is just for scaring us?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#211",
@@ -1067,7 +1067,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#212",
      "jp": "ゼシカ大尉：<R>パナスガルまでは遠いわ。<R>しっかり準備をしておくのよ。<W><E>",
-     "en": "Captain Zeshika:<R>It's a long way to Panasgal. Make<R>sure you're well prepared.<W><E>"
+     "en": "Captain Zeshika:<R>It's a long way to Panasgal.<R>Make sure you're well prepared.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#213",
@@ -1077,7 +1077,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#214",
      "jp": "コステリフ長官：<R>シデル艦隊は疲れを知らない<R>かのようですな。<W><E>",
-     "en": "Commander Kosterif:<R>Sidel's fleet seems never to tire,<R>does it?<W><E>"
+     "en": "Commander Kosterif:<R>Sidel's fleet seems<R>never to tire, does it?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#215",
@@ -1092,12 +1092,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#217",
      "jp": "マハシ大佐：<R>ゼシカ大尉には会えたかね？<W><E>",
-     "en": "Colonel Mahashi:<R>Did you get to see Captain<R>Zeshika?<W><E>"
+     "en": "Colonel Mahashi:<R>Did you get to see<R>Captain Zeshika?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#218",
      "jp": "マハシ大佐：<R>わが軍の戦力として<R>おおいに期待しているぞ。<W><E>",
-     "en": "Colonel Mahashi:<R>We're expecting great things from<R>you as part of our forces.<W><E>"
+     "en": "Colonel Mahashi:<R>We're expecting great things<R>from you as part of our forces.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#219",
@@ -1112,12 +1112,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#221",
      "jp": "マハシ大佐：<R>南方でギダン軍を確認した。<R>おそらくシデル親衛部隊だろう。<W><H>手ごわい相手だが、全力で攻撃<R>すれば必ず撃退できるはずだ。<R>君も参加してほしい。<W><H>他の兵士たちはすでに<R>出撃準備にかかっている。<W><H>君も至急準備の上、<R>出撃してくれ。<W><H>健闘を祈る！<W><E>",
-     "en": "Colonel Mahashi:<R>We've spotted Gidan forces to the<R>south. Most likely Sidel's Royal<R>Guard units.<W><H>They're tough, but an all-out<R>attack should drive them off. I<R>want you in on it.<W><H>The other soldiers are already<R>getting ready to sortie.<W><H>Get ready as fast as you can and<R>sortie.<W><H>Good luck!<W><E>"
+     "en": "Colonel Mahashi:<R>We've spotted Gidan forces<W><H>to the south. Most likely<R>Sidel's Royal Guard units.<W><H>They're tough, but an all-out<R>attack should drive them off.<R>I want you in on it.<W><H>The other soldiers are already<R>getting ready to sortie.<W><H>Get ready as fast as<R>you can and sortie.<W><H>Good luck!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#222",
      "jp": "マハシ大佐：<R>至急準備の上、出撃してくれ。<R>健闘を祈る！<W><E>",
-     "en": "Colonel Mahashi:<R>Get ready as fast as you can and<R>sortie. Good luck!<W><E>"
+     "en": "Colonel Mahashi:<R>Get ready as fast as you<R>can and sortie. Good luck!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#223",
@@ -1127,27 +1127,27 @@
     {
      "id": "2D/FMPS/F12_00@4b800#224",
      "jp": "マハシ大佐：<R>出撃の前には必ず弾薬類の<R>確認をおこたるなよ。<W><E>",
-     "en": "Colonel Mahashi:<R>Before you sortie, never forget to<R>check your ammo.<W><E>"
+     "en": "Colonel Mahashi:<R>Before you sortie, never<R>forget to check your ammo.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#225",
      "jp": "ゼシカ大尉：<R>味方の攻撃を集中して、<R>一機ずつ落とすしかないわ。<W><E>",
-     "en": "Captain Zeshika:<R>All we can do is focus our fire<R>and bring them down one at a<R>time.<W><E>"
+     "en": "Captain Zeshika:<R>All we can do is focus<W><H>our fire and bring them<R>down one at a time.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#226",
      "jp": "ゼシカ大尉：<R>ホウノム島がこちらに向かって<R>いるわ……はやく出撃を。<W><E>",
-     "en": "Captain Zeshika:<R>Hounom Island is heading this<R>way... Sortie, quickly.<W><E>"
+     "en": "Captain Zeshika:<R>Hounom Island is heading<R>this way... Sortie, quickly.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#227",
      "jp": "ゼシカ大尉：<R>わたしはコステリフ、タカテリフ<R>長官たちといっしょに行くわ。<W><E>",
-     "en": "Captain Zeshika:<R>I'm going with Commanders Kosterif<R>and Takaterif.<W><E>"
+     "en": "Captain Zeshika:<R>I'm going with Commanders<R>Kosterif and Takaterif.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#228",
      "jp": "ゼシカ大尉：<R>ふふ。<F62>大尉には<R>負けられないわね。<W><E>",
-     "en": "Captain Zeshika:<R>Heh. I can't let Captain <F62><R>outdo me.<W><E>"
+     "en": "Captain Zeshika:<R>Heh. I can't let Captain<R><F62> outdo me.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#229",
@@ -1157,22 +1157,22 @@
     {
      "id": "2D/FMPS/F12_00@4b800#230",
      "jp": "カチタ中佐：<R>相手は強いぞ。<R>戦闘の準備を怠るなよ。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>They're strong. Don't skimp on<R>your battle preparations.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>They're strong. Don't skimp<R>on your battle preparations.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#231",
      "jp": "デ・サロ将軍：<R><F62>大尉、<R>出撃準備はいいのかね。<W><E>",
-     "en": "General De Saro:<R>Captain <F62>, are you ready to<R>sortie?<W><E>"
+     "en": "General De Saro:<R>Captain <F62>, are<R>you ready to sortie?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#232",
      "jp": "カチタ中佐：<R>わたしはムノギイまで行く準備を<R>手伝っているのだ。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>I'm helping prepare for the trip<R>to Munogi.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>I'm helping prepare for<R>the trip to Munogi.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#233",
      "jp": "カチタ中佐：<R>ギダン王はすでに<R>ガシザキノ艦に向かわれた。<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>The King of Gidan has already gone<R>to Gashizakino's ship.<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>The King of Gidan has already<R>gone to Gashizakino's ship.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#234",
@@ -1182,12 +1182,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#235",
      "jp": "ガシザキノ大佐：<R>俺はこれから陛下について<R>ムノギイまで行かねばならん……<W><E>",
-     "en": "Colonel Gashizakino:<R>I've got to go with His Majesty to<R>Munogi now...<W><E>"
+     "en": "Colonel Gashizakino:<R>I've got to go with His<R>Majesty to Munogi now...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#236",
      "jp": "デ・サロ将軍：<R>君の武勇伝は、ゼシカから<R>よく聞いているよ。<W><H>わが軍は優秀な軍人が多いが、<W><H>反面、君のように飛び抜けた<R>行動力を感じさせる兵士が<R>少ないのだ。<W><H>もしうちの軍に入ってくれる<R>のなら、大尉の待遇で<R>迎えよう。<W><E>",
-     "en": "General De Saro:<R>I've heard plenty about your<R>exploits from Zeshika.<W><H>Our army has many fine soldiers,<W><H>but on the other hand, few with<R>the remarkable drive I sense in<R>you.<W><H>If you'd join our army, I'd take<R>you on with the rank of Captain.<W><E>"
+     "en": "General De Saro:<R>I've heard plenty about your<R>exploits from Zeshika.<W><H>Our army has many fine soldiers,<W><H>but on the other hand,<R>few with the remarkable<R>drive I sense in you.<W><H>If you'd join our army, I'd take<R>you on with the rank of Captain.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#237",
@@ -1212,12 +1212,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#241",
      "jp": "<F62>：<R>そうだ。<R>とはいっても傭兵だけどな。<W><E>",
-     "en": "<F62>:<R>That's right. A mercenary,<R>though.<W><E>"
+     "en": "<F62>:<R>That's right. A<R>mercenary, though.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#242",
      "jp": "ム連士官：<R>なるほど。<W><H>どうりで顔つきが<R>ギダン人らしくないと<R>思ったよ。<W><H>ま、よろしくな。<W><E>",
-     "en": "Federation Officer:<R>I see.<W><H>No wonder your face doesn't look<R>Gidan.<W><H>Well, good to have you.<W><E>"
+     "en": "Federation Officer:<R>I see.<W><H>No wonder your face<R>doesn't look Gidan.<W><H>Well, good to have you.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#243",
@@ -1232,7 +1232,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#245",
      "jp": "ム連士官：<R>なるほど。<R>ム連邦にくらがえしたのか。<W><H>ま、よろしくな。<W><E>",
-     "en": "Federation Officer:<R>I see. So you switched over to the<R>Federation.<W><H>Well, good to have you.<W><E>"
+     "en": "Federation Officer:<R>I see. So you switched<R>over to the Federation.<W><H>Well, good to have you.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#246",
@@ -1252,7 +1252,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#249",
      "jp": "ム連士官：<R>君も士官なのだから、時々は<R>司令部に顔をだすようにな。<W><E>",
-     "en": "Federation Officer:<R>You're an officer too, so show<R>your face at headquarters now<R>and then.<W><E>"
+     "en": "Federation Officer:<R>You're an officer too, so<W><H>show your face at<R>headquarters now and then.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#250",
@@ -1262,7 +1262,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#251",
      "jp": "ム連兵：<R>今日から仲間か……<R>よろしく頼むよ。<W><E>",
-     "en": "Federation Soldier:<R>So we're comrades from today...<R>Glad to have you.<W><E>"
+     "en": "Federation Soldier:<R>So we're comrades from<R>today... Glad to have you.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#252",
@@ -1277,12 +1277,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#254",
      "jp": "ム連兵：<R>ここだけの話だけど、<W><H>ホウノム島攻略作戦は<R>失敗に終わったらしいぜ。<W><H>シデルの親衛部隊に<R>じゃまされたって話だ。<W><E>",
-     "en": "Federation Soldier:<R>Just between us,<W><H>I hear the operation to take<R>Hounom Island ended in failure.<W><H>Word is, Sidel's Royal Guard units<R>got in the way.<W><E>"
+     "en": "Federation Soldier:<R>Just between us,<W><H>I hear the operation to take<R>Hounom Island ended in failure.<W><H>Word is, Sidel's Royal Guard<R>units got in the way.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#255",
      "jp": "ム連兵：<R>ホウノム島攻略作戦はシデルの<R>部隊にじゃまされたらしいぜ。<W><E>",
-     "en": "Federation Soldier:<R>I hear Sidel's units got in the<R>way of the operation to take<R>Hounom Island.<W><E>"
+     "en": "Federation Soldier:<R>I hear Sidel's units got in<W><H>the way of the operation to<R>take Hounom Island.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#256",
@@ -1292,7 +1292,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#257",
      "jp": "ム連兵：<R>シデルめ、ホウノム島を<R>どうするつもりなんだ？<W><E>",
-     "en": "Federation Soldier:<R>Damn Sidel, what's he planning to<R>do with Hounom Island?<W><E>"
+     "en": "Federation Soldier:<R>Damn Sidel, what's he planning<R>to do with Hounom Island?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#258",
@@ -1302,32 +1302,32 @@
     {
      "id": "2D/FMPS/F12_00@4b800#259",
      "jp": "ム連兵：<R>あんな島が落ちてきたら、<R>この町はめちゃくちゃだ！<W><E>",
-     "en": "Federation Soldier:<R>If an island like that comes down<R>on us, this town will be<R>wrecked!<W><E>"
+     "en": "Federation Soldier:<R>If an island like that<W><H>comes down on us, this<R>town will be wrecked!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#260",
      "jp": "ム連兵：<R><F62>大尉って、<R>戦い方も大胆なんですね。<W><E>",
-     "en": "Federation Soldier:<R>Captain <F62>, you fight boldly<R>too, don't you?<W><E>"
+     "en": "Federation Soldier:<R>Captain <F62>, you fight<R>boldly too, don't you?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#261",
      "jp": "ム連兵：<R>ギダンがノイパスクから浮遊島を<R>奪って武装化しているらしいぜ。<W><H>だからわれわれも、領内にある<R>浮遊島を攻略しようと<R>しているんだが……<W><E>",
-     "en": "Federation Soldier:<R>I hear Gidan's taken floating<R>islands from Noipask and is<R>arming them.<W><H>That's why we're trying to take<R>the floating island in our<R>territory too, but...<W><E>"
+     "en": "Federation Soldier:<R>I hear Gidan's taken<W><H>floating islands from<R>Noipask and is arming them.<W><H>That's why we're trying to<R>take the floating island in<R>our territory too, but...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#262",
      "jp": "ム連兵：<R>ギダンがノイパスクから浮遊島を<R>奪って武装化しているらしいぜ。<W><E>",
-     "en": "Federation Soldier:<R>I hear Gidan's taken floating<R>islands from Noipask and is<R>arming them.<W><E>"
+     "en": "Federation Soldier:<R>I hear Gidan's taken<W><H>floating islands from<R>Noipask and is arming them.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#263",
      "jp": "ム連兵：<R>まったく、とんだことに<R>なったね！<W><E>",
-     "en": "Federation Soldier:<R>Honestly, what a mess this has<R>turned into!<W><E>"
+     "en": "Federation Soldier:<R>Honestly, what a mess<R>this has turned into!<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#264",
      "jp": "ム連兵：<R>ホウノム島をギダンに<R>奪われたのは実に痛いよ。<W><E>",
-     "en": "Federation Soldier:<R>Losing Hounom Island to Gidan<R>really hurts.<W><E>"
+     "en": "Federation Soldier:<R>Losing Hounom Island<R>to Gidan really hurts.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#265",
@@ -1352,17 +1352,17 @@
     {
      "id": "2D/FMPS/F12_00@4b800#269",
      "jp": "ム連兵：<R>お願いします！　これを大尉に<R>渡していただけませんか？<W><E>",
-     "en": "Federation Soldier:<R>Please! Could you give this to the<R>Captain for me?<W><E>"
+     "en": "Federation Soldier:<R>Please! Could you give this<R>to the Captain for me?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#270",
      "jp": "<P07>紫のバラの花束を受け取った。<P15><W><E>",
-     "en": "<P07>Received a bouquet of purple<R>roses.<P15><W><E>"
+     "en": "<P07>Received a bouquet<R>of purple roses.<P15><W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#271",
      "jp": "<F62>：<R>な、なんだ？<R>この花束？<W><E>",
-     "en": "<F62>:<R>Wh-what? What's with the<R>bouquet?<W><E>"
+     "en": "<F62>:<R>Wh-what? What's<R>with the bouquet?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#272",
@@ -1377,7 +1377,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#274",
      "jp": "ム連兵：<R>これも！　ゼシカさまの<R>大好物だって聞いたので。<W><H>ボクの田舎のヨウタコン地方で<R>採れる果物なんです。<W><E>",
-     "en": "Federation Soldier:<R>This too! I heard it's<R>Zeshika-sama's absolute<R>favorite.<W><H>It's a fruit from my home, out in<R>the Youtakon region.<W><E>"
+     "en": "Federation Soldier:<R>This too! I heard<W><H>it's Zeshika-sama's<R>absolute favorite.<W><H>It's a fruit from my home,<R>out in the Youtakon region.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#275",
@@ -1392,17 +1392,17 @@
     {
      "id": "2D/FMPS/F12_00@4b800#277",
      "jp": "ム連兵：<R>ね、ゼシカ大尉には会えた？<W><E>",
-     "en": "Federation Soldier:<R>Hey, did you get to see Captain<R>Zeshika?<W><E>"
+     "en": "Federation Soldier:<R>Hey, did you get to<R>see Captain Zeshika?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#278",
      "jp": "ム連兵：<R>花束、ゼシカ大尉には<R>きにいってもらえたかな？<W><E>",
-     "en": "Federation Soldier:<R>Do you think Captain Zeshika liked<R>the bouquet?<W><E>"
+     "en": "Federation Soldier:<R>Do you think Captain<R>Zeshika liked the bouquet?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#279",
      "jp": "ム連兵：<R>やっぱり、ゼシカさまは<R>別格だよね。<W><E>",
-     "en": "Federation Soldier:<R>Zeshika-sama really is in a class<R>of her own.<W><E>"
+     "en": "Federation Soldier:<R>Zeshika-sama really is<R>in a class of her own.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#280",
@@ -1412,7 +1412,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#281",
      "jp": "配給係：<R>所属したばかりの方ですね。<R>配給はこちらですよ。<W><H>では、契約金と必要な弾を<R>お渡ししておきますね。<W><E>",
-     "en": "Quartermaster:<R>You've just joined up, haven't<R>you? Supplies are over here.<W><H>Now then, here's your signing fee<R>and the ammo you'll need.<W><E>"
+     "en": "Quartermaster:<R>You've just joined up, haven't<R>you? Supplies are over here.<W><H>Now then, here's your signing<R>fee and the ammo you'll need.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#282",
@@ -1472,17 +1472,17 @@
     {
      "id": "2D/FMPS/F12_00@4b800#293",
      "jp": "配給係：<R>はいはい、<R>配給だったら、いそいでね。<W><E>",
-     "en": "Quartermaster:<R>Yes, yes, if you need supplies,<R>make it quick.<W><E>"
+     "en": "Quartermaster:<R>Yes, yes, if you need<R>supplies, make it quick.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#294",
      "jp": "配給係：<R>わたしもすぐにここを引き上げ<R>ますから。<W><E>",
-     "en": "Quartermaster:<R>I'll be pulling out of here soon<R>too.<W><E>"
+     "en": "Quartermaster:<R>I'll be pulling out<R>of here soon too.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#295",
      "jp": "配給係：<R>わたしもすぐに引き上げますから<R>ご心配なく。<W><E>",
-     "en": "Quartermaster:<R>I'll be pulling out soon too, so<R>don't worry.<W><E>"
+     "en": "Quartermaster:<R>I'll be pulling out soon<R>too, so don't worry.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#296",
@@ -1497,12 +1497,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#298",
      "jp": "<F62>：<R>よお！<R>ゼシカ、元気か！<W><H>あ、俺いま、少尉じゃなくて、<R>大尉なんだよ。<W><E>",
-     "en": "<F62>:<R>Hey! Zeshika, how've you been?<W><H>Oh, I'm not a lieutenant anymore.<R>I'm a captain now.<W><E>"
+     "en": "<F62>:<R>Hey! Zeshika, how've you been?<W><H>Oh, I'm not a lieutenant<R>anymore. I'm a captain now.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#299",
      "jp": "ゼシカ大尉：<R>へえ、出世したものね。<W><H>でも、どうしてここに？<W><H>ひょっとして……ギダン国王と<R>いっしょに亡命してきた<R>ギダン軍人って、あなたなの？<W><E>",
-     "en": "Captain Zeshika:<R>Well, you've moved up in the<R>world.<W><H>But what are you doing here?<W><H>Don't tell me... the Gidan soldier<R>who defected along with the King<R>of Gidan was you?<W><E>"
+     "en": "Captain Zeshika:<R>Well, you've moved<R>up in the world.<W><H>But what are you doing here?<W><H>Don't tell me... the Gidan<R>soldier who defected along with<R>the King of Gidan was you?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#300",
@@ -1512,12 +1512,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#301",
      "jp": "ゼシカ大尉：<R>あきれた………<W><H>まともな神経の持ち主じゃない<R>とは思ってたけどね。<W><H>恐いものを知らないってことは<R>ある意味ですごいことよね。<W><E>",
-     "en": "Captain Zeshika:<R>Unbelievable......<W><H>I always figured you weren't quite<R>right in the head.<W><H>Not knowing the meaning of fear is<R>impressive, in a way.<W><E>"
+     "en": "Captain Zeshika:<R>Unbelievable......<W><H>I always figured you weren't<R>quite right in the head.<W><H>Not knowing the meaning of<R>fear is impressive, in a way.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#302",
      "jp": "<F62>：<R>そりゃないだろう、あの<R>じいさんを亡命させるのに<R>どれだけ苦労したか………<W><E>",
-     "en": "<F62>:<R>That's harsh. Do you know how much<R>trouble it took to get that old<R>geezer to defect......<W><E>"
+     "en": "<F62>:<R>That's harsh. Do you know how<W><H>much trouble it took to get that<R>old geezer to defect......<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#303",
@@ -1532,7 +1532,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#305",
      "jp": "<P07>紫のバラの花束を渡した。<P15><W><E>",
-     "en": "<P07>Handed over the bouquet of purple<R>roses.<P15><W><E>"
+     "en": "<P07>Handed over the bouquet<R>of purple roses.<P15><W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#306",
@@ -1547,7 +1547,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#308",
      "jp": "<P07>チェリーの砂糖漬を渡した。<P15><W><E>",
-     "en": "<P07>Handed over the candied<R>cherries.<P15><W><E>"
+     "en": "<P07>Handed over the<R>candied cherries.<P15><W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#309",
@@ -1557,22 +1557,22 @@
     {
      "id": "2D/FMPS/F12_00@4b800#310",
      "jp": "<F62>：<R>渡してくれって、必死だったぞ。<W><E>",
-     "en": "<F62>:<R>They were desperate for me to give<R>you those.<W><E>"
+     "en": "<F62>:<R>They were desperate for<R>me to give you those.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#311",
      "jp": "ゼシカ大尉：<R>ああいう思春期の男の子たちにも<R>困ったもんよねえ。<W><E>",
-     "en": "Captain Zeshika:<R>Boys that age really are a<R>handful, aren't they?<W><E>"
+     "en": "Captain Zeshika:<R>Boys that age really are<R>a handful, aren't they?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#312",
      "jp": "<F62>：<R>ぜんぜん相手にしてない<R>みたいだな。<W><E>",
-     "en": "<F62>:<R>Looks like you don't give them the<R>time of day.<W><E>"
+     "en": "<F62>:<R>Looks like you don't give<R>them the time of day.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#313",
      "jp": "ゼシカ大尉：<R>ふふふ……<W><H>ね、あなたの船の乗組員も<R>いっしょなの？<W><E>",
-     "en": "Captain Zeshika:<R>Hee hee...<W><H>Say, is your ship's crew with<R>you?<W><E>"
+     "en": "Captain Zeshika:<R>Hee hee...<W><H>Say, is your ship's<R>crew with you?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#314",
@@ -1602,52 +1602,52 @@
     {
      "id": "2D/FMPS/F12_00@4b800#319",
      "jp": "マスター：<R>いらっしゃい。<R>ム連邦軍に入ったんだって？<W><E>",
-     "en": "Bartender:<R>Welcome. I hear you joined the<R>Federation army?<W><E>"
+     "en": "Bartender:<R>Welcome. I hear you joined<R>the Federation army?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#320",
      "jp": "マスター：<R>やれやれ、店じまいしなくちゃ。<W><E>",
-     "en": "Bartender:<R>Oh well, guess I've gotta close up<R>shop.<W><E>"
+     "en": "Bartender:<R>Oh well, guess I've<R>gotta close up shop.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#321",
      "jp": "ム連兵：<R>ここヤーダスは、前線で<R>一番大きな基地だよ。<W><E>",
-     "en": "Federation Soldier:<R>Yadas here is the biggest base on<R>the front line.<W><E>"
+     "en": "Federation Soldier:<R>Yadas here is the biggest<R>base on the front line.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#322",
      "jp": "ム連兵：<R>俺たちヤーダス駐屯軍を手こずら<R>せるとは、シデルの野郎め……<W><E>",
-     "en": "Federation Soldier:<R>Giving us of the Yadas garrison<R>this much trouble... Damn that<R>Sidel...<W><E>"
+     "en": "Federation Soldier:<R>Giving us of the Yadas<W><H>garrison this much trouble...<R>Damn that Sidel...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#323",
      "jp": "ム連兵：<R>サロ将軍が指揮をとっておられる<R>限り、ここは安全さ。<W><E>",
-     "en": "Federation Soldier:<R>As long as General Saro is in<R>command, we're safe here.<W><E>"
+     "en": "Federation Soldier:<R>As long as General Saro is<R>in command, we're safe here.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#324",
      "jp": "ム連兵：<R>ひっく……サロ将軍さえ<R>もどって来れば……<W><E>",
-     "en": "Federation Soldier:<R>Hic... If only General Saro would<R>come back...<W><E>"
+     "en": "Federation Soldier:<R>Hic... If only General<R>Saro would come back...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#325",
      "jp": "ドックの職人：<R>セブレントリーム、<R>大切に乗ってくれよ。<W><E>",
-     "en": "Shipwright:<R>Take good care of the<R>Sebrentream.<W><E>"
+     "en": "Shipwright:<R>Take good care of<R>the Sebrentream.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#326",
      "jp": "ドックの職人：<R>ム連邦軍に入ったんだって？<W><H>ちょうど整備が終わった<R><P07>「セブレントリーム級」<P15>の<R>飛空船があるんだ。<W><E>",
-     "en": "Shipwright:<R>I hear you joined the Federation<R>army?<W><H>We've got a <P07>\"Sebrentream-class\"<P15><R>airship that just finished its<R>overhaul.<W><E>"
+     "en": "Shipwright:<R>I hear you joined<R>the Federation army?<W><H>We've got a <P07>\"Sebrentream-class\"<P15><R>airship that just finished its<R>overhaul.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#327",
      "jp": "ドックの職人：<R>わがム連軍が誇る、高性能の<R>中型戦闘機だよ。ほしいかい？<W><H>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備については<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくよ。<W><E>",
-     "en": "Shipwright:<R>The pride of our Federation army:<R>a high-performance mid-sized<R>fighter. Want it?<W><H>The turrets, engine, armor plates<R>and everything else on your<R>current ship will all be<R>scrapped.<W><H>Leave the new ship's equipment to<R>me.<W><H>I'll move your ammo and cargo<R>straight over to the new ship.<W><E>"
+     "en": "Shipwright:<R>The pride of our Federation<W><H>army: a high-performance<R>mid-sized fighter. Want it?<W><H>The turrets, engine, armor<R>plates and everything else<W><H>on your current ship will<R>all be scrapped.<W><H>Leave the new ship's<R>equipment to me.<W><H>I'll move your ammo and cargo<R>straight over to the new ship.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#328",
      "jp": "ドックの職人：<R>……あれ？<W><H>お客さん、ちょっと<R>荷物が多すぎるようだね。<W><H>言うのを忘れてたけど、<R>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>セブレンに乗りかえたかったら、<R>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a bit<R>too much cargo, friend.<W><H>I forgot to mention it, but this<R>ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>If you want to switch to the<R>Sebrentream, sell some cargo at a<R>junk dealer or somewhere, then<R>come back.<W><E>"
+     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a<R>bit too much cargo, friend.<W><H>I forgot to mention it, but this<R>ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>If you want to switch to<R>the Sebrentream, sell some<W><H>cargo at a junk dealer or<R>somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#329",
@@ -1667,7 +1667,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#332",
      "jp": "ドックの職人：<R>本当に乗りかえるんだね？<W><E>",
-     "en": "Shipwright:<R>You're sure you want to switch<R>over?<W><E>"
+     "en": "Shipwright:<R>You're sure you want<R>to switch over?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#333",
@@ -1712,17 +1712,17 @@
     {
      "id": "2D/FMPS/F12_00@4b800#341",
      "jp": "ドックの職人：<R>お客さん、セブレンが<R>欲しくて来たのかい？<W><E>",
-     "en": "Shipwright:<R>Did you come here wanting the<R>Sebrentream, friend?<W><E>"
+     "en": "Shipwright:<R>Did you come here wanting<R>the Sebrentream, friend?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#342",
      "jp": "ドックの職人：<R>おやぁ……？<R>荷物が多すぎるようだね。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>セブレンに乗りかえたかったら、<R>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": "Shipwright:<R>Ohh...? Looks like you're carrying<R>too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board right now,<R>so...<W><H>that's <V12,0,4> over the limit.<W><H>If you want to switch to the<R>Sebrentream, sell some cargo at a<R>junk dealer or somewhere, then<R>come back.<W><E>"
+     "en": "Shipwright:<R>Ohh...? Looks like you're<R>carrying too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>If you want to switch to<R>the Sebrentream, sell some<W><H>cargo at a junk dealer or<R>somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#343",
      "jp": "ドックの職人：<R>人気の船なんだ。<R>迷う必要はないぜ。<W><E>",
-     "en": "Shipwright:<R>She's a popular ship. No need to<R>think twice.<W><E>"
+     "en": "Shipwright:<R>She's a popular ship. No<R>need to think twice.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#344",
@@ -1747,7 +1747,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#348",
      "jp": "ドックの職人：<R><P07>本当に乗り替えるんだね？<P15><W><E>",
-     "en": "Shipwright:<R><P07>You're sure you want to switch<R>over?<P15><W><E>"
+     "en": "Shipwright:<R><P07>You're sure you want<R>to switch over?<P15><W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#349",
@@ -1782,7 +1782,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#355",
      "jp": "ドックの職人：<R>改造したいんなら急いでくれ。<W><E>",
-     "en": "Shipwright:<R>If you want modifications, make it<R>quick.<W><E>"
+     "en": "Shipwright:<R>If you want modifications,<R>make it quick.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#356",
@@ -1797,7 +1797,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#358",
      "jp": "ドックの職人：<R>いらっしゃい。<R>改造ならまかせてくれ。<W><E>",
-     "en": "Shipwright:<R>Welcome. Leave the modifications<R>to me.<W><E>"
+     "en": "Shipwright:<R>Welcome. Leave the<R>modifications to me.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#359",
@@ -1827,12 +1827,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#364",
      "jp": "ジャンク屋：<R>店じまいだからね、売り買いなら<R>急いでくれ。<W><E>",
-     "en": "Junk Dealer:<R>I'm closing up shop, so if you're<R>buying or selling, make it<R>quick.<W><E>"
+     "en": "Junk Dealer:<R>I'm closing up shop, so<W><H>if you're buying or<R>selling, make it quick.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#365",
      "jp": "ジャンク屋：<R>じゃあな。お互い命だけは<R>大切にしようぜ。<W><E>",
-     "en": "Junk Dealer:<R>See ya. Let's both try to stay<R>alive, huh?<W><E>"
+     "en": "Junk Dealer:<R>See ya. Let's both try<R>to stay alive, huh?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#366",
@@ -1852,12 +1852,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#369",
      "jp": "修理屋：<R>まいどありがとうございました。<W><E>",
-     "en": "Repairman:<R>Thank you very much for your<R>business.<W><E>"
+     "en": "Repairman:<R>Thank you very much<R>for your business.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#370",
      "jp": "修理屋：<R>修理の依頼なら急いでくれ。<W><E>",
-     "en": "Repairman:<R>If you need repairs, make it<R>quick.<W><E>"
+     "en": "Repairman:<R>If you need repairs,<R>make it quick.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#371",
@@ -1887,7 +1887,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#376",
      "jp": "ペンキ屋：<R>おれさまは、ム連邦一の<R>アーチストなんだ。<W><H>あんたの船を好きな色に<R>ぬりかえてやろうか。<W><E>",
-     "en": "Painter:<R>Yours truly is the greatest artist<R>in the whole Federation.<W><H>Want me to repaint your ship any<R>color you like?<W><E>"
+     "en": "Painter:<R>Yours truly is the greatest<R>artist in the whole Federation.<W><H>Want me to repaint your<R>ship any color you like?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#377",
@@ -1902,12 +1902,12 @@
     {
      "id": "2D/FMPS/F12_00@4b800#379",
      "jp": "管制員：<R>ドックに「セブレントリーム級」<R>の船が置いてあります。<W><H>見るだけでも損はないですよ。<W><E>",
-     "en": "Controller:<R>There's a \"Sebrentream-class\" ship<R>sitting in the dock.<W><H>It doesn't hurt to just take a<R>look.<W><E>"
+     "en": "Controller:<R>There's a \"Sebrentream-class\"<R>ship sitting in the dock.<W><H>It doesn't hurt to<R>just take a look.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#380",
      "jp": "管制員：<R><F62>大尉、<R>司令部に急いでください。<W><E>",
-     "en": "Controller:<R>Captain <F62>, please hurry to<R>headquarters.<W><E>"
+     "en": "Controller:<R>Captain <F62>, please<R>hurry to headquarters.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#381",

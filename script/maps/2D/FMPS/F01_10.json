@@ -447,22 +447,22 @@
     {
      "id": "2D/FMPS/F01_10@40800#88",
      "jp": "カ・ジャルコ：<R>はやく大尉の船に<R>もどりたいです！<W><E>",
-     "en": "Ka Jarko:<R>I want to get back on your ship<R>soon, Captain!<W><E>"
+     "en": "Ka Jarko:<R>I want to get back on<R>your ship soon, Captain!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#89",
      "jp": "フラグナム：<R>ガシザキノ大佐は<R>奥にいらっしゃいますわ。<W><E>",
-     "en": "Fragnum:<R>Colonel Gashizakino is in the back<R>room.<W><E>"
+     "en": "Fragnum:<R>Colonel Gashizakino<R>is in the back room.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#90",
      "jp": "ム連兵：<R>何だ、用もないのに<R>うろうろするんじゃないぞ。<W><E>",
-     "en": "Federation Soldier:<R>What's this? Don't go wandering<R>around if you've got no business<R>here.<W><E>"
+     "en": "Federation Soldier:<R>What's this? Don't go<W><H>wandering around if you've<R>got no business here.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#91",
      "jp": "ム連兵：<R>ギダン国王のお知り合い<R>でしたか。<W><E>",
-     "en": "Federation Soldier:<R>Oh, you're an acquaintance of the<R>King of Gidan.<W><E>"
+     "en": "Federation Soldier:<R>Oh, you're an acquaintance<R>of the King of Gidan.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#92",
@@ -472,7 +472,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#93",
      "jp": "ム連兵：<R>この会談が和平への第一歩に<R>なるといいですね。<W><E>",
-     "en": "Federation Soldier:<R>I hope these talks will be the<R>first step toward peace.<W><E>"
+     "en": "Federation Soldier:<R>I hope these talks will be<R>the first step toward peace.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#94",
@@ -487,7 +487,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#96",
      "jp": "カ・ジャルコ：<R>はい！<W><H>でも、少し退屈ですね。<R>はやく大尉の船にもどりたい<R>です！<W><E>",
-     "en": "Ka Jarko:<R>Great!<W><H>But it's a little boring. I want<R>to get back on your ship soon,<R>Captain!<W><E>"
+     "en": "Ka Jarko:<R>Great!<W><H>But it's a little boring.<R>I want to get back on your<R>ship soon, Captain!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#97",
@@ -497,7 +497,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#98",
      "jp": "フラグナム：<R>おひさしぶりです、大尉。<W><H>パナスガルに向われる<R>そうですね。<W><E>",
-     "en": "Fragnum:<R>It has been a while, Captain.<W><H>I hear you are headed for<R>Panasgal.<W><E>"
+     "en": "Fragnum:<R>It has been a while, Captain.<W><H>I hear you are<R>headed for Panasgal.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#99",
@@ -507,22 +507,22 @@
     {
      "id": "2D/FMPS/F01_10@40800#100",
      "jp": "フラグナム：<R>わたしにもお手伝いできると<R>よいのですが………<W><E>",
-     "en": "Fragnum:<R>If only I could be of some help as<R>well......<W><E>"
+     "en": "Fragnum:<R>If only I could be of<R>some help as well......<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#101",
      "jp": "<F62>：<R>そうだな。ガシザキノに<R>相談してみるよ。<W><E>",
-     "en": "<F62>:<R>Yeah. I'll talk it over with<R>Gashizakino.<W><E>"
+     "en": "<F62>:<R>Yeah. I'll talk it<R>over with Gashizakino.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#102",
      "jp": "フラグナム：<R>ガシザキノ大佐は<R>奥にいらっしゃいますわ。<W><H>大事な会談の最中です。<W><E>",
-     "en": "Fragnum:<R>Colonel Gashizakino is in the back<R>room.<W><H>He is in the middle of an<R>important meeting.<W><E>"
+     "en": "Fragnum:<R>Colonel Gashizakino<R>is in the back room.<W><H>He is in the middle of<R>an important meeting.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#103",
      "jp": "<F62>：<R>よう、ガシザキノ！<R>話があるんだ。<W><E>",
-     "en": "<F62>:<R>Hey, Gashizakino! I need to talk<R>to you.<W><E>"
+     "en": "<F62>:<R>Hey, Gashizakino! I<R>need to talk to you.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#104",
@@ -532,7 +532,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#105",
      "jp": "ム連邦大統領：<R>おお、君がうわさの<R><F62>大尉かね？<W><E>",
-     "en": "Federation President:<R>Oh ho, so you're the Captain<R><F62> I've heard so much<R>about?<W><E>"
+     "en": "Federation President:<R>Oh ho, so you're the<W><H>Captain <F62> I've<R>heard so much about?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#106",
@@ -542,12 +542,12 @@
     {
      "id": "2D/FMPS/F01_10@40800#107",
      "jp": "ム連邦大統領：<R>はっはっは、そうとも、<R>大統領のオタワだ。<W><E>",
-     "en": "Federation President:<R>Hahaha, indeed I am! President<R>Otawa.<W><E>"
+     "en": "Federation President:<R>Hahaha, indeed I am!<R>President Otawa.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#108",
      "jp": "ム連邦大統領：<R>ふむ、しっかりした顔つきだな。<W><H>それに、なかなかの<R>男前じゃないか。<W><H>結婚はしているのかね？<W><E>",
-     "en": "Federation President:<R>Hmm, you've a steady look about<R>you.<W><H>And quite the handsome fellow,<R>too.<W><H>Are you married?<W><E>"
+     "en": "Federation President:<R>Hmm, you've a steady<R>look about you.<W><H>And quite the handsome<R>fellow, too.<W><H>Are you married?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#109",
@@ -567,7 +567,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#112",
      "jp": "ム連邦大統領：<R>そうだ、君のところの<R>娘さんが、たしか年頃だったな。<W><E>",
-     "en": "Federation President:<R>Ah yes, that daughter of yours<R>ought to be of marrying age by<R>now.<W><E>"
+     "en": "Federation President:<R>Ah yes, that daughter of<W><H>yours ought to be of<R>marrying age by now.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#113",
@@ -577,7 +577,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#114",
      "jp": "ム連邦大統領：<R>ああ。<W><H>どうだ、彼となら<R>お似合いじゃないかね。<W><E>",
-     "en": "Federation President:<R>Indeed.<W><H>What do you say? Wouldn't she make<R>a fine match for him?<W><E>"
+     "en": "Federation President:<R>Indeed.<W><H>What do you say? Wouldn't she<R>make a fine match for him?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#115",
@@ -587,17 +587,17 @@
     {
      "id": "2D/FMPS/F01_10@40800#116",
      "jp": "ム連邦大統領：<R>なんだ、そうか。<W><H>もっとも、今は結婚式どころの<R>状況じゃないだろうがね。<W><H>わっはっはっは！<W><E>",
-     "en": "Federation President:<R>Oh, is that so.<W><H>Well, this is hardly the time for<R>weddings anyway.<W><H>Wahahahaha!<W><E>"
+     "en": "Federation President:<R>Oh, is that so.<W><H>Well, this is hardly the<R>time for weddings anyway.<W><H>Wahahahaha!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#117",
      "jp": "<F62>：<R>何なんだこのおっさんは……<R>本当にム連邦の大統領なのか？<W><E>",
-     "en": "<F62>:<R>What's with this guy...? Is he<R>really the Federation's<R>President?<W><E>"
+     "en": "<F62>:<R>What's with this guy...?<W><H>Is he really the<R>Federation's President?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#118",
      "jp": "ギダン国王：<R>よく来たな、<R><F62>大尉。<W><H>君たちのおかげで<R>うまくいきそうだよ。<W><E>",
-     "en": "King of Gidan:<R>Good of you to come, Captain<R><F62>.<W><H>Thanks to you all, things look to<R>be going well.<W><E>"
+     "en": "King of Gidan:<R>Good of you to come,<R>Captain <F62>.<W><H>Thanks to you all, things<R>look to be going well.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#119",
@@ -607,7 +607,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#120",
      "jp": "ギダン国王：<R>余を支持してくれている<R>本国の者と連絡を取り合って、<W><H>シデルの暴走を止める計画を<R>練っているのだよ。<W><E>",
-     "en": "King of Gidan:<R>I have been in contact with those<R>in the homeland who support me,<W><H>and we are drawing up a plan to<R>stop Sidel's rampage.<W><E>"
+     "en": "King of Gidan:<R>I have been in contact with those<R>in the homeland who support me,<W><H>and we are drawing up a plan<R>to stop Sidel's rampage.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#121",
@@ -617,7 +617,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#122",
      "jp": "ガシザキノ大佐：<R>よお、大尉。<W><H>パナスガルに向かう<R>途中だそうだな。<W><E>",
-     "en": "Colonel Gashizakino:<R>Hey there, Captain.<W><H>I hear you're on your way to<R>Panasgal.<W><E>"
+     "en": "Colonel Gashizakino:<R>Hey there, Captain.<W><H>I hear you're on your<R>way to Panasgal.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#123",
@@ -627,7 +627,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#124",
      "jp": "ガシザキノ大佐：<R>急いで行ったほうがいいぞ。<W><H>アヤメミとヨウタコンが<R>猛攻撃されているらしいからな。<W><E>",
-     "en": "Colonel Gashizakino:<R>You'd better hurry.<W><H>Word is Ayamemi and Youtakon are<R>under fierce attack.<W><E>"
+     "en": "Colonel Gashizakino:<R>You'd better hurry.<W><H>Word is Ayamemi and Youtakon<R>are under fierce attack.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#125",
@@ -677,7 +677,7 @@
     {
      "id": "2D/FMPS/F01_10@40800#134",
      "jp": "ギダン国王：<R>シデルの暴走を止める計画を<R>練っているのだ。<W><E>",
-     "en": "King of Gidan:<R>We are drawing up a plan to stop<R>Sidel's rampage.<W><E>"
+     "en": "King of Gidan:<R>We are drawing up a plan<R>to stop Sidel's rampage.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_10@40800#135",

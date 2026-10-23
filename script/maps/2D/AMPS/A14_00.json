@@ -447,27 +447,27 @@
     {
      "id": "2D/AMPS/A14_00@2a800#88",
      "jp": "男：<R>うちの娘どもは、<R>親の心配もしらんで<W><H>好き勝手やっておる。<W><E>",
-     "en": "Man:<R>My daughters pay no mind to their<R>parents' worries<W><H>and do just as they please.<W><E>"
+     "en": "Man:<R>My daughters pay no mind<R>to their parents' worries<W><H>and do just as they please.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#89",
      "jp": "カフィの父：<R>連絡ぐらいよこすように<R>カフィに言ってくれ。<W><E>",
-     "en": "Kafi's Father:<R>Tell Kafi to at least send word<R>now and then.<W><E>"
+     "en": "Kafi's Father:<R>Tell Kafi to at least<R>send word now and then.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#90",
      "jp": "カフィの父：<R>カルフを危ない目には<R>あわさないでくれよ。<W><E>",
-     "en": "Kafi's Father:<R>Don't put Karf in harm's way, will<R>you?<W><E>"
+     "en": "Kafi's Father:<R>Don't put Karf in<R>harm's way, will you?<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#91",
      "jp": "カフィの父：<R>娘たちを危ない目には<R>あわさないでくれよ。<W><E>",
-     "en": "Kafi's Father:<R>Don't put my daughters in harm's<R>way, will you?<W><E>"
+     "en": "Kafi's Father:<R>Don't put my daughters<R>in harm's way, will you?<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#92",
      "jp": "<F62>：<R>おやじさん、変な機械を<R>見つけたりしませんでしたか？<W><E>",
-     "en": "<F62>:<R>Sir, you haven't come across a<R>strange machine, have you?<W><E>"
+     "en": "<F62>:<R>Sir, you haven't come across<R>a strange machine, have you?<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#93",
@@ -482,7 +482,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#95",
      "jp": "カフィの父：<R>でも完全に壊れてたから、<R>動きやしないさ。<W><E>",
-     "en": "Kafi's Father:<R>But it was completely broken, so<R>it won't move.<W><E>"
+     "en": "Kafi's Father:<R>But it was completely<R>broken, so it won't move.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#96",
@@ -492,7 +492,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#97",
      "jp": "カフィの父：<R>多分、武器の一種では<R>ないかと思うが。<W><E>",
-     "en": "Kafi's Father:<R>Some kind of weapon, I would<R>imagine.<W><E>"
+     "en": "Kafi's Father:<R>Some kind of weapon,<R>I would imagine.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#98",
@@ -507,12 +507,12 @@
     {
      "id": "2D/AMPS/A14_00@2a800#100",
      "jp": "女：<R>うちの娘たちときたら……<R>長女はノイパスクの兵士に、<W><H>次女は空賊になってしまって<R>いるんです。<W><E>",
-     "en": "Woman:<R>Oh, those daughters of mine... The<R>elder became a Noipask soldier,<W><H>and the younger has gone and<R>become a sky pirate.<W><E>"
+     "en": "Woman:<R>Oh, those daughters of mine... The<R>elder became a Noipask soldier,<W><H>and the younger has gone<R>and become a sky pirate.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#101",
      "jp": "男：<R>親の心配もしらんで好き勝手<R>やっておる。<W><H>わたしはノイパスクの大使として<R>ギダンで平和のために<R>つくしてきたつもりだ。<W><H>娘たちにも平和のためにつくす<R>よう教育してきたつもりだった<R>のだが……<W><H>いつも、ノイパスクのため、<R>そしてこの星のためになることを<R>考えろと。<W><E>",
-     "en": "Man:<R>They pay no mind to their parents'<R>worries and do just as they<R>please.<W><H>As Noipask's ambassador, I<R>believed I had devoted myself to<R>peace here in Gidan.<W><H>And I believed I had raised my<R>daughters to devote themselves to<R>peace as well...<W><H>I always told them to think of<R>what would serve Noipask, and this<R>planet too.<W><E>"
+     "en": "Man:<R>They pay no mind to their<W><H>parents' worries and do<R>just as they please.<W><H>As Noipask's ambassador, I<R>believed I had devoted myself<R>to peace here in Gidan.<W><H>And I believed I had raised my<R>daughters to devote themselves<R>to peace as well...<W><H>I always told them to think<R>of what would serve Noipask,<R>and this planet too.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#102",
@@ -527,7 +527,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#104",
      "jp": "<F62>：<R>ああ、ノイパスク軍にいたときは<R>いっしょだったよ。<W><E>",
-     "en": "<F62>:<R>Yeah, we were together back when I<R>was in the Noipask army.<W><E>"
+     "en": "<F62>:<R>Yeah, we were together back when<R>I was in the Noipask army.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#105",
@@ -537,17 +537,17 @@
     {
      "id": "2D/AMPS/A14_00@2a800#106",
      "jp": "<F62>：<R>いいや、<R>今はギダン軍にいるはずだが……<W><E>",
-     "en": "<F62>:<R>No, she should be in the Gidan<R>army by now...<W><E>"
+     "en": "<F62>:<R>No, she should be in the<R>Gidan army by now...<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#107",
      "jp": "カフィの母：<R>まあ、ギダン軍に！<W><H>あの子ったら何の連絡も<R>しないで。<W><E>",
-     "en": "Kafi's Mother:<R>Oh my, the Gidan army!<W><H>That girl, never sending us a<R>word.<W><E>"
+     "en": "Kafi's Mother:<R>Oh my, the Gidan army!<W><H>That girl, never<R>sending us a word.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#108",
      "jp": "カフィの父：<R>一体何を考えているのだか。<W><H>すまんがカフィに会うことが<R>あったら、<W><H>連絡ぐらいよこすように<R>言ってくれ。<W><E>",
-     "en": "Kafi's Father:<R>What on earth is she thinking?<W><H>I'm sorry, but if you should<R>happen to see Kafi,<W><H>tell her to at least send word.<W><E>"
+     "en": "Kafi's Father:<R>What on earth is she thinking?<W><H>I'm sorry, but if you<R>should happen to see Kafi,<W><H>tell her to at least send word.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#109",
@@ -567,12 +567,12 @@
     {
      "id": "2D/AMPS/A14_00@2a800#112",
      "jp": "カフィの母：<R>カフィに心配していると<R>伝えてくださいね。<W><E>",
-     "en": "Kafi's Mother:<R>Please tell Kafi that we're<R>worried about her.<W><E>"
+     "en": "Kafi's Mother:<R>Please tell Kafi that<R>we're worried about her.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#113",
      "jp": "カフィの母：<R>２人とも身体には気をつける<R>ように言っておいてくださいね。<W><E>",
-     "en": "Kafi's Mother:<R>Please tell them both to take care<R>of themselves.<W><E>"
+     "en": "Kafi's Mother:<R>Please tell them both to<R>take care of themselves.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#114",
@@ -592,7 +592,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#117",
      "jp": "カフィの父：<R>おや、この間の……<W><E>",
-     "en": "Kafi's Father:<R>Oh, you're the one from the other<R>day...<W><E>"
+     "en": "Kafi's Father:<R>Oh, you're the one<R>from the other day...<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#118",
@@ -612,7 +612,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#121",
      "jp": "カフィの母：<R>元気そうでよかったわ！<W><E>",
-     "en": "Kafi's Mother:<R>I'm so glad to see you looking<R>well!<W><E>"
+     "en": "Kafi's Mother:<R>I'm so glad to see<R>you looking well!<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#122",
@@ -622,22 +622,22 @@
     {
      "id": "2D/AMPS/A14_00@2a800#123",
      "jp": "カフィの父：<R>おまえは、まだ空賊の連中と<R>いっしょなのか？<W><H>いいかげん、<R>家に戻ってきなさい。<W><E>",
-     "en": "Kafi's Father:<R>Are you still running around with<R>those sky pirates?<W><H>It's high time you came home.<W><E>"
+     "en": "Kafi's Father:<R>Are you still running around<R>with those sky pirates?<W><H>It's high time you came home.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#124",
      "jp": "カルフ：<R>空賊は、パパが考えているような<R>ものとはちがうわ。<W><H>わたしは……パパとはちがう方法<R>だけど、平和を取りもどそうと<R>していることには変わらないわ。<W><E>",
-     "en": "Karf:<R>Sky pirates aren't what you think<R>they are, Papa.<W><H>I... My way may be different from<R>yours, Papa, but I'm still trying<R>to bring peace back all the<R>same.<W><E>"
+     "en": "Karf:<R>Sky pirates aren't what<R>you think they are, Papa.<W><H>I... My way may be different<R>from yours, Papa, but I'm<W><H>still trying to bring peace<R>back all the same.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#125",
      "jp": "カフィの父：<R>空賊などに、<R>平和も何もあるものか！<W><E>",
-     "en": "Kafi's Father:<R>Sky pirates, talking of peace?<R>Nonsense!<W><E>"
+     "en": "Kafi's Father:<R>Sky pirates, talking<R>of peace? Nonsense!<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#126",
      "jp": "カルフ：<R>パパの時代と今では状況が<R>ちがうわ。<W><E>",
-     "en": "Karf:<R>Things are different now from how<R>they were in your day, Papa.<W><E>"
+     "en": "Karf:<R>Things are different now from<R>how they were in your day, Papa.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#127",
@@ -647,7 +647,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#128",
      "jp": "カフィの母：<R>まあまあ、<W><H>久しぶりに会ったんですから、<R>もっと楽しいお話にしましょう。<W><E>",
-     "en": "Kafi's Mother:<R>Now, now,<W><H>we haven't seen each other in so<R>long. Let's talk about something<R>more pleasant.<W><E>"
+     "en": "Kafi's Mother:<R>Now, now,<W><H>we haven't seen each other<R>in so long. Let's talk about<R>something more pleasant.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#129",
@@ -657,7 +657,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#130",
      "jp": "カルフ：<R>ね、姉さんが今どうしているか<R>知っている？<W><E>",
-     "en": "Karf:<R>Say, do you know what Sis is up to<R>these days?<W><E>"
+     "en": "Karf:<R>Say, do you know what<R>Sis is up to these days?<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#131",
@@ -667,17 +667,17 @@
     {
      "id": "2D/AMPS/A14_00@2a800#132",
      "jp": "カフィの父：<R>まったく、何をしておるんだか！<W><E>",
-     "en": "Kafi's Father:<R>Honestly, what is that girl<R>doing!<W><E>"
+     "en": "Kafi's Father:<R>Honestly, what is<R>that girl doing!<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#133",
      "jp": "カルフ：<R>姉さんと連絡はつけられないの？<W><E>",
-     "en": "Karf:<R>Is there no way to get in touch<R>with Sis?<W><E>"
+     "en": "Karf:<R>Is there no way to get<R>in touch with Sis?<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#134",
      "jp": "カフィの母：<R>手紙は<P07>シャッハ<P15>から<R>来たみたいだけどねえ……<W><E>",
-     "en": "Kafi's Mother:<R>The letter seemed to come from<R><P07>Schach<P15>, though...<W><E>"
+     "en": "Kafi's Mother:<R>The letter seemed to come<R>from <P07>Schach<P15>, though...<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#135",
@@ -687,7 +687,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#136",
      "jp": "<F62>：<R>よし。<R>とりあえずシャッハに行こう。<W><E>",
-     "en": "<F62>:<R>All right. Let's head to Schach<R>for now.<W><E>"
+     "en": "<F62>:<R>All right. Let's head<R>to Schach for now.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#137",
@@ -722,27 +722,27 @@
     {
      "id": "2D/AMPS/A14_00@2a800#143",
      "jp": "カフィ：<R>今は事情があって、シデル提督の<R>親衛隊に追われているの。<W><H>でも、心配しないで。<R><F62>といっしょ<R>だから、だいじょうぶよ。<W><E>",
-     "en": "Kafi:<R>It's complicated, but right now<R>Admiral Sidel's Royal Guard is<R>after me.<W><H>But don't worry. I'm with<R><F62>, so I'll be just fine.<W><E>"
+     "en": "Kafi:<R>It's complicated, but<W><H>right now Admiral Sidel's<R>Royal Guard is after me.<W><H>But don't worry. I'm with<R><F62>, so I'll be just fine.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#144",
      "jp": "カフィの父：<R>おまえまで空賊になったのか！<W><E>",
-     "en": "Kafi's Father:<R>Now you've become a sky pirate<R>too!<W><E>"
+     "en": "Kafi's Father:<R>Now you've become<R>a sky pirate too!<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#145",
      "jp": "カルフ：<R>お父さん、まだそんなことを<R>言ってるの？<W><E>",
-     "en": "Karf:<R>Dad, are you still going on about<R>that?<W><E>"
+     "en": "Karf:<R>Dad, are you still<R>going on about that?<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#146",
      "jp": "カフィの母：<R>お父さん、久しぶりに家族が<R>そろったんですよ。<W><H>そう怒ってばかりいないで……<W><E>",
-     "en": "Kafi's Mother:<R>Dear, the whole family is together<R>for the first time in ages.<W><H>Don't be so angry all the<R>time...<W><E>"
+     "en": "Kafi's Mother:<R>Dear, the whole family is together<R>for the first time in ages.<W><H>Don't be so angry<R>all the time...<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#147",
      "jp": "カフィの父：<R>おまえは黙っていろ！<W><H>空賊の娘などわたしはいらん！<R>出て行け！<W><E>",
-     "en": "Kafi's Father:<R>You keep quiet!<W><H>I have no need of sky pirate<R>daughters! Get out!<W><E>"
+     "en": "Kafi's Father:<R>You keep quiet!<W><H>I have no need of sky<R>pirate daughters! Get out!<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#148",
@@ -752,7 +752,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#149",
      "jp": "カフィ：<R>ふふ……でも元気そうで<R>安心したわ。<W><E>",
-     "en": "Kafi:<R>Hehe... Still, I'm relieved to see<R>he's doing well.<W><E>"
+     "en": "Kafi:<R>Hehe... Still, I'm relieved<R>to see he's doing well.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#150",

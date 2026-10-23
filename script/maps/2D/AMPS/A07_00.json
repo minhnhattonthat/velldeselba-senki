@@ -452,12 +452,12 @@
     {
      "id": "2D/AMPS/A07_00@46000#89",
      "jp": "ブアブナム：<R>ついに動き出したか……<W><E>",
-     "en": "Buabnam:<R>So they've finally made their<R>move...<W><E>"
+     "en": "Buabnam:<R>So they've finally<R>made their move...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#90",
      "jp": "ダ・クダ：<R>敵は強大だ。ム連邦が<R>もちこたえられるとは思えん。<W><H>よって、<R>背後からデゼの部隊を叩き、<R>ム連邦の援護を行う。<W><H>各自、補給と装備を整え、<R>すぐに出撃してくれ。<W><E>",
-     "en": "Da Kuda:<R>The enemy is mighty. I don't think<R>the Federation can hold out.<W><H>So we'll hit the Deze forces from<R>behind and back up the<R>Federation.<W><H>Everyone, get resupplied and<R>equipped, and sortie at once.<W><E>"
+     "en": "Da Kuda:<R>The enemy is mighty. I don't think<R>the Federation can hold out.<W><H>So we'll hit the Deze<R>forces from behind and<R>back up the Federation.<W><H>Everyone, get resupplied and<R>equipped, and sortie at once.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#91",
@@ -472,22 +472,22 @@
     {
      "id": "2D/AMPS/A07_00@46000#93",
      "jp": "ダ・クダ：<R>あの浮遊島は、<R>なんとかせんとな………<W><E>",
-     "en": "Da Kuda:<R>We've got to do something about<R>that floating island...<W><E>"
+     "en": "Da Kuda:<R>We've got to do something<R>about that floating island...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#94",
      "jp": "イジロフ：<R>なにかいい方法は<R>ないんですかね？<W><H>はやくしないと、この町まで<R>来てしまいますよ。<W><E>",
-     "en": "Ijirov:<R>Isn't there some good way to do<R>it?<W><H>If we don't hurry, it'll reach<R>this town.<W><E>"
+     "en": "Ijirov:<R>Isn't there some<R>good way to do it?<W><H>If we don't hurry,<R>it'll reach this town.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#95",
      "jp": "ブアブナム：<R>ふむ………<W><H>攻撃をくりかえしたところで<R>浮遊島を破壊するなど<R>不可能だろう。<W><E>",
-     "en": "Buabnam:<R>Hmm...<W><H>Attacking it over and over won't<R>be enough. Destroying a floating<R>island is impossible.<W><E>"
+     "en": "Buabnam:<R>Hmm...<W><H>Attacking it over and over<R>won't be enough. Destroying a<R>floating island is impossible.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#96",
      "jp": "ガシザキノ：<R>われわれの飛空船だけで、<R>ニ・デム島を制圧する方法………<W><E>",
-     "en": "Gashizakino:<R>A way to take Ni-Dem Island with<R>only our own airships...<W><E>"
+     "en": "Gashizakino:<R>A way to take Ni-Dem Island<R>with only our own airships...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#97",
@@ -497,7 +497,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#98",
      "jp": "ガシザキノ：<R>やはり正攻法しかないか。<W><E>",
-     "en": "Gashizakino:<R>Looks like a straight fight is the<R>only way after all.<W><E>"
+     "en": "Gashizakino:<R>Looks like a straight fight<R>is the only way after all.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#99",
@@ -507,7 +507,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#100",
      "jp": "ガシザキノ：<R>浮遊島は飛空船に比べて<R>移動力が劣る。<W><H>だから、周りをすばやく移動<R>しつつ攻撃するのが一番だ。<W><H>さらに、浮遊島の砲台部分に<R>火力を集中し、ひとつひとつ<R>確実につぶさねばならん。<W><H>このふたつを忠実に守れば、<R>われわれにも勝機がある<R>かも………<W><E>",
-     "en": "Gashizakino:<R>A floating island is less mobile<R>than an airship.<W><H>So the best approach is to keep<R>moving fast around it while we<R>attack.<W><H>Also, we must focus our fire on<R>its turrets and knock them out one<R>by one.<W><H>If we stick faithfully to those<R>two rules, we just might have a<R>chance...<W><E>"
+     "en": "Gashizakino:<R>A floating island is less<R>mobile than an airship.<W><H>So the best approach is to<R>keep moving fast around it<R>while we attack.<W><H>Also, we must focus our<R>fire on its turrets and<R>knock them out one by one.<W><H>If we stick faithfully to<R>those two rules, we just<R>might have a chance...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#101",
@@ -517,7 +517,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#102",
      "jp": "イジロフ：<R>わかりました。<R>その旨、皆に伝えておきます。<W><E>",
-     "en": "Ijirov:<R>Understood. I'll pass that on to<R>everyone.<W><E>"
+     "en": "Ijirov:<R>Understood. I'll pass<R>that on to everyone.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#103",
@@ -527,7 +527,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#104",
      "jp": "ブアブナム：<R><F62>がいれば<R>何とかなるだろう。<W><H>わっはっはっは！<W><E>",
-     "en": "Buabnam:<R>With <F62> along, we'll manage<R>somehow.<W><H>Wahahaha!<W><E>"
+     "en": "Buabnam:<R>With <F62> along,<R>we'll manage somehow.<W><H>Wahahaha!<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#105",
@@ -537,7 +537,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#106",
      "jp": "国王派の男：<R>あなたたちですか？<W><H>われわれの計画に<R>協力してくれるのは。<W><E>",
-     "en": "Royalist:<R>Is it you?<W><H>Are you the ones who'll help with<R>our plan?<W><E>"
+     "en": "Royalist:<R>Is it you?<W><H>Are you the ones who'll<R>help with our plan?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#107",
@@ -552,7 +552,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#109",
      "jp": "国王派の男：<R>もうしわけない。<W><H>本来ならリーダーが<R>お会いするべきなのだが、<W><H>作戦準備のために<R>アダクダに潜り込んでいる。<W><H>わたしが代わりに、<R>作戦の説明をいたします。<W><E>",
-     "en": "Royalist:<R>My apologies.<W><H>By rights, our leader should be<R>meeting you,<W><H>but the leader has slipped into<R>Adakuda to prepare for the<R>operation.<W><H>I will explain the operation in<R>the leader's place.<W><E>"
+     "en": "Royalist:<R>My apologies.<W><H>By rights, our leader<R>should be meeting you,<W><H>but the leader has slipped<R>into Adakuda to prepare<R>for the operation.<W><H>I will explain the operation<R>in the leader's place.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#110",
@@ -562,7 +562,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#111",
      "jp": "国王派の男：<R>計画では……<W><H>明日、リーダーの指揮のもとに<R>アダクダで暴動が起こることに<R>なっています。<W><H>当然、グラシアルから<R>鎮圧（ちんあつ）部隊が<R>やってくるでしょう。<W><H>わたしたちはそれを正面から迎え<R>うちますから、あなたたちはその<R>間に背後に回り込んでください。<W><H>そして、ひるんだところを<R>一気に叩きつぶします。<W><E>",
-     "en": "Royalist:<R>The plan is this...<W><H>Tomorrow, under our leader's<R>command, a riot will break out in<R>Adakuda.<W><H>Naturally, Glacial will send<R>troops to put it down.<W><H>We will meet them head-on, so in<R>the meantime, you circle around<R>behind them.<W><H>Then, the moment they falter, we<R>crush them in one blow.<W><E>"
+     "en": "Royalist:<R>The plan is this...<W><H>Tomorrow, under our<R>leader's command, a riot<R>will break out in Adakuda.<W><H>Naturally, Glacial will send<R>troops to put it down.<W><H>We will meet them head-on,<R>so in the meantime, you<R>circle around behind them.<W><H>Then, the moment they falter,<R>we crush them in one blow.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#112",
@@ -572,7 +572,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#113",
      "jp": "国王派の男：<R>アダクダを占領すれば、<W><H>シデルの親衛部隊は<R>大きな打撃を受けるでしょう。<W><E>",
-     "en": "Royalist:<R>If we take Adakuda,<W><H>Sidel's Royal Guard units will be<R>dealt a heavy blow.<W><E>"
+     "en": "Royalist:<R>If we take Adakuda,<W><H>Sidel's Royal Guard units<R>will be dealt a heavy blow.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#114",
@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#118",
      "jp": "イジロフ：<R>やろうども、用意はできたか？<W><E>",
-     "en": "Ijirov:<R>All right, you lot, are you<R>ready?<W><E>"
+     "en": "Ijirov:<R>All right, you lot,<R>are you ready?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#119",
@@ -607,7 +607,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#120",
      "jp": "空賊：<R>気合いいれていくぜ！<W><E>",
-     "en": "Sky Pirate:<R>Let's give it everything we've<R>got!<W><E>"
+     "en": "Sky Pirate:<R>Let's give it<R>everything we've got!<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#121",
@@ -622,7 +622,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#123",
      "jp": "ダ・クダ：<R>いいか、よく聞け。<W><H>もう一度、だんどりを<R>説明するぞ。<W><H>政治犯と国王派の兵士が<R>アダクダで暴動を起こす。<W><H>同時にシデルの親衛部隊を<R>攻撃し、反乱軍の援助をするのが<R>俺たちの役割だ。<W><H>準備ができた船から<R>順に出撃しろ！<W><E>",
-     "en": "Da Kuda:<R>All right, listen up.<W><H>I'll go over the plan one more<R>time.<W><H>Political prisoners and royalist<R>soldiers will riot in Adakuda.<W><H>Our job is to hit Sidel's Royal<R>Guard units at the same time and<R>back up the rebels.<W><H>Ships that are ready, sortie in<R>order!<W><E>"
+     "en": "Da Kuda:<R>All right, listen up.<W><H>I'll go over the<R>plan one more time.<W><H>Political prisoners and royalist<R>soldiers will riot in Adakuda.<W><H>Our job is to hit Sidel's<R>Royal Guard units at the same<R>time and back up the rebels.<W><H>Ships that are ready,<R>sortie in order!<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#124",
@@ -632,17 +632,17 @@
     {
      "id": "2D/AMPS/A07_00@46000#125",
      "jp": "ジャンク屋：<R>らっしゃい、ダンナ、<R>いい掘り出し物がありますよ。<W><H>形は妙だけど、オブジェとしては<R>最高級品の出物だよ。<W><E>",
-     "en": "Junk Dealer:<R>Welcome, boss! I've got a real<R>find for you.<W><H>It's an odd shape, but as an<R>ornament, it's top-quality<R>stuff.<W><E>"
+     "en": "Junk Dealer:<R>Welcome, boss! I've got<R>a real find for you.<W><H>It's an odd shape, but<R>as an ornament, it's<R>top-quality stuff.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#126",
      "jp": "<F62>：<R>何だいそれは。<W><H>何かの機械のようだが……<W><E>",
-     "en": "<F62>:<R>What's that?<W><H>Looks like some kind of<R>machine...<W><E>"
+     "en": "<F62>:<R>What's that?<W><H>Looks like some<R>kind of machine...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#127",
      "jp": "ジャンク屋：<R>ず～っと北の山の中で<R>掘り出したものらしいよ。<W><H>大きさのわりにえらく硬くて、<R>しかも軽いもんでスクラップにも<R>できずに困ってるってわけよ。<W><H>めずらしいもんだし、<R>話のネタに、お兄さん、<R>ひとつどうだい？<W><H>たったの１００Ｚだ。<W><E>",
-     "en": "Junk Dealer:<R>Word is it was dug up way, way up<R>in the northern mountains.<W><H>Awfully hard for its size, yet<R>light, so I can't even scrap it.<R>I'm stuck with it.<W><H>It's a rare thing, and something<R>to talk about. How about it, young<R>man?<W><H>Only 100Z.<W><E>"
+     "en": "Junk Dealer:<R>Word is it was dug up way, way<R>up in the northern mountains.<W><H>Awfully hard for its size,<R>yet light, so I can't even<R>scrap it. I'm stuck with it.<W><H>It's a rare thing, and<R>something to talk about.<R>How about it, young man?<W><H>Only 100Z.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#128",
@@ -662,7 +662,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#131",
      "jp": "<F62>：<R>そうだな、別に腐るもんじゃなし<R>もらっとこうか。<W><E>",
-     "en": "<F62>:<R>Well, it's not like it'll go bad.<R>I'll take it.<W><E>"
+     "en": "<F62>:<R>Well, it's not like it'll<R>go bad. I'll take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#132",
@@ -677,7 +677,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#134",
      "jp": "ジャンク屋：<R>そうかい、残念だな。<W><H>まあ、買う気になったら<R>また来てくれよ。<W><H>他のものでも見ていくかい？<W><E>",
-     "en": "Junk Dealer:<R>Is that so? Too bad.<W><H>Well, if you change your mind,<R>come on back.<W><H>Want to look at anything else?<W><E>"
+     "en": "Junk Dealer:<R>Is that so? Too bad.<W><H>Well, if you change your<R>mind, come on back.<W><H>Want to look at anything else?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#135",
@@ -687,12 +687,12 @@
     {
      "id": "2D/AMPS/A07_00@46000#136",
      "jp": "ジャンク屋：<R>なんだ、ふところがさみしいって？<R>残念だなぁ。<R>じゃあ、金をもうけたらまた来てくれよ。<W><E>",
-     "en": "Junk Dealer:<R>What, short on cash? Too bad.<R>Well, come back once you've made<R>some money.<W><E>"
+     "en": "Junk Dealer:<R>What, short on cash? Too<W><H>bad. Well, come back once<R>you've made some money.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#137",
      "jp": "ジャンク屋：<R>らっしゃい、ダンナ、<R>例のものは買う気になったかい？<W><H>たったの１００Ｚだ。<W><E>",
-     "en": "Junk Dealer:<R>Welcome, boss! Ready to buy that<R>thing yet?<W><H>Only 100Z.<W><E>"
+     "en": "Junk Dealer:<R>Welcome, boss! Ready<R>to buy that thing yet?<W><H>Only 100Z.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#138",
@@ -742,7 +742,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#147",
      "jp": "ジャンク屋：<R>いやあ、ダンナ。<R>また何か買ってくださいよ。<W><E>",
-     "en": "Junk Dealer:<R>Well, boss! Buy something again<R>sometime.<W><E>"
+     "en": "Junk Dealer:<R>Well, boss! Buy something<R>again sometime.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#148",
@@ -767,12 +767,12 @@
     {
      "id": "2D/AMPS/A07_00@46000#152",
      "jp": "修理屋：<R>まいどありがとうございます。<R>また来てくださいね。<W><E>",
-     "en": "Repairman:<R>Thank you very much. Please come<R>again.<W><E>"
+     "en": "Repairman:<R>Thank you very much.<R>Please come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#153",
      "jp": "ドックの職人：<R>船の改造を受け付けてますよ。<W><E>",
-     "en": "Shipwright:<R>We take orders for ship<R>modifications.<W><E>"
+     "en": "Shipwright:<R>We take orders for<R>ship modifications.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#154",
@@ -782,7 +782,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#155",
      "jp": "ドックの職人：<R>気に入ってもらえたかな？<R>またよろしくね。<W><E>",
-     "en": "Shipwright:<R>Hope you like her. Come again<R>soon.<W><E>"
+     "en": "Shipwright:<R>Hope you like her.<R>Come again soon.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#156",
@@ -792,32 +792,32 @@
     {
      "id": "2D/AMPS/A07_00@46000#157",
      "jp": "男：<R>ここから北東に飛べば<R>ダハだぜ。<W><E>",
-     "en": "Man:<R>Fly northeast from here and you'll<R>hit Daha.<W><E>"
+     "en": "Man:<R>Fly northeast from here<R>and you'll hit Daha.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#158",
      "jp": "男：<R>ダハの連中って、どことなく<R>怪しい雰囲気があるよな。<W><E>",
-     "en": "Man:<R>The folks in Daha have something<R>kind of shady about them, don't<R>they?<W><E>"
+     "en": "Man:<R>The folks in Daha have<W><H>something kind of shady<R>about them, don't they?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#159",
      "jp": "男：<R>急に空から声がしたんだ。<W><E>",
-     "en": "Man:<R>All of a sudden a voice came from<R>the sky.<W><E>"
+     "en": "Man:<R>All of a sudden a voice<R>came from the sky.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#160",
      "jp": "女：<R>この町の郊外にはノイパスクから<R>来た夫婦が住んでるわよ。<W><H>何でも昔はノイパスクの大使<R>だったらしいわ。<W><E>",
-     "en": "Woman:<R>A couple from Noipask lives on the<R>outskirts of this town.<W><H>Apparently he used to be the<R>Noipask ambassador.<W><E>"
+     "en": "Woman:<R>A couple from Noipask lives on<R>the outskirts of this town.<W><H>Apparently he used to be<R>the Noipask ambassador.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#161",
      "jp": "女：<R>そう、ノイパスク人に会ったの？<R>なかなかいい人たちでしょ？<W><E>",
-     "en": "Woman:<R>Oh, so you met the Noipask couple?<R>They're rather nice people,<R>aren't they?<W><E>"
+     "en": "Woman:<R>Oh, so you met the Noipask<W><H>couple? They're rather<R>nice people, aren't they?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#162",
      "jp": "女：<R>頭の中に声がひびいたの……<R>恐かったわ。<W><E>",
-     "en": "Woman:<R>A voice echoed inside my head...<R>It was frightening.<W><E>"
+     "en": "Woman:<R>A voice echoed inside my<R>head... It was frightening.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#163",
@@ -827,12 +827,12 @@
     {
      "id": "2D/AMPS/A07_00@46000#164",
      "jp": "老人：<R>ケペラクでは船を買えましたか？<W><E>",
-     "en": "Old Man:<R>Were you able to buy a ship in<R>Keperak?<W><E>"
+     "en": "Old Man:<R>Were you able to buy<R>a ship in Keperak?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#165",
      "jp": "老人：<R>空を不気味な島が飛んで<R>いった……<W><E>",
-     "en": "Old Man:<R>An eerie island went flying across<R>the sky...<W><E>"
+     "en": "Old Man:<R>An eerie island went<R>flying across the sky...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#166",
@@ -847,42 +847,42 @@
     {
      "id": "2D/AMPS/A07_00@46000#168",
      "jp": "衛兵：<R>民間人、勝手に司令部に<R>入るんじゃないぞ。<W><E>",
-     "en": "Guard:<R>Civilians don't just wander into<R>headquarters.<W><E>"
+     "en": "Guard:<R>Civilians don't just<R>wander into headquarters.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#169",
      "jp": "衛兵：<R>なんだか最近、町を怪しい連中が<R>うろうろしてるような気が……<W><E>",
-     "en": "Guard:<R>Lately I get the feeling some<R>shady types are prowling around<R>town...<W><E>"
+     "en": "Guard:<R>Lately I get the feeling<W><H>some shady types are<R>prowling around town...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#170",
      "jp": "ギダン兵：<R>今回の戦いはいつまで<R>続くのかなあ。<W><E>",
-     "en": "Gidan Soldier:<R>I wonder how long this war is<R>going to last.<W><E>"
+     "en": "Gidan Soldier:<R>I wonder how long this<R>war is going to last.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#171",
      "jp": "ギダン兵：<R>親衛隊と派手にやってる連中が<R>いるぜ。空賊なのかな？<W><E>",
-     "en": "Gidan Soldier:<R>There's a bunch out there going at<R>it hard with the Royal Guard.<R>Sky pirates, maybe?<W><E>"
+     "en": "Gidan Soldier:<R>There's a bunch out there going<W><H>at it hard with the Royal<R>Guard. Sky pirates, maybe?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#172",
      "jp": "ギダン兵：<R>クナ共和国を手に入れたのはいい<R>が……次はどうするんだろう？<W><E>",
-     "en": "Gidan Soldier:<R>Taking the Kuna Republic was fine<R>and all... but what's next?<W><E>"
+     "en": "Gidan Soldier:<R>Taking the Kuna Republic was<R>fine and all... but what's next?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#173",
      "jp": "ギダン兵：<R>あの浮遊島はニ・デム島<R>なのか……？<W><E>",
-     "en": "Gidan Soldier:<R>Is that floating island Ni-Dem<R>Island...?<W><E>"
+     "en": "Gidan Soldier:<R>Is that floating island<R>Ni-Dem Island...?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#174",
      "jp": "配給係：<R>ここは軍人以外、立入禁止だぞ。<W><E>",
-     "en": "Quartermaster:<R>Military personnel only beyond<R>this point.<W><E>"
+     "en": "Quartermaster:<R>Military personnel only<R>beyond this point.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#175",
      "jp": "配給係：<R>空からシデル提督の声が……<R>何が起こったんだ？<W><E>",
-     "en": "Quartermaster:<R>Admiral Sidel's voice from the<R>sky... What happened?<W><E>"
+     "en": "Quartermaster:<R>Admiral Sidel's voice from<R>the sky... What happened?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#176",
@@ -892,12 +892,12 @@
     {
      "id": "2D/AMPS/A07_00@46000#177",
      "jp": "酒場の主人：<R>やあ、同志よ。<R>がんばってるか？<W><E>",
-     "en": "Tavern Keeper:<R>Hey there, comrade. Keeping at<R>it?<W><E>"
+     "en": "Tavern Keeper:<R>Hey there, comrade.<R>Keeping at it?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#178",
      "jp": "酒場の主人：<R>アダクダでは大変だったね。<W><E>",
-     "en": "Tavern Keeper:<R>You had a rough time in Adakuda,<R>huh?<W><E>"
+     "en": "Tavern Keeper:<R>You had a rough time<R>in Adakuda, huh?<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#179",
@@ -907,7 +907,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#180",
      "jp": "ギダン兵：<R>国王陛下は息子のシデルさまの<R>いいなりらしいぜ……<W><E>",
-     "en": "Gidan Soldier:<R>They say His Majesty does whatever<R>his son, Sidel-sama, tells<R>him...<W><E>"
+     "en": "Gidan Soldier:<R>They say His Majesty<W><H>does whatever his son,<R>Sidel-sama, tells him...<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#181",

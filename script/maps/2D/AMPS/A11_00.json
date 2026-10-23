@@ -447,42 +447,42 @@
     {
      "id": "2D/AMPS/A11_00@39800#88",
      "jp": "ギダン兵：<R>ドックの奥にある家……時々、<R>爆発事故を起こすんだ。<W><E>",
-     "en": "Gidan Soldier:<R>That house at the back of the<R>dock... Every now and then it<R>has an explosion.<W><E>"
+     "en": "Gidan Soldier:<R>That house at the back of<W><H>the dock... Every now and<R>then it has an explosion.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#89",
      "jp": "ギダン兵：<R>最近、爆発事故は<R>起きていないよ。<W><E>",
-     "en": "Gidan Soldier:<R>There haven't been any explosions<R>lately.<W><E>"
+     "en": "Gidan Soldier:<R>There haven't been any<R>explosions lately.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#90",
      "jp": "ギダン兵：<R>ここは工業の町<R>「ケペラク」だよ。<W><E>",
-     "en": "Gidan Soldier:<R>This is the industrial town,<R>\"Keperak.\"<W><E>"
+     "en": "Gidan Soldier:<R>This is the industrial<R>town, \"Keperak.\"<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#91",
      "jp": "商人：<R>アブナスは、変な発明さえ<R>しなければいいやつなんだが……<W><E>",
-     "en": "Merchant:<R>Abunas would be a good guy, if<R>only he'd quit making weird<R>inventions...<W><E>"
+     "en": "Merchant:<R>Abunas would be a good<W><H>guy, if only he'd quit<R>making weird inventions...<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#92",
      "jp": "商人：<R>アブナスは最近さえてる<R>みたいだな。<W><E>",
-     "en": "Merchant:<R>Abunas seems to be on a roll<R>lately.<W><E>"
+     "en": "Merchant:<R>Abunas seems to be<R>on a roll lately.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#93",
      "jp": "商人：<R>とびきりの商船を買いに<R>来たんだ。<W><E>",
-     "en": "Merchant:<R>I came to buy a top-notch merchant<R>ship.<W><E>"
+     "en": "Merchant:<R>I came to buy a<R>top-notch merchant ship.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#94",
      "jp": "男：<R>妙な物があったら、アブナスとい<R>う男に見せれば調べてくれるよ。<W><E>",
-     "en": "Man:<R>If you find anything strange, show<R>it to a man named Abunas. He'll<R>look into it.<W><E>"
+     "en": "Man:<R>If you find anything strange,<W><H>show it to a man named<R>Abunas. He'll look into it.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#95",
      "jp": "男：<R>ここではいろいろな武器の研究も<R>行われているらしいぜ。<W><E>",
-     "en": "Man:<R>I hear they do research on all<R>kinds of weapons here.<W><E>"
+     "en": "Man:<R>I hear they do research on<R>all kinds of weapons here.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#96",
@@ -512,22 +512,22 @@
     {
      "id": "2D/AMPS/A11_00@39800#101",
      "jp": "修理屋：<R>まいどあり。<R>がんばれよ。<W><E>",
-     "en": "Repairman:<R>Thanks for your business. Good<R>luck out there.<W><E>"
+     "en": "Repairman:<R>Thanks for your business.<R>Good luck out there.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#102",
      "jp": "ドックの職人：<R>ギダンが誇る<R>とびきりの大型船、<W><H>ガルガナークはいらないかね？<W><H>通称「カタナ」だ。<W><H>どうだ、大きいだろう。<R>砲台を１４門も積んで<R>いるからな。<W><H>ただ、小回りがあまりきかない。<R>仲間の人数が多いときに威力を<R>発揮する船だ。<W><E>",
-     "en": "Shipwright:<R>How about Gidan's pride and joy, a<R>top-notch large ship,<W><H>the Garganak?<W><H>Goes by the nickname \"Katana.\"<W><H>Big, isn't she? She carries 14<R>turrets, after all.<W><H>She's not very nimble, though. She<R>really shows her power when you've<R>got a big crew.<W><E>"
+     "en": "Shipwright:<R>How about Gidan's pride and<R>joy, a top-notch large ship,<W><H>the Garganak?<W><H>Goes by the nickname \"Katana.\"<W><H>Big, isn't she? She carries<R>14 turrets, after all.<W><H>She's not very nimble, though.<R>She really shows her power<R>when you've got a big crew.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#103",
      "jp": "ドックの職人：<R>中古だがお買い得だよ。<R>買わんかね？<W><E>",
-     "en": "Shipwright:<R>She's used, but she's a bargain.<R>Want to buy her?<W><E>"
+     "en": "Shipwright:<R>She's used, but she's a<R>bargain. Want to buy her?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#104",
      "jp": "ドックの職人：<R>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備の見立ては<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくから<R>心配しなくてもいいぞ。<W><E>",
-     "en": "Shipwright:<R>Your old ship's turrets, engine,<R>armor plate and so on will all<R>be scrapped.<W><H>Leave picking out the new ship's<R>equipment to me.<W><H>Your ammo and cargo get moved over<R>to the new ship as is, so don't<R>worry.<W><E>"
+     "en": "Shipwright:<R>Your old ship's turrets,<W><H>engine, armor plate and so<R>on will all be scrapped.<W><H>Leave picking out the new<R>ship's equipment to me.<W><H>Your ammo and cargo get<R>moved over to the new ship<R>as is, so don't worry.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#105",
@@ -577,7 +577,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#114",
      "jp": "ギダン技術将校：<R>今着陸した飛空船の<R>パイロットは君かい？<W><E>",
-     "en": "Gidan Engineer Officer:<R>Are you the pilot of the airship<R>that just landed?<W><E>"
+     "en": "Gidan Engineer Officer:<R>Are you the pilot of the<R>airship that just landed?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#115",
@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#118",
      "jp": "ギダン技術将校：<R>君のその腕で、ちょっと飛空船に<R>乗ってもらいたいんだ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>With skills like yours, I'd like<R>you to take an airship up for<R>me.<W><E>"
+     "en": "Gidan Engineer Officer:<R>With skills like yours,<W><H>I'd like you to take an<R>airship up for me.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#119",
@@ -607,17 +607,17 @@
     {
      "id": "2D/AMPS/A11_00@39800#120",
      "jp": "ギダン技術将校：<R>今、ガルガナーク級戦艦の<R>改造をしているんだけど……<W><H>テストパイロットがいなくなって<R>しまったんだ。<W><H>どうしても、はやくあの飛空船を<R>飛ばしたくてね。<W><H>乗ってもらえないだろうか？<W><E>",
-     "en": "Gidan Engineer Officer:<R>Right now I'm modifying a<R>Garganak-class battleship,<R>but...<W><H>my test pilot up and left.<W><H>I just can't wait to get that<R>airship in the air.<W><H>Would you fly it for me?<W><E>"
+     "en": "Gidan Engineer Officer:<R>Right now I'm modifying<W><H>a Garganak-class<R>battleship, but...<W><H>my test pilot up and left.<W><H>I just can't wait to get<R>that airship in the air.<W><H>Would you fly it for me?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#121",
      "jp": "<F62>：<R>乗るのはかまわないけど……<W><H>テストパイロットがいなくなった<R>……ってのは？<W><E>",
-     "en": "<F62>:<R>I don't mind flying it, but...<W><H>what do you mean, your test pilot<R>\"left\"?<W><E>"
+     "en": "<F62>:<R>I don't mind flying it, but...<W><H>what do you mean, your<R>test pilot \"left\"?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#122",
      "jp": "ギダン技術将校：<R>先日の飛行実験のときに<R>爆発事故を起こして……<W><H>それで、こわがって故郷に<R>帰ってしまったんだ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>There was an explosion during the<R>last flight test...<W><H>so he got scared and went back<R>home.<W><E>"
+     "en": "Gidan Engineer Officer:<R>There was an explosion during<R>the last flight test...<W><H>so he got scared and<R>went back home.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#123",
@@ -627,12 +627,12 @@
     {
      "id": "2D/AMPS/A11_00@39800#124",
      "jp": "ギダン技術将校：<R>今度は絶対に自信があるんだ。<R>爆発なんか起こさない。<W><H>お礼ならちゃんとする、<R>１０００Ｚでどうだろう？<W><E>",
-     "en": "Gidan Engineer Officer:<R>This time I'm absolutely<R>confident. No explosions.<W><H>I'll pay you properly, of course.<R>How does 1000Z sound?<W><E>"
+     "en": "Gidan Engineer Officer:<R>This time I'm absolutely<R>confident. No explosions.<W><H>I'll pay you properly, of<R>course. How does 1000Z sound?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#125",
      "jp": "<P13>ここで断っても、何度でも<R>挑戦できます。<P15><W><E>",
-     "en": "<P13>Even if you decline here, you can<R>take the challenge as many times<R>as you like.<P15><W><E>"
+     "en": "<P13>Even if you decline here,<R>you can take the challenge<R>as many times as you like.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#126",
@@ -657,7 +657,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#130",
      "jp": "ギダン技術将校：<R>そうか、やってくれるか……<R>ありがとう。<W><H>テストの項目だが、飛行試験と<R>武器の発射実験を同時にやって<R>しまおうと思っている。<W><H>一定時間内に、ダミーの飛空船を<R>全部落としてもらいたい。<W><H>いいかな？<W><E>",
-     "en": "Gidan Engineer Officer:<R>Oh, you'll do it... Thank you.<W><H>For the test, I plan to run the<R>flight trial and the weapons<R>firing trial together.<W><H>I want you to shoot down all the<R>dummy airships within the time<R>limit.<W><H>All right?<W><E>"
+     "en": "Gidan Engineer Officer:<R>Oh, you'll do it... Thank you.<W><H>For the test, I plan to run<R>the flight trial and the<R>weapons firing trial together.<W><H>I want you to shoot down<R>all the dummy airships<R>within the time limit.<W><H>All right?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#131",
@@ -672,7 +672,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#133",
      "jp": "ギダン技術将校：<R>そうか……<W><H>その気になったらまた来てくれ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>I see...<W><H>Come back if you change your<R>mind.<W><E>"
+     "en": "Gidan Engineer Officer:<R>I see...<W><H>Come back if you<R>change your mind.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#134",
@@ -682,22 +682,22 @@
     {
      "id": "2D/AMPS/A11_00@39800#135",
      "jp": "<F62>：<R>いや、そりゃ、あの飛空船の<R>性能のせいだろう。<W><H>あんなすごい飛空船に乗ったのは<R>はじめてだぜ。<W><E>",
-     "en": "<F62>:<R>Nah, that's all thanks to how well<R>that airship performs.<W><H>First time I've flown an airship<R>that amazing.<W><E>"
+     "en": "<F62>:<R>Nah, that's all thanks to how<R>well that airship performs.<W><H>First time I've flown an<R>airship that amazing.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#136",
      "jp": "ギダン技術将校：<R>そうだろう？<W><H>親衛隊の新型艦だからな。<W><H>これで空賊もム連邦軍も<R>一機残らず蹴散らして<R>しまうのだ！<W><E>",
-     "en": "Gidan Engineer Officer:<R>Isn't it?<W><H>It's the Royal Guard's new model,<R>after all.<W><H>With this, we'll scatter the sky<R>pirates and the Federation army,<R>down to the last ship!<W><E>"
+     "en": "Gidan Engineer Officer:<R>Isn't it?<W><H>It's the Royal Guard's<R>new model, after all.<W><H>With this, we'll scatter the<R>sky pirates and the Federation<R>army, down to the last ship!<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#137",
      "jp": "<F62>：<R>おいおい、少しぐらい<R>手加減してやれよ。<W><E>",
-     "en": "<F62>:<R>Whoa, whoa, go a little easy on<R>them.<W><E>"
+     "en": "<F62>:<R>Whoa, whoa, go a<R>little easy on them.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#138",
      "jp": "ギダン技術将校：<R>わははははは！！<W><H>とにかく助かったよ。<W><H>約束の物だ。<R>受け取ってくれたまえ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>Wahahahaha!!<W><H>Anyway, you've been a great<R>help.<W><H>Here's what I promised. Please,<R>take it.<W><E>"
+     "en": "Gidan Engineer Officer:<R>Wahahahaha!!<W><H>Anyway, you've<R>been a great help.<W><H>Here's what I promised.<R>Please, take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#139",
@@ -707,22 +707,22 @@
     {
      "id": "2D/AMPS/A11_00@39800#140",
      "jp": "ギダン技術将校：<R>そうそう、<W><H>旧型のガルガナーク級が民間用に<R>売りに出ることになったよ。<W><H>ドックで聞いてみるといい。<R>中古だが、整備は完全だ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>Oh, that's right,<W><H>the old Garganak class is going on<R>sale for civilian use.<W><H>Ask at the dock. She's used, but<R>fully serviced.<W><E>"
+     "en": "Gidan Engineer Officer:<R>Oh, that's right,<W><H>the old Garganak class is going<R>on sale for civilian use.<W><H>Ask at the dock. She's<R>used, but fully serviced.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#141",
      "jp": "ギダン技術将校：<R>いやー、残念だったね。<W><H>君ならやってくれると<R>思ったんだが……<W><E>",
-     "en": "Gidan Engineer Officer:<R>Well now, that's a shame.<W><H>I thought you could pull it<R>off...<W><E>"
+     "en": "Gidan Engineer Officer:<R>Well now, that's a shame.<W><H>I thought you could<R>pull it off...<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#142",
      "jp": "<F62>：<R>期待にそえなくて悪かったな。<W><E>",
-     "en": "<F62>:<R>Sorry I didn't live up to your<R>hopes.<W><E>"
+     "en": "<F62>:<R>Sorry I didn't live<R>up to your hopes.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#143",
      "jp": "ギダン技術将校：<R>いやいや、またぜひ<R>挑戦してみてくれたまえ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>No, no, by all means, give it<R>another try.<W><E>"
+     "en": "Gidan Engineer Officer:<R>No, no, by all means,<R>give it another try.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#144",
@@ -732,7 +732,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#145",
      "jp": "ギダン技術将校：<R>テスト飛行をやってくれるのか？<W><H>一定時間内に、ダミーの飛空船を<R>全部落としてもらいたい。<W><H>いいかな？<W><E>",
-     "en": "Gidan Engineer Officer:<R>You'll do the test flight?<W><H>I want you to shoot down all the<R>dummy airships within the time<R>limit.<W><H>All right?<W><E>"
+     "en": "Gidan Engineer Officer:<R>You'll do the test flight?<W><H>I want you to shoot down<R>all the dummy airships<R>within the time limit.<W><H>All right?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#146",
@@ -762,12 +762,12 @@
     {
      "id": "2D/AMPS/A11_00@39800#151",
      "jp": "ギダン技術将校：<R>ここのエンジンの位置に<R>問題が……<W><E>",
-     "en": "Gidan Engineer Officer:<R>The engine placement here is a<R>problem...<W><E>"
+     "en": "Gidan Engineer Officer:<R>The engine placement<R>here is a problem...<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#152",
      "jp": "ギダン技術将校：<R>いや、しかしこれ以上砲台を<R>積むことは……<W><E>",
-     "en": "Gidan Engineer Officer:<R>No, but mounting any more turrets<R>would...<W><E>"
+     "en": "Gidan Engineer Officer:<R>No, but mounting any<R>more turrets would...<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#153",
@@ -777,7 +777,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#154",
      "jp": "ギダン技術将校：<R>ここはギダンが誇る飛空船の<R>研究開発所だ。おどろいたかね？<W><E>",
-     "en": "Gidan Engineer Officer:<R>This is Gidan's pride: an airship<R>research and development<R>facility. Surprised?<W><E>"
+     "en": "Gidan Engineer Officer:<R>This is Gidan's pride: an<W><H>airship research and development<R>facility. Surprised?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#155",
@@ -792,7 +792,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#157",
      "jp": "男：<R>あぶないぞー、右奥の家には<R>素人は近づかんほうがいい。<W><E>",
-     "en": "Man:<R>Careful now. Amateurs had better<R>keep away from the house at the<R>back right.<W><E>"
+     "en": "Man:<R>Careful now. Amateurs had<W><H>better keep away from the<R>house at the back right.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#158",
@@ -807,27 +807,27 @@
     {
      "id": "2D/AMPS/A11_00@39800#160",
      "jp": "老人：<R>北の山には時々妙なもんが<R>落ちているんだ。<W><E>",
-     "en": "Old Man:<R>Strange things fall in the<R>mountains to the north now and<R>then.<W><E>"
+     "en": "Old Man:<R>Strange things fall in<W><H>the mountains to the<R>north now and then.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#161",
      "jp": "老人：<R>東にある町は、ヤズサという<R>交通の要所だよ。<W><E>",
-     "en": "Old Man:<R>The town to the east is Yazusa, a<R>hub of travel and trade.<W><E>"
+     "en": "Old Man:<R>The town to the east is Yazusa,<R>a hub of travel and trade.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#162",
      "jp": "女：<R>右奥の家はつい昨日も<R>爆発したから気をつけなよ。<W><E>",
-     "en": "Woman:<R>The house at the back right blew<R>up just yesterday, so watch<R>yourself.<W><E>"
+     "en": "Woman:<R>The house at the back right<W><H>blew up just yesterday, so<R>watch yourself.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#163",
      "jp": "女：<R>アブナスさん、新しい研究を<R>始めたようね。<W><E>",
-     "en": "Woman:<R>Looks like Abunas-san has started<R>some new research.<W><E>"
+     "en": "Woman:<R>Looks like Abunas-san has<R>started some new research.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#164",
      "jp": "女：<R>あなたも飛空船を買いに<R>来たの？<W><E>",
-     "en": "Woman:<R>Did you come to buy an airship<R>too?<W><E>"
+     "en": "Woman:<R>Did you come to buy<R>an airship too?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#165",
@@ -837,37 +837,37 @@
     {
      "id": "2D/AMPS/A11_00@39800#166",
      "jp": "ギダン兵：<R>近頃は不景気のせいか、船を買い<R>に来る民間人が減ったなあ。<W><E>",
-     "en": "Gidan Soldier:<R>Must be the bad economy. Fewer<R>civilians come to buy ships<R>these days.<W><E>"
+     "en": "Gidan Soldier:<R>Must be the bad economy.<W><H>Fewer civilians come to<R>buy ships these days.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#167",
      "jp": "ギダン兵：<R>ここの工場ではシデル提督の命令<R>で秘密兵器を開発しているんだ。<W><E>",
-     "en": "Gidan Soldier:<R>This factory is developing a<R>secret weapon on Admiral Sidel's<R>orders.<W><E>"
+     "en": "Gidan Soldier:<R>This factory is developing<W><H>a secret weapon on Admiral<R>Sidel's orders.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#168",
      "jp": "ギダン兵：<R>西のデゼはム連邦との国境だから<R>警備がたいへんだよ。<W><E>",
-     "en": "Gidan Soldier:<R>Deze, to the west, is on the<R>Federation border, so guarding<R>it is tough.<W><E>"
+     "en": "Gidan Soldier:<R>Deze, to the west, is on<W><H>the Federation border,<R>so guarding it is tough.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#169",
      "jp": "発明家：<R>やあ、こんにちは！<R>ボク、アブナス。<W><H>シデル提督の命令で、<R>秘密兵器の開発を<R>しているんだ。<W><H>変なメカを集めるのが<R>ボクの趣味。<W><H>何かみつけたら、<R>ぜひ持ってきてね。<W><H>じゃ！<W><E>",
-     "en": "Inventor:<R>Oh, hi, hello! I-I'm Abunas.<W><H>On Admiral Sidel's orders, I'm<R>developing secret weapons.<W><H>Collecting weird machines is my<R>hobby.<W><H>If you find anything, be sure to<R>bring it to me.<W><H>Bye!<W><E>"
+     "en": "Inventor:<R>Oh, hi, hello! I-I'm Abunas.<W><H>On Admiral Sidel's orders, I'm<R>developing secret weapons.<W><H>Collecting weird<R>machines is my hobby.<W><H>If you find anything, be<R>sure to bring it to me.<W><H>Bye!<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#170",
      "jp": "発明家アブナス：<R>何か変なものをみつけたら、ぜひ<R>持ってきてね。<W><E>",
-     "en": "Inventor Abunas:<R>If you find a strange object, be<R>sure to bring it to me.<W><E>"
+     "en": "Inventor Abunas:<R>If you find a strange object,<R>be sure to bring it to me.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#171",
      "jp": "発明家アブナス：<R>この機械、きっと元どおりに<R>復元してみせるよ。<W><E>",
-     "en": "Inventor Abunas:<R>I'll restore this machine to how<R>it was, you'll see.<W><E>"
+     "en": "Inventor Abunas:<R>I'll restore this machine<R>to how it was, you'll see.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#172",
      "jp": "発明家アブナス：<R>これから研究の幅を広げようかと<R>思ってるんだ。<W><H>シデル提督の言う通りに<R>研究してるだけでは<R>つまらないしね。<W><E>",
-     "en": "Inventor Abunas:<R>I'm thinking of broadening my<R>research from now on.<W><H>Just researching whatever Admiral<R>Sidel tells me to is boring, after<R>all.<W><E>"
+     "en": "Inventor Abunas:<R>I'm thinking of broadening<R>my research from now on.<W><H>Just researching whatever<R>Admiral Sidel tells me to<R>is boring, after all.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#173",
@@ -882,17 +882,17 @@
     {
      "id": "2D/AMPS/A11_00@39800#175",
      "jp": "発明家アブナス：<R>これから研究の幅を広げようかと<R>思ってるんだ。<W><E>",
-     "en": "Inventor Abunas:<R>I'm thinking of broadening my<R>research from now on.<W><E>"
+     "en": "Inventor Abunas:<R>I'm thinking of broadening<R>my research from now on.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#176",
      "jp": "<F62>：<R>アブナス。<W><H>変なものがあるんだけど、<R>いるかい？<W><E>",
-     "en": "<F62>:<R>Abunas.<W><H>I've got a strange object here.<R>Want it?<W><E>"
+     "en": "<F62>:<R>Abunas.<W><H>I've got a strange<R>object here. Want it?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#177",
      "jp": "発明家アブナス：<R>こここここ、これをどこで？<W><E>",
-     "en": "Inventor Abunas:<R>Wh-wh-wh-wh-where did you get<R>this?<W><E>"
+     "en": "Inventor Abunas:<R>Wh-wh-wh-wh-where<R>did you get this?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#178",
@@ -907,47 +907,47 @@
     {
      "id": "2D/AMPS/A11_00@39800#180",
      "jp": "<F62>：<R>それで、いったい<R>これは何なんだ？<W><E>",
-     "en": "<F62>:<R>So what the heck is this thing,<R>anyway?<W><E>"
+     "en": "<F62>:<R>So what the heck is<R>this thing, anyway?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#181",
      "jp": "発明家アブナス：<R>パスク製かノイパスク製<R>みたいだけど……<W><H>くわしく調べてみる<R>必要があるな。<W><H>僕のカンだけど、これは多分、<R>すごいもんだと思うよ。<W><H>お礼にこのスペシャル<R>ハイグレードオイルをあげよう。<W><H>これをエンジンオイルの代わりに<R>使えば、５％出力アップする<R>こと、まちがいなしだよ！<W><E>",
-     "en": "Inventor Abunas:<R>It looks like it's Pask-made or<R>Noipask-made, but...<W><H>I'll need to examine it in<R>detail.<W><H>It's just my hunch, but I think<R>this is probably something<R>amazing.<W><H>As thanks, let me give you this<R>Special High-Grade Oil.<W><H>Use it in place of engine oil and<R>you're guaranteed a 5% power<R>boost!<W><E>"
+     "en": "Inventor Abunas:<R>It looks like it's Pask-made<R>or Noipask-made, but...<W><H>I'll need to examine<R>it in detail.<W><H>It's just my hunch, but<R>I think this is probably<R>something amazing.<W><H>As thanks, let me give you<R>this Special High-Grade Oil.<W><H>Use it in place of engine<R>oil and you're guaranteed<R>a 5% power boost!<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#182",
      "jp": "<P07>スペシャルハイグレードオイルを<R>１個もらいました。<P15><W><E>",
-     "en": "<P07>Received 1 Special High-Grade<R>Oil.<P15><W><E>"
+     "en": "<P07>Received 1 Special<R>High-Grade Oil.<P15><W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#183",
      "jp": "発明家アブナス：<R>今度またここへきたときは<R>必ずよってね。<W><H>この機械、きっと元どおりに<R>復元してみせるから！<W><E>",
-     "en": "Inventor Abunas:<R>Next time you're here, be sure to<R>stop by.<W><H>I'll restore this machine to how<R>it was, you'll see!<W><E>"
+     "en": "Inventor Abunas:<R>Next time you're here,<R>be sure to stop by.<W><H>I'll restore this machine<R>to how it was, you'll see!<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#184",
      "jp": "<F62>：<R>ヤズサの北か。<R>一度行ってみるか……<W><E>",
-     "en": "<F62>:<R>North of Yazusa, huh. Maybe I'll<R>go take a look...<W><E>"
+     "en": "<F62>:<R>North of Yazusa, huh. Maybe<R>I'll go take a look...<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#185",
      "jp": "<F62>：<R>ヤズサの北にはカフィの<R>両親がいたな……<W><H>ひょっとしてあれを拾ったのは<R>カフィのお父さんかな？<W><E>",
-     "en": "<F62>:<R>Come to think of it, Kafi's<R>parents live north of Yazusa...<W><H>Could it have been Kafi's dad who<R>picked that thing up?<W><E>"
+     "en": "<F62>:<R>Come to think of it, Kafi's<R>parents live north of Yazusa...<W><H>Could it have been Kafi's dad<R>who picked that thing up?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#186",
      "jp": "発明家アブナス：<R>おお、おひさしぶり。<R>元気にしてました？<W><E>",
-     "en": "Inventor Abunas:<R>Oh, long time no see. Have you<R>been well?<W><E>"
+     "en": "Inventor Abunas:<R>Oh, long time no see.<R>Have you been well?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#187",
      "jp": "<F62>：<R>アンタは相変わらず運動不足の<R>青い顔をしてるな。<W><H>たまには外へ出て運動でも<R>したらどうだい？<W><E>",
-     "en": "<F62>:<R>And you've still got that pale<R>face of someone who never<R>exercises.<W><H>Why not get outside and move<R>around once in a while?<W><E>"
+     "en": "<F62>:<R>And you've still got that<W><H>pale face of someone who<R>never exercises.<W><H>Why not get outside and move<R>around once in a while?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#188",
      "jp": "発明家アブナス：<R>あははは、<R>ボクは野外は苦手でね。<W><H>それより聞いてくれ、キミから<R>もらった機械を調べたら<R>おもしろいことがわかったよ。<W><E>",
-     "en": "Inventor Abunas:<R>Ahahaha, I'm no good with the<R>outdoors.<W><H>More importantly, listen! I<R>examined the machine you gave me<R>and found out something<R>interesting.<W><E>"
+     "en": "Inventor Abunas:<R>Ahahaha, I'm no good<R>with the outdoors.<W><H>More importantly, listen!<R>I examined the machine you<W><H>gave me and found out<R>something interesting.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#189",
@@ -957,7 +957,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#190",
      "jp": "発明家アブナス：<R>こいつは、多分、パスク製の<R>強力な弾丸だよ。<W><H>「パスク弾」とでも<R>名づけようかな。<W><H>試し撃ちしたら、裏山に穴を<R>掘ってしまうほどの破壊力で……<R>びっくりしちゃったよ。<W><E>",
-     "en": "Inventor Abunas:<R>This thing is probably a powerful<R>Pask-made round.<W><H>Maybe I'll name them \"Pask<R>rounds.\"<W><H>I test-fired one, and it was so<R>destructive it dug a hole in the<R>hill out back... It gave me<R>quite a shock.<W><E>"
+     "en": "Inventor Abunas:<R>This thing is probably a<R>powerful Pask-made round.<W><H>Maybe I'll name them<R>\"Pask rounds.\"<W><H>I test-fired one, and it was<R>so destructive it dug a hole<W><H>in the hill out back... It<R>gave me quite a shock.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#191",
@@ -967,7 +967,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#192",
      "jp": "発明家アブナス：<R>いやー、<R>いい勉強になったよ。<W><H>そうだ、よかったら<R>こいつを使ってくれない？<W><H>やはり、弾は<R>使ってこそ価値があるからね。<W><H>その点、君ならきっと<R>使いこなしてくれると思うんだ。<W><E>",
-     "en": "Inventor Abunas:<R>Well, it was a real learning<R>experience.<W><H>Oh, I know! Would you like to use<R>these?<W><H>After all, ammo is only worth<R>something when it's fired.<W><H>And I'm sure you'll put them to<R>good use.<W><E>"
+     "en": "Inventor Abunas:<R>Well, it was a real<R>learning experience.<W><H>Oh, I know! Would you<R>like to use these?<W><H>After all, ammo is only worth<R>something when it's fired.<W><H>And I'm sure you'll<R>put them to good use.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#193",

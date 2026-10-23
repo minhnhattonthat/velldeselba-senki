@@ -452,7 +452,7 @@
     {
      "id": "2D/IMPS/I10_00@31000#89",
      "jp": "<F62>：<R>カフィ！？<W><H>ガシザキノもいるのか！？<W><H>なんでこんなところに？<W><E>",
-     "en": "<F62>:<R>Kafi!?<W><H>Gashizakino's here too!?<W><H>What are you doing in a place like<R>this?<W><E>"
+     "en": "<F62>:<R>Kafi!?<W><H>Gashizakino's here too!?<W><H>What are you doing in<R>a place like this?<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#90",
@@ -462,7 +462,7 @@
     {
      "id": "2D/IMPS/I10_00@31000#91",
      "jp": "ガシザキノ大佐：<R>おまえたちは下がっていろ！<R>俺が話をつける。<W><E>",
-     "en": "Colonel Gashizakino:<R>You lot, stand back! I'll handle<R>this.<W><E>"
+     "en": "Colonel Gashizakino:<R>You lot, stand back!<R>I'll handle this.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#92",
@@ -472,12 +472,12 @@
     {
      "id": "2D/IMPS/I10_00@31000#93",
      "jp": "<F62>：<R>おい、護送船だろ、この船？<W><H>なぜ、あんたやカフィが<R>乗っているんだ？<W><E>",
-     "en": "<F62>:<R>Hey, this is a prisoner transport,<R>isn't it?<W><H>So why are you and Kafi aboard?<W><E>"
+     "en": "<F62>:<R>Hey, this is a prisoner<R>transport, isn't it?<W><H>So why are you and Kafi aboard?<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#94",
      "jp": "ガシザキノ大佐：<R>すまん。<R>ちょっと訳ありでな。<W><E>",
-     "en": "Colonel Gashizakino:<R>Sorry. There's a story behind<R>it.<W><E>"
+     "en": "Colonel Gashizakino:<R>Sorry. There's a<R>story behind it.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#95",
@@ -492,7 +492,7 @@
     {
      "id": "2D/IMPS/I10_00@31000#97",
      "jp": "ガシザキノ大佐：<R>カフィを預かってもらえないか。<W><E>",
-     "en": "Colonel Gashizakino:<R>Would you look after Kafi for<R>me?<W><E>"
+     "en": "Colonel Gashizakino:<R>Would you look<R>after Kafi for me?<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#98",
@@ -502,17 +502,17 @@
     {
      "id": "2D/IMPS/I10_00@31000#99",
      "jp": "ガシザキノ大佐：<R>最近、急にシデル提督の力が<R>強くなりはじめてな。<W><H>ム連邦、ノイパスクとの共存を<R>考えている穏健（おんけん）派の<R>連中を、<W><H>次々とアダクダにある<R>強制収容所に<R>送り込んでいるんだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Lately, Admiral Sidel's power has<R>suddenly started to grow.<W><H>The moderates, the ones who want<R>to coexist with the Federation and<R>Noipask,<W><H>he's been sending them off to the<R>prison camp in Adakuda, one after<R>another.<W><E>"
+     "en": "Colonel Gashizakino:<R>Lately, Admiral Sidel's power<R>has suddenly started to grow.<W><H>The moderates, the ones who<R>want to coexist with the<R>Federation and Noipask,<W><H>he's been sending them off<R>to the prison camp in<R>Adakuda, one after another.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#100",
      "jp": "<F62>：<R>シデルが暴走してるのか？<W><H>ギダン国王は何をしているんだ？<R>父親なんだろ？<W><E>",
-     "en": "<F62>:<R>Sidel's running wild?<W><H>What's the King of Gidan doing<R>about it? He's his father, isn't<R>he?<W><E>"
+     "en": "<F62>:<R>Sidel's running wild?<W><H>What's the King of Gidan<R>doing about it? He's his<R>father, isn't he?<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#101",
      "jp": "ガシザキノ大佐：<R>息子といえども提督だからな。<W><H>おいそれとは口出しが<R>できんのだろう。<W><E>",
-     "en": "Colonel Gashizakino:<R>Son or not, he's still an<R>admiral.<W><H>I suppose even the King can't just<R>step in and meddle.<W><E>"
+     "en": "Colonel Gashizakino:<R>Son or not, he's<R>still an admiral.<W><H>I suppose even the King can't<R>just step in and meddle.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#102",
@@ -522,27 +522,27 @@
     {
      "id": "2D/IMPS/I10_00@31000#103",
      "jp": "ガシザキノ大佐：<R>そういうわけで、<W><H>カフィもノイパスクの<R>スパイではないかと<R>シデル提督に目をつけられてな、<W><H>アダクダに送られる途中なんだ。<W><H>途中で何とか両親のもとに<R>逃がそうと思っていたんだが……<W><H>おまえに会えてよかったよ。<W><E>",
-     "en": "Colonel Gashizakino:<R>So that's how things stand.<W><H>Admiral Sidel's got his eye on<R>Kafi too, suspecting she's a<R>Noipask spy,<W><H>and now she's being sent to<R>Adakuda.<W><H>I'd hoped to find some way to let<R>her escape to her parents along<R>the way, but...<W><H>I'm glad I ran into you.<W><E>"
+     "en": "Colonel Gashizakino:<R>So that's how things stand.<W><H>Admiral Sidel's got his eye<R>on Kafi too, suspecting<R>she's a Noipask spy,<W><H>and now she's being<R>sent to Adakuda.<W><H>I'd hoped to find some way to<R>let her escape to her parents<R>along the way, but...<W><H>I'm glad I ran into you.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#104",
      "jp": "<F62>：<R>わかった。<W><H>そういうことならまかせてくれ。<W><E>",
-     "en": "<F62>:<R>Got it.<W><H>If that's how it is, leave it to<R>me.<W><E>"
+     "en": "<F62>:<R>Got it.<W><H>If that's how it is,<R>leave it to me.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#105",
      "jp": "ガシザキノ大佐：<R>頼むぞ。<W><H>そのかわり、オレの部下を<R>２人つけてやる。<W><H>必ずおまえの力になるはずだ。<R>よろしく頼む。<W><E>",
-     "en": "Colonel Gashizakino:<R>I'm counting on you.<W><H>In return, I'll lend you two of my<R>people.<W><H>They're sure to be a help to you.<R>Treat them well.<W><E>"
+     "en": "Colonel Gashizakino:<R>I'm counting on you.<W><H>In return, I'll lend<R>you two of my people.<W><H>They're sure to be a help<R>to you. Treat them well.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#106",
      "jp": "<F62>：<R>ガシザキノの部下って……<R>要するにお目付役ってことかい？<W><H>まあいいけどな。<W><H>空賊って言ったって、<R>俺は、そんな悪いことをしちゃ<R>いないぜ。<W><E>",
-     "en": "<F62>:<R>Your people, huh... So basically,<R>they're here to keep an eye on<R>me?<W><H>Well, fine by me.<W><H>I may be a sky pirate, but I<R>haven't done anything all that<R>bad.<W><E>"
+     "en": "<F62>:<R>Your people, huh... So<W><H>basically, they're here<R>to keep an eye on me?<W><H>Well, fine by me.<W><H>I may be a sky pirate,<R>but I haven't done<R>anything all that bad.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#107",
      "jp": "ガジザキノ：<R>はははっ。<W><H>カフィを預けるには<R>いまひとつ不安だからな。<W><H>くれぐれもカフィのことを<R>頼むぞ。<W><E>",
-     "en": "Gashizakino:<R>Hahaha!<W><H>I'm not quite easy about leaving<R>Kafi with you, you see.<W><H>Take good care of Kafi, I mean<R>it.<W><E>"
+     "en": "Gashizakino:<R>Hahaha!<W><H>I'm not quite easy about leaving<R>Kafi with you, you see.<W><H>Take good care of<R>Kafi, I mean it.<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#108",
@@ -552,12 +552,12 @@
     {
      "id": "2D/IMPS/I10_00@31000#109",
      "jp": "ガシザキノ大佐：<R>わかった！<W><H>捕虜を引き渡せばこの船には<R>手を出さないんだな！<W><H>よし、行け！<W><E>",
-     "en": "Colonel Gashizakino:<R>All right!<W><H>If we hand over the prisoner,<R>you'll leave this ship alone,<R>right!<W><H>Fine, go!<W><E>"
+     "en": "Colonel Gashizakino:<R>All right!<W><H>If we hand over the<R>prisoner, you'll leave<R>this ship alone, right!<W><H>Fine, go!<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#110",
      "jp": "ガシザキノ大佐：<R>捕虜は渡したぞ！<R>はやくこの船から出て行け！<W><H>何い、このうえ人質まで出せと<R>言うのか……<W><H>女がいいだと？！<W><H>しかたない。<W><H>フラグナム、カ・ジャルコ、<R>悪いが言う通りにしてくれ……<W><E>",
-     "en": "Colonel Gashizakino:<R>You have the prisoner! Now get off<R>this ship, quickly!<W><H>What, on top of that you want<R>hostages too...<W><H>And you'd prefer women!?<W><H>No choice, then.<W><H>Fragnum, Ka Jarko, I'm sorry, but<R>do as they say...<W><E>"
+     "en": "Colonel Gashizakino:<R>You have the prisoner! Now<R>get off this ship, quickly!<W><H>What, on top of that you<R>want hostages too...<W><H>And you'd prefer women!?<W><H>No choice, then.<W><H>Fragnum, Ka Jarko, I'm<R>sorry, but do as they say...<W><E>"
     },
     {
      "id": "2D/IMPS/I10_00@31000#111",
@@ -577,7 +577,7 @@
     {
      "id": "2D/IMPS/I10_00@31000#114",
      "jp": "<P13>フラグナムとカ・ジャルコが<R>仲間になりました。<P15><W><E>",
-     "en": "<P13>Fragnum and Ka Jarko have joined<R>the crew.<P15><W><E>"
+     "en": "<P13>Fragnum and Ka Jarko<R>have joined the crew.<P15><W><E>"
     }
    ]
   }

@@ -447,7 +447,7 @@
     {
      "id": "2D/IMPS/I11_00@2e000#88",
      "jp": "デファイナ：<R>よし！<R>お宝をよこどりするよ！<W><E>",
-     "en": "Defaina:<R>All right! Let's snatch that<R>treasure!<W><E>"
+     "en": "Defaina:<R>All right! Let's<R>snatch that treasure!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#89",
@@ -462,7 +462,7 @@
     {
      "id": "2D/IMPS/I11_00@2e000#91",
      "jp": "オユ・キクル：<R>なに考えてんの、<R>あぶないじゃない。<W><E>",
-     "en": "Oyu Kikuru:<R>What are you thinking? That's<R>dangerous!<W><E>"
+     "en": "Oyu Kikuru:<R>What are you thinking?<R>That's dangerous!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#92",
@@ -477,22 +477,22 @@
     {
      "id": "2D/IMPS/I11_00@2e000#94",
      "jp": "<F62>：<R>なにデレデレしてんだ、<R>マルダマン！<W><E>",
-     "en": "<F62>:<R>What are you swooning over,<R>Mardaman!<W><E>"
+     "en": "<F62>:<R>What are you swooning<R>over, Mardaman!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#95",
      "jp": "シルカ：<R>あっ、あんたは酒場で会った……<W><E>",
-     "en": "Silka:<R>Ah, you're the guy from the<R>bar...<W><E>"
+     "en": "Silka:<R>Ah, you're the guy<R>from the bar...<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#96",
      "jp": "<F62>：<R>あ、てめえ！<R>酒代をかえしやがれ！<W><E>",
-     "en": "<F62>:<R>Hey, you! Give me back my drink<R>money!<W><E>"
+     "en": "<F62>:<R>Hey, you! Give me<R>back my drink money!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#97",
      "jp": "デファイナ：<R>男のくせにがたがた<R>いうんじゃないわよ！<W><H>こんな美人と会えただけでも<R>感謝してくんなくちゃ！<W><E>",
-     "en": "Defaina:<R>A man shouldn't whine like that!<W><H>You ought to be grateful just to<R>meet a beauty like me!<W><E>"
+     "en": "Defaina:<R>A man shouldn't whine like that!<W><H>You ought to be grateful just<R>to meet a beauty like me!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#98",
@@ -517,7 +517,7 @@
     {
      "id": "2D/IMPS/I11_00@2e000#102",
      "jp": "デファイナ：<R>さ、用がないんなら、<R>さっさと出ていって！<W><E>",
-     "en": "Defaina:<R>Now, if you've no business here,<R>get out already!<W><E>"
+     "en": "Defaina:<R>Now, if you've no business<R>here, get out already!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#103",
@@ -527,12 +527,12 @@
     {
      "id": "2D/IMPS/I11_00@2e000#104",
      "jp": "<F62>：<R>おめえらもいいかげん、<W><H>よこどりなんてしようと<R>するんじゃねえ！<W><E>",
-     "en": "<F62>:<R>And you lot, knock it off<R>already,<W><H>quit trying to steal other<R>people's loot!<W><E>"
+     "en": "<F62>:<R>And you lot, knock<R>it off already,<W><H>quit trying to steal<R>other people's loot!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#105",
      "jp": "デファイナ：<R>うるさいわねえ。<W><H>あんたの説教なんか<R>ききたくないわよ！<W><E>",
-     "en": "Defaina:<R>Oh, pipe down.<W><H>I don't want to hear your<R>lectures!<W><E>"
+     "en": "Defaina:<R>Oh, pipe down.<W><H>I don't want to hear<R>your lectures!<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#106",
@@ -582,12 +582,12 @@
     {
      "id": "2D/IMPS/I11_00@2e000#115",
      "jp": "デファイナ：<R>わたし、この人に<R>ついていくわ………<W><E>",
-     "en": "Defaina:<R>I'm going to follow this<R>man......<W><E>"
+     "en": "Defaina:<R>I'm going to follow<R>this man......<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#116",
      "jp": "イルミナ：<R>すてきな方……<R>あたしを連れてって。<W><E>",
-     "en": "Illumina:<R>What a wonderful man... Take me<R>with you.<W><E>"
+     "en": "Illumina:<R>What a wonderful man...<R>Take me with you.<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#117",
@@ -602,7 +602,7 @@
     {
      "id": "2D/IMPS/I11_00@2e000#119",
      "jp": "イルミナ：<R>わたしも！<W><H>こんな船すててくわ。<R>あなたの船に乗せて。<W><E>",
-     "en": "Illumina:<R>Me too!<W><H>I'll ditch this old ship. Let me<R>ride on yours.<W><E>"
+     "en": "Illumina:<R>Me too!<W><H>I'll ditch this old ship.<R>Let me ride on yours.<W><E>"
     },
     {
      "id": "2D/IMPS/I11_00@2e000#120",
@@ -617,7 +617,7 @@
     {
      "id": "2D/IMPS/I11_00@2e000#122",
      "jp": "<P13>女空賊３人が仲間になりました。<P15><W><E>",
-     "en": "<P13>The three women sky pirates have<R>joined the crew.<P15><W><E>"
+     "en": "<P13>The three women sky pirates<R>have joined the crew.<P15><W><E>"
     }
    ]
   }

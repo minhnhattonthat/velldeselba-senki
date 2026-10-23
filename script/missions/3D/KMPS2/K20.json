@@ -7,12 +7,12 @@
     {
      "id": "3D/KMPS2/K20#0",
      "jp": "オユ・キクル：<R>また国境越えですね。<R><@0f>ハウエズナ：<R>国境警備隊です！<R>こちらに向かってきます！<R><@14>マルダマン：<R>まずいな、<R>近くの町に逃げ込もうぜ！<R><@14>",
-     "en": "Oyu Kikuru:<R>Crossing the border again,<R>huh.<R><@0f>Hauezna:<R>Border patrol! They're heading<R>our way!<R><@14>Mardaman:<R>Not good. Let's duck into a<R>nearby town!<R><@14>"
+     "en": "Oyu Kikuru:<R>Crossing the<R>border again, huh.<R><@0f>Hauezna:<R>Border patrol! They're<R>heading our way!<R><@14>Mardaman:<R>Not good. Let's duck<R>into a nearby town!<R><@14>"
     },
     {
      "id": "3D/KMPS2/K20#1",
      "jp": "<%S><_00>：<R>いったん<R>デゼに降りるぞ。<R><@20>",
-     "en": "<%S><_00>:<R>We'll set down at Deze for<R>now.<R><@20>"
+     "en": "<%S><_00>:<R>We'll set down<R>at Deze for now.<R><@20>"
     }
    ]
   }

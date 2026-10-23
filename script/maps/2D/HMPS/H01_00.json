@@ -487,12 +487,12 @@
     {
      "id": "2D/HMPS/H01_00@34800#96",
      "jp": "<P07><D20>この星を平和に導くため<R>わたしは調停者として<R>おまえたちに語りかける<D10><P15><W><E>",
-     "en": "<P07><D20>To lead this planet to peace, I<R>speak to you as the Arbiter<D10><P15><W><E>"
+     "en": "<P07><D20>To lead this planet to peace,<R>I speak to you as the Arbiter<D10><P15><W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#97",
      "jp": "<P07><D20>武器を捨てよ<W><H>争いをやめよ<W><H>国家と民族を放棄し<R>シデルの調停のもとに集まるのだ<D10><P15><W><E>",
-     "en": "<P07><D20>Cast away your weapons<W><H>Cease your fighting<W><H>Renounce nations and peoples, and<R>gather under the mediation of<R>Sidel<D10><P15><W><E>"
+     "en": "<P07><D20>Cast away your weapons<W><H>Cease your fighting<W><H>Renounce nations and<R>peoples, and gather under<R>the mediation of Sidel<D10><P15><W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#98",
@@ -502,7 +502,7 @@
     {
      "id": "2D/HMPS/H01_00@34800#99",
      "jp": "<P07><D20>今より<R>わが使いをさし向ける<D10><P15><W><E>",
-     "en": "<P07><D20>From this moment, I send forth my<R>emissary<D10><P15><W><E>"
+     "en": "<P07><D20>From this moment, I<R>send forth my emissary<D10><P15><W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#100",
@@ -517,17 +517,17 @@
     {
      "id": "2D/HMPS/H01_00@34800#102",
      "jp": "<P07><D20>この、シデルの調停を<R>受け入れるのだ<D10><P15><W><E>",
-     "en": "<P07><D20>and accept this, the mediation of<R>Sidel<D10><P15><W><E>"
+     "en": "<P07><D20>and accept this, the<R>mediation of Sidel<D10><P15><W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#103",
      "jp": "バムス中佐：<R>ホウノム島をムノギイへ<R>移動させる！<W><H>浮遊島防衛部隊は全機出撃し、<R>島の上空で待機せよ！<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Move Hounom Island to Munogi!<W><H>All floating-island defense units,<R>sortie and stand by in the skies<R>above the island!<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Move Hounom Island to Munogi!<W><H>All floating-island defense<R>units, sortie and stand by in<R>the skies above the island!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#104",
      "jp": "カズシタカ参謀長：<R>この改造ニ・デム島の力を<R>試すときが来た！<W><H>反乱者どものいる<R>アダクダに向かって発進！<W><E>",
-     "en": "Chief of Staff Kazushitaka:<R>The time has come to test the<R>might of this modified Ni-Dem<R>Island!<W><H>Launch! Head for Adakuda, where<R>those rebels are!<W><E>"
+     "en": "Chief of Staff Kazushitaka:<R>The time has come to<W><H>test the might of this<R>modified Ni-Dem Island!<W><H>Launch! Head for Adakuda,<R>where those rebels are!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#105",
@@ -552,7 +552,7 @@
     {
      "id": "2D/HMPS/H01_00@34800#109",
      "jp": "シデル提督：<R>……<F62>か。<W><H>……おまえに<R>聞きたいことがある。<W><H>……おまえはこの星に<R>何をしに来たのだ？<W><E>",
-     "en": "Admiral Sidel:<R>...<F62>, is it.<W><H>...There is something I would ask<R>you.<W><H>...What did you come to this<R>planet to do?<W><E>"
+     "en": "Admiral Sidel:<R>...<F62>, is it.<W><H>...There is something<R>I would ask you.<W><H>...What did you come<R>to this planet to do?<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#110",
@@ -567,22 +567,22 @@
     {
      "id": "2D/HMPS/H01_00@34800#112",
      "jp": "<F62>：<R>俺は、この星に<R>不時着したんだ。<W><H>目的があって来たわけじゃない！<W><E>",
-     "en": "<F62>:<R>I crash-landed on this planet.<W><H>I didn't come here with some goal<R>in mind!<W><E>"
+     "en": "<F62>:<R>I crash-landed on this planet.<W><H>I didn't come here with<R>some goal in mind!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#113",
      "jp": "シデル提督：<R>……この星で何をしようと<R>しているのだ？<W><E>",
-     "en": "Admiral Sidel:<R>...What is it you intend to do on<R>this planet?<W><E>"
+     "en": "Admiral Sidel:<R>...What is it you intend<R>to do on this planet?<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#114",
      "jp": "<F62>：<R>決まってるだろう！<W><H>この星の戦争を<R>終わらせるんだよ！<W><E>",
-     "en": "<F62>:<R>Isn't it obvious!?<W><H>I'm going to end the war on this<R>planet!<W><E>"
+     "en": "<F62>:<R>Isn't it obvious!?<W><H>I'm going to end the<R>war on this planet!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#115",
      "jp": "シデル提督：<R>……戦いに勝つだけでは、<R>戦争自体は終わらない。<W><H>敗者は、再び戦いを<R>挑んでくるだろう。<W><E>",
-     "en": "Admiral Sidel:<R>...Winning battles alone will not<R>end war itself.<W><H>The defeated will only challenge<R>you again.<W><E>"
+     "en": "Admiral Sidel:<R>...Winning battles alone<R>will not end war itself.<W><H>The defeated will only<R>challenge you again.<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#116",
@@ -602,12 +602,12 @@
     {
      "id": "2D/HMPS/H01_00@34800#119",
      "jp": "シデル提督：<R>……人々の争いは、それぞれが<R>属する社会の相違より生じる。<W><H>人種、民族、国家、それら<R>すべてが争いの始まりだ。<W><E>",
-     "en": "Admiral Sidel:<R>...Conflict among people arises<R>from differences between the<R>societies they belong to.<W><H>Race, people, nation: all of them<R>are where conflict begins.<W><E>"
+     "en": "Admiral Sidel:<R>...Conflict among people arises<W><H>from differences between the<R>societies they belong to.<W><H>Race, people, nation: all of<R>them are where conflict begins.<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#120",
      "jp": "シデル提督：<R>……人々の意識を変えなければ<R>ならぬのだ。<W><H>おまえのやり方では<R>人間の意識は変えられない。<W><E>",
-     "en": "Admiral Sidel:<R>...People's minds must be<R>changed.<W><H>Your way cannot change the minds<R>of humankind.<W><E>"
+     "en": "Admiral Sidel:<R>...People's minds<R>must be changed.<W><H>Your way cannot change<R>the minds of humankind.<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#121",
@@ -617,12 +617,12 @@
     {
      "id": "2D/HMPS/H01_00@34800#122",
      "jp": "<F62>：<R>国王！　来たのか！？<W><H>ガシザキノの船も来たんだな？<W><E>",
-     "en": "<F62>:<R>King! You came!?<W><H>Gashizakino's ship is here too,<R>then?<W><E>"
+     "en": "<F62>:<R>King! You came!?<W><H>Gashizakino's ship<R>is here too, then?<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#123",
      "jp": "ギダン国王：<R>息子シデルよ、おまえの言う<R>とおりかもしれん……<W><E>",
-     "en": "King of Gidan:<R>My son Sidel, perhaps it is just<R>as you say...<W><E>"
+     "en": "King of Gidan:<R>My son Sidel, perhaps it<R>is just as you say...<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#124",
@@ -632,7 +632,7 @@
     {
      "id": "2D/HMPS/H01_00@34800#125",
      "jp": "ギダン国王：<R>だがな、シデルよ。<W><H>意識は他人に変えてもらう<R>ものではない。<W><H>争いを繰り返し、反省を<R>繰り返すことによって、<W><H>すべての人間が、自分で<R>自分の意識を変えていく<R>ことが必要なのだ。<W><E>",
-     "en": "King of Gidan:<R>But hear me, Sidel.<W><H>A person's mind is not a thing for<R>others to change.<W><H>By fighting again and again, and<R>repenting again and again,<W><H>each and every person must change<R>their own mind for themselves.<W><E>"
+     "en": "King of Gidan:<R>But hear me, Sidel.<W><H>A person's mind is not a<R>thing for others to change.<W><H>By fighting again and again,<R>and repenting again and again,<W><H>each and every person must change<R>their own mind for themselves.<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#126",
@@ -647,7 +647,7 @@
     {
      "id": "2D/HMPS/H01_00@34800#128",
      "jp": "シデル提督：<R>なぜ繰り返さねばならない<R>のか！？<W><H>同じ過ちをどうして<R>何度も繰り返すのだ！？<W><H>おろかな！<W><H>あなたは人の力を、<R>人の可能性を信じていないのだ！<W><H>人を信じていないし、わたしの<R>ような血をわけた息子でさえ<R>信じていないのだ！<W><E>",
-     "en": "Admiral Sidel:<R>Why must it be repeated!?<W><H>Why make the same mistakes over<R>and over again!?<W><H>How foolish!<W><H>You do not believe in the strength<R>of people, in what people can<R>become!<W><H>You believe in no one... not even<R>in me, a son of your own blood!<W><E>"
+     "en": "Admiral Sidel:<R>Why must it be repeated!?<W><H>Why make the same mistakes<R>over and over again!?<W><H>How foolish!<W><H>You do not believe in the<R>strength of people, in<R>what people can become!<W><H>You believe in no one... not even<R>in me, a son of your own blood!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#129",
@@ -657,17 +657,17 @@
     {
      "id": "2D/HMPS/H01_00@34800#130",
      "jp": "シデル提督：<R>……もうよい！<R>すでに決着はついた！<W><E>",
-     "en": "Admiral Sidel:<R>...Enough! The matter is already<R>settled!<W><E>"
+     "en": "Admiral Sidel:<R>...Enough! The matter<R>is already settled!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#131",
      "jp": "<F62>：<R>シデル！　ここは危険だ！<R>いっしょに来るんだ！<W><H>はやく俺の船に！<W><E>",
-     "en": "<F62>:<R>Sidel! It's dangerous here! Come<R>with us!<W><H>Quick, to my ship!<W><E>"
+     "en": "<F62>:<R>Sidel! It's dangerous<R>here! Come with us!<W><H>Quick, to my ship!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#132",
      "jp": "シデル提督：<R>ミユキ、おまえをまきぞえには<R>できない。<W><H>彼らといっしょに行きなさい。<W><E>",
-     "en": "Admiral Sidel:<R>Miyuki, I cannot drag you into<R>this.<W><H>Go with them.<W><E>"
+     "en": "Admiral Sidel:<R>Miyuki, I cannot<R>drag you into this.<W><H>Go with them.<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#133",
@@ -752,7 +752,7 @@
     {
      "id": "2D/HMPS/H01_00@34800#149",
      "jp": "<F62>：<R>じゃあ、おまえのやり方でなら<R>変えられるというのか？<W><H>人の意識はむりやり変えられる<R>ものではないだろう？<W><E>",
-     "en": "<F62>:<R>So you think your way can change<R>things?<W><H>You can't force people to change<R>their minds, can you?<W><E>"
+     "en": "<F62>:<R>So you think your way<R>can change things?<W><H>You can't force people to<R>change their minds, can you?<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#150",

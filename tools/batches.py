@@ -20,22 +20,48 @@ import lint
 TL = ROOT / "work/tl"
 
 
-def wrap(seg, first_row, three_d=False):
+def greedy(seg, first_row, three_d=False, cap=99):
     """Greedy word wrap of one hard-break segment; first_row = index of its first row in the page."""
     rows, cur = [], ""
     for word in seg.split(" "):
         cand = f"{cur} {word}" if cur else word
         i = first_row + len(rows)
         if three_d:
-            over = lint.width3d(cand) > 15
+            over = lint.width3d(cand) > min(15, cap)
         else:
-            over = lint.width(cand) > (16 if i % 3 == 2 or "<W>" in cand else 17)
+            over = lint.width(cand) > min(16 if i % 3 == 2 or "<W>" in cand else 17, cap)
         if cur and over:
             rows.append(cur)
             cur = word
         else:
             cur = cand
     return rows + [cur]
+
+
+def wrap(seg, first_row, three_d=False):
+    """Balanced wrap: the narrowest rows that keep greedy's row count, so no row is left with one or two words."""
+    best = greedy(seg, first_row, three_d)
+    w = lint.width3d if three_d else lint.width
+    for cap in range(max(map(w, best)) - 1, 0, -1):
+        alt = greedy(seg, first_row, three_d, cap)
+        if len(alt) > len(best):
+            break
+        best = alt
+    return best
+
+
+def boxes(rows):
+    """A page whose last box would hold one row ends a row early (<W><H>), so the last two boxes hold 2 rows each.
+    Words the wait cursor pushes off that row move to the new box; skipped if they don't fit there."""
+    if len(rows) > 3 and len(rows) % 3 == 1:
+        head, tail = rows[:-2], " ".join(rows[-2:])
+        while lint.width(head[-1]) > 16:
+            head[-1], _, word = head[-1].rpartition(" ")
+            tail = f"{word} {tail}"
+        tail = wrap(tail, 0)
+        if head[-1] and len(tail) == 2:
+            return "<R>".join(head) + "<W><H>" + "<R>".join(tail)
+    return "<R>".join(rows)
 
 
 def fit3d(en):
@@ -77,7 +103,7 @@ def fit(en, jp, three_d=False):
         rows = []
         for seg in page.split("<R>"):
             rows += wrap(seg.strip(), len(rows))
-        pages.append("<R>".join(rows))
+        pages.append(boxes(rows))
     return "<H>".join(pages)
 
 

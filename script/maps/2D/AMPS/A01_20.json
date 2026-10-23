@@ -482,7 +482,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#95",
      "jp": "お供：<R>さあ、ミユキさま、そろそろ<R>お部屋にもどりましょう。<W><E>",
-     "en": "Attendant:<R>Now, Miyuki-sama, it's time we<R>went back to your room.<W><E>"
+     "en": "Attendant:<R>Now, Miyuki-sama, it's time<R>we went back to your room.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#96",
@@ -522,17 +522,17 @@
     {
      "id": "2D/AMPS/A01_20@2f800#103",
      "jp": "ガークス：<R>陛下がお待ちです。<R>こちらにおいでください。<W><E>",
-     "en": "Garks:<R>His Majesty is waiting. Please<R>come this way.<W><E>"
+     "en": "Garks:<R>His Majesty is waiting.<R>Please come this way.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#104",
      "jp": "ガークス：<R>陛下、<F62>殿を<R>お連れしました。<W><H><F62>殿、こちらへ。<W><E>",
-     "en": "Garks:<R>Your Majesty, I have brought<R><F62>-dono.<W><H><F62>-dono, this way.<W><E>"
+     "en": "Garks:<R>Your Majesty, I have<R>brought <F62>-dono.<W><H><F62>-dono, this way.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#105",
      "jp": "ギダン国王：<R><F62>、<R>この度のそなたの活躍に感謝し、<R>勲章を授ける。<W><E>",
-     "en": "King of Gidan:<R><F62>, in gratitude for your<R>recent deeds, I bestow upon you<R>this medal.<W><E>"
+     "en": "King of Gidan:<R><F62>, in gratitude for<W><H>your recent deeds, I bestow<R>upon you this medal.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#106",
@@ -542,17 +542,17 @@
     {
      "id": "2D/AMPS/A01_20@2f800#107",
      "jp": "<F62>：<R>何かと思ったら、勲章か？<W><H>そんな役に立たないものを<R>もらってもしょうがないよ。<W><E>",
-     "en": "<F62>:<R>All this fuss, and it's a medal?<W><H>What am I gonna do with something<R>useless like that?<W><E>"
+     "en": "<F62>:<R>All this fuss, and it's a medal?<W><H>What am I gonna do with<R>something useless like that?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#108",
      "jp": "ガークス：<R>せっかくの陛下のお心づかいに<R>対して、何ということを……<W><E>",
-     "en": "Garks:<R>How dare you, after His Majesty's<R>kind gesture...<W><E>"
+     "en": "Garks:<R>How dare you, after His<R>Majesty's kind gesture...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#109",
      "jp": "ギダン国王：<R>よいよい、<R>余からの感謝のしるしじゃ。<W><H>ぜひ受け取ってもらいたい。<W><E>",
-     "en": "King of Gidan:<R>There, there. 'Tis a token of my<R>gratitude.<W><H>I would very much have you accept<R>it.<W><E>"
+     "en": "King of Gidan:<R>There, there. 'Tis a<R>token of my gratitude.<W><H>I would very much<R>have you accept it.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#110",
@@ -577,12 +577,12 @@
     {
      "id": "2D/AMPS/A01_20@2f800#114",
      "jp": "ギダン国王：<R>ところで、<W><H>そなたの仲間のオユ・キクルとか<R>いうノイパスク人だが……<R>よい娘であったのう。<W><H>ノイパスク人もギダン人と<R>何ら変わりがない………<W><E>",
-     "en": "King of Gidan:<R>By the way,<W><H>that Noipask companion of yours,<R>Oyu Kikuru, was it... a fine girl,<R>she was.<W><H>The Noipask are no different from<R>the people of Gidan at all......<W><E>"
+     "en": "King of Gidan:<R>By the way,<W><H>that Noipask companion of<R>yours, Oyu Kikuru, was it...<R>a fine girl, she was.<W><H>The Noipask are no different from<R>the people of Gidan at all......<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#115",
      "jp": "<F62>：<R>当然だろう。<R>ちがうわけないじゃないか。<W><E>",
-     "en": "<F62>:<R>Of course. How could they be any<R>different?<W><E>"
+     "en": "<F62>:<R>Of course. How could<R>they be any different?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#116",
@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#118",
      "jp": "ギダン国王：<R>おお、ミユキに会ったのか。<W><H>あの子は身寄りのない子でな。<W><H>シデルが引き取って<R>育てておるのだ。<W><E>",
-     "en": "King of Gidan:<R>Oh, so you met Miyuki.<W><H>That child has no family.<W><H>Sidel took her in and is raising<R>her.<W><E>"
+     "en": "King of Gidan:<R>Oh, so you met Miyuki.<W><H>That child has no family.<W><H>Sidel took her in<R>and is raising her.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#119",
@@ -607,7 +607,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#120",
      "jp": "ギダン国王：<R>ミユキは不思議な子じゃ。<W><H>いっしょにいるだけで<R>心が安まる。<W><H>一度じっくり話してみるといい。<W><E>",
-     "en": "King of Gidan:<R>Miyuki is a curious child.<W><H>Just being with her puts the heart<R>at ease.<W><H>You should sit down and talk with<R>her sometime.<W><E>"
+     "en": "King of Gidan:<R>Miyuki is a curious child.<W><H>Just being with her puts<R>the heart at ease.<W><H>You should sit down and<R>talk with her sometime.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#121",
@@ -622,22 +622,22 @@
     {
      "id": "2D/AMPS/A01_20@2f800#123",
      "jp": "衛兵：<R>ここよりは立ち入り<R>禁止である。<W><H>許可のなきものを<R>通すわけにはまいらん。<W><E>",
-     "en": "Guard:<R>Entry beyond this point is<R>forbidden.<W><H>I cannot let anyone through<R>without permission.<W><E>"
+     "en": "Guard:<R>Entry beyond this<R>point is forbidden.<W><H>I cannot let anyone through<R>without permission.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#124",
      "jp": "<F62>：<R>ちょっとバムス中佐に<R>会いたいんだ。<W><H>だめ？<W><E>",
-     "en": "<F62>:<R>I just want to see Lieutenant<R>Colonel Bams.<W><H>No good?<W><E>"
+     "en": "<F62>:<R>I just want to see<R>Lieutenant Colonel Bams.<W><H>No good?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#125",
      "jp": "衛兵：<R>バムス中佐……？<W><H>中佐なら、町の東にある大本営に<R>行けばいらっしゃるのでは<R>ないかな。<W><H>大本営の門番にはわたしから<R>連絡をしておこう。<R>行ってみるがいい。<W><E>",
-     "en": "Guard:<R>Lieutenant Colonel Bams...?<W><H>You should find the Lieutenant<R>Colonel at General Headquarters,<R>east of town.<W><H>I'll send word to the General<R>Headquarters gatekeeper. Go and<R>see.<W><E>"
+     "en": "Guard:<R>Lieutenant Colonel Bams...?<W><H>You should find the Lieutenant<R>Colonel at General<R>Headquarters, east of town.<W><H>I'll send word to the<R>General Headquarters<R>gatekeeper. Go and see.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#126",
      "jp": "衛兵：<R>ここよりは立ち入り<R>禁止である。<W><E>",
-     "en": "Guard:<R>Entry beyond this point is<R>forbidden.<W><E>"
+     "en": "Guard:<R>Entry beyond this<R>point is forbidden.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#127",
@@ -647,7 +647,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#128",
      "jp": "衛兵：<R>ご用がおありでない方は<R>お通しできません。<W><E>",
-     "en": "Guard:<R>Those without business here may<R>not pass.<W><E>"
+     "en": "Guard:<R>Those without business<R>here may not pass.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#129",
@@ -657,12 +657,12 @@
     {
      "id": "2D/AMPS/A01_20@2f800#130",
      "jp": "ガークス：<R>その勲章は、すごく位が高いもの<R>なんですよ。<W><E>",
-     "en": "Garks:<R>That medal is one of very high<R>rank, you know.<W><E>"
+     "en": "Garks:<R>That medal is one of very<R>high rank, you know.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#131",
      "jp": "バムス中佐：<R>失礼いたします！<W><H>国王陛下、この者が話をしたいと<R>申しております。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Pardon the intrusion!<W><H>Your Majesty, this person wishes<R>to speak with you.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Pardon the intrusion!<W><H>Your Majesty, this person<R>wishes to speak with you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#132",
@@ -677,7 +677,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#134",
      "jp": "ギダン国王：<R>おお、<R>あのときの生意気な若者か！<W><E>",
-     "en": "King of Gidan:<R>Oho, the cheeky young man from<R>before!<W><E>"
+     "en": "King of Gidan:<R>Oho, the cheeky young<R>man from before!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#135",
@@ -697,12 +697,12 @@
     {
      "id": "2D/AMPS/A01_20@2f800#138",
      "jp": "ギダン国王：<R>ああ、シデルのことか………<R>存じておる。<W><E>",
-     "en": "King of Gidan:<R>Ah, you mean Sidel...... I am<R>aware.<W><E>"
+     "en": "King of Gidan:<R>Ah, you mean Sidel......<R>I am aware.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#139",
      "jp": "<F62>：<R>そう、シデル提督を<R>止めてほしいのさ。<W><H>こんな大規模な戦争をしなくても<R>経済制裁でじゅうぶん……<R>そう思っていたんだろ？<W><H>この戦争を終わらせること。<R>それができるのは<R>あんたしかいないよ。<W><E>",
-     "en": "<F62>:<R>Right. I want you to stop Admiral<R>Sidel.<W><H>You figured economic sanctions<R>would be plenty, no need for a war<R>this big... didn't you?<W><H>Ending this war... You're the only<R>one who can do that.<W><E>"
+     "en": "<F62>:<R>Right. I want you to<R>stop Admiral Sidel.<W><H>You figured economic sanctions<R>would be plenty, no need for a<R>war this big... didn't you?<W><H>Ending this war... You're the<R>only one who can do that.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#140",
@@ -712,42 +712,42 @@
     {
      "id": "2D/AMPS/A01_20@2f800#141",
      "jp": "<F62>：<R>いくらノイパスクが<R>侵略者の子孫だとはいえ、<W><H>今となっては、この星で<R>生活している人間には<R>変わりないだろう？<W><E>",
-     "en": "<F62>:<R>Sure, Noipask may be descended<R>from invaders,<W><H>but by now they're people living<R>on this planet all the same,<R>aren't they?<W><E>"
+     "en": "<F62>:<R>Sure, Noipask may be<R>descended from invaders,<W><H>but by now they're people<R>living on this planet all<R>the same, aren't they?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#142",
      "jp": "ギダン国王：<R>……そうはいってもな、<W><H>彼らをこの星から<R>追い出すことは、<R>シデルにとって……<W><H>いや、わがギダン国民<R>全体にとっての悲願なのだ。<W><H>どうしてそれを止められよう。<W><E>",
-     "en": "King of Gidan:<R>...Even so,<W><H>driving them off this planet is,<R>for Sidel...<W><H>nay, for all the people of Gidan,<R>a long-cherished wish.<W><H>How could I halt such a thing?<W><E>"
+     "en": "King of Gidan:<R>...Even so,<W><H>driving them off this<R>planet is, for Sidel...<W><H>nay, for all the people of<R>Gidan, a long-cherished wish.<W><H>How could I halt such a thing?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#143",
      "jp": "<F62>：<R>追い出す？<R>宇宙へか？<W><H>彼ら全員を乗せられる宇宙船を<R>ギダンが作れるとでも？<W><H>結局は、彼らを占領して<R>弾圧をくりかえすだけだろう？<W><E>",
-     "en": "<F62>:<R>Drive them off? Into space?<W><H>You think Gidan can build a<R>spaceship that can carry every<R>last one of them?<W><H>In the end, you'll just occupy<R>them and keep on crushing them,<R>right?<W><E>"
+     "en": "<F62>:<R>Drive them off? Into space?<W><H>You think Gidan can build<R>a spaceship that can carry<R>every last one of them?<W><H>In the end, you'll just<R>occupy them and keep on<R>crushing them, right?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#144",
      "jp": "ギダン国王：<R>ううむ………<R>しかし、それはだな……<W><E>",
-     "en": "King of Gidan:<R>Hmmm...... But, that is to<R>say...<W><E>"
+     "en": "King of Gidan:<R>Hmmm...... But,<R>that is to say...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#145",
      "jp": "<F62>：<R>とにかくだ、この戦争は<R>終わらせないといけないんだ。<W><H>今、戦争の行方を左右できるのは<R>国王、あんただけだ！<W><E>",
-     "en": "<F62>:<R>Anyway, this war has to end.<W><H>Right now, the only one who can<R>decide how this war goes is you,<R>King!<W><E>"
+     "en": "<F62>:<R>Anyway, this war has to end.<W><H>Right now, the only one<R>who can decide how this<R>war goes is you, King!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#146",
      "jp": "ギダン国王：<R>……大尉、<R>余に少し時間をくれないかね？<W><E>",
-     "en": "King of Gidan:<R>...Captain, would you grant me a<R>little time?<W><E>"
+     "en": "King of Gidan:<R>...Captain, would you<R>grant me a little time?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#147",
      "jp": "ギダン国王：<R>大尉……もう少し、余に考える<R>時間をくれ。<W><E>",
-     "en": "King of Gidan:<R>Captain... give me a little more<R>time to think.<W><E>"
+     "en": "King of Gidan:<R>Captain... give me a<R>little more time to think.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#148",
      "jp": "王の付き人：<R>こ、これ、勝手に入ってきては<R>なりません。<W><E>",
-     "en": "King's Attendant:<R>H-hey, you mustn't come in here<R>unbidden.<W><E>"
+     "en": "King's Attendant:<R>H-hey, you mustn't<R>come in here unbidden.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#149",
@@ -757,12 +757,12 @@
     {
      "id": "2D/AMPS/A01_20@2f800#150",
      "jp": "<F62>：<R>こんなでかいテーブルで食事を<R>してるのか、王様ってやつは……<W><E>",
-     "en": "<F62>:<R>So this is the giant table a king<R>eats at...<W><E>"
+     "en": "<F62>:<R>So this is the giant<R>table a king eats at...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#151",
      "jp": "バムス中佐：<R>こら、そんなところで……<R>何をしておる！！<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>You there, what are you... doing<R>over there!!<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>You there, what are you...<R>doing over there!!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#152",
@@ -772,7 +772,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#153",
      "jp": "バムス中佐：<R>こら、おとなしく待たぬか。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>You there, wait quietly, won't<R>you.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>You there, wait<R>quietly, won't you.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#154",
@@ -782,12 +782,12 @@
     {
      "id": "2D/AMPS/A01_20@2f800#155",
      "jp": "<F62>：<R>やっと決まったかな。<W><E>",
-     "en": "<F62>:<R>Guess he's finally made up his<R>mind.<W><E>"
+     "en": "<F62>:<R>Guess he's finally<R>made up his mind.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#156",
      "jp": "ギダン国王：<R>大尉。<W><H>余は……シデルのいる<R>クナシティに行こうと思う。<W><E>",
-     "en": "King of Gidan:<R>Captain.<W><H>I... intend to go to Kuna City,<R>where Sidel is.<W><E>"
+     "en": "King of Gidan:<R>Captain.<W><H>I... intend to go to Kuna<R>City, where Sidel is.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#157",
@@ -797,27 +797,27 @@
     {
      "id": "2D/AMPS/A01_20@2f800#158",
      "jp": "ギダン国王：<R>うむ。シデルを何としても<R>説き伏せて見せる。<W><H>それから……<R>ノイパスクとの休戦交渉を<R>はじめたいと思う。<W><E>",
-     "en": "King of Gidan:<R>Indeed. I shall talk Sidel round,<R>whatever it takes.<W><H>And then... I wish to begin<R>ceasefire talks with Noipask.<W><E>"
+     "en": "King of Gidan:<R>Indeed. I shall talk Sidel<R>round, whatever it takes.<W><H>And then... I wish to begin<R>ceasefire talks with Noipask.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#159",
      "jp": "<F62>：<R>国王！　あんたはエライぜ！<R>さすがだ！<W><E>",
-     "en": "<F62>:<R>King! You're the best! Knew you<R>had it in you!<W><E>"
+     "en": "<F62>:<R>King! You're the best!<R>Knew you had it in you!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#160",
      "jp": "ギダン国王：<R>ふあっはっはっは！<R>こんな若造にほめられるとはな！<W><E>",
-     "en": "King of Gidan:<R>Fwahahaha! To be praised by such a<R>whippersnapper!<W><E>"
+     "en": "King of Gidan:<R>Fwahahaha! To be praised<R>by such a whippersnapper!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#161",
      "jp": "<F62>：<R>じゃあ、さっそく<R>クナシティに行こうぜ！<W><E>",
-     "en": "<F62>:<R>Then let's head to Kuna City right<R>away!<W><E>"
+     "en": "<F62>:<R>Then let's head to<R>Kuna City right away!<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#162",
      "jp": "ギダン国王：<R>よしよし、だがその前にだ。<W><H>余に助言をしてくれた功績を<R>たたえて、勲章を授けることに<R>するぞ。<W><H>ガークス、これへ……<W><E>",
-     "en": "King of Gidan:<R>Yes, yes, but first things<R>first.<W><H>In honor of your service in<R>advising me, I shall bestow a<R>medal upon you.<W><H>Garks, bring it here...<W><E>"
+     "en": "King of Gidan:<R>Yes, yes, but first<R>things first.<W><H>In honor of your service<R>in advising me, I shall<R>bestow a medal upon you.<W><H>Garks, bring it here...<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#163",
@@ -827,7 +827,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#164",
      "jp": "<F62>：<R>ははっ、あいかわらずだな。<W><H>こんなものもらったって<R>ちっともうれしくないって<R>言ってるじゃないか。<W><E>",
-     "en": "<F62>:<R>\"Right away, sire\"... Same as<R>ever.<W><H>I keep telling you, getting stuff<R>like this doesn't make me happy<R>one bit.<W><E>"
+     "en": "<F62>:<R>\"Right away, sire\"...<R>Same as ever.<W><H>I keep telling you, getting<R>stuff like this doesn't make<R>me happy one bit.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#165",
@@ -842,7 +842,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#167",
      "jp": "ギダン国王：<R>余も準備をするから<R>町で待っていてくれ。<W><E>",
-     "en": "King of Gidan:<R>I too must make ready, so wait for<R>me in town.<W><E>"
+     "en": "King of Gidan:<R>I too must make ready,<R>so wait for me in town.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#168",
@@ -857,7 +857,7 @@
     {
      "id": "2D/AMPS/A01_20@2f800#170",
      "jp": "バムス中佐：<R>ここまで陛下に気に入られるとは<R>運のいいヤツだ。<W><H>出発の準備ができたら、<R>わたしも空港まで<R>見送りに行くからな。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Lucky fellow, to win His Majesty's<R>favor this much.<W><H>When you're ready to depart, I<R>shall come to the airport to see<R>you off as well.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Lucky fellow, to win His<R>Majesty's favor this much.<W><H>When you're ready to depart,<R>I shall come to the airport<R>to see you off as well.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#171",
@@ -867,12 +867,12 @@
     {
      "id": "2D/AMPS/A01_20@2f800#172",
      "jp": "バムス中佐：<R>勝手に出るんじゃないぞ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Don't you go wandering out on your<R>own.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Don't you go wandering<R>out on your own.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#173",
      "jp": "バムス中佐：<R>おい、どこへ行く気かね。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>You there, where do you think<R>you're going?<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>You there, where do you<R>think you're going?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_20@2f800#174",

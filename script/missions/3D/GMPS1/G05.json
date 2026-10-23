@@ -12,7 +12,7 @@
     {
      "id": "3D/GMPS1/G05#1",
      "jp": "バ・マッグ：<R>民間船が船団から<R>離れています。<R><@14>このままでは、彼らは<R>ギダン軍に包囲されて<R>しまいます。<R><@20>敵に追いついかれたら、私達が<R>敵を引き付けましょう。<R><@20>",
-     "en": "Ba Magg:<R>Civilian ships are falling<R>away from the convoy.<R><@14>At this rate, they'll be<R>surrounded by the Gidan army.<R><@20>If the enemy closes in on<R>them, let us draw the enemy to<R>ourselves.<R><@20>"
+     "en": "Ba Magg:<R>Civilian ships are falling<R>away from the convoy.<R><@14>At this rate, they'll be<R>surrounded by the Gidan army.<R><@20>If the enemy closes in<R>on them, let us draw the<R>enemy to ourselves.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G05#2",
@@ -22,7 +22,7 @@
     {
      "id": "3D/GMPS1/G05#3",
      "jp": "民間船をすべて<R>落とされてしまった……<R><@20>",
-     "en": "Every civilian ship was shot<R>down...<R><@20>"
+     "en": "Every civilian ship<R>was shot down...<R><@20>"
     }
    ]
   }
