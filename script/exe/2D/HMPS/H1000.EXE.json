@@ -342,17 +342,17 @@
     {
      "id": "2D/HMPS/H1000.EXE@80021264",
      "jp": "●ペンキ塗り替え３",
-     "en": ""
+     "en": "*Repaint 3"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80021278",
      "jp": "●ペンキ塗り替え２",
-     "en": ""
+     "en": "*Repaint 2"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8002128c",
      "jp": "●ペンキ塗り替え１",
-     "en": ""
+     "en": "*Repaint 1"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800212a0",
@@ -382,7 +382,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@800212e8",
      "jp": "●飛空船交換",
-     "en": ""
+     "en": "*Airships"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80021368",
@@ -902,17 +902,17 @@
     {
      "id": "2D/HMPS/H1000.EXE@80023d50",
      "jp": "<P14>［残弾－－］<P15>",
-     "en": ""
+     "en": "<P14>[Ammo ----]<P15>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80023d64",
      "jp": "［残弾<V0,1,4>］",
-     "en": ""
+     "en": "[Ammo <V0,1,4>]"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80023d74",
      "jp": "<P14><G90>－－<G91>－－<P15>",
-     "en": ""
+     "en": "<P14><G90>----<G91>----<P15>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80023da0",
@@ -922,17 +922,17 @@
     {
      "id": "2D/HMPS/H1000.EXE@80023db4",
      "jp": "弾薬を装備しない",
-     "en": ""
+     "en": "Equip No Ammo"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80023dc8",
      "jp": "<$20><P14>－－－－－－－－",
-     "en": ""
+     "en": "<$20><P14>----------------"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80023de0",
      "jp": "人を配置しない　",
-     "en": ""
+     "en": "Assign No One"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80023eb0",
@@ -1042,152 +1042,152 @@
     {
      "id": "2D/HMPS/H1000.EXE@80024150",
      "jp": "メモリーカードスロットの選択",
-     "en": ""
+     "en": "Select Memory Card Slot"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024170",
      "jp": "スロット１",
-     "en": ""
+     "en": "Slot 1"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8002417c",
      "jp": "スロット２",
-     "en": ""
+     "en": "Slot 2"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024188",
      "jp": "データの確認中",
-     "en": ""
+     "en": "Checking data"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024198",
      "jp": "※メモリーカードの抜き差し禁止",
-     "en": ""
+     "en": "*Do not remove Memory Card"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800241b8",
      "jp": "このデータを読み込みます",
-     "en": ""
+     "en": "Loading this data."
     },
     {
      "id": "2D/HMPS/H1000.EXE@800241d4",
      "jp": "データＬＯＡＤ中",
-     "en": ""
+     "en": "Loading data..."
     },
     {
      "id": "2D/HMPS/H1000.EXE@800241e8",
      "jp": "<R>　　　　　ＬＯＡＤ終了<W><E>",
-     "en": ""
+     "en": "<R>Load complete.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024204",
      "jp": "フォーマットしますか？",
-     "en": ""
+     "en": "Format Memory Card?"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8002421c",
      "jp": "フォーマットする",
-     "en": ""
+     "en": "Format"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024230",
      "jp": "フォーマットしない",
-     "en": ""
+     "en": "Don't format"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024244",
      "jp": "フォーマット中",
-     "en": ""
+     "en": "Formatting..."
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024254",
      "jp": "※抜き差し禁止",
-     "en": ""
+     "en": "*Do not remove"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024264",
      "jp": "<R>　　　　フォーマット終了<W><E>",
-     "en": ""
+     "en": "<R>Format complete.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024280",
      "jp": "<R>セーブデータがありません<W><E>",
-     "en": ""
+     "en": "<R>No save data found.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8002429c",
      "jp": "<R>確認に失敗しました<W><E>",
-     "en": ""
+     "en": "<R>Failed to check the card.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800242b4",
      "jp": "<R>メモリーカードが存在しません<W><E>",
-     "en": ""
+     "en": "<R>No Memory Card inserted.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800242d4",
      "jp": "メモリーカードが<R>フォーマットされていません<W><E>",
-     "en": ""
+     "en": "The Memory Card<R>is not formatted.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024304",
      "jp": "<R>　ファイルデータが壊れています<R><W><E>",
-     "en": ""
+     "en": "<R>The file data is corrupted.<R><W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024328",
      "jp": "　メモリーカードが壊れています<R><R>　交換してください<W><E>",
-     "en": ""
+     "en": "The Memory Card is damaged.<R><R>Please replace it.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024360",
      "jp": "<R>　　　　データがありません<R><W><E>",
-     "en": ""
+     "en": "<R>No data found.<R><W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024380",
      "jp": "<R>　　　読み込みに失敗しました<R><W><E>",
-     "en": ""
+     "en": "<R>Failed to load.<R><W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800243a4",
      "jp": "<R>　メモリーカードが容量不足です<R><W><E>",
-     "en": ""
+     "en": "<R>Not enough Memory Card space.<R><W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800243c8",
      "jp": "<R>　　　書き込みに失敗しました<R><W><E>",
-     "en": ""
+     "en": "<R>Failed to write data.<R><W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024568",
      "jp": "データが破壊されています",
-     "en": ""
+     "en": "The data is corrupted."
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024584",
      "jp": "　ファイルの確認に失敗　",
-     "en": ""
+     "en": "File check failed"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800245a0",
      "jp": "　読込みを失敗しました　",
-     "en": ""
+     "en": "Failed to load."
     },
     {
      "id": "2D/HMPS/H1000.EXE@800245bc",
      "jp": "<V0,1,2>：<V1,1,2>",
-     "en": ""
+     "en": "<V0,1,2>:<V1,1,2>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800245cc",
      "jp": "　　＜空きブロック＞",
-     "en": ""
+     "en": "<Empty Block>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800245e4",
      "jp": "<P14><$20>空きブロックがありません",
-     "en": ""
+     "en": "<P14><$20>No empty blocks"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024604",
@@ -1217,22 +1217,22 @@
     {
      "id": "2D/HMPS/H1000.EXE@8002466c",
      "jp": "ここに書き込むことはできません<R><R>操作をやりなおしてください<W><E>",
-     "en": ""
+     "en": "You cannot save here.<R><R>Please try again.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800246ac",
      "jp": "上書きしますか",
-     "en": ""
+     "en": "Overwrite?"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800246bc",
      "jp": "データＳＡＶＥ中",
-     "en": ""
+     "en": "Saving data..."
     },
     {
      "id": "2D/HMPS/H1000.EXE@800246d0",
      "jp": "<R>　　　　　ＳＡＶＥ終了<W><E>",
-     "en": ""
+     "en": "<R>Save complete.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800246ec",
@@ -1292,27 +1292,27 @@
     {
      "id": "2D/HMPS/H1000.EXE@80024840",
      "jp": "メモリーカードの容量が足りません<R><R>メモリーカードを交換してください<W><E>",
-     "en": ""
+     "en": "Not enough Memory Card space.<R><R>Please replace the Memory Card.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024888",
      "jp": "　メモリーカードが壊れています<R><R>メモリーカードを交換してください<W><E>",
-     "en": ""
+     "en": "The Memory Card is damaged.<R><R>Please replace the Memory Card.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800248cc",
      "jp": "　　　書き込みに失敗しました<R><R>メモリーカードを交換してください<W><E>",
-     "en": ""
+     "en": "Failed to write data.<R><R>Please replace the Memory Card.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024910",
      "jp": "　　　新規作成に失敗しました<R><R>メモリーカードを交換してください<W><E>",
-     "en": ""
+     "en": "Failed to create a new file.<R><R>Please replace the Memory Card.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@80024954",
      "jp": "　　書き込み異常が発生しました<R><R>メモリーカードを交換してください<W><E>",
-     "en": ""
+     "en": "A write error occurred.<R><R>Please replace the Memory Card.<W><E>"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007d4cc",
@@ -1562,17 +1562,17 @@
     {
      "id": "2D/HMPS/H1000.EXE@8007db50",
      "jp": "砲台：",
-     "en": ""
+     "en": "Gun:"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007db58",
      "jp": "弾薬：",
-     "en": ""
+     "en": "Ammo:"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007db60",
      "jp": "砲手：",
-     "en": ""
+     "en": "Crew:"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007db94",
@@ -1597,12 +1597,12 @@
     {
      "id": "2D/HMPS/H1000.EXE@8007dc38",
      "jp": "はい",
-     "en": ""
+     "en": "Yes"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007dc40",
      "jp": "いいえ",
-     "en": ""
+     "en": "No"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007dca0",

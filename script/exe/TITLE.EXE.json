@@ -97,17 +97,17 @@
     {
      "id": "TITLE.EXE@80020504",
      "jp": "アナログ設定",
-     "en": ""
+     "en": "Analog Setup"
     },
     {
      "id": "TITLE.EXE@80020514",
      "jp": "　続きから　",
-     "en": ""
+     "en": "Continue"
     },
     {
      "id": "TITLE.EXE@80020524",
      "jp": "　初めから　",
-     "en": ""
+     "en": "New Game"
     },
     {
      "id": "TITLE.EXE@80020564",
@@ -117,82 +117,82 @@
     {
      "id": "TITLE.EXE@80020590",
      "jp": "アナログジョイスティックの<R>キャリブレーションを行います。<W><E>",
-     "en": ""
+     "en": "This will calibrate the analog<R>joystick.<W><E>"
     },
     {
      "id": "TITLE.EXE@800205cc",
      "jp": "<P13>左右<P15>のスティックを動かさずに",
-     "en": ""
+     "en": "Keep <P13>both<P15> sticks still"
     },
     {
      "id": "TITLE.EXE@800205f0",
      "jp": "<P13>トリガー<P15>を引いてください",
-     "en": ""
+     "en": "and pull the <P13>trigger<P15>."
     },
     {
      "id": "TITLE.EXE@80020610",
      "jp": "<P13>左側<P15>のスティックを<P13>左上<P15>に倒して",
-     "en": ""
+     "en": "Tilt <P13>left<P15> stick <P13>up-left<P15>"
     },
     {
      "id": "TITLE.EXE@8002063c",
      "jp": "<P13>左側<P15>のスティックを<P13>右下<P15>に倒して",
-     "en": ""
+     "en": "Tilt <P13>left<P15> stick <P13>down-right<P15>"
     },
     {
      "id": "TITLE.EXE@80020668",
      "jp": "<P13>右側<P15>のスティックを<P13>左上<P15>に倒して",
-     "en": ""
+     "en": "Tilt <P13>right<P15> stick <P13>up-left<P15>"
     },
     {
      "id": "TITLE.EXE@80020694",
      "jp": "<P13>右側<P15>のスティックを<P13>右下<P15>に倒して",
-     "en": ""
+     "en": "Tilt <P13>right<P15> stick <P13>down-right<P15>"
     },
     {
      "id": "TITLE.EXE@800206c0",
      "jp": "左右のスティックが動いています",
-     "en": ""
+     "en": "The sticks are moving."
     },
     {
      "id": "TITLE.EXE@800206e0",
      "jp": "再入力<P13>×<P15>：強行<P13>○<P15>を押してください",
-     "en": ""
+     "en": "<P13>Cross<P15>: Retry  <P13>Circle<P15>: Abort"
     },
     {
      "id": "TITLE.EXE@80020710",
      "jp": "アナログスティックを本体から<R>抜いてさし直して見てください。<W><E>",
-     "en": ""
+     "en": "Unplug the analog stick from the<R>console and plug it back in.<W><E>"
     },
     {
      "id": "TITLE.EXE@80020750",
      "jp": "スティックを倒してから",
-     "en": ""
+     "en": "Tilt the stick first,"
     },
     {
      "id": "TITLE.EXE@80020768",
      "jp": "トリガーを引いてください",
-     "en": ""
+     "en": "then pull the trigger."
     },
     {
      "id": "TITLE.EXE@80020784",
      "jp": "アナログジョイスティック<R><W><E>",
-     "en": ""
+     "en": "Analog Joystick<R><W><E>"
     },
     {
      "id": "TITLE.EXE@800207a0",
      "jp": "アナログジョイスティックをさして<R>もう一度設定を選んでください<W><E>",
-     "en": ""
+     "en": "Plug in the analog joystick and<R>select the setup again.<W><E>"
     },
     {
      "id": "TITLE.EXE@800207e0",
      "jp": "キャリブレーション情報を<R>設定しました。<W><E>",
-     "en": ""
+     "en": "Calibration data set.<W><E>"
     },
     {
      "id": "TITLE.EXE@8002080c",
      "jp": "キャリブレーション設定を<R>強制終了します。<W><E>",
-     "en": ""
+     "en": "Calibration aborted.<W><E>"
     },
     {
      "id": "TITLE.EXE@80021d24",

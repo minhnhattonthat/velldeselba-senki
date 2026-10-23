@@ -21,10 +21,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `cd69 f361 eb69 c17f`, dialogue shows "Misaki".
   - Graphics survey (`docs/re/graphics.md`): only the title logo is Japanese art.
 - **Next:**
-  1. EXE strings (587 unique: menus, shop, place names, staff roll, TITLE) and DAT names (187): batches.py now
-     gives EXE rows the "menu" form (limit = JP width per row); archive b001-b046, then
-     `split 3500 150 exe,dat`. Menu widths still to be checked in-game per screen.
+  1. EXE/DAT batches (work/tl/b001-b005, 747 strings; dialogue batches archived in work/tl/dialogue/) translated
+     and merged; no Japanese left in script/. Not yet reviewed. Staff roll: full Western-order names, readings
+     unverified (check against a credits source, e.g. MobyGames). Seen in-game: place banner, field menu
+     (A0100), staff roll (test disc booting STAFF.EXE, scratch `bootdisc.py`). Not yet seen: shops, ship parts,
+     options, save screens, DEMO.EXE, HT.EXE 3D menus (option columns kept at the JP cells, unverified).
   2. 3D trims not yet seen in-game (no warp to missions past the G44 tutorial).
+  - Staff roll engine notes: STAFF.EXE sends codes > 0x989E to its own kanji table (patched to 0xFFFF,
+    patch_exe.STAFF_SPLIT); roles are right-aligned by x in a 16-byte entry table (tools/staffroll.py); English
+    only fits when packed (exetext repack mode).
   3. Ship-name entry (map EXEs) stores full-width letters (one per cell): `<F63>` not counted by lint; add a
      converter like name_pack or cap the ship name length.
   4. 3D printf groups in HT.EXE/DEMO.EXE (base+offset pieces).

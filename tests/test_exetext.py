@@ -40,3 +40,15 @@ def test_in_place_and_relocate():
             assert ((hi << 16) + (lo - 0x10000 if lo & 0x8000 and ref[3] != exetext.ORI else lo)) & 0xFFFFFFFF == 0x8001F700
     with pytest.raises(ValueError):
         exetext.apply(exe, {NADES: b"\xc1" * 4000}, 0x8001F700, 0x80020000)
+
+
+@pytest.mark.skipif(not EXE.is_file(), reason="disc not dumped (work/disc)")
+def test_moved_string_reuses_freed_slot():
+    exe = EXE.read_bytes()
+    r = exetext.refs(exe)
+    # a referenced 2-char string (8-byte slot) other than NADES (12-byte slot)
+    small = next(a for a, raw in exetext.strings(exe) if len(raw) == 4 and a in r and a % 4 == 0 and a != NADES)
+    out, blob = exetext.apply(exe, {NADES: b"\xc1" * 40, small: b"\xc2" * 9}, 0x8001F700, 0x80020000)
+    assert blob.startswith(b"\xc1" * 40) and b"\xc2" not in blob
+    o = 0x800 + NADES - 0x80020000
+    assert out[o:o + 12] == b"\xc2" * 9 + b"\0\0\0"  # small moved into NADES's freed slot

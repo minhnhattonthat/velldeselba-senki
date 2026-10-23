@@ -102,12 +102,12 @@
     {
      "id": "2D/HMPS/STAFF2.EXE@80020530",
      "jp": "・",
-     "en": ""
+     "en": "."
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020534",
      "jp": "：",
-     "en": ""
+     "en": ":"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020538",
@@ -117,17 +117,17 @@
     {
      "id": "2D/HMPS/STAFF2.EXE@80020548",
      "jp": "名前：",
-     "en": ""
+     "en": "Name:"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020550",
      "jp": "愛機：",
-     "en": ""
+     "en": "Ship:"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020558",
      "jp": "船種：",
-     "en": ""
+     "en": "Class:"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020560",
@@ -162,47 +162,47 @@
     {
      "id": "2D/HMPS/STAFF2.EXE@800205c4",
      "jp": "敵機撃墜数",
-     "en": ""
+     "en": "Kills"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@800205d0",
      "jp": "味方機墜落数",
-     "en": ""
+     "en": "Allies Lost"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@800205e0",
      "jp": "－",
-     "en": ""
+     "en": "-"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@800205e4",
      "jp": "＋",
-     "en": ""
+     "en": "+"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@800205e8",
      "jp": "総合得点",
-     "en": ""
+     "en": "Score"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@800205f4",
      "jp": "飛行時間　　　時間　　分　　秒",
-     "en": ""
+     "en": "Air Time      h       m     s"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020614",
      "jp": "このデータをセーブすると",
-     "en": ""
+     "en": "Saving this data will"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@80020630",
      "jp": "おまけモードになります。",
-     "en": ""
+     "en": "unlock the bonus mode."
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@8002064c",
      "jp": "終了しますか<$20><E>",
-     "en": ""
+     "en": "Finish?<$20><E>"
     },
     {
      "id": "2D/HMPS/STAFF2.EXE@8002065c",

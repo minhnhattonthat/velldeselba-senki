@@ -24,6 +24,7 @@ import missiontext
 import namegrid
 import patch_exe
 import scan_bpe
+import staffroll
 import textcodec
 
 ROM = ROOT / "rom/Velldeselba Senki - Tsubasa no Kunshou (Japan).cue"
@@ -98,14 +99,20 @@ def patch_exes(hook_bin, mode, tm):
             continue
         rel = p.relative_to(tree).as_posix()
         exe, blob = namegrid.apply(p.read_bytes()), b""
-        edits = {}
+        edits, picked = {}, []
         for st in texts.get(rel, {"streams": []})["streams"]:
             for l in st["lines"]:
                 text = pick(l, mode, tm)
                 if text != l["jp"]:
                     edits[int(l["id"].rsplit("@", 1)[1], 16)] = textcodec.encode(text)
+                    picked.append((int(l["id"].rsplit("@", 1)[1], 16), l["jp"], text))
+        if rel == "STAFF.EXE":
+            exe = staffroll.align(exe, exetext.refs(exe), picked)
         try:
-            exe, blob = exetext.apply(exe, edits, base, limit)
+            try:
+                exe, blob = exetext.apply(exe, edits, base, limit)
+            except ValueError:
+                exe, blob = exetext.apply(exe, edits, base, limit, repack=True)
         except ValueError as e:
             errors.append(f"{rel}: {e}")
         data, n = patch_exe.patch(exe, hook_bin.ljust(base - patch_exe.HOOK_BASE, b"\0") + blob)

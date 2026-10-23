@@ -81,16 +81,21 @@ def fit(en, jp, three_d=False):
     return "<H>".join(pages)
 
 
+def mission(i):
+    """3D mission message block (3D/*/G00#0), not a 3D program string (3D/GMPS1/HT.EXE@...)."""
+    return i.startswith("3D/") and ".EXE@" not in i
+
+
 def problems(i, en, jp):
     out = [] if en.isascii() else ["non-ASCII"]
     if "\t" in en or "\\u" in en:
         out.append("tab or \\u escape")
-    if i.startswith("3D/"):
+    if mission(i):
         return out + lint.problems3d(en, jp)
     if i.startswith("BERU_FL1.DAT"):
         n = len(lint.textcodec.encode(en))
         return out + ([f"{n} bytes > {lint.datnames.FIELD - 1}"] if n > lint.datnames.FIELD - 1 else [])
-    return out + lint.problems(en, jp, ".EXE@" in i or "SCPS" in i)
+    return out + lint.problems(en, jp, *lint.limits(i))
 
 
 SPEAKER = re.compile(r"(?:<P\d+>)?([^<：]*)：")
@@ -98,10 +103,12 @@ SPEAKER = re.compile(r"(?:<P\d+>)?([^<：]*)：")
 
 def form(i, jp):
     """(form, limit) shown to the translator."""
-    if i.startswith("3D/"):
+    if mission(i):
         return "msg3d", "wrapped: 30/row, 3 rows per message"
     if "<W>" in jp:
         return "dlg", "wrapped: 34/row"
+    if i.startswith("STAFF.EXE@"):
+        return "staff", f"max {lint.STAFF_CELLS * 2} letters per row"
     if ".EXE@" in i or "SCPS" in i:
         return "menu", "max letters per row: " + ", ".join(str(lint.width(r) * 2) for r in jp.split("<R>"))
     return "box",f"{jp.count('<R>') + 1} rows x 34, padding auto"
@@ -184,7 +191,7 @@ def check(batch):
     fitted = {}
     for i, en in out.items():
         if i in src:
-            fitted[i] = fit(en, src[i], i.startswith("3D/"))
+            fitted[i] = fit(en, src[i], mission(i))
             bad += [f"{i}: {p}" for p in problems(i, fitted[i], src[i])]
     print("\n".join(bad) if bad else "OK")
     return fitted, not bad

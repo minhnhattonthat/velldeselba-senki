@@ -7,7 +7,7 @@
     {
      "id": "BERU_FL1.DAT@d40",
      "jp": "ノイパスクＰ－２型",
-     "en": ""
+     "en": "Noipask Type P-2"
     },
     {
      "id": "BERU_FL1.DAT@1d40",
@@ -22,22 +22,22 @@
     {
      "id": "BERU_FL1.DAT@2040",
      "jp": "パルポーテ・ナック",
-     "en": ""
+     "en": "Palpote Nack"
     },
     {
      "id": "BERU_FL1.DAT@2080",
      "jp": "ファッフローテ",
-     "en": ""
+     "en": "Faffrote"
     },
     {
      "id": "BERU_FL1.DAT@20c0",
      "jp": "クウェラドーマ",
-     "en": ""
+     "en": "Quelladoma"
     },
     {
      "id": "BERU_FL1.DAT@2100",
      "jp": "ノイパスード・ベクゼス",
-     "en": ""
+     "en": "Noipasud Bekzes"
     },
     {
      "id": "BERU_FL1.DAT@2140",
@@ -52,32 +52,32 @@
     {
      "id": "BERU_FL1.DAT@21c0",
      "jp": "双胴カタナ",
-     "en": ""
+     "en": "Twin-Hull Katana"
     },
     {
      "id": "BERU_FL1.DAT@2200",
      "jp": "皇太子親衛艦",
-     "en": ""
+     "en": "Crown Prince's Guard Ship"
     },
     {
      "id": "BERU_FL1.DAT@2240",
      "jp": "エルド・ギダン・ガルゴス",
-     "en": ""
+     "en": "Eld Gidan Gargos"
     },
     {
      "id": "BERU_FL1.DAT@2280",
      "jp": "バムス専用艦",
-     "en": ""
+     "en": "Bams's Own Ship"
     },
     {
      "id": "BERU_FL1.DAT@22c0",
      "jp": "ガシザキノ専用艦",
-     "en": ""
+     "en": "Gashizakino's Own Ship"
     },
     {
      "id": "BERU_FL1.DAT@2300",
      "jp": "ドリュガント",
-     "en": ""
+     "en": "Drugant"
     },
     {
      "id": "BERU_FL1.DAT@2340",
@@ -87,12 +87,12 @@
     {
      "id": "BERU_FL1.DAT@2380",
      "jp": "トーテムポール型要塞",
-     "en": ""
+     "en": "Totem Pole-Type Fortress"
     },
     {
      "id": "BERU_FL1.DAT@23c0",
      "jp": "カーロカーム",
-     "en": ""
+     "en": "Karokahm"
     },
     {
      "id": "BERU_FL1.DAT@2400",
@@ -102,17 +102,17 @@
     {
      "id": "BERU_FL1.DAT@2440",
      "jp": "サグリットカーム",
-     "en": ""
+     "en": "Sagritkahm"
     },
     {
      "id": "BERU_FL1.DAT@2480",
      "jp": "ボムゾナッカーム",
-     "en": ""
+     "en": "Bomzonakkahm"
     },
     {
      "id": "BERU_FL1.DAT@24c0",
      "jp": "ゴーレトリーム",
-     "en": ""
+     "en": "Goletream"
     },
     {
      "id": "BERU_FL1.DAT@2500",
@@ -147,17 +147,17 @@
     {
      "id": "BERU_FL1.DAT@2680",
      "jp": "演習用ブイ",
-     "en": ""
+     "en": "Training Buoy"
     },
     {
      "id": "BERU_FL1.DAT@26c0",
      "jp": "空中砲台",
-     "en": ""
+     "en": "Aerial Turret"
     },
     {
      "id": "BERU_FL1.DAT@2740",
      "jp": "ホウノム島",
-     "en": ""
+     "en": "Hounom Island"
     },
     {
      "id": "BERU_FL1.DAT@2780",
@@ -192,162 +192,162 @@
     {
      "id": "BERU_FL1.DAT@2900",
      "jp": "機械化浮遊島砲台",
-     "en": ""
+     "en": "Mechanized Island Turret"
     },
     {
      "id": "BERU_FL1.DAT@2940",
      "jp": "機械化浮遊島外島",
-     "en": ""
+     "en": "Mechanized Outer Island"
     },
     {
      "id": "BERU_FL1.DAT@2980",
      "jp": "浮遊島搭載砲台",
-     "en": ""
+     "en": "Floating Island Turret"
     },
     {
      "id": "BERU_FL1.DAT@29c0",
      "jp": "プロペラ駆動部",
-     "en": ""
+     "en": "Propeller Drive"
     },
     {
      "id": "BERU_FL1.DAT@2a00",
      "jp": "Ｈ０５タイル",
-     "en": ""
+     "en": "H05 Tile"
     },
     {
      "id": "BERU_FL1.DAT@2a24",
      "jp": "Ｈ０８タイル",
-     "en": ""
+     "en": "H08 Tile"
     },
     {
      "id": "BERU_FL1.DAT@2a48",
      "jp": "Ｈ１０タイル",
-     "en": ""
+     "en": "H10 Tile"
     },
     {
      "id": "BERU_FL1.DAT@2a6c",
      "jp": "Ｈ１４タイル",
-     "en": ""
+     "en": "H14 Tile"
     },
     {
      "id": "BERU_FL1.DAT@2a90",
      "jp": "Ｈ２０タイル",
-     "en": ""
+     "en": "H20 Tile"
     },
     {
      "id": "BERU_FL1.DAT@2ab4",
      "jp": "Ｈ３０タイル",
-     "en": ""
+     "en": "H30 Tile"
     },
     {
      "id": "BERU_FL1.DAT@2ad8",
      "jp": "Ｓ１９",
-     "en": ""
+     "en": "S19"
     },
     {
      "id": "BERU_FL1.DAT@2b00",
      "jp": "Ｓ２４",
-     "en": ""
+     "en": "S24"
     },
     {
      "id": "BERU_FL1.DAT@2b28",
      "jp": "ＳＲ２８",
-     "en": ""
+     "en": "SR28"
     },
     {
      "id": "BERU_FL1.DAT@2b50",
      "jp": "Ｓ３２－Ｔ２",
-     "en": ""
+     "en": "S32-T2"
     },
     {
      "id": "BERU_FL1.DAT@2b78",
      "jp": "ＳＲ３８",
-     "en": ""
+     "en": "SR38"
     },
     {
      "id": "BERU_FL1.DAT@2ba0",
      "jp": "ＳＶ４２",
-     "en": ""
+     "en": "SV42"
     },
     {
      "id": "BERU_FL1.DAT@2bc8",
      "jp": "ＳＲ５００",
-     "en": ""
+     "en": "SR500"
     },
     {
      "id": "BERU_FL1.DAT@2bf0",
      "jp": "空破",
-     "en": ""
+     "en": "Skybreaker"
     },
     {
      "id": "BERU_FL1.DAT@2c18",
      "jp": "神風",
-     "en": ""
+     "en": "Kamikaze"
     },
     {
      "id": "BERU_FL1.DAT@2c40",
      "jp": "Ｓ－ＺＥＲＯ",
-     "en": ""
+     "en": "S-ZERO"
     },
     {
      "id": "BERU_FL1.DAT@2c68",
      "jp": "ＭＫ５０",
-     "en": ""
+     "en": "MK50"
     },
     {
      "id": "BERU_FL1.DAT@2c90",
      "jp": "Ｍ５８",
-     "en": ""
+     "en": "M58"
     },
     {
      "id": "BERU_FL1.DAT@2cb8",
      "jp": "Ｍ６２",
-     "en": ""
+     "en": "M62"
     },
     {
      "id": "BERU_FL1.DAT@2ce0",
      "jp": "ＭＣ６６",
-     "en": ""
+     "en": "MC66"
     },
     {
      "id": "BERU_FL1.DAT@2d08",
      "jp": "Ｍ７０",
-     "en": ""
+     "en": "M70"
     },
     {
      "id": "BERU_FL1.DAT@2d30",
      "jp": "ＭＶＸ７５",
-     "en": ""
+     "en": "MVX75"
     },
     {
      "id": "BERU_FL1.DAT@2d58",
      "jp": "ＭＶ８０",
-     "en": ""
+     "en": "MV80"
     },
     {
      "id": "BERU_FL1.DAT@2d80",
      "jp": "ＭＥ９００",
-     "en": ""
+     "en": "ME900"
     },
     {
      "id": "BERU_FL1.DAT@2da8",
      "jp": "ＭＶ９６０",
-     "en": ""
+     "en": "MV960"
     },
     {
      "id": "BERU_FL1.DAT@2dd0",
      "jp": "ＭＸ９００",
-     "en": ""
+     "en": "MX900"
     },
     {
      "id": "BERU_FL1.DAT@2df8",
      "jp": "ＭＣ１１００",
-     "en": ""
+     "en": "MC1100"
     },
     {
      "id": "BERU_FL1.DAT@2e20",
      "jp": "欠番",
-     "en": ""
+     "en": "Unused"
     },
     {
      "id": "BERU_FL1.DAT@2e48",
@@ -367,27 +367,27 @@
     {
      "id": "BERU_FL1.DAT@2ec0",
      "jp": "ＬＶ１０００",
-     "en": ""
+     "en": "LV1000"
     },
     {
      "id": "BERU_FL1.DAT@2ee8",
      "jp": "ＬＶ１７００",
-     "en": ""
+     "en": "LV1700"
     },
     {
      "id": "BERU_FL1.DAT@2f10",
      "jp": "ＬＳ１８００",
-     "en": ""
+     "en": "LS1800"
     },
     {
      "id": "BERU_FL1.DAT@2f38",
      "jp": "ＬＸ２０００",
-     "en": ""
+     "en": "LX2000"
     },
     {
      "id": "BERU_FL1.DAT@2f60",
      "jp": "ＬＸＲ２６００",
-     "en": ""
+     "en": "LXR2600"
     },
     {
      "id": "BERU_FL1.DAT@2f88",
@@ -397,22 +397,22 @@
     {
      "id": "BERU_FL1.DAT@2fd8",
      "jp": "木製プロペラ",
-     "en": ""
+     "en": "Wooden Propeller"
     },
     {
      "id": "BERU_FL1.DAT@2ffc",
      "jp": "アレイ製プロペラ",
-     "en": ""
+     "en": "Arei Propeller"
     },
     {
      "id": "BERU_FL1.DAT@3020",
      "jp": "鉄のプロペラ",
-     "en": ""
+     "en": "Iron Propeller"
     },
     {
      "id": "BERU_FL1.DAT@3044",
      "jp": "アルミのプロペラ",
-     "en": ""
+     "en": "Aluminum Propeller"
     },
     {
      "id": "BERU_FL1.DAT@3068",
@@ -517,62 +517,62 @@
     {
      "id": "BERU_FL1.DAT@33a4",
      "jp": "Ａ型軽砲台",
-     "en": ""
+     "en": "Type A Light Turret"
     },
     {
      "id": "BERU_FL1.DAT@33cc",
      "jp": "Ａ型２連軽砲台",
-     "en": ""
+     "en": "Type A Twin Light Turret"
     },
     {
      "id": "BERU_FL1.DAT@33f4",
      "jp": "Ａ型４連軽砲台",
-     "en": ""
+     "en": "Type A Quad Light Turret"
     },
     {
      "id": "BERU_FL1.DAT@341c",
      "jp": "Ａ型砲台",
-     "en": ""
+     "en": "Type A Turret"
     },
     {
      "id": "BERU_FL1.DAT@3444",
      "jp": "Ａ型２連砲台",
-     "en": ""
+     "en": "Type A Twin Turret"
     },
     {
      "id": "BERU_FL1.DAT@346c",
      "jp": "Ａ型４連砲台",
-     "en": ""
+     "en": "Type A Quad Turret"
     },
     {
      "id": "BERU_FL1.DAT@3494",
      "jp": "Ａ型強砲台",
-     "en": ""
+     "en": "Type A Heavy Turret"
     },
     {
      "id": "BERU_FL1.DAT@34bc",
      "jp": "Ａ型強２連砲台",
-     "en": ""
+     "en": "Type A Heavy Twin Turret"
     },
     {
      "id": "BERU_FL1.DAT@34e4",
      "jp": "Ａ型強４連砲台",
-     "en": ""
+     "en": "Type A Heavy Quad Turret"
     },
     {
      "id": "BERU_FL1.DAT@350c",
      "jp": "Ａ型自動砲台",
-     "en": ""
+     "en": "Type A Auto Turret"
     },
     {
      "id": "BERU_FL1.DAT@3534",
      "jp": "Ａ型２連自動砲台",
-     "en": ""
+     "en": "Type A Twin Auto Turret"
     },
     {
      "id": "BERU_FL1.DAT@355c",
      "jp": "Ａ型４連自動砲台",
-     "en": ""
+     "en": "Type A Quad Auto Turret"
     },
     {
      "id": "BERU_FL1.DAT@3584",
@@ -592,37 +592,37 @@
     {
      "id": "BERU_FL1.DAT@35fc",
      "jp": "Ｂ型砲台",
-     "en": ""
+     "en": "Type B Turret"
     },
     {
      "id": "BERU_FL1.DAT@3624",
      "jp": "Ｂ型２連砲台",
-     "en": ""
+     "en": "Type B Twin Turret"
     },
     {
      "id": "BERU_FL1.DAT@364c",
      "jp": "Ｂ型速射砲台",
-     "en": ""
+     "en": "Type B Rapid-Fire Turret"
     },
     {
      "id": "BERU_FL1.DAT@3674",
      "jp": "Ｂ型高速砲台",
-     "en": ""
+     "en": "Type B Fast Turret"
     },
     {
      "id": "BERU_FL1.DAT@369c",
      "jp": "Ｂ型２連高速砲台",
-     "en": ""
+     "en": "Type B Twin Fast Turret"
     },
     {
      "id": "BERU_FL1.DAT@36c4",
      "jp": "Ｂ型自動砲台",
-     "en": ""
+     "en": "Type B Auto Turret"
     },
     {
      "id": "BERU_FL1.DAT@36ec",
      "jp": "Ｂ型２連自動砲台",
-     "en": ""
+     "en": "Type B Twin Auto Turret"
     },
     {
      "id": "BERU_FL1.DAT@3714",
@@ -642,22 +642,22 @@
     {
      "id": "BERU_FL1.DAT@378c",
      "jp": "Ｃ型軽砲台",
-     "en": ""
+     "en": "Type C Light Turret"
     },
     {
      "id": "BERU_FL1.DAT@37b4",
      "jp": "Ｃ型２連軽砲台",
-     "en": ""
+     "en": "Type C Twin Light Turret"
     },
     {
      "id": "BERU_FL1.DAT@37dc",
      "jp": "Ｃ型砲台",
-     "en": ""
+     "en": "Type C Turret"
     },
     {
      "id": "BERU_FL1.DAT@3804",
      "jp": "Ｃ型２連砲台",
-     "en": ""
+     "en": "Type C Twin Turret"
     },
     {
      "id": "BERU_FL1.DAT@382c",
@@ -677,247 +677,247 @@
     {
      "id": "BERU_FL1.DAT@38a4",
      "jp": "裂弾",
-     "en": ""
+     "en": "Burst Shell"
     },
     {
      "id": "BERU_FL1.DAT@38cc",
      "jp": "散弾",
-     "en": ""
+     "en": "Scatter Shell"
     },
     {
      "id": "BERU_FL1.DAT@38f4",
      "jp": "徹甲弾",
-     "en": ""
+     "en": "Armor Piercer"
     },
     {
      "id": "BERU_FL1.DAT@391c",
      "jp": "焼夷弾",
-     "en": ""
+     "en": "Incendiary Shell"
     },
     {
      "id": "BERU_FL1.DAT@3944",
      "jp": "ぶどう弾",
-     "en": ""
+     "en": "Grapeshot"
     },
     {
      "id": "BERU_FL1.DAT@396c",
      "jp": "ねじり徹甲弾",
-     "en": ""
+     "en": "Spiral Piercer"
     },
     {
      "id": "BERU_FL1.DAT@3994",
      "jp": "ロケット弾",
-     "en": ""
+     "en": "Rocket"
     },
     {
      "id": "BERU_FL1.DAT@39bc",
      "jp": "プロペラ魚雷",
-     "en": ""
+     "en": "Propeller Torpedo"
     },
     {
      "id": "BERU_FL1.DAT@39e4",
      "jp": "強化裂弾",
-     "en": ""
+     "en": "Heavy Burst Shell"
     },
     {
      "id": "BERU_FL1.DAT@3a0c",
      "jp": "三式弾",
-     "en": ""
+     "en": "Type 3 Shell"
     },
     {
      "id": "BERU_FL1.DAT@3a34",
      "jp": "メタル徹甲弾",
-     "en": ""
+     "en": "Metal Piercer"
     },
     {
      "id": "BERU_FL1.DAT@3a5c",
      "jp": "風船爆弾",
-     "en": ""
+     "en": "Balloon Bomb"
     },
     {
      "id": "BERU_FL1.DAT@3a84",
      "jp": "浮遊機雷",
-     "en": ""
+     "en": "Floating Mine"
     },
     {
      "id": "BERU_FL1.DAT@3aac",
      "jp": "誘導ロケット弾",
-     "en": ""
+     "en": "Guided Rocket"
     },
     {
      "id": "BERU_FL1.DAT@3ad4",
      "jp": "ホーミング魚雷",
-     "en": ""
+     "en": "Homing Torpedo"
     },
     {
      "id": "BERU_FL1.DAT@3afc",
      "jp": "パスク弾",
-     "en": ""
+     "en": "Pask Rounds"
     },
     {
      "id": "BERU_FL1.DAT@3b24",
      "jp": "ガード",
-     "en": ""
+     "en": "Guard"
     },
     {
      "id": "BERU_FL1.DAT@3b4c",
      "jp": "笑い胞子弾",
-     "en": ""
+     "en": "Laugh Spore Shell"
     },
     {
      "id": "BERU_FL1.DAT@3b74",
      "jp": "催涙花粉弾",
-     "en": ""
+     "en": "Tear Pollen Shell"
     },
     {
      "id": "BERU_FL1.DAT@3b9c",
      "jp": "ショック音弾",
-     "en": ""
+     "en": "Shock Sound Shell"
     },
     {
      "id": "BERU_FL1.DAT@3bc4",
      "jp": "絶命弾",
-     "en": ""
+     "en": "Deathblow Shell"
     },
     {
      "id": "BERU_FL1.DAT@3e1c",
      "jp": "修理キット",
-     "en": ""
+     "en": "Repair Kit"
     },
     {
      "id": "BERU_FL1.DAT@3e44",
      "jp": "紅蓮の勲章",
-     "en": ""
+     "en": "Crimson Medal"
     },
     {
      "id": "BERU_FL1.DAT@3e68",
      "jp": "紅の勲章",
-     "en": ""
+     "en": "Scarlet Medal"
     },
     {
      "id": "BERU_FL1.DAT@3e8c",
      "jp": "天狼星の勲章",
-     "en": ""
+     "en": "Sirius Medal"
     },
     {
      "id": "BERU_FL1.DAT@3eb0",
      "jp": "紺碧の勲章",
-     "en": ""
+     "en": "Azure Medal"
     },
     {
      "id": "BERU_FL1.DAT@3ed4",
      "jp": "変なもの",
-     "en": ""
+     "en": "Strange Object"
     },
     {
      "id": "BERU_FL1.DAT@3ef8",
      "jp": "カギ束",
-     "en": ""
+     "en": "Bunch of Keys"
     },
     {
      "id": "BERU_FL1.DAT@3f1c",
      "jp": "紫のバラの花束",
-     "en": ""
+     "en": "Purple Rose Bouquet"
     },
     {
      "id": "BERU_FL1.DAT@3f40",
      "jp": "ファンレター",
-     "en": ""
+     "en": "Fan Letter"
     },
     {
      "id": "BERU_FL1.DAT@3f64",
      "jp": "チェリーの砂糖漬",
-     "en": ""
+     "en": "Candied Cherries"
     },
     {
      "id": "BERU_FL1.DAT@3f88",
      "jp": "ヘビ酒",
-     "en": ""
+     "en": "Snake Wine"
     },
     {
      "id": "BERU_FL1.DAT@3fac",
      "jp": "木箱",
-     "en": ""
+     "en": "Wooden Crate"
     },
     {
      "id": "BERU_FL1.DAT@3fd0",
      "jp": "密書",
-     "en": ""
+     "en": "Secret Letter"
     },
     {
      "id": "BERU_FL1.DAT@3ff4",
      "jp": "ＳＨＧオイル",
-     "en": ""
+     "en": "SHG Oil"
     },
     {
      "id": "BERU_FL1.DAT@4018",
      "jp": "空賊のしるし",
-     "en": ""
+     "en": "Sky Pirate Mark"
     },
     {
      "id": "BERU_FL1.DAT@403c",
      "jp": "ダ・クダの手紙",
-     "en": ""
+     "en": "Da Kuda's Letter"
     },
     {
      "id": "BERU_FL1.DAT@4060",
      "jp": "装甲板の材料",
-     "en": ""
+     "en": "Armor Plate Materials"
     },
     {
      "id": "BERU_FL1.DAT@4084",
      "jp": "医療品セット",
-     "en": ""
+     "en": "Medical Kit"
     },
     {
      "id": "BERU_FL1.DAT@40a8",
      "jp": "記念写真",
-     "en": ""
+     "en": "Souvenir Photo"
     },
     {
      "id": "BERU_FL1.DAT@42c4",
      "jp": "鉄鉱石",
-     "en": ""
+     "en": "Iron Ore"
     },
     {
      "id": "BERU_FL1.DAT@430c",
      "jp": "ミスリル",
-     "en": ""
+     "en": "Mithril"
     },
     {
      "id": "BERU_FL1.DAT@4330",
      "jp": "黄ターメリック",
-     "en": ""
+     "en": "Yellow Turmeric"
     },
     {
      "id": "BERU_FL1.DAT@4354",
      "jp": "サメハダワサビ",
-     "en": ""
+     "en": "Sharkskin Wasabi"
     },
     {
      "id": "BERU_FL1.DAT@4378",
      "jp": "昇天フカヒレ",
-     "en": ""
+     "en": "Heavenly Shark Fin"
     },
     {
      "id": "BERU_FL1.DAT@439c",
      "jp": "ワシツバメの巣",
-     "en": ""
+     "en": "Eagle-Swallow Nest"
     },
     {
      "id": "BERU_FL1.DAT@43c0",
      "jp": "ダナまんじゅう",
-     "en": ""
+     "en": "Dana Buns"
     },
     {
      "id": "BERU_FL1.DAT@43e4",
      "jp": "ドラゴンの薫製",
-     "en": ""
+     "en": "Smoked Dragon"
     },
     {
      "id": "BERU_FL1.DAT@4408",
      "jp": "大ラッコの毛皮",
-     "en": ""
+     "en": "Giant Sea Otter Pelt"
     },
     {
      "id": "BERU_FL1.DAT@59ec",
@@ -927,137 +927,137 @@
     {
      "id": "BERU_FL1.DAT@5a0c",
      "jp": "アハデ・カフィ",
-     "en": ""
+     "en": "Ahade Kafi"
     },
     {
      "id": "BERU_FL1.DAT@5a2c",
      "jp": "ハウエズナ",
-     "en": ""
+     "en": "Hauezna"
     },
     {
      "id": "BERU_FL1.DAT@5a4c",
      "jp": "オユ・キクル",
-     "en": ""
+     "en": "Oyu Kikuru"
     },
     {
      "id": "BERU_FL1.DAT@5a6c",
      "jp": "バ・マッグ",
-     "en": ""
+     "en": "Ba Magg"
     },
     {
      "id": "BERU_FL1.DAT@5a8c",
      "jp": "カ・ジャルコ",
-     "en": ""
+     "en": "Ka Jarko"
     },
     {
      "id": "BERU_FL1.DAT@5aac",
      "jp": "フラグナム",
-     "en": ""
+     "en": "Fragnum"
     },
     {
      "id": "BERU_FL1.DAT@5acc",
      "jp": "イッヒ",
-     "en": ""
+     "en": "Ich"
     },
     {
      "id": "BERU_FL1.DAT@5aec",
      "jp": "ニッヒ",
-     "en": ""
+     "en": "Nich"
     },
     {
      "id": "BERU_FL1.DAT@5b0c",
      "jp": "カレツ",
-     "en": ""
+     "en": "Karetz"
     },
     {
      "id": "BERU_FL1.DAT@5b2c",
      "jp": "ボイ",
-     "en": ""
+     "en": "Boi"
     },
     {
      "id": "BERU_FL1.DAT@5b4c",
      "jp": "アグ",
-     "en": ""
+     "en": "Ag"
     },
     {
      "id": "BERU_FL1.DAT@5b6c",
      "jp": "パック",
-     "en": ""
+     "en": "Pack"
     },
     {
      "id": "BERU_FL1.DAT@5b8c",
      "jp": "グールド",
-     "en": ""
+     "en": "Gould"
     },
     {
      "id": "BERU_FL1.DAT@5bac",
      "jp": "マルダマン",
-     "en": ""
+     "en": "Mardaman"
     },
     {
      "id": "BERU_FL1.DAT@5bcc",
      "jp": "マキロフ",
-     "en": ""
+     "en": "Makirov"
     },
     {
      "id": "BERU_FL1.DAT@5bec",
      "jp": "アハデ・カルフ",
-     "en": ""
+     "en": "Ahade Karf"
     },
     {
      "id": "BERU_FL1.DAT@5c0c",
      "jp": "カムチョム",
-     "en": ""
+     "en": "Kamchom"
     },
     {
      "id": "BERU_FL1.DAT@5c2c",
      "jp": "ケンリ",
-     "en": ""
+     "en": "Kenri"
     },
     {
      "id": "BERU_FL1.DAT@5c4c",
      "jp": "イルミナ",
-     "en": ""
+     "en": "Illumina"
     },
     {
      "id": "BERU_FL1.DAT@5c6c",
      "jp": "デファイナ",
-     "en": ""
+     "en": "Defaina"
     },
     {
      "id": "BERU_FL1.DAT@5c8c",
      "jp": "シルカ",
-     "en": ""
+     "en": "Silka"
     },
     {
      "id": "BERU_FL1.DAT@5cac",
      "jp": "メーア",
-     "en": ""
+     "en": "Meer"
     },
     {
      "id": "BERU_FL1.DAT@5ccc",
      "jp": "チバラガ",
-     "en": ""
+     "en": "Chibaraga"
     },
     {
      "id": "BERU_FL1.DAT@5cec",
      "jp": "無名の傭兵",
-     "en": ""
+     "en": "Nameless Mercenary"
     },
     {
      "id": "BERU_FL1.DAT@5d0c",
      "jp": "名砲手",
-     "en": ""
+     "en": "Crack Gunner"
     },
     {
      "id": "BERU_FL1.DAT@5d2c",
      "jp": "砲撃の達人",
-     "en": ""
+     "en": "Master Gunner"
     },
     {
      "id": "BERU_FL1.DAT@5d4c",
      "jp": "砲撃の神様",
-     "en": ""
+     "en": "God of Gunnery"
     }
    ]
   }

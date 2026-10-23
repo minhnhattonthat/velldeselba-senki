@@ -17,7 +17,7 @@
     {
      "id": "3D/GMPS1/HT.EXE@80021030",
      "jp": "ｒｅｖｅｒｂ　<$25><$75>　",
-     "en": ""
+     "en": "Reverb        <$25><$75>"
     },
     {
      "id": "3D/GMPS1/HT.EXE@80021044",
@@ -117,22 +117,22 @@
     {
      "id": "3D/GMPS1/HT.EXE@80021278",
      "jp": "左スティック上下：平　急　緩　",
-     "en": ""
+     "en": "Left Stick Y:     Mid Hi  Lo"
     },
     {
      "id": "3D/GMPS1/HT.EXE@80021298",
      "jp": "左スティック左右：平　急　緩　",
-     "en": ""
+     "en": "Left Stick X:     Mid Hi  Lo"
     },
     {
      "id": "3D/GMPS1/HT.EXE@800212b8",
      "jp": "右スティック上下：平　急　緩　",
-     "en": ""
+     "en": "Right Stick Y:    Mid Hi  Lo"
     },
     {
      "id": "3D/GMPS1/HT.EXE@800212d8",
      "jp": "右スティック左右：平　急　緩　",
-     "en": ""
+     "en": "Right Stick X:    Mid Hi  Lo"
     },
     {
      "id": "3D/GMPS1/HT.EXE@800212f8",
@@ -177,12 +177,12 @@
     {
      "id": "3D/GMPS1/HT.EXE@800218d0",
      "jp": "発砲数／命中数　または、修理",
-     "en": ""
+     "en": "Shots/Hits, or Repairs"
     },
     {
      "id": "3D/GMPS1/HT.EXE@800218f0",
      "jp": "砲撃技能／修理技能　能力値　",
-     "en": ""
+     "en": "Gunnery/Repair      Rating"
     },
     {
      "id": "3D/GMPS1/HT.EXE@80021910",
@@ -212,7 +212,7 @@
     {
      "id": "3D/GMPS1/HT.EXE@80079d80",
      "jp": "<$25><$73>は、<$40>",
-     "en": ""
+     "en": "<$25><$73>: <$40>"
     },
     {
      "id": "3D/GMPS1/HT.EXE@80079da8",

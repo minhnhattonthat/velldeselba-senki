@@ -63,28 +63,55 @@ def _is_text(raw):
     return sjis > 0
 
 
-def apply(exe, edits, base, limit):
+def apply(exe, edits, base, limit, repack=False):
     """Write new string bytes into exe (original layout). edits = {addr: bytes without NUL}.
-    In place when the text plus NUL fits the old string's 4-aligned slot; otherwise appended to a blob that
-    loads at `base` (must stay below `limit`) and every reference is repointed. Returns (exe, blob)."""
+    In place when the text plus NUL fits the old string's 4-aligned slot; otherwise moved, and every reference
+    repointed: into the smallest hole left in the EXE (slots of moved strings, tails of shortened ones; never one
+    holding another reference target), else appended to a blob that loads at `base` (must stay below `limit`).
+    repack: move every referenced edited string, so a run of adjacent slots becomes one hole (for EXEs whose
+    English only fits when packed, like the staff roll). Returns (exe, blob)."""
     pc0, t_addr, t_size = header(exe)
     out = bytearray(exe)
     r = refs(exe)
-    blob = bytearray()
+    targets = sorted(r)
+    unreferenced = lambda a, n: not any(a <= t < a + n for t in targets)
+    blob, moved, holes = bytearray(), [], []
     for addr, new in sorted(edits.items()):
         o = 0x800 + addr - t_addr
         old_end = exe.index(b"\0", o) + 1
         slot = (old_end - 0x800 + 3) // 4 * 4 + 0x800 - o
         data = new + b"\0"
-        if len(data) <= slot:
+        if len(data) <= slot and not (repack and addr in r):
             out[o:o + slot] = data.ljust(slot, b"\0")
+            used = (len(data) + 3) // 4 * 4
+            if slot - used >= 4 and unreferenced(addr + used, slot - used):
+                holes.append([addr + used, slot - used])
             continue
         if addr not in r:
             raise ValueError(f"{addr:#x}: {len(data)} bytes > slot {slot} and no reference to relocate")
-        dest = base + len(blob)
-        blob += data.ljust((len(data) + 3) // 4 * 4, b"\0")
-        if base + len(blob) > limit:
-            raise ValueError(f"relocation space full at {addr:#x} ({len(blob)} bytes)")
+        moved.append((addr, data))
+        if unreferenced(addr + 1, slot - 1):
+            holes.append([addr, slot])
+    merged = []
+    for h in sorted(holes):
+        if merged and merged[-1][0] + merged[-1][1] == h[0]:
+            merged[-1][1] += h[1]
+        else:
+            merged.append(h)
+    holes = merged
+    for addr, data in sorted(moved, key=lambda m: -len(m[1])):
+        size = (len(data) + 3) // 4 * 4
+        hole = min((h for h in holes if h[1] >= size), key=lambda h: h[1], default=None)
+        if hole:
+            dest = hole[0]
+            out[0x800 + dest - t_addr:0x800 + dest - t_addr + size] = data.ljust(size, b"\0")
+            hole[0] += size
+            hole[1] -= size
+        else:
+            dest = base + len(blob)
+            blob += data.ljust(size, b"\0")
+            if base + len(blob) > limit:
+                raise ValueError(f"relocation space full at {addr:#x} ({len(blob)} bytes)")
         for ref in r[addr]:
             if ref[0] == "ptr":
                 struct.pack_into("<I", out, ref[1], dest)
@@ -100,7 +127,8 @@ def apply(exe, edits, base, limit):
 
 def strings(exe, r=None):
     """Strings start after a NUL or at any referenced address (some follow a pointer table directly). Past the
-    entry point (code, then more data: menus, staff-roll roles) only referenced strings of 2+ SJIS chars count."""
+    entry point (code, then more data: menus, staff-roll roles) only referenced strings of 2+ SJIS chars count,
+    or of one when a pointer table holds it (staff-roll role 歌)."""
     pc0, t_addr, t_size = header(exe)
     img = exe[0x800:0x800 + t_size]
     r = refs(exe) if r is None else r
@@ -110,7 +138,9 @@ def strings(exe, r=None):
         if img[o] and (data and (o == 0 or img[o - 1] == 0) or t_addr + o in r):
             z = img.find(b"\0", o)
             raw = img[o:z]
-            if z > o and _is_text(raw) and (data or sum(ord(c) > 0x7F for c in raw.decode("cp932")) >= 2):
+            wide = sum(ord(c) > 0x7F for c in raw.decode("cp932")) if z > o and _is_text(raw) else 0
+            ptr = any(ref[0] == "ptr" for ref in r.get(t_addr + o, []))
+            if wide and (data or wide >= 2 or ptr):
                 out.append((t_addr + o, raw))
                 o = z
                 continue

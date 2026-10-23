@@ -22,6 +22,12 @@ NAME_COPY_OLD = bytes.fromhex("00004292000000000a004010211840022120c003000062900
 # 0x80025AE8 branches to 0x80025B04 when a name was typed, so the call starts there: nop; move a0,fp; jal; move a1,s2
 NAME_COPY_NEW = struct.pack("<4I", 0, 0x03C02021, 0x0C000000 | (NAME_PACK >> 2 & 0x03FFFFFF), 0x02402821) + bytes(44)
 
+# STAFF.EXE 0x80023374: only codes <= 0x989E go to Krom2RawAdd (the hook); higher ones to its own level-2 kanji
+# table, which would draw letter pairs (0xA0xx-0xFFxx) as garbage. Threshold raised to 0xFFFF: the English roll
+# has no level-2 kanji left. andi a0,t0,0xffff; ori v0,zero,0x989e -> 0xffff; sltu v0,v0,a0
+STAFF_SPLIT_OLD = bytes.fromhex("ffff0431" "9e980234" "2b104400")
+STAFF_SPLIT_NEW = bytes.fromhex("ffff0431" "ffff0234" "2b104400")
+
 
 def jal(target):
     return 0x0C000000 | ((target >> 2) & 0x03FFFFFF)
@@ -54,7 +60,8 @@ def patch(exe, hook):
                 body[i:i + 4] = new
                 n += 1
             i = body.find(want, i + 1)
-    body = bytearray(body.replace(SIG_OLD, SIG_NEW).replace(NAME_COPY_OLD, NAME_COPY_NEW))
+    body = bytearray(body.replace(SIG_OLD, SIG_NEW).replace(NAME_COPY_OLD, NAME_COPY_NEW)
+                     .replace(STAFF_SPLIT_OLD, STAFF_SPLIT_NEW))
     head = bytearray(exe[:0x800])
     struct.pack_into("<II", head, 0x18, HOOK_BASE, t_size + HOOK_SIZE)
     return bytes(head) + hook.ljust(HOOK_SIZE, b"\0") + bytes(body) + exe[0x800 + t_size:], n

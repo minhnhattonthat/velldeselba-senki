@@ -352,17 +352,17 @@
     {
      "id": "2D/AMPS/A1200.EXE@80021280",
      "jp": "●砲台交換",
-     "en": ""
+     "en": "*Turrets"
     },
     {
      "id": "2D/AMPS/A1200.EXE@8002128c",
      "jp": "●プロペラ交換",
-     "en": ""
+     "en": "*Propellers"
     },
     {
      "id": "2D/AMPS/A1200.EXE@8002129c",
      "jp": "●エンジン交換",
-     "en": ""
+     "en": "*Engines"
     },
     {
      "id": "2D/AMPS/A1200.EXE@800212fc",

@@ -8,6 +8,7 @@ Widths in letters (one 16x15 cell = 2 letters, textcodec.cells):
   wait cursor takes the 17th cell, which otherwise wraps into the next box).
 - boxes without <W> (item descriptions, profiles): 34 letters per row, no more rows than the Japanese.
 - EXE strings without <W> (menus, labels): each row no wider than the Japanese row (same screen footprint).
+  Except the staff roll (STAFF.EXE): roles end at the screen centre and names start there, 15 cells each side.
 - BERU_FL1.DAT names (ships, parts, items, crew): at most 27 bytes (27 letters); menu widths not measured yet.
 - 3D mission blocks: a message ends at <@hh> or a blank line (<R><R>); 3 rows of 30 letters (JP max 15 chars;
   not yet measured on screen).
@@ -26,20 +27,29 @@ import textcodec
 
 LAYOUT = {"R", "W", "H"}
 NAME_CELLS = 4
+STAFF_CELLS = 15
+
+
+def limits(i):
+    """(exe, cap) for problems() from a line id."""
+    if i.startswith("STAFF.EXE@"):
+        return False, STAFF_CELLS
+    return ".EXE@" in i or "SCPS" in i, 17
 
 
 def width(row):
-    """Cells of one row: text runs (trailing full-width padding ignored) plus the player name."""
+    """Cells of one row: text runs (trailing padding ignored: JP 　, or the spaces pad_box adds) plus the player
+    name."""
     row = row.split("<W>")[0]
     runs = textcodec.CODE.split(row)[::4]
-    return sum(textcodec.cells(t.rstrip("　")) for t in runs) + NAME_CELLS * row.count("<F62>")
+    return sum(textcodec.cells(t.rstrip("　 ")) for t in runs) + NAME_CELLS * row.count("<F62>")
 
 
 def codes(s):
     return [m.group() for m in textcodec.CODE.finditer(s) if m.group(1) not in LAYOUT]
 
 
-def problems(text, jp, exe=False):
+def problems(text, jp, exe=False, cap=17):
     out = []
     if codes(text) != codes(jp):
         out.append(f"codes {codes(text)} != {codes(jp)}")
@@ -57,7 +67,7 @@ def problems(text, jp, exe=False):
         if len(rows) > len(jrows):
             out.append(f"{len(rows)} rows > {len(jrows)}")
         for i, r in enumerate(rows):
-            lim = width(jrows[min(i, len(jrows) - 1)]) if exe else 17
+            lim = width(jrows[min(i, len(jrows) - 1)]) if exe else cap
             if width(r) > lim:
                 out.append(f"row {i + 1}: {width(r) * 2} letters > {lim * 2}")
     return out
@@ -105,7 +115,7 @@ def main():
                         n = len(textcodec.encode(text))
                         found = [f"{n} bytes > {datnames.FIELD - 1}"] if n > datnames.FIELD - 1 else []
                     else:
-                        found = problems(text, l["jp"], kind == "exe")
+                        found = problems(text, l["jp"], *limits(l["id"]))
                     for msg in found:
                         bad += 1
                         print(f"{l['id']}: {msg}")
