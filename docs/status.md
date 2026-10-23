@@ -28,9 +28,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     warp); polish pass p001 (78 minors) merged; `<F63>` ship name counted as 8 cells; `tools/release.py`
     (test package v0.9-test built and re-applied OK, patch 45 MB, mostly FMV frames); `texttour.py` dialogue tour.
     No unextracted Japanese left in built EXEs (only grid/kana tables and code bytes).
+  - 2026-10-24 visual QA round 1 (30 sheets, 4 reviewers): fixes for English-only box breaks mid-sentence.
+    `batches.page` picks the fewest boxes, then sentence/clause breaks (429 lines refitted), 137 lines tightened
+    (p002a/b). Ship-interior banner "Airship Sky" (original shows the debug name + 上空 too). Non-bugs checked on
+    the JP disc are listed in `docs/visual-qa-brief.md`.
 - **Next:**
-  1. Visual-QA gate: texttour + tour2d sheets -> `qa_gate.py init work/qa/manifest.tsv ...`, reviewer subagents
-     (`$SKILL/assets/visual-qa-brief.md`), fix issues, `qa_gate.py check`.
+  1. Visual-QA gate round 2: re-run texttour + tour2d, `qa_gate.py init work/qa/manifest.tsv work/qa/texttour`
+     and `... work/qa/tour2d --glob "tour*.png"`, reviewers on the changed sheets, `qa_gate.py check`.
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
      results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).

@@ -677,7 +677,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#134",
      "jp": "ゼシカ大尉：<R>父とギダン国王、ガシザキノ大佐<R>はダナスピに向かうそうよ。<W><E>",
-     "en": "Captain Zeshika:<R>My father,<W><H>the King of Gidan and<R>Colonel Gashizakino are<R>heading for Danaspi.<W><E>"
+     "en": "Captain Zeshika:<R>I hear my father and the King of<R>Gidan are heading for Danaspi.<W><H>So is Colonel Gashizakino.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#135",
@@ -877,7 +877,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#174",
      "jp": "ギダン兵：<R>あ、ここで飲んでるのはデゼの<R>軍人たちには内緒ですよ。<W><E>",
-     "en": "Gidan Soldier:<R>Ah, don't tell the soldiers in<R>Deze that we're drinking here,<W><H>okay?<W><E>"
+     "en": "Gidan Soldier:<R>Ah, don't tell the Deze soldiers<R>we're drinking here, okay?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#175",

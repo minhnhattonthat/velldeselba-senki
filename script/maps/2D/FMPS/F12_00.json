@@ -687,7 +687,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#136",
      "jp": "ゼシカ大尉：<R>今は味方の攻撃を集中して、<R>一機ずつ落とすしかないわね……<W><E>",
-     "en": "Captain Zeshika:<R>For now,<W><H>all we can do is concentrate<R>our fire and bring them down<R>one at a time...<W><E>"
+     "en": "Captain Zeshika:<R>For now we can only focus fire<R>and pick them off one by one...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#137",
@@ -1647,7 +1647,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#328",
      "jp": "ドックの職人：<R>……あれ？<W><H>お客さん、ちょっと<R>荷物が多すぎるようだね。<W><H>言うのを忘れてたけど、<R>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>セブレンに乗りかえたかったら、<R>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a<R>bit too much cargo, friend.<W><H>I forgot to mention it, but this<R>ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>If you want to switch<R>to the Sebrentream,<W><H>sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
+     "en": "Shipwright:<R>...Huh?<W><H>Looks like you're carrying a<R>bit too much cargo, friend.<W><H>I forgot to mention it, but this<R>ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>To switch to the Sebrentream,<R>sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#329",

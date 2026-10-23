@@ -642,7 +642,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#127",
      "jp": "カフィ：<R>いまは機械化浮遊島を止める<R>ことだけを考えましょう。<W><E>",
-     "en": "Kafi:<R>For now,<W><H>let's think only about stopping<R>the mechanized floating island.<W><E>"
+     "en": "Kafi:<R>For now, let's focus on stopping<R>the mechanized floating island.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#128",
@@ -877,7 +877,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#174",
      "jp": "ハウエズナ：<R>ギダン軍はム連邦領内にも<R>攻めてくるんでしょうか？<W><E>",
-     "en": "Hauezna:<R>Will the Gidan army attack<R>Federation territory too,<W><H>I wonder?<W><E>"
+     "en": "Hauezna:<R>Do you think the Gidan army will<R>attack Federation territory too?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#175",
@@ -1402,7 +1402,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#279",
      "jp": "オユ・キクル：<R>でも少尉……ホントのホントに<R>空賊になっちゃうんですか？<W><H>カフィ中佐、怒るかなあ……<W><E>",
-     "en": "Oyu Kikuru:<R>But Lieutenant...<W><H>are you really, truly going<R>to become a sky pirate?<W><H>I wonder if Colonel<R>Kafi will be mad...<W><E>"
+     "en": "Oyu Kikuru:<R>But Lieutenant... are you really,<R>truly becoming a sky pirate?<W><H>I wonder if Colonel<R>Kafi will be mad...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#280",
@@ -2082,7 +2082,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#415",
      "jp": "ボイ：<R>シデルさまの親衛隊には、<R>あこがれてたんですけどね。<W><E>",
-     "en": "Boi:<R>I used to dream of joining<R>Sidel-sama's Royal Guard,<W><H>you know.<W><E>"
+     "en": "Boi:<R>I used to look up to Sidel-sama's<R>Royal Guard, you know.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#416",
@@ -2202,7 +2202,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#439",
      "jp": "グールド：<R>あ、相棒ががんばっているのに<R>お、俺だけ降りるわけには……<W><H>うええ。<W><E>",
-     "en": "Gould:<R>M-my partner's<R>giving it his all...<W><H>I c-can't be the<R>only one to bail...<W><H>Urrgh.<W><E>"
+     "en": "Gould:<R>M-my partner's giving his all...<R>I c-can't bail out alone...<W><H>Urrgh.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#440",
@@ -2792,7 +2792,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#557",
      "jp": "ゼシカ大尉：<R><F62>少尉って、<R>船にいるときの方が楽しそうね。<W><E>",
-     "en": "Captain Zeshika:<R>Lieutenant <F62>,<W><H>you seem to enjoy yourself<R>more when you're on your ship.<W><E>"
+     "en": "Captain Zeshika:<R>Lieutenant <F62>, you seem<R>to have more fun on your ship.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#558",
@@ -2897,7 +2897,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#578",
      "jp": "秘書：<R>社長は、<W><H>ずっと以前に<R>ゼシカさまをムノギイの町で<R>お見かけして以来、<W><H>一途にゼシカさまだけを<R>思い続けてまいりました。<W><H>その一念が通じて、お父さまの<R>サロ将軍からはおつきあいの<R>許可がおりたのですが……<W><H>ゼシカさまは戦場を飛び回って<R>ばかりで、まともに口をきいても<R>いただけません。<W><E>",
-     "en": "Secretary:<R>The president,<W><H>ever since he caught sight<R>of Zeshika-sama in the<R>city of Munogi long ago,<W><H>has devoted his heart<R>to Zeshika-sama alone.<W><H>That devotion won through, and<R>her father, General Saro,<W><H>gave permission for<R>them to court, but...<W><H>Zeshika-sama is forever flying<R>about the battlefield and will<R>hardly say a word to him.<W><E>"
+     "en": "Secretary:<R>The president,<W><H>ever since he caught sight<R>of Zeshika-sama in the<R>city of Munogi long ago,<W><H>has devoted his heart<R>to Zeshika-sama alone.<W><H>That devotion won through, and<R>her father, General Saro, gave<R>them permission to court, but...<W><H>Zeshika-sama is forever flying<R>about the battlefield and will<R>hardly say a word to him.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#579",
@@ -2942,7 +2942,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#587",
      "jp": "ハウエズナ：<R>わかりました。<W><H>いまやった訓練が「レベル１」で<R>す。ちょっと難しい「レベル２」<R>も選べますが、どうします？<W><E>",
-     "en": "Hauezna:<R>Understood.<W><H>The training you just<R>did was \"Level 1.\"<W><H>You can also choose the<R>slightly harder \"Level<R>2.\" What will you do?<W><E>"
+     "en": "Hauezna:<R>Understood.<W><H>That training was \"Level 1.\" You<R>can also pick the slightly harder<R>\"Level 2.\" What will you do?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#588",
@@ -3077,7 +3077,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#614",
      "jp": "カフィ中佐：<R>そうね……<W><H>ゼシカ大尉、<R>これからわがノイパスク軍の<R>ナデス島司令部までご案内します。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Yes...<W><H>Captain Zeshika,<W><H>I will now escort you to the<R>Nades Island headquarters of<R>our Noipask army.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Yes...<W><H>Captain Zeshika, I will now<R>escort you to our Noipask army's<R>Nades Island headquarters.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#615",
