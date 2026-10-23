@@ -96,7 +96,20 @@ def _pack_block(buf, maxchars=220, thresh=3):
     return bytes(tab) + struct.pack(">H", len(data)) + bytes(data)
 
 
-def compress(data, block=0x2000):
-    """Pack data as one stream (u32 length + blocks). Not byte-identical to the original packer; decodes the same."""
-    body = b"".join(_pack_block(data[i:i + block]) for i in range(0, len(data), block)) if data else b""
+def _blocks(data, size=5000, maxchars=200):
+    """Gage's fileread(): a block ends at `size` bytes or once `maxchars` distinct byte values are in it."""
+    i = 0
+    while i < len(data):
+        seen = set()
+        j = i
+        while j < len(data) and j - i < size and len(seen) < maxchars:
+            seen.add(data[j]); j += 1
+        yield data[i:j]
+        i = j
+
+
+def compress(data):
+    """Pack data as one stream (u32 length + blocks), with the original packer's block rules (Gage's defaults).
+    Not byte-identical to the original packer; decodes the same."""
+    body = b"".join(_pack_block(b) for b in _blocks(data))
     return struct.pack("<I", len(body)) + body
