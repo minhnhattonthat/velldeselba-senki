@@ -7,17 +7,17 @@
     {
      "id": "3D/GMPS3/G30#0",
      "jp": "<*01>オユ・キクル：<R>上陸部隊は、ホウノム島に上陸。<R><R>その後、司令部および<R>各施設を制圧。<R><R><*05>マハシ大佐は、その援護。<R><R><*00>私達は先陣をきって、上陸部隊が<R>任務を完了するまで、敵部隊を<R>引き付けます。<R><R>持久戦になるかも知れませんね。<R>",
-     "en": ""
+     "en": "<*01>Oyu Kikuru:<R>The landing force will seize<R>Hounom Island's headquarters.<R><R><*05>Colonel Mahashi supports them.<R><R><*00>We go in first and keep the<R>enemy busy until they're done.<R><R>It may be a long fight.<R>"
     },
     {
      "id": "3D/GMPS3/G30#1",
      "jp": "ハウエズナ：<R>上陸部隊が、上陸を開始した<R>ようです。<R><@18>",
-     "en": ""
+     "en": "Hauezna:<R>The landing force seems to<R>have started going ashore.<R><@18>"
     },
     {
      "id": "3D/GMPS3/G30#2",
      "jp": "オユ・キクル：<R>大変です！<R><@18>上陸した部隊が、待ち伏せに<R>会って、ほぼ壊滅。<R><@20>作戦は失敗です。味方は、<R>既に撤退を開始してます。<R><@20><%S><_00>：<R>くそっ！　俺達も戻るぞ。<R><@18>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>This is bad!<R><@18>The landing force was ambushed<R>and almost wiped out.<R><@20>The operation failed. Our<R>forces are pulling out.<R><@20><%S><_00>:<R>Damn! We're heading back too.<R><@18>"
     }
    ]
   }

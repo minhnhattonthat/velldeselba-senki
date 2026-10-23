@@ -205,3 +205,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - b010/b009 グミブドウの香菜和え -> Gummy Grapes Tossed in Coriander; ダナデウノまんじゅう -> Danadeuno Buns; 医薬品セット -> Medical Kit
 - 金 meaning money -> "money" (or the bare Z amount), not the cargo item Gold
 - 女空賊 plural -> women sky pirates
+- b044 ノイパスード・ベクゼス -> Noipasud Bekzes (Zexel's ship); b045 技師 -> Engineer (speaker)
+- b041 中佐 in a third-person mention keeps the full rank (Lieutenant Colonel Kafi); only direct address shortens to Colonel
+- b043 a rankless JP label stays rankless (ガジザキノ： -> Gashizakino:)
+- b041/b045 護送船 -> prisoner transport
+- 3D mission text that a track cannot hold is shortened in the mission JSON and synced back into the batch out.tsv (a merge rewrites the JSON from out.tsv)

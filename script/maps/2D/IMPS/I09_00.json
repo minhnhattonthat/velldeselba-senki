@@ -447,32 +447,32 @@
     {
      "id": "2D/IMPS/I09_00@30800#88",
      "jp": "カ・ジャルコ：<R>いい船ですねえ……<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>What a nice ship...<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#89",
      "jp": "<F62>：<R>これがバムスの船か。<W><H>俺たちの船とはちょっと<R>雰囲気がちがうな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>So this is Bams's ship.<W><H>It's got a different feel from<R>ours.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#90",
      "jp": "カ・ジャルコ：<R>よく整備されていますよね、<R>この船……<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>It's really well maintained, this<R>ship...<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#91",
      "jp": "バムス中佐：<R>ふん、何をおどろいているのだ。<W><H>軍人たるもの戦艦を大事にする<R>のはあたりまえだ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>Hmph, what are you so surprised<R>about?<W><H>It is only natural for a soldier<R>to take good care of his<R>warship.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#92",
      "jp": "バムス中佐：<R>グラシアルまでは長い。<R>ゆっくりしたまえ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>It's a long way to Glacial. Make<R>yourselves comfortable.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#93",
      "jp": "ギダン兵：<R>あ、あれは！？<R>見たことのない船です！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Wh-what is that!? It's a ship I've<R>never seen before!<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#94",
@@ -482,37 +482,37 @@
     {
      "id": "2D/IMPS/I09_00@30800#95",
      "jp": "バムス中佐：<R>まあ、ゆっくりしたまえ。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>Now, make yourselves<R>comfortable.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#96",
      "jp": "<F62>：<R>バムス中佐、<W><H>さっきのシデル艦隊だが……<R>どう思う？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Colonel Bams,<W><H>about Sidel's fleet just now...<R>What do you make of it?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#97",
      "jp": "バムス中佐：<R>あの数で艦隊飛行していると、<R>ただごととは思えんな。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>A fleet that size flying in<R>formation is no ordinary matter.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#98",
      "jp": "<F62>：<R>しばらく攻撃は控えるというのに<R>あの大編隊……何か妙だな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>They said they'd hold off<R>attacking for a while, yet a<R>formation that big... Something's<R>off.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#99",
      "jp": "<P13>飛空船はひたすら西進し、<R>グラシアルに向かった……。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The airship flew steadily west,<R>bound for Glacial...<P15><W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#100",
      "jp": "ギダン兵：<R>グラシアルに到着です！<R>おつかれさまでした！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>We've arrived at Glacial! Good<R>work, everyone!<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#101",
      "jp": "バムス中佐：<R>着いたか……<W><H>そうだ、<F62>大尉。<W><H>わが艦に乗船した証として、<R>この日誌に名前を書き記すことを<R>許そう。<W><H>どうするかね？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>We have arrived...<W><H>Ah yes, Captain <F62>.<W><H>As proof that you sailed aboard my<R>ship, I shall permit you to sign<R>your name in this log.<W><H>What do you say?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#102",
@@ -532,7 +532,7 @@
     {
      "id": "2D/IMPS/I09_00@30800#105",
      "jp": "バムス中佐：<R>わたしは王宮か大本営にいる。<W><H>用がある場合は<R>いつでもたずねてきなさい。<W><H>カ・ジャルコ軍曹、<R><F62>大尉の案内は<R>君にまかせよう。<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>I will be at the palace or General<R>Headquarters.<W><H>Should you need anything, call on<R>me any time.<W><H>Sergeant Ka Jarko, I leave Captain<R><F62>'s guidance to you.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#106",
@@ -542,127 +542,127 @@
     {
      "id": "2D/IMPS/I09_00@30800#107",
      "jp": "カ・ジャルコ：<R>さ、大尉も<R>行きましょう！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Come on, Captain, let's go too!<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#108",
      "jp": "<F62>：<R>グラシアルか……<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Glacial, huh...<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#109",
      "jp": "ギダン兵：<R>この船は船体がでかいぶん、<R>操縦にも気を使うよ。<W><H>でも、戦闘時の威力は<R>ばけもの並みだぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>This ship's so big, you've got to<R>take care flying her.<W><H>But in a fight, she packs the<R>punch of a monster.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#110",
      "jp": "ギダン兵：<R>船体がでかいぶん、操縦にも<R>気を使うよ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>She's so big, you've got to take<R>care flying her.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#111",
      "jp": "ギダン兵：<R>さすがにシデル提督の<R>親衛隊はすごいな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Admiral Sidel's Royal Guard really<R>is something else.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#112",
      "jp": "ギダン兵：<R>この船は通称「カタナ」と<R>呼ばれています。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>This ship is commonly known as the<R>\"Katana.\"<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#113",
      "jp": "ギダン兵：<R>空賊が襲ってこなければ<R>いいが……<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Let's hope no sky pirates come<R>after us...<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#114",
      "jp": "ギダン兵：<R>グラシアルまで観光旅行だって？<R>うらやましいな。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>A sightseeing trip to Glacial?<R>Lucky you.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#115",
      "jp": "ギダン兵：<R>グラシアルははじめてなのかい？<R>大きな町だからおどろくぜ。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>First time in Glacial? It's a big<R>city. You'll be amazed.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#116",
      "jp": "ギダン兵：<R>前方にホウノム島と交戦中の<R>ム連邦軍を確認しました。<W><H>さすがに、ム連邦の連中も<R>必死ですね。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Federation forces sighted ahead,<R>engaging Hounom Island.<W><H>Those Federation types sure are<R>desperate.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#117",
      "jp": "バムス中佐：<R>ゆるせん！<W><H>シデルさまの調停を受け入れず、<R>ここまで抵抗を続けるとは！<W><H>おい、ホウノム島の現在位置は？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>Unforgivable!<W><H>To reject Sidel-sama's mediation<R>and keep up their resistance this<R>far!<W><H>You there, what is Hounom Island's<R>current position?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#118",
      "jp": "ギダン兵：<R>フェルム上空です。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Above Ferum, sir.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#119",
      "jp": "バムス中佐：<R>よおし！　ホウノム島に連絡！<W><H>浮遊島の動力を破壊し<R>フェルムに落下させろ！<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>Excellent! Signal Hounom Island!<W><H>Destroy the floating island's<R>engines and drop it on Ferum!<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#120",
      "jp": "ギダン兵：<R>お、落とすのですか！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>D-drop it, sir!?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#121",
      "jp": "バムス中佐：<R>調停を受け入れない者への<R>いましめだ！<W><H>どうした！<W><H>わたしの命令が聞こえん<R>のか！？<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>Let it be a lesson to those who<R>reject mediation!<W><H>What are you waiting for!<W><H>Did you not hear my order!?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#122",
      "jp": "ギダン兵：<R>は、はい！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Y-yes, sir!<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#123",
      "jp": "お供：<R>ミユキさま、<R>船の旅はいかがですか？<W><E>",
-     "en": ""
+     "en": "Attendant:<R>Miyuki-sama, how are you enjoying<R>the voyage?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#124",
      "jp": "お供：<R>少々ゆれますが<R>がまんしてくださいね。<W><E>",
-     "en": ""
+     "en": "Attendant:<R>It's a little bumpy, but please<R>bear with it.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#125",
      "jp": "ミユキ：<R>シデルさま、わたしたちは<R>どこに向かっているのですか？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Sidel-sama, where are we going?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#126",
      "jp": "シデル提督：<R>……新しい家だよ。<W><E>",
-     "en": ""
+     "en": "Admiral Sidel:<R>...To our new home.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#127",
      "jp": "ミユキ：<R>家？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Home?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#128",
      "jp": "シデル提督：<R>……見てごらん。<W><H>……あれが新しい家、<W><H>わたしがこしらえた<R>空中の要塞だ。<W><E>",
-     "en": ""
+     "en": "Admiral Sidel:<R>...Look.<W><H>...That is our new home,<W><H>the aerial fortress, built by my<R>own hand.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#129",
      "jp": "シデル提督：<R>……わたしたちはこの島に住み、<W><H>……この島から地上の<R>人々の行いをながめ、<W><H>……彼らの歩む道を、正しい<R>方向に導かねばならない。<W><E>",
-     "en": ""
+     "en": "Admiral Sidel:<R>...We shall live on this island,<W><H>...and from this island watch over<R>the deeds of the people below,<W><H>...and we must guide the path they<R>walk in the right direction.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#130",
      "jp": "ミユキ：<R>シデルさまがおっしゃってた<R>チョーテイシャになるのね？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>You're going to be the Ar-bi-ter<R>you told me about, Sidel-sama?<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#131",
      "jp": "シデル提督：<R>……そうだ、調停者だ………<W><E>",
-     "en": ""
+     "en": "Admiral Sidel:<R>...Yes, the Arbiter......<W><E>"
     }
    ]
   }

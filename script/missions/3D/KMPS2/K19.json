@@ -7,17 +7,17 @@
     {
      "id": "3D/KMPS2/K19#0",
      "jp": "マルダマン：<R>そろそろ国境だぜ。<R><@0f>ギダン軍の国境警備隊だ！<R>逃げろ！<R><@14>",
-     "en": ""
+     "en": "Mardaman:<R>Nearly at the border.<R><@0f>Gidan border patrol! Run!<R><@14>"
     },
     {
      "id": "3D/KMPS2/K19#1",
      "jp": "ハウエズナ：<R>国境を越えました！<R>ム連邦です。<R><@20>",
-     "en": ""
+     "en": "Hauezna:<R>We're in Federation space!<R><@20>"
     },
     {
      "id": "3D/KMPS2/K19#2",
      "jp": "<%S><_00>：<R>ム連邦か・・・。<R>パナスガルへ向かうぞ。<R><@3c>ハウエズナ：<R>警報！<R>ム連邦の船団を発見。<R><@1e>オユ・キクル：<R>止まれと言っています。<R>ム連邦の警備隊です。<R><@14><%S><_00>：<R>やばいな・・・逃げきれるか？<R><@0f>ハウエズナ：<R>ダメです、エンジンに無理を<R>かけすぎました。<R><@14><%S><_00>：<R>なんてこった・・・。<R><@0a>マルダマン：<R>商船のふりをしていれば、<R>見逃してもらえるはずだぜ。<R><@14>",
-     "en": ""
+     "en": "<%S><_00>:<R>The Federation, huh... Head<R>for Panasgal.<R><@3c>Hauezna:<R>Alert! Federation ships<R>sighted.<R><@1e>Oyu Kikuru:<R>The Federation patrol says<R>to stop.<R><@14><%S><_00>:<R>Uh-oh... Can we outrun them?<R><@0f>Hauezna:<R>No, sir. We've pushed the<R>engines too hard.<R><@14><%S><_00>:<R>Just great...<R><@0a>Mardaman:<R>If we pose as a merchant ship,<R>they should let us pass.<R><@14>"
     }
    ]
   }

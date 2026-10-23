@@ -102,7 +102,9 @@ def form(i, jp):
         return "msg3d", "wrapped: 30/row, 3 rows per message"
     if "<W>" in jp:
         return "dlg", "wrapped: 34/row"
-    return "box", f"{jp.count('<R>') + 1} rows x 34, padding auto"
+    if ".EXE@" in i or "SCPS" in i:
+        return "menu", "max letters per row: " + ", ".join(str(lint.width(r) * 2) for r in jp.split("<R>"))
+    return "box",f"{jp.count('<R>') + 1} rows x 34, padding auto"
 
 
 def glossary():

@@ -447,102 +447,102 @@
     {
      "id": "2D/IMPS/I12_00@38000#88",
      "jp": "チバラガ：<R>うい～っく！<R>よお！　兄弟！<R>景気はどうだい？<W><E>",
-     "en": ""
+     "en": "Chibaraga:<R>Hic! Hey there! Brother! How's<R>business?<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#89",
      "jp": "マルダマン：<R>また酔っぱらってやがるな。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>Drunk again, I see.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#90",
      "jp": "空賊：<R>マルダマンさん、ちょっと<R>言い聞かせてくださいよ。<W><H>うちの大将、ずっと<R>こんな調子なんですから……<W><E>",
-     "en": ""
+     "en": "Sky Pirate:<R>Mardaman-san, please talk some<R>sense into him.<W><H>Our boss has been like this the<R>whole time...<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#91",
      "jp": "マルダマン：<R>おまえは、航海長のアルだな。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>You're Al, the navigator, aren't<R>you?<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#92",
      "jp": "チバラガ：<R>うるさいなあ、もう。<W><E>",
-     "en": ""
+     "en": "Chibaraga:<R>Oh, shut up already.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#93",
      "jp": "アル：<R>しかしですね………<W><E>",
-     "en": ""
+     "en": "Al:<R>But, Boss......<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#94",
      "jp": "チバラガ：<R>もういい！<R>俺はこの船を降りる！<W><E>",
-     "en": ""
+     "en": "Chibaraga:<R>Enough! I'm getting off this<R>ship!<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#95",
      "jp": "マルダマン：<R>おい、おい！<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>Hey, hey!<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#96",
      "jp": "マルダマン：<R>いったい、チバラガのやつ<R>どうしちまったんだ？<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>What in the world's gotten into<R>Chibaraga?<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#97",
      "jp": "アル：<R>いえ、ちょっとね。<W><H>最近、親方と来たらツイて<R>ないんですよ。<W><H>この間も、せっかくいいところまで<R>追いつめた輸送船のお宝を、女の<R>空賊によこどりされちまうし、<W><H>カジノじゃ、しこたまスって<R>しまって……<W><H>以来、あんな調子なんですよ。<W><H>このままじゃ身体にだって<R>よくないですから、やめさせたい<R>んですが……<W><E>",
-     "en": ""
+     "en": "Al:<R>Well, it's like this.<W><H>Lately, the boss just hasn't had<R>any luck.<W><H>The other day we'd nearly cornered<R>a transport, and some women sky<R>pirates stole its treasure right<R>out from under us,<W><H>then he lost his shirt at the<R>casino...<W><H>He's been like that ever since.<W><H>At this rate it'll ruin his<R>health, too, so I'd like to get<R>him to stop, but...<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#98",
      "jp": "マルダマン：<R>なるほどなぁ……<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>I see...<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#99",
      "jp": "チバラガ：<R>よお、<F62>！<R>今日からあんたの船に乗るぞ！<W><H>よろしく頼む！<W><E>",
-     "en": ""
+     "en": "Chibaraga:<R>Hey, <F62>! From today, I'm<R>riding on your ship!<W><H>Glad to be aboard!<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#100",
      "jp": "チバラガ：<R>アル、あとはまかせた！<W><H>今日からおまえが船長だ！<W><E>",
-     "en": ""
+     "en": "Chibaraga:<R>Al, I'm leaving the rest to you!<W><H>As of today, you're captain!<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#101",
      "jp": "マルダマン：<R>……まいったな。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>...Well, this is a fine mess.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#102",
      "jp": "<F62>：<R>どうする？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>What do we do?<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#103",
      "jp": "マルダマン：<R>たまには気分転換をしてみるのも<R>いいさ。<W><H>そのうち、自分の船に<R>もどるだろう。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>A change of scenery now and then<R>might do him good.<W><H>He'll go back to his own ship<R>sooner or later.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#104",
      "jp": "<F62>：<R>しょうがないな。<R>しばらく預からせてもらうぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Can't be helped. I'll look after<R>him for a while.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#105",
      "jp": "アル：<R>すいません、くれぐれも<R>よろしく頼みます。<W><H>留守はこのわたしが責任を持って<R>守って見せますから。<W><E>",
-     "en": ""
+     "en": "Al:<R>Sorry about this. Please, take<R>good care of him.<W><H>I'll take responsibility and hold<R>the fort while he's away.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#106",
      "jp": "マルダマン：<R>チバラガよ、おまえ……<R>いい部下を持って幸せ者だぜ。<W><E>",
-     "en": ""
+     "en": "Mardaman:<R>Chibaraga, you... You're a lucky<R>man, having someone that good<R>under you.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#107",
      "jp": "<F62>：<R>もどるぜ、マルダマン。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Let's head back, Mardaman.<W><E>"
     }
    ]
   }

@@ -7,17 +7,17 @@
     {
      "id": "3D/GMPS3/G42#0",
      "jp": "<*05>オユ・キクル：<R>ナデス島のかなり遠方より<R>ガルガナーク級２機の編隊を<R><R>発見したとの報告が<R>ありました。<R><R>ただちに迎撃してください。<R>何か、いやな予感がします…。<R>",
-     "en": ""
+     "en": "<*05>Oyu Kikuru:<R>We have a report of two<R>Garganak-class ships<R><R>spotted in formation very far<R>from Nades Island.<R><R>Please intercept them at once.<R>I have a bad feeling about<R>this...<R>"
     },
     {
      "id": "3D/GMPS3/G42#1",
      "jp": "ハウエズナ：<R>大変です！<R><@18>新たに現れた、敵の編隊が<R>ナデス島に向かっています！<R><@20>",
-     "en": ""
+     "en": "Hauezna:<R>Trouble!<R><@18>A new enemy formation has<R>appeared and is heading for<R>Nades Island!<R><@20>"
     },
     {
      "id": "3D/GMPS3/G42#2",
      "jp": "戦闘終了<R><@20>",
-     "en": ""
+     "en": "Battle over.<R><@20>"
     }
    ]
   }

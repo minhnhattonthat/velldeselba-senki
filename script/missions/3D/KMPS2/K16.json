@@ -7,22 +7,22 @@
     {
      "id": "3D/KMPS2/K16#0",
      "jp": "オユ・キクル：<R>右前方に輸送船団を<R>発見しました。<R><@14><%S><_00>：<R>よし！襲おうぜ。<R><@0a>マルダマン：<R>女空賊たちは<R>でてくるかなあ。<R><@14>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Transport convoy, ahead right.<R><@14><%S><_00>:<R>All right! Let's hit it.<R><@0a>Mardaman:<R>Will the women sky pirates<R>show up?<R><@14>"
     },
     {
      "id": "3D/KMPS2/K16#1",
      "jp": "マルダマン：<R>やっぱり来やがった！<R>女空賊だ。<R><@20>",
-     "en": ""
+     "en": "Mardaman:<R>Knew it! Women sky pirates.<R><@20>"
     },
     {
      "id": "3D/KMPS2/K16#2",
      "jp": "オユ・キクル：<R>また、よこどりするつもり<R>なんだわ。<R><@14><%S><_00>：<R>今度は許さないぜ。<R><@14>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>They're out to snatch our haul<R>again!<R><@14><%S><_00>:<R>Not this time, they won't.<R><@14>"
     },
     {
      "id": "3D/KMPS2/K16#3",
      "jp": "<%S><_00>：<R>今だ、乗り込め！<R><@20>",
-     "en": ""
+     "en": "<%S><_00>:<R>Now! Board 'em!<R><@20>"
     }
    ]
   }

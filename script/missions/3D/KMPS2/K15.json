@@ -7,22 +7,22 @@
     {
      "id": "3D/KMPS2/K15#0",
      "jp": "オユ・キクル：<R>右前方に輸送船団を<R>発見しました。<R><@14><%S><_00>：<R>おあつらえ向きだ、<R>襲おうぜ。<R><@14>",
-     "en": ""
+     "en": "Oyu Kikuru:<R>Transport convoy, ahead right.<R><@14><%S><_00>:<R>Just what we wanted. Hit it!<R><@14>"
     },
     {
      "id": "3D/KMPS2/K15#1",
      "jp": "ハウエズナ：<R>さっきから気になるんですが<R>妙な船がうろついてますね。<R><@20>",
-     "en": ""
+     "en": "Hauezna:<R>That odd ship out there has<R>been bothering me, sir.<R><@20>"
     },
     {
      "id": "3D/KMPS2/K15#2",
      "jp": "<%S><_00>：<R>俺も気になっていたんだ。<R>どういうつもりだ？<R><@14>ハウエズナ：<R>攻撃してきます！<R><@14>",
-     "en": ""
+     "en": "<%S><_00>:<R>Me too. What's it up to?<R><@14>Hauezna:<R>It's attacking!<R><@14>"
     },
     {
      "id": "3D/KMPS2/K15#3",
      "jp": "<%S><_00>：<R>どこのどいつだ！？<R><@14>乗り込むぞ！<R><@20>",
-     "en": ""
+     "en": "<%S><_00>:<R>Who on earth is that!?<R><@14>We're boarding!<R><@20>"
     }
    ]
   }

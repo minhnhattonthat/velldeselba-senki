@@ -33,6 +33,12 @@ How to lay out each form (the check tool wraps rows for you):
   label like `Accelerate:`. Keep every `<@hh>` in order.
 - **box** (profiles, item descriptions; no `<W>`): no more rows (`<R>`) than the Japanese, at most 34 letters per row,
   write `<R>` yourself. Copy the codes in the same order; skip the Japanese padding spaces (the tool re-pads).
+- **menu** (menus, shop and status screens, place names, item and ship-part names in the program files): fixed
+  slots, at most the letters per row the limit column gives (2 letters per Japanese character, padding spaces
+  included), no more rows than the Japanese. Title Case for labels and names (glossary spelling). Fullwidth Latin and
+  digits become ASCII (`ＯＮ` -> `ON`, `３Ｄ設定` -> `3D Settings`); rules and separators (`－－`, `＝＝＝`) become `-`/`=`
+  at 2 per Japanese character; a label ending in `：` keeps a `:`. When a word does not fit, use a shorter synonym, never
+  an abbreviation with a dot.
 Every non-layout code (`<F62>`, `<P13>`, `<G88>`, `<@28>`...) must appear in the same order as in the Japanese.
 
 ## Validate

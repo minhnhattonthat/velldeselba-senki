@@ -7,27 +7,27 @@
     {
      "id": "3D/GMPS1/G00#0",
      "jp": "<*02>ノイパスク兵：<R>俺が、相手をしてやるから<R>練習するといい。<R><R>有視界レーダーの見方や、<R>弾のよけ方、後ろのとり方を<R>体でおぼえるんだ。<R><R>わざと弾に、当たって、<R>避け方を研究してみるのも<R>いいだろう。<R><R>船体の事は、心配しなくて<R>いいぞ。<R><R>訓練終了しだい、直される事に<R>なっているからな。<R><R>それじゃあ、訓練開始だ。<R>",
-     "en": ""
+     "en": "<*02>Noipask Soldier:<R>I'll be your opponent, so go<R>ahead and practice.<R><R>Learn by feel how to read the<R>visual radar, dodge shots and<R>get on a tail.<R><R>It might also be good to take<R>a few hits on purpose and<R>study how to evade.<R><R>Don't worry about your hull.<R><R>It's set to be repaired as<R>soon as training is over.<R><R>All right, training begins.<R>"
     },
     {
      "id": "3D/GMPS1/G00#1",
      "jp": "ノイパスク兵：<R>いったん、ナデス島から、<R>離れるぞ。ついてこい。<R><@3c>ノイパスク兵：<R>弾を、上下に避けながら、<R>俺の船に攻撃するんだ。<R><@28>俺の方をよく見て、<R>弾を撃ってきた！　と、<R>思ったら、急いでよけろよ。<R><@28>エアブレーキがあることも<R>忘れるな。<R><@1c>多少ダメージを受けても、<R>後ろをとれれば、有利に<R>なる。<R><@20>その時の状況にだけ、とら<R>われて、逃げ腰になってると<R>生き残れないぞ。<R><@28>",
-     "en": ""
+     "en": "Noipask Soldier:<R>We'll pull away from Nades<R>Island for now. Follow me.<R><@3c>Noipask Soldier:<R>Dodge up and down while you<R>attack my ship.<R><@28>Watch me closely. The moment<R>you think I've fired, get out<R>of the way, fast.<R><@28>And don't forget you have air<R>brakes.<R><@1c>Even if you take some damage,<R>getting on my tail gives you<R>the edge.<R><@20>Get caught up in the moment<R>and start running scared, and<R>you won't survive.<R><@28>"
     },
     {
      "id": "3D/GMPS1/G00#2",
      "jp": "それじゃ、始めるぞ。<R><@20>",
-     "en": ""
+     "en": "All right, let's begin.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G00#3",
      "jp": "ノイパスク兵：<R>おいおい、それ以上やられたら<R>こっちの船がこわれちまう。<R><@18>訓練は、終わりだ。<R><@1c>いい腕してるぜ、まったく。<R><@20>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Whoa, whoa, any more of that<R>and my ship'll fall apart.<R><@18>Training's over.<R><@1c>You've got some skill, I'll<R>give you that.<R><@20>"
     },
     {
      "id": "3D/GMPS1/G00#4",
      "jp": "ノイパスク兵：<R>まだまだだな。<R><@18>まあ、その船の性能が、<R>悪いってのもあるが、<R><@18>もっと上下に、動いて、<R>敵の弾を、散らしてやらなきゃ<R>ダメだな。<R><@20>また、相手してやるよ。<R><@20>",
-     "en": ""
+     "en": "Noipask Soldier:<R>Not good enough yet.<R><@18>Well, part of it's that your<R>ship isn't up to much, but<R><@18>you've got to move up and down<R>more and scatter the enemy's<R>fire.<R><@20>I'll take you on again<R>sometime.<R><@20>"
     }
    ]
   }

@@ -7,17 +7,17 @@
     {
      "id": "3D/KMPS1/K09#0",
      "jp": "ダ・クダ：<R>グラシアルから暴動鎮圧部隊の<R>本隊が近づいているらしい。<R><R>こちらの勢力は‥‥<R><R><*04>ガシザキノ艦以下<R><R><*05>国王派の艦隊と<R><R><*01>俺たち空賊。<R><R>作戦は‥‥<R><R>ブアブナム：<R>おい<%S><_00>、<R><R><*03>俺のジーテガートで<R>援護してやるよ、安心しな。<R><R>ダ・クダ：<R>以上だ、いくぞ！<R><R><%S><_00>：<R>ブアブナム！お前のせいで<R>作戦を聞き逃したじゃないか。<R><R>ブアブナム：<R>ははは、まあいいじゃないか<R>思いきり暴れようぜ。<R><R>",
-     "en": ""
+     "en": "Da Kuda:<R>Word is Glacial's main<R>riot-control force is near.<R><R>Our forces are...<R><R><*04>Gashizakino's ship and<R>company,<R><R><*05>the royalist fleet,<R><R><*01>and us sky pirates.<R><R>The plan is...<R><R>Buabnam:<R>Hey, <%S><_00>,<R><R><*03>I'll cover you with my<R>Jitegart, so relax.<R><R>Da Kuda:<R>That's all. Let's go!<R><R><%S><_00>:<R>Buabnam! Thanks to you, I<R>missed the plan!<R><R>Buabnam:<R>Hahaha, ah, who cares? Let's<R>just raise hell.<R><R>"
     },
     {
      "id": "3D/KMPS1/K09#1",
      "jp": "<%S><_00>：<R>アダクダが近いぞ。<R><@0a>ハウエズナ：<R>前方に戦闘中の船団を発見！<R><@14><%S><_00>：<R>暴動は成功したみたいだな。<R>突っ込むぞ！<R><@14>",
-     "en": ""
+     "en": "<%S><_00>:<R>Adakuda's close.<R><@0a>Hauezna:<R>Ships in combat sighted ahead!<R><@14><%S><_00>:<R>Looks like the uprising<R>worked. We're charging in!<R><@14>"
     },
     {
      "id": "3D/KMPS1/K09#2",
      "jp": "<%S><_00>：<R>よし、アダクダに着陸だ。<R><@20>",
-     "en": ""
+     "en": "<%S><_00>:<R>All right, we're landing at<R>Adakuda.<R><@20>"
     }
    ]
   }

@@ -7,12 +7,12 @@
     {
      "id": "3D/KMPS3/K30#0",
      "jp": "ハウエズナ：<R>オガツ方面に向かう輸送船団を<R>発見しました。<R><@18><%S><_00>：<R>よし、積み荷をいただこう。<R>戦闘用意だ！<R><@1c>",
-     "en": ""
+     "en": "Hauezna:<R>I have spotted a transport<R>convoy heading toward Ogatsu.<R><@18><%S><_00>:<R>All right, let's grab that<R>cargo. Prepare for battle!<R><@1c>"
     },
     {
      "id": "3D/KMPS3/K30#1",
      "jp": "<%S><_00>：<R>積み荷を、回収するぞ。<R><@20>",
-     "en": ""
+     "en": "<%S><_00>:<R>Let's collect the cargo.<R><@20>"
     },
     {
      "id": "3D/KMPS3/K30#2",

@@ -12,117 +12,117 @@
     {
      "id": "2D/HMPS/H10_00@49000#1",
      "jp": "ギダン国王：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>正式名はスティルトーグ・バ・ダスク<R>・ド・ギダン国王という。　　　　　<E>",
-     "en": ""
+     "en": "King of Gidan:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>His formal name is King Stiltog<R>Ba Dusk de Gidan.                 <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#2",
      "jp": "ム連邦大統領：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>名をオタワという。元軍人。　　　　<R>次期大統領選にそなえて準備中。　　<E>",
-     "en": ""
+     "en": "President Otawa:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>His name is Otawa. Ex-soldier.<R>Preparing for the next election.  <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#3",
      "jp": "ガシザキノ将軍：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>数々の活躍を評価され、現在は　　　<R>将軍としてギダン軍を率いている。　<E>",
-     "en": ""
+     "en": "Gashizakino:      <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Recognized for many feats, he now<R>leads the Gidan army as a general.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#4",
      "jp": "デ・サロ将軍：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ム連邦軍の将軍にしてゼシカの父。　<R>次期大統領選への立候補を噂される。<E>",
-     "en": ""
+     "en": "General De Saro:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Federation general and Zeshika's<R>father, rumored to run for office.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#5",
      "jp": "カカナン大佐：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>穏健派の士官として、今も　　　　　<R>兵士たちにしたわれている。　　　　<E>",
-     "en": ""
+     "en": "Colonel Kakanan:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>As a moderate officer, he is still<R>admired by the troops.            <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#6",
      "jp": "ミルト少尉：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>自称カ・ジャルコの婚約者だが、彼女<R>の方もそう思っているかは不明。　　<E>",
-     "en": ""
+     "en": "Lieutenant Milt:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Calls himself Ka Jarko's fiance,<R>but whether she agrees is unclear.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#7",
      "jp": "カフィの父：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>元ノイパスク軍人だったが、今は　　<R>ヤズサの郊外で静かに暮らしている。<E>",
-     "en": ""
+     "en": "Kafi's Father:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Once a Noipask soldier, he now<R>lives quietly outside Yazusa.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#8",
      "jp": "ガークス：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>勤勉にして誠実なる　　　　　　　　<R>ギダン国王の付き人。　　　　　　　<E>",
-     "en": ""
+     "en": "Garks:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Diligent and devoted attendant<R>to the King of Gidan.             <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#9",
      "jp": "ミユキ：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>出身星不明　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>シデル亡き今はギダン王の　　　　　<R>孫としてかわいがられている。　　　<E>",
-     "en": ""
+     "en": "Miyuki:           <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>With Sidel gone, she is doted on<R>as the King of Gidan's grandchild.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#10",
      "jp": "お供：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>普段温厚だがミユキのピンチには　　<R>サ○ヤ人になる、付き人。　　　　　<E>",
-     "en": ""
+     "en": "Attendant:        <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>An attendant, normally gentle, but<R>goes Sa*yan if Miyuki's in danger.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#11",
      "jp": "物知りじいさん：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ナデス島が墜落して湖に着水した時、<R>ギダン軍によって救出された。　　　<E>",
-     "en": ""
+     "en": "Old Sage:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>When Nades Island fell in a lake,<R>the Gidan army rescued him.       <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#12",
      "jp": "発明家アブナス：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ノイパスクから亡命して、ギダン軍で<R>武器の発明をしていた科学者。　　　<E>",
-     "en": ""
+     "en": "Inventor Abunas:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A scientist who defected from<R>Noipask to invent arms for Gidan. <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#13",
      "jp": "ダナスピ４世：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>オルダナスピ人　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ベルデセルバ星の英雄の子孫にして　<R>平和の象徴たるオルダナスピの国王。<E>",
-     "en": ""
+     "en": "Danaspi IV:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Oldanaspi         <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Heir to Velldeselba's hero; king<R>of Oldanaspi, the symbol of peace.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#14",
      "jp": "ゼシカ少佐：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>あいかわらずエリート軍人として　　<R>活躍。その人気はおとろえない。　　<E>",
-     "en": ""
+     "en": "Major Zeshika:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Still active as an elite officer.<R>Her popularity never fades.       <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#15",
      "jp": "ラウエル：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>一途にゼシカを追う貿易会社の社長。<R>商売の方は繁盛しているらしい。　　<E>",
-     "en": ""
+     "en": "Rauel:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Trading-firm boss, forever chasing<R>Zeshika. Business seems good.     <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#16",
      "jp": "秘書：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ラウエルの秘書。実は、その昔　　　<R>空の上でならした砲手だったらしい。<E>",
-     "en": ""
+     "en": "Secretary:        <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Rauel's secretary. Reportedly once<R>a renowned gunner up in the skies.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#17",
      "jp": "ダ・クダ：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ダクにアジトをかまえる空賊の頭。　<R>最近は表舞台に出る機会も増えた。　<E>",
-     "en": ""
+     "en": "Da Kuda:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Sky pirate boss, hideout in Dak.<R>Lately seen more in the limelight.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#18",
      "jp": "ブアブナム：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ダハにアジトをかまえる空賊の頭。　<R>ダ・クダとは無二の親友。　　　　　<E>",
-     "en": ""
+     "en": "Buabnam:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Sky pirate boss, hideout in Daha.<R>Da Kuda's dearest friend.         <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#19",
      "jp": "おねえさん：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>本職は看護婦であるらしいが、それに<R>しては制服姿を見せたことがない。　<E>",
-     "en": ""
+     "en": "Young Woman:      <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Said to be a nurse by trade, yet<R>she's never been seen in uniform. <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#20",
      "jp": "男：　　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ギダンの温泉、ワザノ出身。　　　　<R>いつでもどこでも海パン姿らしい。　<E>",
-     "en": ""
+     "en": "Man:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>From Wazano, Gidan's spa town.<R>Reportedly always in swim trunks. <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#21",
      "jp": "イヌ：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>イヌ科ベルセン種　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ベルデセルバ星に昔からいた狼を　　<R>品種改良し、家畜化したもの。　　　<E>",
-     "en": ""
+     "en": "Dog:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Velsen breed dog  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Velldeselba's native wolves,<R>selectively bred and domesticated.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#22",
      "jp": "闇商人：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>いつもは怪しい物品を扱う　　　　　<R>裏世界の商人なのだが……　　　　　<E>",
-     "en": ""
+     "en": "Black Marketeer:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Normally an underworld merchant<R>dealing in shady goods, but...    <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#23",
      "jp": "・・・・：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>　　　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>あぁ～らぶらぶらぶらぶ　　　　　　<R>らぶあんどぴ～すぅ！　　　　　　　<E>",
-     "en": ""
+     "en": "...:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>                  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Ahh, love-love-love-love<R>love and peeeace!                 <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#24",
@@ -447,347 +447,347 @@
     {
      "id": "2D/HMPS/H10_00@49000#88",
      "jp": "はやくも戦争終結から<R>１年がすぎた……<W><H>あの戦争を忘れてはいけない。<R>その思いの元に<R>各国から要人が集まり、<W><H>模擬戦闘のセレモニーが<R>とりおこなわれることになった。<W><H>船に要人や民間人を乗せ、<R>数々の戦闘に挑戦して欲しい。<W><E>",
-     "en": ""
+     "en": "A year has already passed since<R>the war ended...<W><H>That war must never be forgotten.<R>With that thought, dignitaries<R>gathered from every nation,<W><H>and a mock-battle ceremony was to<R>be held.<W><H>Carry dignitaries and civilians on<R>your ship and take on battle after<R>battle!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#89",
      "jp": "ギダン国王：<R>おお、久しぶりだのう、<R>ミサキよ。<W><H>余は一度大砲というものを<R>撃ってみたかったのだ。<W><H>余に手ほどきをするのだ。<R>わかったな。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Oho, it has been a while,<R>Misaki.<W><H>I have long wished to fire a<R>cannon just once.<W><H>You shall instruct me.<R>Understood?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#90",
      "jp": "ミサキ：<R>あいかわらず<R>わがままなじじいだぜ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Same selfish old gramps as ever.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#91",
      "jp": "<P13>ギダン国王が仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The King of Gidan has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#92",
      "jp": "ギダン国王：<R>余に手ほどきをするのだ。<R>わかったな。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>You shall instruct me.<R>Understood?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#93",
      "jp": "ギダン国王：<R>ほっほっほ、<R>やはり空の上は快適だのう！<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Hohoho, the skies truly are<R>delightful!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#94",
      "jp": "ム連邦大統領：<R>おお、ミサキくんか。<W><H>聞くところによると<R>君はまだ独身だという話<R>じゃないか。<W><H>よし、君にぴったりの<R>ご婦人を……<W><E>",
-     "en": ""
+     "en": "Federation President:<R>Oh, Misaki-kun.<W><H>I hear you're still single, aren't<R>you?<W><H>Right, I've got just the lady for<R>you...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#95",
      "jp": "ミサキ：<R>あ～、そっちの方は<R>まにあってるんだ。<W><H>それより、あんたも<R>船に乗るのかい？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Uh, I'm all set in that<R>department.<W><H>More to the point, you're coming<R>aboard too?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#96",
      "jp": "ム連邦大統領：<R>もちろんだ。<W><H>昔は軍隊でならしたこの腕前を<R>全世界の民に見てもらいたいと<R>思ってるよ。<W><H>これで次の大統領選挙も<R>いただきだな、<R>はっはっは……<W><E>",
-     "en": ""
+     "en": "Federation President:<R>Of course.<W><H>I want the people of the whole<R>world to see the skills I honed in<R>my army days.<W><H>That should clinch the next<R>presidential election, too.<R>Hahaha...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#97",
      "jp": "ミサキ：<R>わかったわかった。<R>じゃあ乗ってもらおうか。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Okay, okay. Climb aboard, then.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#98",
      "jp": "<P13>ム連邦大統領、オタワが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Federation President Otawa has<R>joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#99",
      "jp": "ム連邦大統領：<R>これで次の大統領選挙も<R>いただきだな、はっはっは……<W><E>",
-     "en": ""
+     "en": "Federation President:<R>That should clinch the next<R>presidential election. Hahaha...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#100",
      "jp": "ム連邦大統領：<R>空の上から選挙活動をするのは<R>いいアイデアだと思わないかね？<W><E>",
-     "en": ""
+     "en": "Federation President:<R>Campaigning from up in the sky...<R>don't you think it's a fine<R>idea?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#101",
      "jp": "ガシザキノ将軍：<R>やあ、元気か？<R>ミサキ。<W><E>",
-     "en": ""
+     "en": "General Gashizakino:<R>Hey, how've you been, Misaki?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#102",
      "jp": "ミサキ：<R>ああ。<W><H>そちらこそあいかわらず<R>元気そうだな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Good.<W><H>You look as lively as ever<R>yourself.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#103",
      "jp": "ガシザキノ将軍：<R>まだまだおまえには<R>負けられないからな。<W><H>カ・ジャルコはな、俺がじきじき<R>に教えたからこそあそこまでの<R>砲手に成長したんだ。<W><H>俺の腕前、とくと見てもらおう。<W><E>",
-     "en": ""
+     "en": "General Gashizakino:<R>I can't let you beat me just<R>yet.<W><H>Ka Jarko, you know, only became<R>the gunner she is because I<R>trained her personally.<W><H>Now watch my skills closely.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#104",
      "jp": "ミサキ：<R>ああ。<R>楽しみだよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Sure. I'm looking forward to it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#105",
      "jp": "<P13>ガシザキノ将軍が<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>General Gashizakino has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#106",
      "jp": "ガシザキノ将軍：<R>俺の腕前、とくと見てもらおう。<W><E>",
-     "en": ""
+     "en": "General Gashizakino:<R>Now watch my skills closely.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#107",
      "jp": "ガシザキノ将軍：<R>おまえもなかなかやるな。<R>ははははは。<W><E>",
-     "en": ""
+     "en": "General Gashizakino:<R>You're not half bad yourself.<R>Hahahaha.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#108",
      "jp": "デ・サロ将軍：<R>ああ、ミサキくん。<W><H>いつぞやはゼシカが<R>世話になった。<W><H>あらためて感謝の言葉を<R>のべさせてもらいたい。<W><E>",
-     "en": ""
+     "en": "General De Saro:<R>Ah, Misaki-kun.<W><H>You looked after Zeshika some time<R>ago.<W><H>Allow me to thank you properly<R>once again.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#109",
      "jp": "ミサキ：<R>世話なんかしたおぼえは<R>ないけどなあ……<W><E>",
-     "en": ""
+     "en": "Misaki:<R>I don't remember looking after<R>her, though...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#110",
      "jp": "デ・サロ将軍：<R>はははは。<W><H>あいかわらずあの娘は<R>嫁にも行かず、<R>空を飛び回っている。<W><H>もう少し落ち着いて欲しい<R>ものなんだが……<W><E>",
-     "en": ""
+     "en": "General De Saro:<R>Hahaha.<W><H>That girl still hasn't married,<R>and keeps flying all over the<R>sky.<W><H>I do wish she'd settle down a<R>bit...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#111",
      "jp": "ミサキ：<R>そのほうが、<R>ゼシカらしいと思うぜ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>That's just Zeshika being Zeshika,<R>if you ask me.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#112",
      "jp": "デ・サロ将軍：<R>そういうものか……<W><H>それはそれとして、<R>君の船に乗せてもらいたいのだが<R>よろしいかな。<W><H>君の操縦の腕前も<R>拝見したいしな。<W><E>",
-     "en": ""
+     "en": "General De Saro:<R>Is that so...<W><H>Be that as it may, might I ride<R>aboard your ship?<W><H>I'd like to see your piloting<R>skills, too.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#113",
      "jp": "ミサキ：<R>ああ、歓迎するぜ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Sure, you're welcome aboard.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#114",
      "jp": "<P13>デ・サロ将軍が<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>General De Saro has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#115",
      "jp": "デ・サロ将軍：<R>君の腕前を拝見しよう。<W><E>",
-     "en": ""
+     "en": "General De Saro:<R>Let me see your skills.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#116",
      "jp": "デ・サロ将軍：<R>君がわたしの部下じゃないのが<R>残念だよ。<W><E>",
-     "en": ""
+     "en": "General De Saro:<R>A pity you're not one of my men.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#117",
      "jp": "カカナン大佐：<R>ああ、ミサキくん。<W><E>",
-     "en": ""
+     "en": "Colonel Kakanan:<R>Ah, Misaki-kun.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#118",
      "jp": "ミサキ：<R>カカナンのおっさん、<W><H>あいかわらず軍人なんて<R>やってんのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Old man Kakanan,<W><H>you're still playing soldier?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#119",
      "jp": "カカナン大佐：<R>ああ、私にはこれしか<R>できんのだ。<W><H>おかげで、今は大佐などと<R>呼ばれているよ。<W><E>",
-     "en": ""
+     "en": "Colonel Kakanan:<R>Yes, it's all I know how to do.<W><H>Thanks to that, they call me<R>\"Colonel\" now.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#120",
      "jp": "ミサキ：<R>いっしょの船で戦うのは<R>はじめてだな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>First time we'll fight on the same<R>ship, huh.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#121",
      "jp": "カカナン大佐：<R>そういえばそうだな。<R>とても楽しみだよ。<W><E>",
-     "en": ""
+     "en": "Colonel Kakanan:<R>Come to think of it, you're right.<R>I'm looking forward to it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#122",
      "jp": "<P13>カカナン大佐が<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Colonel Kakanan has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#123",
      "jp": "カカナン大佐：<R>とても楽しみだよ。<W><E>",
-     "en": ""
+     "en": "Colonel Kakanan:<R>I'm looking forward to it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#124",
      "jp": "カカナン大佐：<R>わしの腕もまだまだだろ？<R>ははははは。<W><E>",
-     "en": ""
+     "en": "Colonel Kakanan:<R>I've still got it, eh? Hahahaha.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#125",
      "jp": "ミルト少尉：<R>ミサキさんですね。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>You must be Misaki-san.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#126",
      "jp": "ミサキ：<R>だれだ？<R>あんた。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Who are you?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#127",
      "jp": "ミルト少尉：<R>ギダン軍少尉のミルトです。<W><H>カ・ジャルコの……<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>Second Lieutenant Milt of the<R>Gidan army.<W><H>Ka Jarko's...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#128",
      "jp": "ミサキ：<R>カ・ジャルコの？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Ka Jarko's?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#129",
      "jp": "ミルト少尉：<R>婚約者なんですが。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>Fiance, actually.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#130",
      "jp": "ミサキ：<R>ええ～～～っ！<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Whaaaaat!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#131",
      "jp": "ミルト少尉：<R>そんなに驚かれるとは、<R>意外ですね。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>I didn't expect you to be so<R>surprised.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#132",
      "jp": "ミサキ：<R>あいつが？<W><H>婚約者がいるなんて<R>きいたことがないが……<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Her?<W><H>I never heard she had a<R>fiance...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#133",
      "jp": "ミルト少尉：<R>彼女、はずかしがりやですから。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>She's shy, you see.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#134",
      "jp": "ミサキ：<R>そうなのかな……？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Is that so...?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#135",
      "jp": "ミルト少尉：<R>ここへは父さんに言われて<R>来たんです。<W><H>ミサキさんに<R>しごいてもらえって。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>My father sent me here.<W><H>He told me to have Misaki-san whip<R>me into shape.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#136",
      "jp": "ミサキ：<R>そうか。<W><H>じゃあ、お望みどおり<R>しごいてやろうじゃないか。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>I see.<W><H>Then I'll whip you into shape,<R>just like you asked.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#137",
      "jp": "<P13>ミルト少尉が仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Second Lieutenant Milt has joined<R>the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#138",
      "jp": "ミルト少尉：<R>ミサキさん、<R>よろしくお願いしますね。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>I'm in your hands, Misaki-san.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#139",
      "jp": "ミルト少尉：<R>ミサキさんの<R>船って……ハードですね。<W><E>",
-     "en": ""
+     "en": "Second Lieutenant Milt:<R>Your ship is... pretty hardcore,<R>Misaki-san.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#140",
      "jp": "カフィの父：<R>やあ、ひさしぶりだね。<W><E>",
-     "en": ""
+     "en": "Kafi's Father:<R>Hello, it's been a while.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#141",
      "jp": "ミサキ：<R>カフィとカルフの<R>親父さんじゃないか！<W><E>",
-     "en": ""
+     "en": "Misaki:<R>If it isn't Kafi and Karf's old<R>man!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#142",
      "jp": "カフィの父：<R>今日はきみの飛空船に<R>乗せてもらおうと思ってな。<W><H>少しは娘たちの気持ちが<R>理解できるかもしれん。<W><E>",
-     "en": ""
+     "en": "Kafi's Father:<R>Today I thought I'd ride aboard<R>your airship.<W><H>Perhaps I'll come to understand my<R>daughters a little better.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#143",
      "jp": "ミサキ：<R>いいとも。<R>歓迎するよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Sure thing. You're welcome<R>aboard.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#144",
      "jp": "カフィの父：<R>ありがとう。<W><E>",
-     "en": ""
+     "en": "Kafi's Father:<R>Thank you.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#145",
      "jp": "<P13>カフィの父親が<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Kafi's father has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#146",
      "jp": "カフィの父：<R>なんだか、ワクワクしてくるな。<R>こんな気持ちは久しぶりだよ。<W><E>",
-     "en": ""
+     "en": "Kafi's Father:<R>I'm getting excited, somehow. I<R>haven't felt like this in a long<R>time.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#147",
      "jp": "はあ、はあ、<R>重労働だな、これは……<W><H>娘たちもよくやるよ……<W><E>",
-     "en": ""
+     "en": "Huff, huff... This is hard<R>labor...<W><H>My girls really do this...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#148",
      "jp": "ガークス：<R>ミサキどの。<W><E>",
-     "en": ""
+     "en": "Garks:<R>Misaki-dono.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#149",
      "jp": "ミサキ：<R>あんたは国王の……<W><E>",
-     "en": ""
+     "en": "Misaki:<R>You're the King's...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#150",
      "jp": "ガークス：<R>付き人のガークスです。<W><H>いつぞやは陛下をいろいろ<R>たすけていただきまして。<W><E>",
-     "en": ""
+     "en": "Garks:<R>Attendant, Garks.<W><H>Thank you for all the help you<R>gave His Majesty back then.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#151",
      "jp": "ミサキ：<R>そうだったっけな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Did I, now?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#152",
      "jp": "ガークス：<R>いまでもこのように、<W><H>国王陛下の付き人として<R>はたらいております。<W><E>",
-     "en": ""
+     "en": "Garks:<R>And as you see, even now<W><H>I serve as His Majesty the King's<R>attendant.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#153",
      "jp": "ミサキ：<R><F63>に<R>乗るか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Want to ride on <F63>?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#154",
      "jp": "ガークス：<R>いいえ、陛下のおそばを<R>離れるわけには……<W><E>",
-     "en": ""
+     "en": "Garks:<R>No, I cannot leave His Majesty's<R>side...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#155",
      "jp": "ミサキ：<R>そうか。<R>じゃあまたな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>I see. See you around, then.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#156",
      "jp": "ガークス：<R>陛下のおそばを離れるわけには<R>いきませんので。<W><E>",
-     "en": ""
+     "en": "Garks:<R>I cannot leave His Majesty's side,<R>you see.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#157",
@@ -822,17 +822,17 @@
     {
      "id": "2D/HMPS/H10_00@49000#163",
      "jp": "ガークス：<R>陛下がお乗りになるのでしたら<R>わたしもついてゆきます。<W><E>",
-     "en": ""
+     "en": "Garks:<R>If His Majesty is riding, I shall<R>come along as well.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#164",
      "jp": "<P13>ガークスが仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Garks has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#165",
      "jp": "ミサキ：<R>ガークス、国王は<R>乗るっていってるぜ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Garks, the King says he's<R>riding.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#166",
@@ -847,362 +847,362 @@
     {
      "id": "2D/HMPS/H10_00@49000#168",
      "jp": "ガークス：<R>国王陛下にはどこまでも<R>ついてゆきます。<W><E>",
-     "en": ""
+     "en": "Garks:<R>I shall follow His Majesty the<R>King anywhere.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#169",
      "jp": "ガークス：<R>国王陛下の楽しそうなお姿を見て<R>いるだけでわたしは満足です。<W><E>",
-     "en": ""
+     "en": "Garks:<R>Just seeing His Majesty enjoying<R>himself is all I need.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#170",
      "jp": "ミユキ：<R>ミサキさん。<W><H>ちょっとお願いが<R>あるんですけど……<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Misaki-san.<W><H>I have a little favor to ask...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#171",
      "jp": "ミサキ：<R>ん？　なんだ？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Hm? What is it?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#172",
      "jp": "ミユキ：<R>私に飛空船の操縦を<R>教えてくれませんか？<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Would you teach me how to fly an<R>airship?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#173",
      "jp": "ミサキ：<R>そりゃいいけど、<R>どうしたんだ、いきなり？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Sure, but what's this all of a<R>sudden?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#174",
      "jp": "ミユキ：<R>そんな大したことじゃないの。<R>みんなを乗せてあげたいだけ。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>It's nothing big. I just want to<R>give everyone a ride.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#175",
      "jp": "ミサキ：<R>みんな？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Everyone?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#176",
      "jp": "ミユキ：<R>そう。この星の人みんな。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Yes. Everyone on this planet.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#177",
      "jp": "ミサキ：<R>ふーん……<W><H>俺も手伝ってやろうか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Hmm...<W><H>Want me to help out?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#178",
      "jp": "ミユキ：<R>ほんと？　うれしい！<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Really? I'm so happy!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#179",
      "jp": "お供：<R>ミ、ミユキさま、<R>おケガでもされては……<W><E>",
-     "en": ""
+     "en": "Attendant:<R>M-Miyuki-sama, what if you were to<R>get hurt...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#180",
      "jp": "ミサキ：<R>心配なんだったら<R>あんたも来いよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>If you're so worried, come along<R>too.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#181",
      "jp": "お供：<R>わ、わたくしもですか？<R>はあ……<W><E>",
-     "en": ""
+     "en": "Attendant:<R>M-me as well? Oh, dear...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#182",
      "jp": "<P13>ミユキが仲間になりました。<W><H>お供が仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Miyuki has joined the crew.<W><H>The Attendant has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#183",
      "jp": "ミユキ：<R>いいなあ……<W><H>私も<F63>のような船がほしいな。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Lucky you...<W><H>I wish I had a ship like the <F63><R>too.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#184",
      "jp": "ミユキ：<R>あとで操縦も教えてね。<W><E>",
-     "en": ""
+     "en": "Miyuki:<R>Teach me how to fly it later,<R>okay?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#185",
      "jp": "お供：<R>ミサキさま、<R>ごきげんよう。<W><E>",
-     "en": ""
+     "en": "Attendant:<R>Misaki-sama, good day to you.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#186",
      "jp": "お供：<R>ミユキさまが戦闘に<R>参加されるなるなんて……<W><E>",
-     "en": ""
+     "en": "Attendant:<R>To think that Miyuki-sama would<R>take part in a battle...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#187",
      "jp": "お供：<R>ミユキさま、近頃はずいぶんと<R>明るくなられて……<W><E>",
-     "en": ""
+     "en": "Attendant:<R>Miyuki-sama has become so much<R>more cheerful of late...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#188",
      "jp": "ミサキ：<R>じいさん！<R>生きてたのか！！<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Gramps! You're alive!!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#189",
      "jp": "物知りじいさん：<R>いろいろあったんじゃが……<W><H>まあ、くわしいことは<R>いずれ話そう。<W><E>",
-     "en": ""
+     "en": "Old Sage:<R>A great deal happened...<W><H>Well, I'll tell you the details<R>one of these days.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#190",
      "jp": "ミサキ：<R>じいさん、<R>大砲なんてうてるのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Gramps, can you even fire a<R>cannon?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#191",
      "jp": "物知りじいさん：<R>大砲？　とんでもない。<W><H>わしはおまえの船に<R>乗せてもらえるだけで<R>じゅうぶんじゃ。<W><E>",
-     "en": ""
+     "en": "Old Sage:<R>A cannon? Heavens, no.<W><H>Just being allowed to ride on your<R>ship is plenty for me.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#192",
      "jp": "<P13>物知りじいさんが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The Old Sage has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#193",
      "jp": "物知りじいさん：<R>おまえの船に乗せてもらえる<R>だけでじゅうぶんじゃ。<W><E>",
-     "en": ""
+     "en": "Old Sage:<R>Just being allowed to ride on your<R>ship is plenty for me.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#194",
      "jp": "物知りじいさん：<R>時代は変わっても……ベルデセル<R>バの空だけは、変わらんのじゃ。<W><E>",
-     "en": ""
+     "en": "Old Sage:<R>Times may change... but the skies<R>of Velldeselba alone never do.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#195",
      "jp": "発明家アブナス：<R>やあ、こんにちは。<W><H>ぼく、最近は日用品の<R>発明にこってるんだ。<W><E>",
-     "en": ""
+     "en": "Inventor Abunas:<R>Oh, hi there.<W><H>Lately I've been really into<R>inventing everyday goods.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#196",
      "jp": "ミサキ：<R>その発明家さんが<R>なぜ船に乗ろうなんて？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>So why would an inventor like you<R>want to ride a ship?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#197",
      "jp": "発明家アブナス：<R>船の旅行用品について、<R>なにかひらめくんじゃないか、<R>って思ってさ。<W><E>",
-     "en": ""
+     "en": "Inventor Abunas:<R>I figured I might get some flash<R>of inspiration about travel<R>goods for ships, you know?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#198",
      "jp": "ミサキ：<R>旅行用品ねえ。<W><H>わかったよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Travel goods, huh.<W><H>All right.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#199",
      "jp": "<P13>発明家アブナスが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Inventor Abunas has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#200",
      "jp": "発明家アブナス：<R>さあ、ひらめくぞ～！<W><E>",
-     "en": ""
+     "en": "Inventor Abunas:<R>Okay, here come the ideas!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#201",
      "jp": "発明家アブナス：<R>船で洗濯物が干せる「空中物干し<R>ざお」を思いついちゃったよ！<W><E>",
-     "en": ""
+     "en": "Inventor Abunas:<R>I just thought up the \"Sky<R>Clothesline\" so you can hang<R>laundry out on a ship!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#202",
      "jp": "ダナスピ４世：<R>私も乗せてもらえるかね？<W><E>",
-     "en": ""
+     "en": "Danaspi IV:<R>Might I come aboard as well?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#203",
      "jp": "ミサキ：<R>あんたが？<R>ドンパチは嫌いなんじゃ……<W><E>",
-     "en": ""
+     "en": "Misaki:<R>You? I thought you hated all this<R>shooting...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#204",
      "jp": "ダナスピ４世：<R>そうではない。<R>それを物事の解決手段にしては<R>いかん、ということだ。<W><E>",
-     "en": ""
+     "en": "Danaspi IV:<R>That is not so. What I mean is<R>that one must not make it the<R>means of settling matters.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#205",
      "jp": "ミサキ：<R>なるほど。<R>じゃ、嫌いじゃないんだ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>I see. So you don't hate it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#206",
      "jp": "ダナスピ４世：<R>そう短絡的に考えてもいかん。<W><E>",
-     "en": ""
+     "en": "Danaspi IV:<R>Nor should you leap to such simple<R>conclusions.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#207",
      "jp": "ミサキ：<R>はいはい。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Yeah, yeah.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#208",
      "jp": "<P13>ダナスピ国王が<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>King Danaspi has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#209",
      "jp": "ダナスピ４世：<R>空はいいのう……<W><E>",
-     "en": ""
+     "en": "Danaspi IV:<R>Ah, the sky is a fine thing...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#210",
      "jp": "ダナスピ４世：<R>案外楽しいものだな。<R>気に入ったぞ……<W><E>",
-     "en": ""
+     "en": "Danaspi IV:<R>This is more enjoyable than I<R>expected. I am quite taken with<R>it...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#211",
      "jp": "ゼシカ少佐：<R>ミサキ、<R>お久しぶりね！<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>Misaki, it's been a long time!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#212",
      "jp": "ミサキ：<R>ああ、ゼシカか。<W><H>婚約者とはうまくいってるのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Oh, Zeshika.<W><H>So how are things with your<R>fiance?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#213",
      "jp": "ゼシカ少佐：<R>婚約者？　なんのこと？<W><H>父が勝手にそんなことを<R>言ってるだけだわ。<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>Fiance? What are you talking<R>about?<W><H>That's just something my father<R>keeps saying on his own.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#214",
      "jp": "ミサキ：<R>１年たっても進展なしか。<R>男が気の毒だな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>A whole year and still no<R>progress, huh? I feel sorry for<R>the guy.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#215",
      "jp": "ゼシカ少佐：<R>カフィさんは元気なの？<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>Is Kafi-san doing well?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#216",
      "jp": "ミサキ：<R>ああ。<W><H>ノイパスクの民間人がこの星で<R>うまく生活していけるように<R>手助けがしたいと言って、<W><H>ハウエズナやオユ・キクルたちと<R>一緒にあちこち飛び回ってるよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Yeah.<W><H>She said she wants to help the<R>Noipask civilians build a good<R>life on this planet,<W><H>so she's flying all over the place<R>with Hauezna, Oyu Kikuru and the<R>others.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#217",
      "jp": "ゼシカ少佐：<R>さすがはカフィさんね。<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>That's Kafi-san for you.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#218",
      "jp": "ミサキ：<R>どうだ、いっしょに<R>飛んでみないか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>So how about it? Want to fly with<R>me?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#219",
      "jp": "ゼシカ少佐：<R>ええ。<W><H>もちろんそのつもりで来たのよ。<W><H>思えば、あなたの船に乗ったこと<R>はあっても、いっしょに戦った<R>ことは一度もなかったのよね。<W><H>ふしぎだわ。<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>Yes.<W><H>Of course, that's what I came<R>for.<W><H>Come to think of it, I've ridden<R>on your ship before, but we've<R>never once fought side by side.<W><H>Strange, isn't it?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#220",
      "jp": "ミサキ：<R>そういえばそうだな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Now that you mention it, you're<R>right.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#221",
      "jp": "<P13>ゼシカ少佐が仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Major Zeshika has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#222",
      "jp": "ゼシカ少佐：<R>いままでいっしょに戦ったことは<R>一度もなかったのよね。<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>Until now, we'd never once fought<R>side by side.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#223",
      "jp": "ゼシカ少佐：<R>あなたと空を飛べて、<R>いい気分転換になったわ。<W><E>",
-     "en": ""
+     "en": "Major Zeshika:<R>Flying the skies with you made for<R>a nice change of pace.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#224",
      "jp": "ラウエル：<R>ああ、<R>ミサキさん。<W><H>貿易商のラウエルです。<R>ご活躍のウワサは<R>いつも聞いております。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Ah, Misaki-san.<W><H>I am Rauel, the trader. I<R>constantly hear rumors of your<R>exploits.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#225",
      "jp": "ミサキ：<R>商売の方はどうだい？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>How's business treating you?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#226",
      "jp": "ラウエル：<R>おかげさまで繁盛しております。<R>ギダン、オルダナスピ、ム連邦を<R>つなぐ交易ルートを<R>いちはやくおさえ、<W><H>国際貿易大船団を結成したところ<R>それが大当たりしまして。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Thriving, thank you. I was first<R>to secure the trade routes<R>linking Gidan, Oldanaspi and the<R>Federation,<W><H>then formed a grand international<R>trading fleet, and it has been a<R>smash hit.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#227",
      "jp": "ミサキ：<R>たいしたもんだ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Not bad at all.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#228",
      "jp": "ラウエル：<R>本日は一市民としてこの<R>セレモニーに参加しに来ました。<W><H>よろしくおねがいします。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Today I have come to take part in<R>this ceremony as an ordinary<R>citizen.<W><H>I look forward to flying with<R>you.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#229",
      "jp": "ミサキ：<R>わかった。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Got it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#230",
      "jp": "<P13>ラウエルが仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Rauel has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#231",
      "jp": "ラウエル：<R>よろしくおねがいします。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>I look forward to flying with<R>you.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#232",
      "jp": "ラウエル：<R>見ると聞くとでは大違いですね。<R>ついていくのがやっとでしたよ。<W><E>",
-     "en": ""
+     "en": "Rauel:<R>Seeing it is nothing like hearing<R>about it. I could barely keep<R>up.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#233",
      "jp": "ミサキ：<R>やあ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Hey there.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#234",
      "jp": "秘書：<R>これはこれは、<R>ミサキさま……<W><H>ラウエルの秘書でございます。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Why, if it isn't Misaki-sama...<W><H>I am Rauel's secretary.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#235",
      "jp": "ミサキ：<R>秘書ってのは、<W><H>いつも社長といっしょに<R>いなきゃなんないのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>So does a secretary<W><H>always have to stick by the<R>president's side?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#236",
      "jp": "秘書：<R>うちの社長には、<W><H>このベルデセルバ星の<R>貿易経済をになうという<R>大切な仕事があります。<W><H>わたくしの責任も重大です。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Our president,<W><H>you see, bears the important task<R>of shouldering the trade economy<R>of the planet Velldeselba.<W><H>My own responsibility is grave as<R>well.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#237",
      "jp": "ミサキ：<R>俺の船に乗りに来たのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>You came to ride on my ship?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#238",
      "jp": "秘書：<R>ええ、社長がどうしてもと<R>もうしまして。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Yes, the president simply<R>insisted.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#239",
      "jp": "秘書：<R>社長がどうしてもあなたの船に<R>乗りたいともうしております。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>The president insists on riding on<R>your ship.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#240",
@@ -1237,22 +1237,22 @@
     {
      "id": "2D/HMPS/H10_00@49000#246",
      "jp": "ミサキ：<R>じゃあ、あんたも<R>いっしょに乗れよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Then you come aboard with him.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#247",
      "jp": "秘書：<R>よろしいのですか？<R>ありがとうございます。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>Is that quite all right? Thank you<R>very much.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#248",
      "jp": "<P13>ラウエルの秘書が<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Rauel's Secretary has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#249",
      "jp": "ミサキ：<R>ラウエルが乗ることになったぜ。<R>当然あんたもいっしょなんだろ？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Rauel's riding with me. Naturally<R>you're coming along too, right?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#250",
@@ -1267,207 +1267,207 @@
     {
      "id": "2D/HMPS/H10_00@49000#252",
      "jp": "秘書：<R>社長と共に乗せていただきます。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>I shall ride alongside the<R>president.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#253",
      "jp": "秘書：<R>久しぶりに血がたぎりましたよ。<W><E>",
-     "en": ""
+     "en": "Secretary:<R>It has been a long time since my<R>blood boiled like that.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#254",
      "jp": "ダ・クダ：<R>おう、ミサキ！<R>元気でやってるか？<W><H>ひっく。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Hey, Misaki! You doin' all<R>right?<W><H>Hic.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#255",
      "jp": "ミサキ：<R>ごきげんじゃないか、<R>ダ・クダ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>You're in a fine mood, Da Kuda.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#256",
      "jp": "ダ・クダ：<R>がはははは。<W><H>俺の場合は、酒さえあれば<R>いつでもどこでも<R>しあわせでいられるってもんだ。<W><H>おまえの船に乗るぜ。<R>文句ねえな。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Gahahahaha.<W><H>Me, long as I got booze, I'm happy<R>anytime, anywhere.<W><H>I'm ridin' on your ship. No<R>complaints, right?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#257",
      "jp": "ミサキ：<R>どうせダメだと言っても<R>乗り込んでくるんだろ？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Even if I said no, you'd just<R>climb aboard anyway, right?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#258",
      "jp": "ダ・クダ：<R>わかってるじゃねえか。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Now you're gettin' it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#259",
      "jp": "<P13>空賊ダ・クダが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Sky pirate Da Kuda has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#260",
      "jp": "ダ・クダ：<R>おまえの船に乗るぜ。<R>文句ねえな。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>I'm ridin' on your ship. No<R>complaints, right?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#261",
      "jp": "ダ・クダ：<R>ははは、俺から見れば<R>おまえもまだまだだな。<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Hahaha, the way I see it, you've<R>still got a ways to go.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#262",
      "jp": "ブアブナム：<R>よう、ミサキか。<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>Hey, if it ain't Misaki.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#263",
      "jp": "ミサキ：<R>ひさしぶりだな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Long time no see.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#264",
      "jp": "ブアブナム：<R>カルフは元気でやってるか？<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>Is Karf doin' all right?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#265",
      "jp": "ミサキ：<R>ん？　元気だっていう<R>話は聞いているけどな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Hm? Last I heard, she's doing<R>fine.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#266",
      "jp": "ブアブナム：<R>いかん、いかん！<R>そんなことじゃいかーん！<W><H>あいつはおまえに預けたんだ！<R>ちゃんと面倒を見ろ！<R>あの娘を不幸にしてはいかん！<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>No, no! That won't do! That won't<R>do at all!<W><H>I left her in your hands! Look<R>after her proper! Don't you make<R>that girl unhappy!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#267",
      "jp": "ミサキ：<R>お、おいおい、<R>どうしたんだよ、いったい？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>H-hey, whoa, what's gotten into<R>you all of a sudden?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#268",
      "jp": "ブアブナム：<R>いや、あいつも年頃だからな。<W><H>そろそろ落ちついても<R>いいんじゃないかと思ってな……<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>Well, she's of marrying age,<R>y'know.<W><H>Figured it's about time she<R>settled down...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#269",
      "jp": "ミサキ：<R>なんだか、<R>ほんとの父親みたいだな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>You sound just like her real<R>father.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#270",
      "jp": "ブアブナム：<R>まったくだ……<R>我ながらあきれるよ。<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>Ain't that the truth... Even I<R>can't believe myself.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#271",
      "jp": "ミサキ：<R>まあ、そのことは、<R>あとでゆっくり話そう。<R>とりあえず乗った乗った！<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Well, let's talk that over<R>properly later. For now, climb<R>aboard, climb aboard!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#272",
      "jp": "<P13>空賊ブアブナムが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>Sky pirate Buabnam has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#273",
      "jp": "ブアブナム：<R>乗せてもらうぜ。<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>I'll be ridin' with ya.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#274",
      "jp": "ブアブナム：<R>やっぱり模擬戦じゃ<R>たいしたことねえな。<W><E>",
-     "en": ""
+     "en": "Buabnam:<R>Figures. A mock battle ain't much<R>of anything.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#275",
      "jp": "おねえさん：<R>うふふふふふ。<W><E>",
-     "en": ""
+     "en": "Young Woman:<R>Ufufufufu.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#276",
      "jp": "ミサキ：<R>あんた、そんなかっこうで<R>さむくないのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Aren't you cold, dressed like<R>that?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#277",
      "jp": "おねえさん：<R>あたし、看護婦なの。<W><H>だから、カゼをひいても<R>ぜんぜんだいじょうぶなの。<W><E>",
-     "en": ""
+     "en": "Young Woman:<R>I'm a nurse, you see.<W><H>So even if I catch a cold, it's no<R>problem at all.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#278",
      "jp": "ミサキ：<R>そういうものか。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Is that how it works?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#279",
      "jp": "おねえさん：<R>ねえねえ、船にのせてよ。<R>みんなを応援してあげたいの。<W><E>",
-     "en": ""
+     "en": "Young Woman:<R>Hey, hey, let me on your ship. I<R>want to cheer everybody on.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#280",
      "jp": "ミサキ：<R>う～ん。<R>いいのかな？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Hmmm. Is this really okay?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#281",
      "jp": "<P13>水着のおねえさんが<R>仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The young woman in the swimsuit<R>has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#282",
      "jp": "おねえさん：<R>みんなを応援してあげるわ。<W><E>",
-     "en": ""
+     "en": "Young Woman:<R>I'll cheer everybody on!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#283",
      "jp": "おねえさん：<R>う～ん、もえもえ。<W><E>",
-     "en": ""
+     "en": "Young Woman:<R>Mmm, I'm all fired up!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#284",
      "jp": "男：<R>ミサキじゃないか。<W><E>",
-     "en": ""
+     "en": "Man:<R>Hey, it's Misaki!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#285",
      "jp": "ミサキ：<R>そうだが……<R>だれだっけ？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>That's right... Who are you<R>again?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#286",
      "jp": "男：<R>あんたを知らないヤツなんて<R>このベルデセルバにいるもんか。<W><H>英雄あつかいされるのを<R>いやがって、ほうびは<R>受け取らないし、<W><H>なんの役職にもつきたがらない<R>男というので、<R>話題になったからな。<W><E>",
-     "en": ""
+     "en": "Man:<R>Nobody in all of Velldeselba<R>doesn't know you.<W><H>You hated being treated like a<R>hero, you wouldn't take any<R>reward,<W><H>and you didn't want any post at<R>all. That made you the talk of the<R>town.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#287",
      "jp": "ミサキ：<R>そんなこともあったかな。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>I guess that did happen.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#288",
      "jp": "男：<R>あんたの船にのせてくれよ。<R>たのむぜ。<W><H>国のやつらに<R>自慢してやりたいんだ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Let me on your ship. Come on,<R>please.<W><H>I want to brag to the folks back<R>home.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#289",
      "jp": "ミサキ：<R>わかったよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>All right, all right.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#290",
      "jp": "<P13>水着男が仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The man in the swimsuit has joined<R>the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#291",
      "jp": "男：<R>国のやつらに自慢できるぜ。<W><E>",
-     "en": ""
+     "en": "Man:<R>Now I can brag to the folks back<R>home.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#292",
      "jp": "男：<R>……ほれたぜ。<R>やっぱりあんたは英雄だ。<W><E>",
-     "en": ""
+     "en": "Man:<R>...I'm smitten. You really are a<R>hero.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#293",
@@ -1477,22 +1477,22 @@
     {
      "id": "2D/HMPS/H10_00@49000#294",
      "jp": "ミサキ：<R>なんだ？<R>船に乗りたいのか？<W><E>",
-     "en": ""
+     "en": "Misaki:<R>What's up? You want to ride the<R>ship?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#295",
      "jp": "イヌ：<R>わん！<W><E>",
-     "en": ""
+     "en": "Dog:<R>Woof!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#296",
      "jp": "ミサキ：<R>船は動物禁止だったっけ？<R>まあいいか。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Were animals banned on the ship?<R>Oh, whatever.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#297",
      "jp": "<P13>イヌが仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The dog has joined the crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#298",
@@ -1502,47 +1502,47 @@
     {
      "id": "2D/HMPS/H10_00@49000#299",
      "jp": "イヌ：<R>わわわ、わんわん！<W><E>",
-     "en": ""
+     "en": "Dog:<R>Wo-wo-woof, woof woof!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#300",
      "jp": "闇商人：<R>もしもし、だんな。<W><E>",
-     "en": ""
+     "en": "Black Marketeer:<R>Pardon me, sir.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#301",
      "jp": "ミサキ：<R>押し売りならおことわりだぜ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>If you're here to push something<R>on me, I'm not buying.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#302",
      "jp": "闇商人：<R>押し売りだなんて、<R>そんな人聞きの悪い。<W><H>話のタネに一度だんなの船に<R>乗せてもらいたいとおもって、<W><H>こうしてわざわざ<R>やってきたんですから。<W><E>",
-     "en": ""
+     "en": "Black Marketeer:<R>Push something on you? What a<R>dreadful thing to say.<W><H>I simply wanted to ride your ship<R>just once, sir, for a story to<R>tell,<W><H>so I went to the trouble of coming<R>all the way here.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#303",
      "jp": "ミサキ：<R>へえ。<R>おどろいたな。<W><H>いっとくが、<R>これは模擬戦闘だから、<R>一銭にもならないぜ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Huh. That's a surprise.<W><H>Just so you know, this is a mock<R>battle, so there's not a penny in<R>it.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#304",
      "jp": "闇商人：<R>もちろんそんなことは<R>しょうちしております。<W><E>",
-     "en": ""
+     "en": "Black Marketeer:<R>Of course, I'm well aware of<R>that.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#305",
      "jp": "ミサキ：<R>それならいい。<R>乗せてやるよ。<W><E>",
-     "en": ""
+     "en": "Misaki:<R>Then fine. I'll let you aboard.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#306",
      "jp": "<P13>闇商人が仲間になりました。<P15><W><E>",
-     "en": ""
+     "en": "<P13>The Black Marketeer has joined the<R>crew.<P15><W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#307",
      "jp": "闇商人：<R>ふっふっふ。<W><E>",
-     "en": ""
+     "en": "Black Marketeer:<R>Heh heh heh.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#308",
@@ -1587,12 +1587,12 @@
     {
      "id": "2D/HMPS/H10_00@49000#316",
      "jp": "ギター弾き：<R>ぼくらの力でっ、<R>へいわがおとずれた～<W><H>ベルデセルバの星にっ、<R>あいとへいわっがぁ～<W><H>こどもたちに語りつごう、<R>この星のはっなっしぃを～<W><E>",
-     "en": ""
+     "en": "Guitarist:<R>By our own power, peace has come<R>at la~st<W><H>To the planet Velldeselba, love<R>and pea~ce<W><H>Let's pass it on to the children,<R>the sto~ry of this world~<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#317",
      "jp": "ギター弾き：<R>さあ、みんな一緒に！<W><H>あぁ～らぶらぶらぶらぶ<R>らぶあんどぴ～すぅ！<W><E>",
-     "en": ""
+     "en": "Guitarist:<R>Now, everybody together!<W><H>Aaah~ love love love love, love<R>and pea~ce!<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#318",
@@ -1602,7 +1602,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#319",
      "jp": "イヌ：<R>わんわん。<R>（裂弾強化）<W><E>",
-     "en": ""
+     "en": "Dog:<R>Woof woof. (Burst shells powered<R>up)<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#320",
@@ -1622,27 +1622,27 @@
     {
      "id": "2D/HMPS/H10_00@49000#323",
      "jp": "飛行船で何をしますか？<E>",
-     "en": ""
+     "en": "What will you do on the airship?<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#324",
      "jp": "離陸する<E>",
-     "en": ""
+     "en": "Take off<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#325",
      "jp": "仲間に伝令<E>",
-     "en": ""
+     "en": "Send word to the crew<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#326",
      "jp": "飛行日誌を書く<E>",
-     "en": ""
+     "en": "Write in the flight log<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#327",
      "jp": "飛行船を降りる<E>",
-     "en": ""
+     "en": "Leave the airship<E>"
     }
    ]
   }

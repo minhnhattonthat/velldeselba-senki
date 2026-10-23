@@ -7,12 +7,12 @@
     {
      "id": "3D/KMPS6/K90#0",
      "jp": "<*09>ダ・クダ：<R>計画では、すでにアダクダで<R>暴動が起こっているはずだ。<R><R><*01>俺たちの仕事は、<R>それを鎮圧に向かった部隊を<R>たたくことだ。<R><R>シデルの親衛艦が、<R>出てきているから、気をつけろ。<R>",
-     "en": ""
+     "en": "<*09>Da Kuda:<R>By now, Adakuda should be in<R>revolt, as planned.<R><R><*01>Our job is to hit the troops<R>sent to put it down.<R><R>Sidel's Guard ships are out,<R>so be careful.<R>"
     },
     {
      "id": "3D/KMPS6/K90#1",
      "jp": "<%S><_00>：<R>アダクダが近いぞ。<R><@14>ハウエズナ：<R>前方に戦闘中の船団を発見！<R><@1c><%S><_00>：<R>暴動は成功したみたいだな。<@10>突っ込むぞ！<R><@14>",
-     "en": ""
+     "en": "<%S><_00>:<R>Adakuda's close.<R><@14>Hauezna:<R>Ships in combat sighted ahead!<R><@1c><%S><_00>:<R>Looks like the revolt worked.<@10>We're going in!<R><@14>"
     },
     {
      "id": "3D/KMPS6/K90#2",

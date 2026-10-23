@@ -7,17 +7,17 @@
     {
      "id": "3D/GMPS4/G55#0",
      "jp": "<%S><_00>：<R>（戦力をだいぶ消費したな。）<R><@20>（この状態で、シデルを<R>　止められるか…）<R><@20>",
-     "en": ""
+     "en": "<%S><_00>:<R>(We've burned through a lot of<R>our strength.)<R><@20>(Can we stop Sidel in this<R>state...?)<R><@20>"
     },
     {
      "id": "3D/GMPS4/G55#1",
      "jp": "？！<@08>空賊…<R><@0c><%S><_00>：<R>あの、じじいどもか。<R><@1c>",
-     "en": ""
+     "en": "?!<@08>Sky pirates...<R><@0c><%S><_00>:<R>Those old geezers, huh.<R><@1c>"
     },
     {
      "id": "3D/GMPS4/G55#2",
      "jp": "<%S><_00>：<R>よし、乗り込む！<R><@10>お前達は、船で待機しててくれ。<R><@18>",
-     "en": ""
+     "en": "<%S><_00>:<R>All right, I'm boarding!<R><@10>You guys wait on the ship.<R><@18>"
     }
    ]
   }

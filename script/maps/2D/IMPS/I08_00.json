@@ -447,192 +447,192 @@
     {
      "id": "2D/IMPS/I08_00@2d800#88",
      "jp": "ギダン国王：<R>わはははは……<R>まことにゆかいじゃ。<W><H>もっとそなたの話を<R>聞かせてほしいのう。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Wahahaha... Most amusing indeed.<W><H>Do tell me more of your tales.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#89",
      "jp": "<F62>：<R>それより、シデルのことで、<W><H>ひとつ聞きたいことが<R>あるんだけど、いいか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Never mind that. About Sidel,<W><H>there's something I want to ask<R>you, okay?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#90",
      "jp": "ギダン国王：<R>ん？　なんじゃ？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Hm? What is it?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#91",
      "jp": "<F62>：<R>どうしてあいつは、父親のあんた<R>のいうことをきかないんだよ！<W><H>ちゃんと教育したのかあ？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Why won't he listen to you, his<R>own father!?<W><H>Didn't you raise him right?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#92",
      "jp": "ギダン国王：<R>い、いうな、それを。<W><H>それが、余の一番の<R>悩みの種なんじゃ……<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>D-do not speak of it.<W><H>That is my greatest source of<R>worry...<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#93",
      "jp": "<F62>：<R>はははは。<W><H>シデルの名前を出すと、国王が<R>とたんに　ただの父親だ。<R>なあ、カ・ジャルコ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Hahaha.<W><H>Bring up Sidel's name, and the<R>King turns into just another dad.<R>Right, Ka Jarko?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#94",
      "jp": "カ・ジャルコ：<R>は、はいっ！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Y-yes, sir!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#95",
      "jp": "カ・ジャルコ：<R>国王陛下とお話している<R>なんて……夢よ、<R>そうにちがいないわ。<W><H>きっと今にドスン、って<R>ベッドから落ちて<R>目が覚めるのよ。<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>Talking with His Majesty the<R>King... It's a dream, it has to<R>be.<W><H>Any minute now I'll go thud, fall<R>out of bed, and wake up.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#96",
      "jp": "ギダン兵：<R>報告します！<W><H>シデルさまの親衛部隊の<R>飛空船が２機、接近してきます！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Reporting!<W><H>Two airships from Sidel-sama's<R>Royal Guard units are<R>approaching!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#97",
      "jp": "<F62>：<R>なぜこんなところに？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Why would they be out here?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#98",
      "jp": "ギダン国王：<R>おかしい………<R>シデルが迎えに来させたのか？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Strange...... Did Sidel send them<R>to meet us?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#99",
      "jp": "<F62>：<R>迎えにしては<R>ちょっと早すぎないか？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Isn't it a bit early for an<R>escort?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#100",
      "jp": "カ・ジャルコ：<R>クナシティはまだ先ですよね？<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>We're still a ways from Kuna City,<R>aren't we?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#101",
      "jp": "ギダン兵：<R>すべて予定通りです。<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Everything is on schedule.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#102",
      "jp": "バムス中佐：<R>よし。<W><H>国王飛空船の左側面に移動！<W><H>全砲門開け！<W><E>",
-     "en": ""
+     "en": "Lieutenant Colonel Bams:<R>Good.<W><H>Move to the royal airship's port<R>side!<W><H>Open all gun ports!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#103",
      "jp": "ギダン兵：<R>うわー！！　砲撃してきた！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>Aaagh!! They're firing on us!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#104",
      "jp": "<F62>：<R>親衛部隊がなぜ！？<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Why would the Royal Guard!?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#105",
      "jp": "ギダン国王：<R>まさかっ……<R>シデルが……<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>It cannot be... Sidel...<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#106",
      "jp": "<F62>：<R>ちきしょう！！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Damn it!!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#107",
      "jp": "カ・ジャルコ：<R>護衛艦は何をしているの！<W><E>",
-     "en": ""
+     "en": "Ka Jarko:<R>What are the escort ships<R>doing!?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#108",
      "jp": "ギダン兵：<R>だめだ！　落ちます！<W><E>",
-     "en": ""
+     "en": "Gidan Soldier:<R>It's no use! We're going down!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#109",
      "jp": "<F62>：<R>うわーっ！！<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Whoaaa!!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#110",
      "jp": "ギダン国王：<R><F62>とやら、<W><H>そなたは、どのような仕事を<R>しておるのじゃ。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R><F62>, was it?<W><H>What manner of work do you do?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#111",
      "jp": "<F62>：<R>う、運送業さ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Sh-shipping business.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#112",
      "jp": "ギダン国王：<R>そうか。<W><H>最近は空賊が出没しておると<R>聞くが危険ではないのか？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>I see.<W><H>I hear sky pirates have been<R>appearing of late. Is it not<R>dangerous?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#113",
      "jp": "<F62>：<R>いや、それほどでも。<W><H>それより自分の心配をしたほうが<R>いいぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Nah, not really.<W><H>You'd better worry about yourself<R>instead.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#114",
      "jp": "ギダン国王：<R>わかっておる。誘拐など二度と<R>されぬようにする。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>I am well aware. I shall not let<R>myself be kidnapped ever again.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#115",
      "jp": "<F62>：<R>そうじゃねえ。<W><H>あんたの息子のシデルに、だよ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>That's not it.<W><H>I mean your son, Sidel.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#116",
      "jp": "ギダン国王：<R>シデルがなんじゃ？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>What of Sidel?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#117",
      "jp": "<F62>：<R>評判が悪いぜ。<W><H>ギダンの実権は、もうシデルが<R>握ってるとウワサされてるぜ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>He's got a bad reputation.<W><H>Word is Sidel already holds the<R>real power in Gidan.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#118",
      "jp": "ギダン国王：<R>そのようなことはない、<R>案ずるな。<W><H>はっはっは。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>That is not so. Fear not.<W><H>Hahaha.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#119",
      "jp": "<F62>：<R>なら、いいんだがな。<W><H>国王を誘拐するなんて<R>普通じゃない。<W><H>単独犯じゃなく、<R>どうみても組織的なものだ。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>Well, if you say so.<W><H>Kidnapping a king isn't normal.<W><H>It's no lone criminal. Any way you<R>slice it, it's organized.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#120",
      "jp": "ギダン国王：<R>まあ、そう案ずるな。<W><H>ところでどうかな、<R>この船の乗り心地は？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Now, now, fear not.<W><H>By the way, how do you find the<R>ride on this ship?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#121",
      "jp": "<F62>：<R>なんだか立派すぎて<R>ぴんとこないな。<W><E>",
-     "en": ""
+     "en": "<F62>:<R>It's kind of too fancy for me to<R>get used to.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#122",
      "jp": "ギダン国王：<R>そうか、はっはっは。<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>I see, hahaha.<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#123",
      "jp": "ダ・クダ：<R>陛下、はやく！<R>こちらへ！<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>Your Majesty, hurry! This way!<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#124",
      "jp": "ギダン国王：<R>おまえたちは……？<W><E>",
-     "en": ""
+     "en": "King of Gidan:<R>Who are you people...?<W><E>"
     },
     {
      "id": "2D/IMPS/I08_00@2d800#125",
      "jp": "ダ・クダ：<R>話はあとだ、はやく！<W><E>",
-     "en": ""
+     "en": "Da Kuda:<R>We'll talk later. Hurry!<W><E>"
     }
    ]
   }
