@@ -27,5 +27,21 @@ cannot be plain ASCII without renderer work (`R`, `E`, `W`... are codes). Option
 - **EXEs**: raw SJIS at the file start (map EXE 0x800 = RAM 0x80020000), referenced by `lui/addiu` pairs.
   Same menu strings repeat in every map EXE (~870 chars each).
 
+## Box widths (width gate, measured 2026-10-23 with tools/debug/textview.py; enforced by tools/lint.py)
+- Dialogue box (strings with `<W>`): 3 rows per box, 17 cells = **34 letters** per row. The wait cursor takes the
+  17th cell of a row ending at `<W>`, and of a box's 3rd row when more rows follow (that 17th cell wraps into a
+  new box after a wait): **32 letters** there. A page (`<H>`) longer than 3 rows just continues in a new box
+  (JP does this 4.5k times: speaker row + 3 rows). The JP data obeys this except 6 original overflows.
+- Item descriptions / profiles (no `<W>`): 4 rows x 17 cells, no wait cursor.
+- EXE menus and labels: footprint of the JP row (lint: no wider than the JP). Not measured per menu yet.
+- `<F62>` = player name (default ミサキ); lint counts 4 cells.
+
+## Not text (excluded from script/, build leaves them as is)
+- Name-entry grid rows (`<$20><$20>`/`<Gnn><$20>` rows in TITLE.EXE and every map EXE, 30 per EXE) and the 6
+  dakuten conversion tables after them: the English name grid is engine work (see Name entry).
+- B01_10.MPS and A10_00.MPS: offset tables zeroed and no EXE loads them.
+- 3D-engine printf formats in DEMO.EXE / 3D HT.EXE (`%sは、@`, `%uポイントの@`, `レベル%uになった。`, `%s、弾切れです！`):
+  CRLF + `@` format, belong with the 3D text.
+
 ## Name entry
 New Game opens a kana grid (default name ミサキ). Needs an English letter grid (graphics + table).
