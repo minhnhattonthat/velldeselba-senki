@@ -38,6 +38,16 @@ def test_roundtrip(path):
 
 
 @pytest.mark.skipif(not TREE.is_dir(), reason="disc not dumped (work/disc)")
+def test_dat_roundtrip():
+    import datnames
+    d = (TREE / "BERU_FL1.DAT").read_bytes()
+    data = json.loads((ROOT / "script/dat/BERU_FL1.DAT.json").read_text(encoding="utf-8"))
+    edits = {int(l["id"].rsplit("@", 1)[1], 16): textcodec.encode(l["jp"]) for l in data["streams"][0]["lines"]}
+    assert datnames.apply(d, edits) == d
+    assert len(edits) == len(datnames.names(d))
+
+
+@pytest.mark.skipif(not TREE.is_dir(), reason="disc not dumped (work/disc)")
 @pytest.mark.parametrize("path", MISSION_SCRIPTS, ids=lambda p: p.stem)
 def test_mission_roundtrip(path):
     import missiontext

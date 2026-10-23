@@ -1,0 +1,1065 @@
+{
+ "file": "BERU_FL1.DAT",
+ "streams": [
+  {
+   "pos": "dat",
+   "lines": [
+    {
+     "id": "BERU_FL1.DAT@d40",
+     "jp": "ノイパスクＰ－２型",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@1d40",
+     "jp": "ノイパスクＰ－２型",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2000",
+     "jp": "パルナート・ポック",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2040",
+     "jp": "パルポーテ・ナック",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2080",
+     "jp": "ファッフローテ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@20c0",
+     "jp": "クウェラドーマ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2100",
+     "jp": "ノイパスード・ベクゼス",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2140",
+     "jp": "ガゼラント",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2180",
+     "jp": "ガルガナーク",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@21c0",
+     "jp": "双胴カタナ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2200",
+     "jp": "皇太子親衛艦",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2240",
+     "jp": "エルド・ギダン・ガルゴス",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2280",
+     "jp": "バムス専用艦",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@22c0",
+     "jp": "ガシザキノ専用艦",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2300",
+     "jp": "ドリュガント",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2340",
+     "jp": "機械化浮遊島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2380",
+     "jp": "トーテムポール型要塞",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@23c0",
+     "jp": "カーロカーム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2400",
+     "jp": "セブレントリーム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2440",
+     "jp": "サグリットカーム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2480",
+     "jp": "ボムゾナッカーム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@24c0",
+     "jp": "ゴーレトリーム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2500",
+     "jp": "ヴァルガート",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2540",
+     "jp": "ジーテガート",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2580",
+     "jp": "ナデス島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@25c0",
+     "jp": "イ・デム島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2600",
+     "jp": "ニ・デム島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2640",
+     "jp": "ミ・デム島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2680",
+     "jp": "演習用ブイ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@26c0",
+     "jp": "空中砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2740",
+     "jp": "ホウノム島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2780",
+     "jp": "パルナート・ポック",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@27c0",
+     "jp": "ガゼラント",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2800",
+     "jp": "ガルガナーク",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2840",
+     "jp": "セブレントリーム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2880",
+     "jp": "ヴァルガート",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@28c0",
+     "jp": "ジーテガート",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2900",
+     "jp": "機械化浮遊島砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2940",
+     "jp": "機械化浮遊島外島",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2980",
+     "jp": "浮遊島搭載砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@29c0",
+     "jp": "プロペラ駆動部",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2a00",
+     "jp": "Ｈ０５タイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2a24",
+     "jp": "Ｈ０８タイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2a48",
+     "jp": "Ｈ１０タイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2a6c",
+     "jp": "Ｈ１４タイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2a90",
+     "jp": "Ｈ２０タイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ab4",
+     "jp": "Ｈ３０タイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ad8",
+     "jp": "Ｓ１９",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2b00",
+     "jp": "Ｓ２４",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2b28",
+     "jp": "ＳＲ２８",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2b50",
+     "jp": "Ｓ３２－Ｔ２",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2b78",
+     "jp": "ＳＲ３８",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ba0",
+     "jp": "ＳＶ４２",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2bc8",
+     "jp": "ＳＲ５００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2bf0",
+     "jp": "空破",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2c18",
+     "jp": "神風",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2c40",
+     "jp": "Ｓ－ＺＥＲＯ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2c68",
+     "jp": "ＭＫ５０",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2c90",
+     "jp": "Ｍ５８",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2cb8",
+     "jp": "Ｍ６２",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ce0",
+     "jp": "ＭＣ６６",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2d08",
+     "jp": "Ｍ７０",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2d30",
+     "jp": "ＭＶＸ７５",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2d58",
+     "jp": "ＭＶ８０",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2d80",
+     "jp": "ＭＥ９００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2da8",
+     "jp": "ＭＶ９６０",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2dd0",
+     "jp": "ＭＸ９００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2df8",
+     "jp": "ＭＣ１１００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2e20",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2e48",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2e70",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2e98",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ec0",
+     "jp": "ＬＶ１０００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ee8",
+     "jp": "ＬＶ１７００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2f10",
+     "jp": "ＬＳ１８００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2f38",
+     "jp": "ＬＸ２０００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2f60",
+     "jp": "ＬＸＲ２６００",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2f88",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2fd8",
+     "jp": "木製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@2ffc",
+     "jp": "アレイ製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3020",
+     "jp": "鉄のプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3044",
+     "jp": "アルミのプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3068",
+     "jp": "木製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@308c",
+     "jp": "アレイ製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@30b0",
+     "jp": "鉄のプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@30d4",
+     "jp": "アルミのプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@30f8",
+     "jp": "木製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@311c",
+     "jp": "アレイ製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3140",
+     "jp": "鉄のプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3164",
+     "jp": "アルミのプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3188",
+     "jp": "木製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@31ac",
+     "jp": "アレイ製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@31d0",
+     "jp": "鉄のプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@31f4",
+     "jp": "アルミのプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3218",
+     "jp": "木製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@323c",
+     "jp": "アレイ製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3260",
+     "jp": "鉄のプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3284",
+     "jp": "アルミのプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@32a8",
+     "jp": "木製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@32cc",
+     "jp": "アレイ製プロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@32f0",
+     "jp": "鉄のプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3314",
+     "jp": "アルミのプロペラ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@33a4",
+     "jp": "Ａ型軽砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@33cc",
+     "jp": "Ａ型２連軽砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@33f4",
+     "jp": "Ａ型４連軽砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@341c",
+     "jp": "Ａ型砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3444",
+     "jp": "Ａ型２連砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@346c",
+     "jp": "Ａ型４連砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3494",
+     "jp": "Ａ型強砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@34bc",
+     "jp": "Ａ型強２連砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@34e4",
+     "jp": "Ａ型強４連砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@350c",
+     "jp": "Ａ型自動砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3534",
+     "jp": "Ａ型２連自動砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@355c",
+     "jp": "Ａ型４連自動砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3584",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@35ac",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@35d4",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@35fc",
+     "jp": "Ｂ型砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3624",
+     "jp": "Ｂ型２連砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@364c",
+     "jp": "Ｂ型速射砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3674",
+     "jp": "Ｂ型高速砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@369c",
+     "jp": "Ｂ型２連高速砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@36c4",
+     "jp": "Ｂ型自動砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@36ec",
+     "jp": "Ｂ型２連自動砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3714",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@373c",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3764",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@378c",
+     "jp": "Ｃ型軽砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@37b4",
+     "jp": "Ｃ型２連軽砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@37dc",
+     "jp": "Ｃ型砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3804",
+     "jp": "Ｃ型２連砲台",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@382c",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3854",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@387c",
+     "jp": "欠番",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@38a4",
+     "jp": "裂弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@38cc",
+     "jp": "散弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@38f4",
+     "jp": "徹甲弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@391c",
+     "jp": "焼夷弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3944",
+     "jp": "ぶどう弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@396c",
+     "jp": "ねじり徹甲弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3994",
+     "jp": "ロケット弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@39bc",
+     "jp": "プロペラ魚雷",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@39e4",
+     "jp": "強化裂弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3a0c",
+     "jp": "三式弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3a34",
+     "jp": "メタル徹甲弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3a5c",
+     "jp": "風船爆弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3a84",
+     "jp": "浮遊機雷",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3aac",
+     "jp": "誘導ロケット弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3ad4",
+     "jp": "ホーミング魚雷",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3afc",
+     "jp": "パスク弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3b24",
+     "jp": "ガード",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3b4c",
+     "jp": "笑い胞子弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3b74",
+     "jp": "催涙花粉弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3b9c",
+     "jp": "ショック音弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3bc4",
+     "jp": "絶命弾",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3e1c",
+     "jp": "修理キット",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3e44",
+     "jp": "紅蓮の勲章",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3e68",
+     "jp": "紅の勲章",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3e8c",
+     "jp": "天狼星の勲章",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3eb0",
+     "jp": "紺碧の勲章",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3ed4",
+     "jp": "変なもの",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3ef8",
+     "jp": "カギ束",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3f1c",
+     "jp": "紫のバラの花束",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3f40",
+     "jp": "ファンレター",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3f64",
+     "jp": "チェリーの砂糖漬",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3f88",
+     "jp": "ヘビ酒",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3fac",
+     "jp": "木箱",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3fd0",
+     "jp": "密書",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@3ff4",
+     "jp": "ＳＨＧオイル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4018",
+     "jp": "空賊のしるし",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@403c",
+     "jp": "ダ・クダの手紙",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4060",
+     "jp": "装甲板の材料",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4084",
+     "jp": "医療品セット",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@40a8",
+     "jp": "記念写真",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@42c4",
+     "jp": "鉄鉱石",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@430c",
+     "jp": "ミスリル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4330",
+     "jp": "黄ターメリック",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4354",
+     "jp": "サメハダワサビ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4378",
+     "jp": "昇天フカヒレ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@439c",
+     "jp": "ワシツバメの巣",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@43c0",
+     "jp": "ダナまんじゅう",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@43e4",
+     "jp": "ドラゴンの薫製",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@4408",
+     "jp": "大ラッコの毛皮",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@59ec",
+     "jp": "ミサキ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5a0c",
+     "jp": "アハデ・カフィ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5a2c",
+     "jp": "ハウエズナ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5a4c",
+     "jp": "オユ・キクル",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5a6c",
+     "jp": "バ・マッグ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5a8c",
+     "jp": "カ・ジャルコ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5aac",
+     "jp": "フラグナム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5acc",
+     "jp": "イッヒ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5aec",
+     "jp": "ニッヒ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5b0c",
+     "jp": "カレツ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5b2c",
+     "jp": "ボイ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5b4c",
+     "jp": "アグ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5b6c",
+     "jp": "パック",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5b8c",
+     "jp": "グールド",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5bac",
+     "jp": "マルダマン",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5bcc",
+     "jp": "マキロフ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5bec",
+     "jp": "アハデ・カルフ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5c0c",
+     "jp": "カムチョム",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5c2c",
+     "jp": "ケンリ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5c4c",
+     "jp": "イルミナ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5c6c",
+     "jp": "デファイナ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5c8c",
+     "jp": "シルカ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5cac",
+     "jp": "メーア",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5ccc",
+     "jp": "チバラガ",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5cec",
+     "jp": "無名の傭兵",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5d0c",
+     "jp": "名砲手",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5d2c",
+     "jp": "砲撃の達人",
+     "en": ""
+    },
+    {
+     "id": "BERU_FL1.DAT@5d4c",
+     "jp": "砲撃の神様",
+     "en": ""
+    }
+   ]
+  }
+ ]
+}

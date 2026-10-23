@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import check_rom
+import datnames
 import exetext
 import font
 import maptext
@@ -69,7 +70,7 @@ def scripts(kind):
 def memory():
     """jp -> en from every translated line, so a string repeated across maps or EXEs is translated once."""
     tm = {}
-    for kind in ("maps", "exe", "missions"):
+    for kind in ("maps", "exe", "missions", "dat"):
         for data in scripts(kind):
             for st in data["streams"]:
                 for l in st["lines"]:
@@ -191,6 +192,19 @@ def insert_missions(mode, tm):
         sys.exit("mission text does not fit:\n" + "\n".join(errors))
 
 
+def insert_dat(mode, tm):
+    """Name fields of BERU_FL1.DAT, in place."""
+    for data in scripts("dat"):
+        lines = data["streams"][0]["lines"]
+        edits = {int(l["id"].rsplit("@", 1)[1], 16): textcodec.encode(t)
+                 for l in lines for t in [pick(l, mode, tm)] if t != l["jp"]}
+        if edits:
+            try:
+                write(data["file"], datnames.apply((DISC / "tree" / data["file"]).read_bytes(), edits))
+            except ValueError as e:
+                sys.exit(f"name does not fit: {e}")
+
+
 def layout():
     """layout.xml with a source= for every file in build/files (paths absolute, so it runs from any cwd)."""
     xml = (DISC / "layout.xml").read_text(encoding="utf-8")
@@ -230,6 +244,7 @@ def main():
     else:
         insert_maps(mode, tm)
         insert_missions(mode, tm)
+        insert_dat(mode, tm)
     layout()
     run([str(ROOT / "tools/mkpsxiso/mkpsxiso.exe"), "-y", "-o", str(OUT.with_suffix(".bin")),
          "-c", str(OUT.with_suffix(".cue")), str(BUILD / "layout.xml")], cwd=BUILD)

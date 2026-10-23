@@ -14,6 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
+import datnames
 import exetext
 import maptext
 import missiontext
@@ -51,6 +52,13 @@ def extract_mission(path):
     pos, n, dec = list(scan_bpe.streams(path.read_bytes()))[1]
     lines = [{"id": f"{rel[:-4]}#{i}", "jp": t, "en": ""} for i, t in enumerate(missiontext.blocks(dec))]
     return {"file": rel, "streams": [{"pos": f"{pos:#x}", "lines": lines}] if lines else []}
+
+
+def extract_dat(path):
+    """Name fields of BERU_FL1.DAT (tools/datnames.py)."""
+    lines = [{"id": f"BERU_FL1.DAT@{o:x}", "jp": textcodec.decode(raw), "en": ""}
+             for o, raw in datnames.names(path.read_bytes())]
+    return {"file": "BERU_FL1.DAT", "streams": [{"pos": "dat", "lines": lines}]}
 
 
 def exe_files():
@@ -95,12 +103,13 @@ def main():
     total = uniq = chars = 0
     seen = set()
     jobs = ([(p, extract, SCRIPT) for p in mps_files()] + [(p, extract_exe, EXE_SCRIPT) for p in exe_files()]
-            + [(p, extract_mission, MISSION_SCRIPT) for p in mission_files()])
+            + [(p, extract_mission, MISSION_SCRIPT) for p in mission_files()]
+            + [(TREE / "BERU_FL1.DAT", extract_dat, ROOT / "script/dat")])
     for p, fn, dest in jobs:
         data = fn(p)
         if not data["streams"]:
             continue
-        out = dest / (data["file"] + ".json" if fn is extract_exe else data["file"][:-4] + ".json")
+        out = dest / (data["file"] + ".json" if fn in (extract_exe, extract_dat) else data["file"][:-4] + ".json")
         if out.is_file():
             data = merge(data, json.loads(out.read_text(encoding="utf-8")))
         if not a.stats:

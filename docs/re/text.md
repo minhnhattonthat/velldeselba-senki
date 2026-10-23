@@ -34,6 +34,12 @@ cannot be plain ASCII without renderer work (`R`, `E`, `W`... are codes). Option
 - **EXEs**: raw SJIS at the file start (map EXE 0x800 = RAM 0x80020000), referenced by `lui/addiu` pairs.
   Same menu strings repeat in every map EXE (~870 chars each).
 
+- **BERU_FL1.DAT** (resident state template, RAM 0x80010000; `tools/datnames.py`): 211 name fields (ships,
+  places, engines, propellers, guns, ammo, items, crew), each the first 0x1C bytes of a record, NUL-padded: max
+  27 bytes. Gotcha: SCPS_100.27 and every HT.EXE test `*(u32*)0x80015A4C == "オユ"` (crew name オユ・キクル) as a
+  "resident data loaded" signature and crash into the BIOS when it fails; `patch_exe.py` retargets the check to the
+  constant `\2D\` at 0x8001610C (SIG_OLD/SIG_NEW), so names are free and old saves still pass.
+
 ## Box widths (width gate, measured 2026-10-23 with tools/debug/textview.py; enforced by tools/lint.py)
 - Dialogue box (strings with `<W>`): 3 rows per box, 17 cells = **34 letters** per row. The wait cursor takes the
   17th cell of a row ending at `<W>`, and of a box's 3rd row when more rows follow (that 17th cell wraps into a

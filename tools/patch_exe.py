@@ -8,6 +8,11 @@ import struct
 HOOK_BASE = 0x8001F000
 HOOK_SIZE = 0x1000
 STUB = struct.pack("<III", 0x240A00B0, 0x01400008, 0x24090051)
+# "Resident data loaded?" check (SCPS_100.27, every HT.EXE): compares the word at 0x80015A4C, the first two
+# chars of crew name オユ・キクル in BERU_FL1.DAT, else reloads and crashes. Retargeted to the constant `\2D\`
+# at 0x8001610C (EXE-name table), so the name can be translated and old Japanese saves still pass.
+SIG_OLD = bytes.fromhex("8386033c" "0180023c" "4c5a428c" "83496334")  # lui v1,0x8683; lui v0,0x8001; lw v0,0x5A4C(v0); ori v1,0x4983
+SIG_NEW = bytes.fromhex("445c033c" "0180023c" "0c61428c" "5c326334")  # lui v1,0x5C44; ...; lw v0,0x610C(v0); ori v1,0x325C
 
 
 def jal(target):
@@ -41,6 +46,7 @@ def patch(exe, hook):
                 body[i:i + 4] = new
                 n += 1
             i = body.find(want, i + 1)
+    body = bytearray(body.replace(SIG_OLD, SIG_NEW))
     head = bytearray(exe[:0x800])
     struct.pack_into("<II", head, 0x18, HOOK_BASE, t_size + HOOK_SIZE)
     return bytes(head) + hook.ljust(HOOK_SIZE, b"\0") + bytes(body) + exe[0x800 + t_size:], n
