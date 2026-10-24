@@ -31,4 +31,5 @@ Notes
 - Honorifics are kept (-sama, -dono); names are in Western order.
 - Translation and tooling were produced with AI assistance (Claude) and reviewed in-game.
 - English letters: Spleen font (BSD-2-Clause). FMV subtitles: DejaVu Sans Bold (Bitstream Vera licence).
+  Title logo: Anton (SIL OFL 1.1).
 - Original game (c) its respective owners. This is a non-commercial fan work.
