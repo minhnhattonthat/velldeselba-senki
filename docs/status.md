@@ -41,7 +41,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
      results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).
-  4. Staff roll guesses: 吉川剛史, 見城加奈子, 手島大 (given name), 新島平佐. Title logo stays original art (D5 scope).
+  4. Staff roll readings checked against MobyGames' credits (mobygames.com/game/59766, credits/playstation):
+     Takafumi Yoshikawa, Kanako Mishiro, Hiroshi Teshima, Heiza Niishima, Takafumi Fujisawa. Kept ours where
+     Moby looks wrong (一色緑 Isshiki, 木崎文智 Fumitomo, 鉄羅紀明 Noriaki). Title logo stays original art (D5).
   5. Ship name stays full-width (one letter per cell); a name_pack-style converter would halve its width.
   6. Release v1.0 when the user asks (`tools/release.py 1.0`); publishing is the user's call.
   - Staff roll engine notes: STAFF.EXE sends codes > 0x989E to its own kanji table (patched to 0xFFFF,
