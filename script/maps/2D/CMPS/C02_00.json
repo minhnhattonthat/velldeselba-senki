@@ -532,7 +532,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#105",
      "jp": "カズシタカ参謀長：<R>なるほど。事情はよくわかった。<W><H>昨日まではギダン軍の敵であった<R>わけだが……そういう話であれば<R>よろこんで迎え入れよう。<W><E>",
-     "en": "Chief of Staff Kazushitaka:<R>I see. I understand<R>the situation.<W><H>Until yesterday you were an<R>enemy of the Gidan army...<W><H>but if that's how it is,<R>we'll gladly take you in.<W><E>"
+     "en": "Chief of Staff Kazushitaka:<R>I see.<R>I understand the situation.<W><H>Until yesterday you were an<R>enemy of the Gidan army...<W><H>but if that's how it is,<R>we'll gladly take you in.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#106",
@@ -567,7 +567,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#112",
      "jp": "ガシザキノ中佐：<R>これは大型戦闘船<R>「ガルガナーク」だ。<W><H>通称「カタナ」だ。<W><H>どうだ、大きいだろう。<R>砲台を１４門も積んで<R>いるからな。<W><H>ただ、小回りがあまりきかないし<R>今のおまえの仲間にはちょっと<R>手に余るかもしれないな。<W><H>仲間の人数が多いときに威力を<R>発揮する船だ。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>This is the large<R>battleship \"Garganak.\"<W><H>Better known as the \"Katana.\"<W><H>Well? Big, isn't she? She<R>carries all of 14 turrets.<W><H>But she doesn't turn very tightly,<R>and she may be a bit much for your<R>current crew to handle.<W><H>She's a ship that shows<R>her strength when you<R>have a big crew.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>This is the large<R>battleship \"Garganak.\"<W><H>Better known as the \"Katana.\"<W><H>Well? Big, isn't she?<R>She carries all of 14 turrets.<W><H>But she doesn't turn very tightly,<R>and she may be a bit much for your<R>current crew to handle.<W><H>She's a ship that shows<R>her strength when you<R>have a big crew.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#113",
@@ -757,7 +757,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#150",
      "jp": "カズシタカ参謀長：<R>ここの次はクナシティを抑える。<R>これからもたのむぞ。<W><E>",
-     "en": "Chief of Staff Kazushitaka:<R>After this, we take Kuna<R>City. I'm counting on you.<W><E>"
+     "en": "Chief of Staff Kazushitaka:<R>After this, we take Kuna City.<R>I'm counting on you.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#151",
@@ -827,7 +827,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#164",
      "jp": "<F62>：<R>多分な。<W><H>ゼクセルのやつ……<R>最初からそのつもりで<R>ナデス島を脱出したんだ。<W><E>",
-     "en": "<F62>:<R>Probably.<W><H>That Zexel... He planned<R>this from the start when<R>he fled Nades Island.<W><E>"
+     "en": "<F62>:<R>Probably.<W><H>That Zexel...<R>He planned this from the start<R>when he fled Nades Island.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#165",
@@ -907,7 +907,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#180",
      "jp": "<F62>：<R>な、なんだよ。<R>俺の顔に何かついてるのか？<W><E>",
-     "en": "<F62>:<R>Wh-what? Is there<R>something on my face?<W><E>"
+     "en": "<F62>:<R>Wh-what?<R>Is there something on my face?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#181",
@@ -957,7 +957,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#190",
      "jp": "ギダン兵：<R>はやく済ませてください。<R>すぐに始まります。<W><E>",
-     "en": "Gidan Soldier:<R>Please hurry. It's<R>about to start.<W><E>"
+     "en": "Gidan Soldier:<R>Please hurry.<R>It's about to start.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#191",
@@ -987,7 +987,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#196",
      "jp": "ガシザキノ中佐：<R>作戦開始！<R>総員戦闘配備につけ！<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>Commence operation! All<R>hands to battle stations!<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Commence operation!<R>All hands to battle stations!<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#197",
@@ -1012,7 +1012,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#201",
      "jp": "ギダン兵：<R>酒が隠してあったんだ。<R>にいちゃんもどうだ？<W><E>",
-     "en": "Gidan Soldier:<R>I found some hidden<R>booze. Want some, pal?<W><E>"
+     "en": "Gidan Soldier:<R>I found some hidden booze.<R>Want some, pal?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#202",
@@ -1032,7 +1032,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#205",
      "jp": "ギダン兵：<R>うー、<R>この酒、うまいぞー。<R>あんたも飲むか？<W><E>",
-     "en": "Gidan Soldier:<R>Mmm, this booze is<R>good. Want some?<W><E>"
+     "en": "Gidan Soldier:<R>Mmm, this booze is good.<R>Want some?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#206",
@@ -1052,7 +1052,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#209",
      "jp": "<F62>：<R>酒か……もらおうか。<W><E>",
-     "en": "<F62>:<R>Booze, huh... Sure,<R>I'll have some.<W><E>"
+     "en": "<F62>:<R>Booze, huh...<R>Sure, I'll have some.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#210",
@@ -1107,7 +1107,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#220",
      "jp": "おやじ：<R>だんな、さすがお目が高い。<R>３８０Ｚになりますが、<R>ひとつどうです？<W><E>",
-     "en": "Shopkeeper:<R>Boss, you've got a good eye.<W><H>That'll be 380Z. How<R>about a bottle?<W><E>"
+     "en": "Shopkeeper:<R>Boss, you've got a good eye.<W><H>That'll be 380Z.<R>How about a bottle?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#221",
@@ -1132,7 +1132,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#225",
      "jp": "男：<R>オルダナスピを占領するなんて、<R>ノイパスクは、やはり許せん！<W><E>",
-     "en": "Man:<R>Occupying Oldanaspi... Noipask<R>really is unforgivable!<W><E>"
+     "en": "Man:<R>Occupying Oldanaspi...<R>Noipask really is unforgivable!<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#226",
@@ -1187,7 +1187,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#236",
      "jp": "バムス中佐：<R>少尉、デナムスを攻略するぞ。<R>すぐに出撃してくれ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Lieutenant, we are taking<R>Denamus. Sortie at once.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Lieutenant, we are taking Denamus.<R>Sortie at once.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#237",
@@ -1217,7 +1217,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#242",
      "jp": "ガシザキノ中佐：<R>作戦はわかったな？<R>早急に装備を整えて出撃だ。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>You understand the plan? Get<R>equipped and sortie at once.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>You understand the plan?<R>Get equipped and sortie at once.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#243",
@@ -1287,7 +1287,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#256",
      "jp": "ワッタの父：<R>なんてことだ。ワッタは一体<R>どこへいってしまったのだ……<W><E>",
-     "en": "Watta's Father:<R>Good heavens. Where on<R>earth has Watta gone...<W><E>"
+     "en": "Watta's Father:<R>Good heavens.<R>Where on earth has Watta gone...<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#257",
@@ -1317,7 +1317,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#262",
      "jp": "<F62>：<R>おい、おじさんはやめろ。<R>全くガキってのは……<W><E>",
-     "en": "<F62>:<R>Hey, cut the \"mister\"<R>stuff. Kids, I swear...<W><E>"
+     "en": "<F62>:<R>Hey, cut the \"mister\" stuff.<R>Kids, I swear...<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#263",
@@ -1362,7 +1362,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#271",
      "jp": "<F62>：<R>あんた……ひょっとして<R>市長さん？<W><E>",
-     "en": "<F62>:<R>You... wouldn't happen<R>to be the mayor?<W><E>"
+     "en": "<F62>:<R>You...<R>wouldn't happen to be the mayor?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#272",
@@ -1527,7 +1527,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#304",
      "jp": "ガシザキノ中佐：<R>よし、クルーも増えたことだ。<W><H>飛空船の訓練がてら、スラーク<R>周辺をパトロールするといい。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>Good. Now that your<R>crew has grown,<W><H>patrol the area around Slark.<R>It'll be good airship training.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Good.<R>Now that your crew has grown,<W><H>patrol the area around Slark.<R>It'll be good airship training.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#305",
@@ -1597,7 +1597,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#318",
      "jp": "配給係：<R>ああ、あなたですか？<R>ノイパスクから来たというのは。<W><H>ガシザキノ中佐から<R>聞いてますよ。<W><E>",
-     "en": "Quartermaster:<R>Oh, is it you? The one<R>who came from Noipask?<W><H>Lieutenant Colonel Gashizakino<R>told me about you.<W><E>"
+     "en": "Quartermaster:<R>Oh, is it you?<R>The one who came from Noipask?<W><H>Lieutenant Colonel Gashizakino<R>told me about you.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#319",
@@ -1607,7 +1607,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#320",
      "jp": "配給係：<R>これからパトロールですか？<R>お気をつけて。<W><E>",
-     "en": "Quartermaster:<R>Heading out on<R>patrol? Take care.<W><E>"
+     "en": "Quartermaster:<R>Heading out on patrol?<R>Take care.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#321",

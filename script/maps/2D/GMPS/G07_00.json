@@ -512,7 +512,7 @@
     {
      "id": "2D/GMPS/G07_00@34000#101",
      "jp": "ドックの職人：<R>あれ？<R>ひょっとしてあんた……<W><H><F62>少尉？<W><E>",
-     "en": "Shipwright:<R>Huh? Wait, don't<R>tell me you're...<W><H>Lieutenant <F62>?<W><E>"
+     "en": "Shipwright:<R>Huh?<R>Wait, don't tell me you're...<W><H>Lieutenant <F62>?<W><E>"
     },
     {
      "id": "2D/GMPS/G07_00@34000#102",
@@ -557,7 +557,7 @@
     {
      "id": "2D/GMPS/G07_00@34000#110",
      "jp": "ドックの職人：<R>ありがとうよ。<W><H>ほんとうはただで<R>やってあげたいところなんだが、<W><H>俺も元手がかかっててな。<R>悪いな。<W><H>じゃあ、気をつけてな。<W><E>",
-     "en": "Shipwright:<R>Thanks, pal.<W><H>Truth is, I'd like<R>to do it for free,<W><H>but I've got costs<R>of my own. Sorry.<W><H>Well, take care now.<W><E>"
+     "en": "Shipwright:<R>Thanks, pal.<W><H>Truth is, I'd like<R>to do it for free,<W><H>but I've got costs of my<R>own. Sorry.<W><H>Well, take care now.<W><E>"
     },
     {
      "id": "2D/GMPS/G07_00@34000#111",

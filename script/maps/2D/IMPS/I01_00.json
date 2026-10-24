@@ -452,7 +452,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#89",
      "jp": "<F62>：<R>そんなに酔ってて……<R>よく戦闘に参加できるな。<W><E>",
-     "en": "<F62>:<R>Drunk as you are... I'm<R>amazed you can even fight.<W><E>"
+     "en": "<F62>:<R>Drunk as you are...<R>I'm amazed you can even fight.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#90",
@@ -572,12 +572,12 @@
     {
      "id": "2D/IMPS/I01_00@3c800#113",
      "jp": "カフィ：<R>この戦い、早く終わらせ<R>なきゃね。がんばりましょ。<W><E>",
-     "en": "Kafi:<R>We have to end this fight<R>soon. Let's do our best.<W><E>"
+     "en": "Kafi:<R>We have to end this fight soon.<R>Let's do our best.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#114",
      "jp": "カフィ：<R>ホウノム島を落とすなんて、あっ<R>てはならないことが起きたのね。<W><E>",
-     "en": "Kafi:<R>Dropping Hounom Island... the<R>unthinkable has happened.<W><E>"
+     "en": "Kafi:<R>Dropping Hounom Island...<R>the unthinkable has happened.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#115",
@@ -737,7 +737,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#146",
      "jp": "バ・マッグ：<R>パナスガルですか。<R>長い旅になりますね。<W><E>",
-     "en": "Ba Magg:<R>Panasgal, is it? It will<R>be a long journey.<W><E>"
+     "en": "Ba Magg:<R>Panasgal, is it?<R>It will be a long journey.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#147",
@@ -817,7 +817,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#162",
      "jp": "バ・マッグ：<R>基地……いや、アジトに<R>もどるのですか？<W><E>",
-     "en": "Ba Magg:<R>Back to base... I mean,<R>back to the hideout?<W><E>"
+     "en": "Ba Magg:<R>Back to base...<R>I mean, back to the hideout?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#163",
@@ -962,7 +962,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#191",
      "jp": "ハウエズナ：<R>樹海だろうが何だろうが<R>……ほ、ほんとに平気です。<W><E>",
-     "en": "Hauezna:<R>Forest or no forest... i-it<R>really doesn't bother me.<W><E>"
+     "en": "Hauezna:<R>Forest or no forest...<R>i-it really doesn't bother me.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#192",
@@ -1042,7 +1042,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#207",
      "jp": "ハウエズナ：<R>このわたしが空賊だなんて、<R>まだ信じられません。<W><E>",
-     "en": "Hauezna:<R>Me, a sky pirate... I<R>still can't believe it.<W><E>"
+     "en": "Hauezna:<R>Me, a sky pirate...<R>I still can't believe it.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#208",
@@ -1072,7 +1072,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#213",
      "jp": "ハウエズナ：<R>いえ、別に……<R>何でもないんです。<W><E>",
-     "en": "Hauezna:<R>Oh, no reason... It's<R>nothing, really.<W><E>"
+     "en": "Hauezna:<R>Oh, no reason...<R>It's nothing, really.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#214",
@@ -1217,7 +1217,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#242",
      "jp": "オユ・キクル：<R>ふう……<W><H>この先どうなるんでしょうね？<R>ノイパスクは。<W><E>",
-     "en": "Oyu Kikuru:<R>Phew...<W><H>What's going to happen<R>now? To Noipask, I mean.<W><E>"
+     "en": "Oyu Kikuru:<R>Phew...<W><H>What's going to happen now?<R>To Noipask, I mean.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#243",
@@ -1272,7 +1272,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#253",
      "jp": "オユ・キクル：<R>この私がギダン軍にいるなんて、<R>とても信じられないわ……<W><E>",
-     "en": "Oyu Kikuru:<R>Me, in the Gidan army... I<R>can hardly believe it...<W><E>"
+     "en": "Oyu Kikuru:<R>Me, in the Gidan army...<R>I can hardly believe it...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#254",
@@ -1297,7 +1297,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#258",
      "jp": "オユ・キクル：<R>昇進おめでとうございます！<R>はやく出発しましょうよ。<W><E>",
-     "en": "Oyu Kikuru:<R>Congratulations on your<R>promotion! Now let's get going.<W><E>"
+     "en": "Oyu Kikuru:<R>Congratulations on your promotion!<R>Now let's get going.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#259",
@@ -1307,12 +1307,12 @@
     {
      "id": "2D/IMPS/I01_00@3c800#260",
      "jp": "オユ・キクル：<R>イ・デム島は強力ですからね、<R>簡単には落ちませんよ。<W><E>",
-     "en": "Oyu Kikuru:<R>I-Dem Island is strong. It<R>won't fall that easily.<W><E>"
+     "en": "Oyu Kikuru:<R>I-Dem Island is strong.<R>It won't fall that easily.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#261",
      "jp": "オユ・キクル：<R>さすがゼクセル大佐、<R>お強いわね。<W><E>",
-     "en": "Oyu Kikuru:<R>That's Colonel Zexel for<R>you. He's so strong.<W><E>"
+     "en": "Oyu Kikuru:<R>That's Colonel Zexel for you.<R>He's so strong.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#262",
@@ -1452,7 +1452,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#289",
      "jp": "オユ・キクル：<R>ギダン横断ですって？<R>田舎ばかりだわ、きっと。<W><E>",
-     "en": "Oyu Kikuru:<R>Crossing Gidan, you say? I<R>bet it's all countryside.<W><E>"
+     "en": "Oyu Kikuru:<R>Crossing Gidan, you say?<R>I bet it's all countryside.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#290",
@@ -1532,7 +1532,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#305",
      "jp": "カ・ジャルコ：<R>国王陛下の護衛だなんて、<R>き、緊張するわ。<W><E>",
-     "en": "Ka Jarko:<R>Escorting His Majesty the<R>King... I-I'm so nervous.<W><E>"
+     "en": "Ka Jarko:<R>Escorting His Majesty the King...<R>I-I'm so nervous.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#306",
@@ -1542,7 +1542,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#307",
      "jp": "カ・ジャルコ：<R>大尉、行きましょう！<R>ニ・デム島は落とさないと！<W><E>",
-     "en": "Ka Jarko:<R>Let's go, Captain! We have<R>to take Ni-Dem Island!<W><E>"
+     "en": "Ka Jarko:<R>Let's go, Captain!<R>We have to take Ni-Dem Island!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#308",
@@ -1577,7 +1577,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#314",
      "jp": "カ・ジャルコ：<R>さすがは親衛隊よね、<R>作戦がすばやいわ。<W><E>",
-     "en": "Ka Jarko:<R>That's the Royal Guard<R>for you. They move fast.<W><E>"
+     "en": "Ka Jarko:<R>That's the Royal Guard for you.<R>They move fast.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#315",
@@ -1672,7 +1672,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#333",
      "jp": "カ・ジャルコ：<R>空を駆け回る人生って、<R>ステキよねえ……<W><E>",
-     "en": "Ka Jarko:<R>A life racing across the<R>sky... How wonderful...<W><E>"
+     "en": "Ka Jarko:<R>A life racing across the sky...<R>How wonderful...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#334",
@@ -1792,7 +1792,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#357",
      "jp": "フラグナム：<R>彼も……最後のカケに<R>出ましたわね。<W><E>",
-     "en": "Fragnum:<R>He too... has made<R>his final gamble.<W><E>"
+     "en": "Fragnum:<R>He too...<R>has made his final gamble.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#358",
@@ -1802,7 +1802,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#359",
      "jp": "フラグナム：<R>シデル提督は……いつも真剣に<W><H>この星のことを考えて<R>おられましたわ。<W><E>",
-     "en": "Fragnum:<R>Admiral Sidel... always<R>thought seriously<W><H>about this planet.<W><E>"
+     "en": "Fragnum:<R>Admiral Sidel...<R>always thought seriously<W><H>about this planet.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#360",
@@ -1842,7 +1842,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#367",
      "jp": "<F62>：<R>ははっ、そんな一生懸命に<R>なることはないよ。<W><H>この船は空気より軽いんだぜ。<R>俺たちが昼寝してたって<R>飛んでるんだ。<W><H>気楽にいこうじゃないか。<R>ガシザキノも休暇気分で<R>行ってこいって言ってたぜ。<W><E>",
-     "en": "<F62>:<R>Ha ha, no need to try so hard.<W><H>This ship is lighter than<R>air. It keeps flying even<R>if we're all taking a nap.<W><H>Take it easy. Gashizakino<R>told you to treat it like<R>a vacation, didn't he?<W><E>"
+     "en": "<F62>:<R>Ha ha, no need to try so hard.<W><H>This ship is lighter than air.<R>It keeps flying even if we're<R>all taking a nap.<W><H>Take it easy.<R>Gashizakino told you to treat it<R>like a vacation, didn't he?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#368",
@@ -1857,7 +1857,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#370",
      "jp": "フラグナム：<R>わたくしが空賊だなんて、<R>信じられませんわ。<W><E>",
-     "en": "Fragnum:<R>Me, a sky pirate... I<R>can hardly believe it.<W><E>"
+     "en": "Fragnum:<R>Me, a sky pirate...<R>I can hardly believe it.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#371",
@@ -1897,7 +1897,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#378",
      "jp": "イッヒ：<R>味方と戦うなんて、<R>複雑な気持ちであります。<W><E>",
-     "en": "Ich:<R>Fighting our own allies... I<R>have mixed feelings, sir.<W><E>"
+     "en": "Ich:<R>Fighting our own allies...<R>I have mixed feelings, sir.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#379",
@@ -2342,7 +2342,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#467",
      "jp": "<F62>：<R>ちぇ、ゼシカってのは<R>本当にもてるんだな。<W><E>",
-     "en": "<F62>:<R>Tch. That Zeshika<R>sure is popular.<W><E>"
+     "en": "<F62>:<R>Tch.<R>That Zeshika sure is popular.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#468",
@@ -2522,7 +2522,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#503",
      "jp": "アグ：<R><F62>の兄貴の<R>おかげで、<W><H>ここまでくることができました。<W><H>あとは勝利を天に祈るだけです。<W><H>英雄ダ・ダナスピよ……<R>このアグに力を……<W><E>",
-     "en": "Ag:<R>Thanks to you, Big<R>Brother <F62>,<W><H>we've made it this far.<W><H>All that's left is to pray<R>to the heavens for victory.<W><H>O hero Da Danaspi... grant<R>your strength to Ag...<W><E>"
+     "en": "Ag:<R>Thanks to you, Big<R>Brother <F62>,<W><H>we've made it this far.<W><H>All that's left is to pray<R>to the heavens for victory.<W><H>O hero Da Danaspi...<R>grant your strength to Ag...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#504",
@@ -2532,7 +2532,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#505",
      "jp": "アグ：<R>英雄ダ・ダナスピよ……<R>このアグに力を……<W><E>",
-     "en": "Ag:<R>O hero Da Danaspi... grant<R>your strength to Ag...<W><E>"
+     "en": "Ag:<R>O hero Da Danaspi...<R>grant your strength to Ag...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#506",
@@ -2617,7 +2617,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#522",
      "jp": "<F62>：<R>ケンリはスジがいいからな、<R>きっとなれるよ。<W><E>",
-     "en": "<F62>:<R>You've got a knack for it,<R>Kenri. I'm sure you'll make it.<W><E>"
+     "en": "<F62>:<R>You've got a knack for it, Kenri.<R>I'm sure you'll make it.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#523",
@@ -2722,7 +2722,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#543",
      "jp": "シルカ：<R>だからぁ、お金じゃなくって……<R>うふふ。<W><E>",
-     "en": "Silka:<R>Come ooon, I don't<R>mean money... Ufufu.<W><E>"
+     "en": "Silka:<R>Come ooon, I don't mean<R>money... Ufufu.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#544",
@@ -2842,7 +2842,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#567",
      "jp": "カフィ：<R>ふふ……変わっていないわね。<W><H>わかったわ。<R>これからは仲間の一人として<R>扱ってちょうだい。<W><H>持ち場に着くわ。<W><E>",
-     "en": "Kafi:<R>Heh... You haven't changed.<W><H>All right. From now on,<R>treat me as just another<R>member of the crew.<W><H>I'll take my post.<W><E>"
+     "en": "Kafi:<R>Heh... You haven't changed.<W><H>All right.<R>From now on, treat me as just<R>another member of the crew.<W><H>I'll take my post.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#568",
@@ -2882,7 +2882,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#575",
      "jp": "<F62>：<R>まず、自分の心配をしろよ。<W><H>そうやってずっとゼシカを<R>追いかけているのか……<W><H>あきれた……いや、<R>たいした根性だぜ。<W><E>",
-     "en": "<F62>:<R>Worry about yourself first.<W><H>So you've been chasing<R>after Zeshika like<R>this the whole time...<W><H>That's ridiculous... I mean,<R>that takes real guts.<W><E>"
+     "en": "<F62>:<R>Worry about yourself first.<W><H>So you've been chasing<R>after Zeshika like<R>this the whole time...<W><H>That's ridiculous...<R>I mean, that takes real guts.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#576",
@@ -2907,7 +2907,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#580",
      "jp": "秘書：<R>ええ、そうですよね。<W><H>相手にもしてもらえない<R>社長が気の毒で……<W><E>",
-     "en": "Secretary:<R>Yes, you're quite right.<W><H>I feel so sorry for the<R>president. She won't even<R>give him the time of day...<W><E>"
+     "en": "Secretary:<R>Yes, you're quite right.<W><H>I feel so sorry for the president.<R>She won't even give him the time<R>of day...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#581",
@@ -2997,7 +2997,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#598",
      "jp": "ハウエズナ：<R>わかりました。<R>続けるんですね。<W><E>",
-     "en": "Hauezna:<R>Understood. We'll<R>continue, then.<W><E>"
+     "en": "Hauezna:<R>Understood.<R>We'll continue, then.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#599",
@@ -3087,7 +3087,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#616",
      "jp": "カフィ中佐：<R>そうよ、あなたたちの船に乗せて<R>もらうわよ。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>That's right. I'll be<R>riding on your ship.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>That's right.<R>I'll be riding on your ship.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#617",
@@ -3252,7 +3252,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#649",
      "jp": "<F62>：<R>じじい！<R>今度は何の用だ？<W><E>",
-     "en": "<F62>:<R>You old geezer! What<R>do you want this time?<W><E>"
+     "en": "<F62>:<R>You old geezer!<R>What do you want this time?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#650",
@@ -3272,7 +3272,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#653",
      "jp": "ダ・クダ：<R><P07>どうだ？<R>空賊にならないか？<P15><W><E>",
-     "en": "Da Kuda:<R><P07>Well? How about<R>becoming a sky pirate?<P15><W><E>"
+     "en": "Da Kuda:<R><P07>Well?<R>How about becoming a sky pirate?<P15><W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#654",
@@ -3307,7 +3307,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#660",
      "jp": "ダ・クダ：<R>じゃあ、このまま俺たちに<R>ついて来い。<W><H>おまえは今日から空賊だ。<R>本当にいいんだな？<W><E>",
-     "en": "Da Kuda:<R>Then come along with<R>us just as you are.<W><H>From today on, you're a<R>sky pirate. You're<R>really sure about this?<W><E>"
+     "en": "Da Kuda:<R>Then come along with<R>us just as you are.<W><H>From today on, you're a sky<R>pirate.<R>You're really sure about this?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#661",
@@ -3337,7 +3337,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#666",
      "jp": "ダ・クダ：<R>何だ、やめるのか？<R>もう一度よく考えてみろ。<W><E>",
-     "en": "Da Kuda:<R>What, backing out? Think<R>it over again, carefully.<W><E>"
+     "en": "Da Kuda:<R>What, backing out?<R>Think it over again, carefully.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#667",
@@ -3367,7 +3367,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#672",
      "jp": "ダ・クダ：<R>そうか。俺たちとはちがう道を<R>選ぶってわけだ。<W><H>残念だな……<W><H>まあ、それもひとつの生きかただ。<R>がんばれよ。<W><E>",
-     "en": "Da Kuda:<R>I see. So you're choosing a<R>different road from ours.<W><H>Too bad...<W><H>Well, that's one way to<R>live, too. Good luck to you.<W><E>"
+     "en": "Da Kuda:<R>I see. So you're choosing a<R>different road from ours.<W><H>Too bad...<W><H>Well, that's one way to live, too.<R>Good luck to you.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#673",
@@ -3377,7 +3377,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#674",
      "jp": "ダ・クダ：<R>何だ、迷っているのか？<R>もう一度よく考えてみろ。<W><E>",
-     "en": "Da Kuda:<R>What, still on the fence? Think<R>it over again, carefully.<W><E>"
+     "en": "Da Kuda:<R>What, still on the fence?<R>Think it over again, carefully.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#675",
@@ -3387,7 +3387,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#676",
      "jp": "オユ・キクル：<R>きゃー、ギダン軍が<R>乗り込んでくるわ！<W><E>",
-     "en": "Oyu Kikuru:<R>Eek! The Gidan army<R>is boarding us!<W><E>"
+     "en": "Oyu Kikuru:<R>Eek!<R>The Gidan army is boarding us!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#677",
@@ -3477,7 +3477,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#694",
      "jp": "<F62>：<R>それよりさ、<R>あんたに頼みがあってね。<W><E>",
-     "en": "<F62>:<R>Forget that. I've got<R>a favor to ask you.<W><E>"
+     "en": "<F62>:<R>Forget that.<R>I've got a favor to ask you.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#695",
@@ -3537,7 +3537,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#706",
      "jp": "ガシザキノ中佐：<R>そうか………<R>カフィならやりかねんな……<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>I see...... That's<R>just like Kafi...<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>I see......<R>That's just like Kafi...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#707",
@@ -3587,7 +3587,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#716",
      "jp": "<F62>：<R>どうだ？<R>おまえたちもついてくるか？<W><E>",
-     "en": "<F62>:<R>How about it? You<R>guys coming with me?<W><E>"
+     "en": "<F62>:<R>How about it?<R>You guys coming with me?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#717",
@@ -3852,7 +3852,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#769",
      "jp": "ギダン国王：<R>いやいや、いくらム連邦でも<R>余を殺そうとはせんよ。<W><H>今となってはシデルを止めることは<R>できない。残念だが……ム連邦に<R>渡り危機打開をめざそうと思う。<W><E>",
-     "en": "King of Gidan:<R>No, no. Not even the Federation<R>would go so far as to kill me.<W><H>There is no stopping<R>Sidel now. A pity...<W><H>I shall cross to the<R>Federation and seek a<R>way out of this crisis.<W><E>"
+     "en": "King of Gidan:<R>No, no. Not even the Federation<R>would go so far as to kill me.<W><H>There is no stopping Sidel now.<R>A pity...<W><H>I shall cross to the<R>Federation and seek a<R>way out of this crisis.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#770",
@@ -3877,7 +3877,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#774",
      "jp": "ガシザキノ大佐：<R>決まった。<R>ギダンを脱出する！<W><H><F62>、陛下は親衛隊<R>の裏をかき、この船に乗せよう。<W><H>俺の船を護衛するふりをしながら<R>ム連邦に亡命するんだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>It's decided. We<R>escape from Gidan!<W><H><F62>, we'll outwit the<R>Royal Guard and get<R>His Majesty aboard this ship.<W><H>We'll pretend to escort my ship<R>while we flee to the Federation.<W><E>"
+     "en": "Colonel Gashizakino:<R>It's decided.<R>We escape from Gidan!<W><H><F62>, we'll outwit the<R>Royal Guard and get<R>His Majesty aboard this ship.<W><H>We'll pretend to escort my ship<R>while we flee to the Federation.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#775",
@@ -3927,7 +3927,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#784",
      "jp": "カチタ中佐：<R>ぼ、亡命！？<R>亡命ですと！？<W><H>敵国であるわが国に？<R>いかなる理由で！？<W><E>",
-     "en": "Lieutenant Colonel Kachita:<R>A-asylum!? Did you say asylum!?<W><H>In our country, your<R>enemy? For what reason!?<W><E>"
+     "en": "Lieutenant Colonel Kachita:<R>A-asylum!? Did you say asylum!?<W><H>In our country, your enemy?<R>For what reason!?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#785",
@@ -3982,7 +3982,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#795",
      "jp": "<F62>：<R>そうだ。そうすることにした。<W><H>みんなはいいのか？<W><H>無理にとは言わない。<R>いやなら軍に戻ってもいんだぜ。<W><E>",
-     "en": "<F62>:<R>Yep. That's what I've decided.<W><H>You all okay with that?<W><H>I won't force you. If<R>you don't like it, you<R>can go back to the army.<W><E>"
+     "en": "<F62>:<R>Yep. That's what I've decided.<W><H>You all okay with that?<W><H>I won't force you.<R>If you don't like it, you can go<R>back to the army.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#796",
@@ -4112,7 +4112,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#821",
      "jp": "<F62>：<R>ダ・クダに会わせてやるよ。<R>ついて来な。<W><E>",
-     "en": "<F62>:<R>I'll take you to meet<R>Da Kuda. Follow me.<W><E>"
+     "en": "<F62>:<R>I'll take you to meet Da Kuda.<R>Follow me.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#822",
@@ -4152,7 +4152,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#829",
      "jp": "<F62>：<R>おまえはだれだ？<W><H>あっ！　市場でぶつかった！<W><E>",
-     "en": "<F62>:<R>Who are you?<W><H>Ah! You're the kid who bumped<R>into me at the market!<W><E>"
+     "en": "<F62>:<R>Who are you? Ah!<W><H>You're the kid who bumped<R>into me at the market!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#830",
@@ -4237,7 +4237,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#846",
      "jp": "マルダマン：<R>わかった。<R>おやじさんをたすけに行こう。<W><E>",
-     "en": "Mardaman:<R>All right. We'll go<R>rescue your old man.<W><E>"
+     "en": "Mardaman:<R>All right.<R>We'll go rescue your old man.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#847",
@@ -4352,7 +4352,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#869",
      "jp": "<F62>：<R>お父さんのところまで<R>連れてってやるよ。待ってな。<W><E>",
-     "en": "<F62>:<R>I'll take you to<R>your dad. Sit tight.<W><E>"
+     "en": "<F62>:<R>I'll take you to your dad.<R>Sit tight.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#870",
@@ -4407,7 +4407,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#880",
      "jp": "カムチョム：<R>見たんだよ！　ギダンの<R>ものすごく大きい空中要塞を！<W><H>まだ建設途中だったが、たしか、<R>シデルの親衛部隊のマークが<R>入ってたな。<W><H>ありゃバケモンだよ。<R>あんなのが完成すると、<R>とんでもないことになるぞ。<W><E>",
-     "en": "Kamchom:<R>I saw it! A Gidan aerial<R>fortress, and an enormous one!<W><H>It was still being built, but<R>I'm pretty sure it bore the mark<R>of Sidel's Royal Guard units.<W><H>That thing's a monster. If<R>it ever gets finished,<R>we'll be in real trouble.<W><E>"
+     "en": "Kamchom:<R>I saw it! A Gidan aerial<R>fortress, and an enormous one!<W><H>It was still being built, but<R>I'm pretty sure it bore the mark<R>of Sidel's Royal Guard units.<W><H>That thing's a monster.<R>If it ever gets finished, we'll be<R>in real trouble.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#881",

@@ -507,7 +507,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#100",
      "jp": "カフィ中佐：<R>オデナウデ長官とゼクセル大佐が<R>３階でお待ちかねよ。<W><H>はやくそこのエレベータに<R>お乗りなさい。<W><H><P07>歩くときに□ボタンを押せば、<R>はやく歩けるわ。<P15>いそいで。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Odenaude and Colonel Zexel are<R>waiting on the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button<R>while walking to move<R>faster.<P15> Go on, quickly.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Odenaude and Colonel Zexel are<R>waiting on the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button while<R>walking to move faster.<P15><R>Go on, quickly.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#101",
@@ -527,7 +527,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#104",
      "jp": "<F62>：<R>まいったよ。軍に入れだとさ。<W><E>",
-     "en": "<F62>:<R>Unbelievable. They want<R>me to join the army.<W><E>"
+     "en": "<F62>:<R>Unbelievable.<R>They want me to join the army.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#105",
@@ -552,7 +552,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#109",
      "jp": "カフィ中佐：<R>迷ってるのね。<R>無理もないか。<W><H>まだこの星のことを、<R>ろくに知らないんですものね。<W><H>東の民家にいるおじいさんに、<R>いろいろ聞いてみるといいわ。<W><H>ここのことを、いろいろ親切に<R>教えてくれるはずよ。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>You're torn. Can't<R>say I blame you.<W><H>You still barely know<R>anything about this planet.<W><H>Go and ask the old man in the<R>house to the east about things.<W><H>He'll be happy to tell you<R>all about this place.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>You're torn.<R>Can't say I blame you.<W><H>You still barely know<R>anything about this planet.<W><H>Go and ask the old man in the<R>house to the east about things.<W><H>He'll be happy to tell you<R>all about this place.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#110",
@@ -752,7 +752,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#149",
      "jp": "カフィ中佐：<R>わたしの仕事はここまで。<W><H>船のならし運転をかねて<R>練習飛行でもしてきたら？<W><H>飛行にあたって、いくつか<R>注意事項を伝えておくわね。<W><H>誰をどの砲台に配備するかは、<R>あなたが自分で決めることよ。<W><H><P13>仲間が増えたときには、<R>運転席に座って、仲間の配置を<R>決めてあげてね。<P15><W><H>離陸する前には<P13>必ず弾を<R>装備することも忘れないで。<P15><W><H>「<P07>仲間に伝令<P15>」という文字が<R>赤くなっていたら、<W><H>砲台に配備されたのに弾を持って<R>いない仲間がいるという意味よ。<R>すぐに弾を装備してあげて。<W><H>それから、<R><P13>戦闘から帰ってきたら<R>必ず配給部に顔を出す<P15>のよ。<W><H>わかった？<R>じゃあ、がんばってね。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>My job ends here.<W><H>Why not take a practice<R>flight to break in the ship?<W><H>Before you fly, there are a<R>few things you should know.<W><H>It's up to you to decide<R>who mans which turret.<W><H><P13>When your crew grows, sit in<R>the pilot's seat to assign<R>everyone's positions.<P15><W><H>And before takeoff, <P13>never<R>forget to equip ammo.<P15><W><H>If \"<P07>Orders to Crew<P15>\"<R>shows in red,<W><H>it means someone assigned to<R>a turret has no ammo. Equip<R>them with some right away.<W><H>Also, <P13>whenever you come back<R>from a battle, always report<R>to the Supply Office<P15>.<W><H>Got it? Then good luck.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>My job ends here.<W><H>Why not take a practice<R>flight to break in the ship?<W><H>Before you fly, there are a<R>few things you should know.<W><H>It's up to you to decide<R>who mans which turret.<W><H><P13>When your crew grows, sit in<R>the pilot's seat to assign<R>everyone's positions.<P15><W><H>And before takeoff, <P13>never<R>forget to equip ammo.<P15><W><H>If \"<P07>Orders to Crew<P15>\"<R>shows in red,<W><H>it means someone assigned to a<R>turret has no ammo.<R>Equip them with some right away.<W><H>Also, <P13>whenever you come back<R>from a battle, always report<R>to the Supply Office<P15>.<W><H>Got it? Then good luck.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#150",
@@ -762,7 +762,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#151",
      "jp": "ゼクセル大佐：<R>どうかな、少尉。<W><H>飛空船は気に入って<R>もらえたかな？<W><H>わたしは君に期待しているのだ。<W><H>われわれの先祖のパスク人と同じ<R>ように天から降ってきた、<R>君の優秀な血にね。<W><H>ノイパスクのために<R>がんばってくれたまえ。<W><E>",
-     "en": "Colonel Zexel:<R>Well, Lieutenant?<W><H>Is the airship to your liking?<W><H>I have high hopes for you.<W><H>For your superior blood. You<R>fell from the sky, just as<R>our ancestors the Pask did.<W><H>Do your best for Noipask.<W><E>"
+     "en": "Colonel Zexel:<R>Well, Lieutenant?<W><H>Is the airship to your liking?<W><H>I have high hopes for you.<W><H>For your superior blood.<R>You fell from the sky, just as our<R>ancestors the Pask did.<W><H>Do your best for Noipask.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#152",
@@ -812,7 +812,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#161",
      "jp": "<F62>：<R>まったく！<W><H>ゴクッ。<W><H>うえっ！　こりゃきつい酒だな。<R>みんなこんなのを飲んでるのか？<W><E>",
-     "en": "<F62>:<R>Geez!<W><H>Gulp.<W><H>Bleh! That's some strong<R>stuff. Everyone drinks this?<W><E>"
+     "en": "<F62>:<R>Geez!<W><H>Gulp.<W><H>Bleh! That's some strong stuff.<R>Everyone drinks this?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#162",
@@ -842,7 +842,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#167",
      "jp": "ノイパスク兵：<R>俺はひとりで酒が飲みたいんだ。<R>ほっといてくれ。<W><E>",
-     "en": "Noipask Soldier:<R>I want to drink<R>alone. Leave me be.<W><E>"
+     "en": "Noipask Soldier:<R>I want to drink alone.<R>Leave me be.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#168",
@@ -927,12 +927,12 @@
     {
      "id": "2D/GMPS/G10_00@52800#184",
      "jp": "ドクター：<R>今はいそがしいんだ。<R>話なら、あとにしてくれないか？<W><E>",
-     "en": "Doctor:<R>I'm busy right now. Could<R>you talk to me later?<W><E>"
+     "en": "Doctor:<R>I'm busy right now.<R>Could you talk to me later?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#185",
      "jp": "患者：<R>おい、やぶ医者！<R>この痛みをなんとかしろ！<W><E>",
-     "en": "Patient:<R>Hey, quack! Do something<R>about this pain!<W><E>"
+     "en": "Patient:<R>Hey, quack!<R>Do something about this pain!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#186",
@@ -1017,7 +1017,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#202",
      "jp": "南にはグラシアルギダン王国<R>……通称「ギダン国」があり、<W><E>",
-     "en": "In the south lies the<R>Kingdom of Glacial<R>Gidan... known as \"Gidan,\"<W><E>"
+     "en": "In the south lies the<R>Kingdom of Glacial Gidan...<R>known as \"Gidan,\"<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#203",
@@ -1062,7 +1062,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#211",
      "jp": "物知りじいさん：<R>なんじゃ？<R>まだ聞きたいことがあるのか？<W><E>",
-     "en": "Old Sage:<R>What's this? There's<R>more you want to ask?<W><E>"
+     "en": "Old Sage:<R>What's this?<R>There's more you want to ask?<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#212",
@@ -1172,7 +1172,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#233",
      "jp": "ノイパスク兵：<R>ふっ、おまえもとんだところに<R>落ちてきちまったな。<W><H>ナデス島は今、本国と分断され<R>敵国ギダンの領内を漂っている<R>文字どおりの浮遊島さ……<W><H>こんなところにいたって、<R>望みなんかありはしないさ。<W><E>",
-     "en": "Noipask Soldier:<R>Heh, you sure fell<R>into a bad spot.<W><H>Nades Island's cut off from home,<R>adrift in enemy Gidan's skies. A<R>floating island, literally...<W><H>There's no hope for anyone<R>stuck in a place like this.<W><E>"
+     "en": "Noipask Soldier:<R>Heh, you sure fell<R>into a bad spot.<W><H>Nades Island's cut off from home,<R>adrift in enemy Gidan's skies.<R>A floating island, literally...<W><H>There's no hope for anyone<R>stuck in a place like this.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#234",
@@ -1217,7 +1217,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#242",
      "jp": "ノイパスク兵：<R>出撃かあ……いやだなぁ。<W><E>",
-     "en": "Noipask Soldier:<R>A sortie, huh... I<R>don't wanna go.<W><E>"
+     "en": "Noipask Soldier:<R>A sortie, huh...<R>I don't wanna go.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#243",
@@ -1362,7 +1362,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#271",
      "jp": "<F62>：<R>これが俺の船か……<R>まだ整備中かな。<W><E>",
-     "en": "<F62>:<R>So this is my ship... Guess<R>it's still being serviced.<W><E>"
+     "en": "<F62>:<R>So this is my ship...<R>Guess it's still being serviced.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#272",

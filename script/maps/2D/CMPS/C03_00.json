@@ -592,7 +592,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#117",
      "jp": "タカテリフ長官：<R><F62>少尉は……<R>そうですね、<W><H>ゼシカ大尉に<R>町を案内させましょう。<W><E>",
-     "en": "Commander Takaterif:<R>and as for<R>Lieutenant <F62>... let's see,<W><H>we'll have Captain Zeshika<R>show him around town.<W><E>"
+     "en": "Commander Takaterif:<R>and as for Lieutenant <F62>...<R>let's see,<W><H>we'll have Captain Zeshika<R>show him around town.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#118",
@@ -647,7 +647,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#128",
      "jp": "オデナウデ長官：<R>ふん！<R>まったく情けない援軍だ！<W><E>",
-     "en": "Commander Odenaude:<R>Hmph! What<R>pathetic reinforcements!<W><E>"
+     "en": "Commander Odenaude:<R>Hmph!<R>What pathetic reinforcements!<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#129",
@@ -792,7 +792,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#157",
      "jp": "オユ・キクル：<R>カフィ中佐はまだかなあ……<R>って。<W><H>待ってたんです。<W><E>",
-     "en": "Oyu Kikuru:<R>\"Is Colonel Kafi done<R>yet...?\" I was thinking.<W><H>I've been waiting for her.<W><E>"
+     "en": "Oyu Kikuru:<R>\"Is Colonel Kafi done yet...?\"<R>I was thinking.<W><H>I've been waiting for her.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#158",
@@ -862,7 +862,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#171",
      "jp": "<F62>：<R>敵国の……ギダンでも<R>そうなのか？<W><E>",
-     "en": "<F62>:<R>Even in the enemy<R>country... in Gidan?<W><E>"
+     "en": "<F62>:<R>Even in the enemy country...<R>in Gidan?<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#172",
@@ -887,7 +887,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#176",
      "jp": "カフィ中佐：<R>大きな声では言えないけど……<R>まかせて。<W><H>そのうち会わせるわ。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>I can't say it out loud,<R>but... leave it to me.<W><H>I'll introduce you<R>one of these days.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>I can't say it out loud, but...<R>leave it to me.<W><H>I'll introduce you<R>one of these days.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#177",
@@ -1002,7 +1002,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#199",
      "jp": "カフィ中佐：<R>まだ会議中よ。<R>あとで来てちょうだい。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>We're still in the<R>meeting. Come back later.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>We're still in the meeting.<R>Come back later.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#200",
@@ -1012,7 +1012,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#201",
      "jp": "ゼクセル大佐：<R>はやく行け！<R>補給を忘れるなよ！<W><E>",
-     "en": "Colonel Zexel:<R>Go, quickly! And don't<R>forget to resupply!<W><E>"
+     "en": "Colonel Zexel:<R>Go, quickly!<R>And don't forget to resupply!<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#202",
@@ -1022,7 +1022,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#203",
      "jp": "看護婦：<R>あっ、ご無事だったんですね。<R>よかった……<W><E>",
-     "en": "Nurse:<R>Oh, you made it back<R>safe. Thank goodness...<W><E>"
+     "en": "Nurse:<R>Oh, you made it back safe.<R>Thank goodness...<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#204",
@@ -1052,7 +1052,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#209",
      "jp": "ドクター：<R>ケガ人が続出でたいへんだ！<W><E>",
-     "en": "Doctor:<R>The wounded just keep<R>coming! It's chaos!<W><E>"
+     "en": "Doctor:<R>The wounded just keep coming!<R>It's chaos!<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#210",
@@ -1157,7 +1157,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#230",
      "jp": "少女：<R>ゼシカ大尉……<R>あこがれちゃうな。<W><E>",
-     "en": "Girl:<R>Captain Zeshika... I<R>really look up to her.<W><E>"
+     "en": "Girl:<R>Captain Zeshika...<R>I really look up to her.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#231",
@@ -1187,7 +1187,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#236",
      "jp": "ノイパスク兵：<R>じめじめした家だなあ。<R>はやく本国に帰りたいぜ。<W><E>",
-     "en": "Noipask Soldier:<R>What a damp house. I wanna<R>go back to the homeland.<W><E>"
+     "en": "Noipask Soldier:<R>What a damp house.<R>I wanna go back to the homeland.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#237",
@@ -1337,7 +1337,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#266",
      "jp": "マスター：<R>ゼシカ大尉ではありませんか。<R>お連れの方は、ノイパスクの？<W><H>それはそれはごくろうさまで……<R>お安くしときますよ。<W><E>",
-     "en": "Bartender:<R>Why, if it isn't<R>Captain Zeshika.<W><H>And your companion<R>is from Noipask?<W><H>Well, well, you've had a<R>hard road, I'm sure... I'll<R>give you a good price.<W><E>"
+     "en": "Bartender:<R>Why, if it isn't<R>Captain Zeshika.<W><H>And your companion<R>is from Noipask?<W><H>Well, well, you've had a hard<R>road, I'm sure...<R>I'll give you a good price.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#267",
@@ -1377,7 +1377,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#274",
      "jp": "男：<R>ナデス島が危ないんだって？<R>たいへんだな。<W><E>",
-     "en": "Man:<R>Nades Island's in danger,<R>I hear? That's rough.<W><E>"
+     "en": "Man:<R>Nades Island's in danger, I hear?<R>That's rough.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#275",
@@ -1387,7 +1387,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#276",
      "jp": "男：<R>まったく……これだから<R>ノイパスク人は嫌いだぜ。<W><E>",
-     "en": "Man:<R>Honestly... this is why<R>I hate the Noipask.<W><E>"
+     "en": "Man:<R>Honestly...<R>this is why I hate the Noipask.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#277",
@@ -1452,7 +1452,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#289",
      "jp": "ジャンク屋：<R>おや、お客さん、<R>わたしの店ははじめてですね？<W><H>では特別に当店のおすすめの品、<W><H>修理用具がワンセット入った<R>この「修理キット」のことを<R>ご説明いたしましょう。<W><H>戦闘中のダメージをその場で<R>回復するには、このキットを<R>使うしか方法がないんです。<W><H><P07>このキットを持っているだけで、<W><H>砲台に配置されていない<R>手の空いた仲間が船内を<R>走り回って修理してくれます。<P15><W><H>ただし、修理できるのは船の<R>本体だけで、壊れたタイルを<R>直すことはできません。<W><H>ためしにひとつ買ってみては<R>いかがですか。<W><E>",
-     "en": "Junk Dealer:<R>Oh, sir, this is your first<R>time in my shop, isn't it?<W><H>Then let me tell you, as<R>a special favor, about<R>our top recommendation,<W><H>this \"repair kit,\" with a full<R>set of repair tools inside.<W><H>To fix damage on the spot<R>during battle, using this<R>kit is the only way.<W><H><P07>Just by carrying this kit,<W><H>any free crew not assigned<R>to a turret will run around<R>the ship making repairs.<P15><W><H>However, they can only<R>repair the ship's hull. They<R>can't fix broken tiles.<W><H>Why not try buying one?<W><E>"
+     "en": "Junk Dealer:<R>Oh, sir, this is your first<R>time in my shop, isn't it?<W><H>Then let me tell you, as<R>a special favor, about<R>our top recommendation,<W><H>this \"repair kit,\" with a full<R>set of repair tools inside.<W><H>To fix damage on the spot<R>during battle, using this<R>kit is the only way.<W><H><P07>Just by carrying this kit,<W><H>any free crew not assigned<R>to a turret will run around<R>the ship making repairs.<P15><W><H>However, they can only repair the<R>ship's hull.<R>They can't fix broken tiles.<W><H>Why not try buying one?<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#290",

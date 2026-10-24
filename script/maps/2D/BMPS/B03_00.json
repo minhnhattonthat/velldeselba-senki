@@ -597,7 +597,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#118",
      "jp": "ギダン兵：<R>飛空船さえあれば、今すぐにでも<R>飛び立っていって<W><H>空賊をけちらしてやるんだがな。<W><H>今、この基地のパトロール艇は<R>整備中なんだ。まったく……<W><H>今、司令部で<P07>空賊を退治してくれる<R>傭兵をさがしているんだけど、<P15>心当たりないか？<W><E>",
-     "en": "Gidan Soldier:<R>If I only had an airship,<R>I'd take off right now<W><H>and scatter those sky pirates.<W><H>But this base's patrol<R>boat is under maintenance<R>right now. Honestly...<W><H>Right now headquarters is <P07>looking<R>for a mercenary to deal with the<R>sky pirates.<P15> Know anyone?<W><E>"
+     "en": "Gidan Soldier:<R>If I only had an airship,<R>I'd take off right now<W><H>and scatter those sky pirates.<W><H>But this base's patrol boat is<R>under maintenance right<R>now. Honestly...<W><H>Right now headquarters is <P07>looking<R>for a mercenary to deal with the<R>sky pirates.<P15> Know anyone?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#119",
@@ -607,7 +607,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#120",
      "jp": "ギダン兵：<R>ほんとかい？　あんたが悪党を<R>倒しちまったっていうのは？<W><E>",
-     "en": "Gidan Soldier:<R>Is it true? You took<R>out the bad guys?<W><E>"
+     "en": "Gidan Soldier:<R>Is it true?<R>You took out the bad guys?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#121",
@@ -702,7 +702,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#139",
      "jp": "ギダン司令官：<R>むむむっ。<R>なぜそれを知っている。<W><E>",
-     "en": "Gidan Commander:<R>Hmmm! How do you<R>know about that?<W><E>"
+     "en": "Gidan Commander:<R>Hmmm!<R>How do you know about that?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#140",
@@ -792,7 +792,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#157",
      "jp": "ギダン司令官：<R>うむ、わかっておる。<W><H>空賊を倒したときは……<R><P07>金１２０００Ｚ<P15>をさし上げよう。<W><E>",
-     "en": "Gidan Commander:<R>Yes, I understand.<W><H>When you've beaten the<R>sky pirates... I shall<R>pay you <P07>12000Z<P15>.<W><E>"
+     "en": "Gidan Commander:<R>Yes, I understand.<W><H>When you've beaten the sky<R>pirates...<R>I shall pay you <P07>12000Z<P15>.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#158",
@@ -857,7 +857,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#170",
      "jp": "ギダン司令官：<R>何！　ほんとうか？！<R>腕はたしかなんだろうな？<W><E>",
-     "en": "Gidan Commander:<R>What! Really?! You're<R>sure you're good enough?<W><E>"
+     "en": "Gidan Commander:<R>What! Really?!<R>You're sure you're good enough?<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#171",
@@ -902,7 +902,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#179",
      "jp": "ギダン司令官：<R>なんてやつだ！<R>本当に倒してしまったのか！？<W><E>",
-     "en": "Gidan Commander:<R>Incredible! You<R>really beat them?!<W><E>"
+     "en": "Gidan Commander:<R>Incredible!<R>You really beat them?!<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#180",
@@ -912,7 +912,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#181",
      "jp": "ギダン司令官：<R>よくやってくれた！<W><H>ありがとうと言わせてもらうよ。<W><H>約束の賞金は用意してあるぞ。<R>よかったら、配給部で<R>補給も受けていってくれ。<W><E>",
-     "en": "Gidan Commander:<R>Well done!<W><H>Allow me to say thank you.<W><H>I have the promised reward<R>ready. If you like, stop by the<R>Supply Office for supplies too.<W><E>"
+     "en": "Gidan Commander:<R>Well done!<W><H>Allow me to say thank you.<W><H>I have the promised reward ready.<R>If you like, stop by the Supply<R>Office for supplies too.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#182",
@@ -967,7 +967,7 @@
     {
      "id": "2D/BMPS/B03_00@34800#192",
      "jp": "ギダン兵：<R>その腕があれば、空賊になれるん<R>じゃないか？　はは、冗談だよ。<W><E>",
-     "en": "Gidan Soldier:<R>With skills like that, you<R>could be a sky pirate,<W><H>couldn't you? Ha ha,<R>just kidding.<W><E>"
+     "en": "Gidan Soldier:<R>With skills like that, you<R>could be a sky pirate,<W><H>couldn't you?<R>Ha ha, just kidding.<W><E>"
     },
     {
      "id": "2D/BMPS/B03_00@34800#193",

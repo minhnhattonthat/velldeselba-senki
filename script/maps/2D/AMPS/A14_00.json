@@ -472,7 +472,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#93",
      "jp": "カフィの父：<R>ああ。見つけたよ。<R>パスク製のメカだったかな。<W><E>",
-     "en": "Kafi's Father:<R>Yes, I found one. Pask-made<R>machinery, I believe.<W><E>"
+     "en": "Kafi's Father:<R>Yes, I found one.<R>Pask-made machinery, I believe.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#94",
@@ -632,7 +632,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#125",
      "jp": "カフィの父：<R>空賊などに、<R>平和も何もあるものか！<W><E>",
-     "en": "Kafi's Father:<R>Sky pirates, talking<R>of peace? Nonsense!<W><E>"
+     "en": "Kafi's Father:<R>Sky pirates, talking of<R>peace? Nonsense!<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#126",
@@ -687,7 +687,7 @@
     {
      "id": "2D/AMPS/A14_00@2a800#136",
      "jp": "<F62>：<R>よし。<R>とりあえずシャッハに行こう。<W><E>",
-     "en": "<F62>:<R>All right. Let's head<R>to Schach for now.<W><E>"
+     "en": "<F62>:<R>All right.<R>Let's head to Schach for now.<W><E>"
     },
     {
      "id": "2D/AMPS/A14_00@2a800#137",

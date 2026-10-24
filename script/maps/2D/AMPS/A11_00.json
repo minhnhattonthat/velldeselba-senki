@@ -522,7 +522,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#103",
      "jp": "ドックの職人：<R>中古だがお買い得だよ。<R>買わんかね？<W><E>",
-     "en": "Shipwright:<R>She's used, but she's a<R>bargain. Want to buy her?<W><E>"
+     "en": "Shipwright:<R>She's used, but she's a bargain.<R>Want to buy her?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#104",
@@ -627,7 +627,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#124",
      "jp": "ギダン技術将校：<R>今度は絶対に自信があるんだ。<R>爆発なんか起こさない。<W><H>お礼ならちゃんとする、<R>１０００Ｚでどうだろう？<W><E>",
-     "en": "Gidan Engineer Officer:<R>This time I'm absolutely<R>confident. No explosions.<W><H>I'll pay you properly, of<R>course. How does 1000Z sound?<W><E>"
+     "en": "Gidan Engineer Officer:<R>This time I'm absolutely<R>confident. No explosions.<W><H>I'll pay you properly, of course.<R>How does 1000Z sound?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#125",
@@ -707,7 +707,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#140",
      "jp": "ギダン技術将校：<R>そうそう、<W><H>旧型のガルガナーク級が民間用に<R>売りに出ることになったよ。<W><H>ドックで聞いてみるといい。<R>中古だが、整備は完全だ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>Oh, that's right,<W><H>the old Garganak class is going<R>on sale for civilian use.<W><H>Ask at the dock. She's<R>used, but fully serviced.<W><E>"
+     "en": "Gidan Engineer Officer:<R>Oh, that's right,<W><H>the old Garganak class is going<R>on sale for civilian use.<W><H>Ask at the dock.<R>She's used, but fully serviced.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#141",
@@ -887,7 +887,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#176",
      "jp": "<F62>：<R>アブナス。<W><H>変なものがあるんだけど、<R>いるかい？<W><E>",
-     "en": "<F62>:<R>Abunas.<W><H>I've got a strange<R>object here. Want it?<W><E>"
+     "en": "<F62>:<R>Abunas.<W><H>I've got a strange object here.<R>Want it?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#177",
@@ -927,7 +927,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#184",
      "jp": "<F62>：<R>ヤズサの北か。<R>一度行ってみるか……<W><E>",
-     "en": "<F62>:<R>North of Yazusa, huh. Maybe<R>I'll go take a look...<W><E>"
+     "en": "<F62>:<R>North of Yazusa, huh.<R>Maybe I'll go take a look...<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#185",
@@ -967,7 +967,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#192",
      "jp": "発明家アブナス：<R>いやー、<R>いい勉強になったよ。<W><H>そうだ、よかったら<R>こいつを使ってくれない？<W><H>やはり、弾は<R>使ってこそ価値があるからね。<W><H>その点、君ならきっと<R>使いこなしてくれると思うんだ。<W><E>",
-     "en": "Inventor Abunas:<R>Well, it was a real<R>learning experience.<W><H>Oh, I know! Would you<R>like to use these?<W><H>After all, ammo is only worth<R>something when it's fired.<W><H>And I'm sure you'll<R>put them to good use.<W><E>"
+     "en": "Inventor Abunas:<R>Well, it was a real<R>learning experience.<W><H>Oh, I know!<R>Would you like to use these?<W><H>After all, ammo is only worth<R>something when it's fired.<W><H>And I'm sure you'll<R>put them to good use.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#193",

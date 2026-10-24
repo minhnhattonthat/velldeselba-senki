@@ -572,7 +572,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#113",
      "jp": "ガシザキノ：<R>わかった！<R>全員、飛空港に向かえ！<W><E>",
-     "en": "Gashizakino:<R>Got it! Everyone, head<R>for the airport!<W><E>"
+     "en": "Gashizakino:<R>Got it!<R>Everyone, head for the airport!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#114",
@@ -622,7 +622,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#123",
      "jp": "空賊：<R>おつかれさん。<R>必要な物があったら持ってきな。<W><E>",
-     "en": "Sky Pirate:<R>Good work. If you need<R>anything, take it.<W><E>"
+     "en": "Sky Pirate:<R>Good work.<R>If you need anything, take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#124",
@@ -647,12 +647,12 @@
     {
      "id": "2D/AMPS/A08_00@47000#128",
      "jp": "修理屋：<R>修理できたよ。<R>また、こっそりおいで。<W><E>",
-     "en": "Repairman:<R>All fixed. Come by<R>on the quiet again.<W><E>"
+     "en": "Repairman:<R>All fixed.<R>Come by on the quiet again.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#129",
      "jp": "空賊：<R>おう、<F62>。<R>修理ならまかせときな。<W><E>",
-     "en": "Sky Pirate:<R>Hey, <F62>. Leave<R>the repairs to me.<W><E>"
+     "en": "Sky Pirate:<R>Hey, <F62>.<R>Leave the repairs to me.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#130",
@@ -662,7 +662,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#131",
      "jp": "空賊：<R>ふう、うまくできたかな。<R>またいつでも来いよ。<W><E>",
-     "en": "Sky Pirate:<R>Phew, hope that came out<R>right. Come back anytime.<W><E>"
+     "en": "Sky Pirate:<R>Phew, hope that came out right.<R>Come back anytime.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#132",
@@ -727,7 +727,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#144",
      "jp": "男：<R>ケンリ……どうしてここに？<W><E>",
-     "en": "Man:<R>Kenri... What are<R>you doing here?<W><E>"
+     "en": "Man:<R>Kenri...<R>What are you doing here?<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#145",
@@ -747,7 +747,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#148",
      "jp": "マルダマン：<R>やっぱり、おまえの<R>息子だったか。<W><E>",
-     "en": "Mardaman:<R>I knew it. He's your<R>son after all.<W><E>"
+     "en": "Mardaman:<R>I knew it.<R>He's your son after all.<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#149",
@@ -797,7 +797,7 @@
     {
      "id": "2D/AMPS/A08_00@47000#158",
      "jp": "ギダン兵：<R>な……何をするか！<W><E>",
-     "en": "Gidan Soldier:<R>Wh... What do you<R>think you're doing!<W><E>"
+     "en": "Gidan Soldier:<R>Wh...<R>What do you think you're doing!<W><E>"
     },
     {
      "id": "2D/AMPS/A08_00@47000#159",

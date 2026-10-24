@@ -457,7 +457,7 @@
     {
      "id": "2D/DMPS/D02_10@2b800#90",
      "jp": "ノイパスク軍少佐：<R>何だきさま、どうして<R>こんなところにいる？<W><H>パトロールを続けろ！<R>またいつ攻めてくるかわからん。<W><E>",
-     "en": "Noipask Major:<R>What, you? Why are you here?<W><H>Keep patrolling! There's<R>no telling when they'll<R>attack again.<W><E>"
+     "en": "Noipask Major:<R>What, you? Why are you here?<W><H>Keep patrolling!<R>There's no telling when they'll<R>attack again.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#91",
@@ -487,12 +487,12 @@
     {
      "id": "2D/DMPS/D02_10@2b800#96",
      "jp": "ノイパスク士官：<R>ここは、最前線だからな……<R>死守しなければ。<W><E>",
-     "en": "Noipask Officer:<R>This is the front line... We<R>have to hold it to the death.<W><E>"
+     "en": "Noipask Officer:<R>This is the front line...<R>We have to hold it to the death.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_10@2b800#97",
      "jp": "ノイパスク士官：<R>軽はずみな行動は死を<R>まねくぞ。気をつけることだ。<W><E>",
-     "en": "Noipask Officer:<R>Rash action will get you<R>killed. Be careful.<W><E>"
+     "en": "Noipask Officer:<R>Rash action will get you killed.<R>Be careful.<W><E>"
     }
    ]
   }

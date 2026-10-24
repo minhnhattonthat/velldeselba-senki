@@ -457,7 +457,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#90",
      "jp": "ゼシカ大尉：<R>ごくろうさま。<W><H>でも、単独行動は危険よ。<R>今後は許可しませんからね。<W><E>",
-     "en": "Captain Zeshika:<R>Good work out there.<W><H>But going off on your own<R>is dangerous. I won't<R>allow it from now on.<W><E>"
+     "en": "Captain Zeshika:<R>Good work out there.<W><H>But going off on your own is<R>dangerous.<R>I won't allow it from now on.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#91",
@@ -547,7 +547,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#108",
      "jp": "ム連兵：<R>シデルめ、<R>ゆるせない……！<W><E>",
-     "en": "Federation Soldier:<R>Damn you, Sidel... I'll<R>never forgive this...!<W><E>"
+     "en": "Federation Soldier:<R>Damn you, Sidel...<R>I'll never forgive this...!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#109",
@@ -602,12 +602,12 @@
     {
      "id": "2D/FMPS/F09_00@49800#119",
      "jp": "女：<R>兵隊さんたち元気がないけど、<R>なにかあったの？<W><E>",
-     "en": "Woman:<R>The soldiers all seem so<R>down. Did something happen?<W><E>"
+     "en": "Woman:<R>The soldiers all seem so down.<R>Did something happen?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#120",
      "jp": "少年：<R>ぶーん、どかーん！……って<R>ギダンをやっつけるんだ！<W><E>",
-     "en": "Boy:<R>Vrrrm, kaboom! ...That's<R>how I'll beat Gidan!<W><E>"
+     "en": "Boy:<R>Vrrrm, kaboom!<R>...That's how I'll beat Gidan!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#121",
@@ -627,7 +627,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#124",
      "jp": "タカテリフ長官：<R>……ふむ、なるほど、<R>で、その反対勢力とは？<W><E>",
-     "en": "Commander Takaterif:<R>...Hmm, I see. And who<R>is this opposition?<W><E>"
+     "en": "Commander Takaterif:<R>...Hmm, I see.<R>And who is this opposition?<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#125",
@@ -642,7 +642,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#127",
      "jp": "ム連兵：<R>はっ。<R>今はそれ以上のことは……<W><E>",
-     "en": "Federation Soldier:<R>Sir. That's all we<R>know for now...<W><E>"
+     "en": "Federation Soldier:<R>Sir.<R>That's all we know for now...<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#128",
@@ -722,7 +722,7 @@
     {
      "id": "2D/FMPS/F09_00@49800#143",
      "jp": "ム連兵：<R>大尉、くじけず……<R>がんばりましょう！<W><E>",
-     "en": "Federation Soldier:<R>Captain, don't lose<R>heart... Let's keep at it!<W><E>"
+     "en": "Federation Soldier:<R>Captain, don't lose heart...<R>Let's keep at it!<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#144",
@@ -742,12 +742,12 @@
     {
      "id": "2D/FMPS/F09_00@49800#147",
      "jp": "ム連兵：<R>爆風に巻き込まれたんです。<R>あっという間でした………<W><E>",
-     "en": "Federation Soldier:<R>He was caught in the blast. It<R>was over in an instant......<W><E>"
+     "en": "Federation Soldier:<R>He was caught in the blast.<R>It was over in an instant......<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#148",
      "jp": "コステリフ長官：<R>わたしたちは軍人だ。<R>戦争をやっているんだ………<W><H>いつかこうなることは、<R>わかっていたつもりだった。<W><E>",
-     "en": "Commander Kosterif:<R>We are soldiers. We are<R>fighting a war......<W><H>I thought I understood that it<R>would come to this one day.<W><E>"
+     "en": "Commander Kosterif:<R>We are soldiers.<R>We are fighting a war......<W><H>I thought I understood that it<R>would come to this one day.<W><E>"
     },
     {
      "id": "2D/FMPS/F09_00@49800#149",

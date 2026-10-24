@@ -592,7 +592,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#117",
      "jp": "カフィ中佐：<R>ぐずぐずしていたら、ギダン軍が<R>またやってきます。<W><H>兵士も民間人も<R>疲労が極限に来ています……<R>ご決断を！<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>If we dawdle, Gidan's<R>forces will be back.<W><H>Soldiers and civilians alike<R>are at the limit of<R>exhaustion... Please, decide!<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>If we dawdle, Gidan's<R>forces will be back.<W><H>Soldiers and civilians alike are<R>at the limit of exhaustion...<R>Please, decide!<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#118",
@@ -672,7 +672,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#133",
      "jp": "ドクター：<R>きのうの薬で具合が<R>よくなった兵士が、<W><H>君にお礼を言いたいからと、<R>空港の方に向かったぞ。<W><E>",
-     "en": "Doctor:<R>A soldier who got better<R>thanks to yesterday's medicine<W><H>headed for the airport. He<R>said he wanted to thank you.<W><E>"
+     "en": "Doctor:<R>A soldier who got better<R>thanks to yesterday's medicine<W><H>headed for the airport.<R>He said he wanted to thank you.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#134",
@@ -737,7 +737,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#146",
      "jp": "ノイパスク兵：<R>ム連邦なんかに行けるか！<R>俺は行かんぞ！！<W><E>",
-     "en": "Noipask Soldier:<R>Like I'd go to the<R>Federation! I'm not going!!<W><E>"
+     "en": "Noipask Soldier:<R>Like I'd go to the Federation!<R>I'm not going!!<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#147",
@@ -857,7 +857,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#170",
      "jp": "配給係：<R>なにやってたんだ。<R>あんたを待ってたんぜ。<W><H>俺もとっととここを引き上げ<R>たいんだ。<W><H>しかし……<R>作戦が失敗したってのに、<W><H>給料を払わなきゃならないなんて<R>……なっとく行かないなぁ。<W><E>",
-     "en": "Quartermaster:<R>What were you doing? I've<R>been waiting for you.<W><H>I want to clear out of<R>here quick myself.<W><H>But... the operation failed, and<R>I still have to pay out wages...<W><H>...doesn't sit right with me.<W><E>"
+     "en": "Quartermaster:<R>What were you doing?<R>I've been waiting for you.<W><H>I want to clear out of<R>here quick myself.<W><H>But... the operation failed, and<R>I still have to pay out wages...<W><H>...doesn't sit right with me.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#171",

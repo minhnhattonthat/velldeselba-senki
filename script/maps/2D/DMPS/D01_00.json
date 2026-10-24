@@ -507,7 +507,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#100",
      "jp": "<F62>：<R>い、いや……<R>ただの通りすがりだよ……<W><E>",
-     "en": "<F62>:<R>N-no... I'm just<R>passing through...<W><E>"
+     "en": "<F62>:<R>N-no...<R>I'm just passing through...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#101",
@@ -587,7 +587,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#116",
      "jp": "<F62>：<R>おまえのような考え方のせいで、<W><H>ノイパスク自体が滅びようと<R>しているのがわからないのか！<W><E>",
-     "en": "<F62>:<R>Because of thinking like yours,<W><H>Noipask itself is headed for<R>ruin. Can't you see that!<W><E>"
+     "en": "<F62>:<R>Because of thinking like yours,<W><H>Noipask itself is headed for ruin.<R>Can't you see that!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#117",
@@ -602,7 +602,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#119",
      "jp": "ゼクセル大佐：<R>おせっかいやきかね？<W><H>まあがんばりたまえ。<R>陰ながら応援しているよ。<R>はははは……<W><H>これで、好きにするがいい。<W><E>",
-     "en": "Colonel Zexel:<R>A busybody, are you?<W><H>Well, do your best. I'll<R>be cheering for you from<R>the shadows. Hahahaha...<W><H>Here. Do as you like with this.<W><E>"
+     "en": "Colonel Zexel:<R>A busybody, are you?<W><H>Well, do your best. I'll be<R>cheering for you from the<R>shadows. Hahahaha...<W><H>Here. Do as you like with this.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#120",
@@ -767,7 +767,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#152",
      "jp": "カフィ中佐：<R>長官！　一体これは……！？<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Commander! What is the<R>meaning of this...!?<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Commander!<R>What is the meaning of this...!?<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#153",
@@ -802,7 +802,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#159",
      "jp": "ゼクセル大佐：<R>当然だ。<W><H>そうすれば、<R>このうんざりするほど<R>長い戦争に決着がつく。<W><E>",
-     "en": "Colonel Zexel:<R>Naturally.<W><H>That way, this tediously long<R>war will finally be settled.<W><E>"
+     "en": "Colonel Zexel:<R>Naturally. That way,<W><H>this tediously long war<R>will finally be settled.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#160",
@@ -832,7 +832,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#165",
      "jp": "<F62>：<R>ちょっと待ってくれ！<W><H>今、ム連邦との同盟が切れたら、<R>ノイパスクは孤立してしまうだろ？<W><H>そうなったら、もう、<R>ノイパスクはおしまいなんだよ。<W><H>な、頼む！<R>ちょっとだけ時間をくれ。<W><H>俺が何とかしてみる。<W><E>",
-     "en": "<F62>:<R>Hold on a second!<W><H>If the alliance with the<R>Federation breaks now, Noipask<R>will be cut off, right?<W><H>If that happens,<R>Noipask is finished.<W><H>Come on, please! Just<R>give me a little time.<W><H>I'll figure something out.<W><E>"
+     "en": "<F62>:<R>Hold on a second!<W><H>If the alliance with the<R>Federation breaks now, Noipask<R>will be cut off, right?<W><H>If that happens,<R>Noipask is finished.<W><H>Come on, please!<R>Just give me a little time.<W><H>I'll figure something out.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#166",
@@ -1152,7 +1152,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#229",
      "jp": "少女：<R>わたし、スラークから来たの。<R>子供たちだけで来たのよ。<W><E>",
-     "en": "Girl:<R>I came from Slark. Just us<R>kids, all by ourselves.<W><E>"
+     "en": "Girl:<R>I came from Slark.<R>Just us kids, all by ourselves.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#230",
@@ -1377,7 +1377,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#274",
      "jp": "<F62>：<R>あのダ・クダが説教されるのか？<R>一度見てみたいもんだな！<W><E>",
-     "en": "<F62>:<R>That Da Kuda gets lectured? I'd<R>love to see that just once!<W><E>"
+     "en": "<F62>:<R>That Da Kuda gets lectured?<R>I'd love to see that just once!<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#275",
@@ -1407,7 +1407,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#280",
      "jp": "修理屋：<R>ほっほっほ……わたしは<R>無国籍の修理屋です。<W><H>どこの国の船でも修理しますよ。<W><E>",
-     "en": "Repairman:<R>Ho ho ho... I am a<R>repairman of no nation.<W><H>I'll fix a ship<R>from any country.<W><E>"
+     "en": "Repairman:<R>Ho ho ho...<R>I am a repairman of no nation.<W><H>I'll fix a ship<R>from any country.<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#281",
@@ -1462,7 +1462,7 @@
     {
      "id": "2D/DMPS/D01_00@62000#291",
      "jp": "女：<R>ああ、やだやだ。<R>ぶっそうなこと……<W><E>",
-     "en": "Woman:<R>Oh, how awful. Such<R>dangerous times...<W><E>"
+     "en": "Woman:<R>Oh, how awful.<R>Such dangerous times...<W><E>"
     },
     {
      "id": "2D/DMPS/D01_00@62000#292",

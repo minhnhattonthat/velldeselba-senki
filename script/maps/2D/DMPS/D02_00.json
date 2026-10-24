@@ -492,7 +492,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#97",
      "jp": "<F62>：<R>それにしてもゼクセルめ、<R>いったい何を考えているんだ……<W><E>",
-     "en": "<F62>:<R>Still, that damn Zexel... What<R>on earth is he thinking...<W><E>"
+     "en": "<F62>:<R>Still, that damn Zexel...<R>What on earth is he thinking...<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#98",
@@ -557,7 +557,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#110",
      "jp": "ギダン兵：<R>民間人は入れないぞ。<R>あっちに行った行った。<W><E>",
-     "en": "Gidan Soldier:<R>Civilians can't come<R>in. Go on, get lost.<W><E>"
+     "en": "Gidan Soldier:<R>Civilians can't come in.<R>Go on, get lost.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#111",
@@ -582,7 +582,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#115",
      "jp": "ギダン兵：<R>やれやれ……すぐに出発か。<W><E>",
-     "en": "Gidan Soldier:<R>Good grief... Shipping<R>out right away?<W><E>"
+     "en": "Gidan Soldier:<R>Good grief...<R>Shipping out right away?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#116",
@@ -662,7 +662,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#131",
      "jp": "<F62>：<R>自滅か……<W><H>…………<W><H>よし、決めた！<R>ガシザキノに会いに行くぞ！<W><E>",
-     "en": "<F62>:<R>Destroy itself, huh...<W><H>......<W><H>Right, I've decided! I'm<R>going to see Gashizakino!<W><E>"
+     "en": "<F62>:<R>Destroy itself, huh...<W><H>......<W><H>Right, I've decided!<R>I'm going to see Gashizakino!<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#132",
@@ -672,7 +672,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#133",
      "jp": "<F62>：<R>何でもない。<W><H>俺が何とかしてやるから、<R>それまで死ぬなよな。<W><E>",
-     "en": "<F62>:<R>Nothing.<W><H>I'll figure something out, so<R>don't go dying on me till then.<W><E>"
+     "en": "<F62>:<R>Nothing.<R>I'll figure something out,<W><H>so don't go dying<R>on me till then.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#134",
@@ -682,7 +682,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#135",
      "jp": "ノイパスク兵：<R>何とかするって……<R>どうするつもりなんだ？<W><E>",
-     "en": "Noipask Soldier:<R>Figure something out... What<R>are you planning to do?<W><E>"
+     "en": "Noipask Soldier:<R>Figure something out...<R>What are you planning to do?<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#136",
@@ -832,7 +832,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#165",
      "jp": "配給係：<R>いいよなぁ、傭兵は気楽で。<W><H>こんなにいっぱい弾がもらえる<R>のは、あんただけだぜ。<W><E>",
-     "en": "Quartermaster:<R>Must be nice, being a<R>mercenary. No worries at all.<W><H>You're the only one who gets<R>this much ammo, you know.<W><E>"
+     "en": "Quartermaster:<R>Must be nice, being a mercenary.<R>No worries at all.<W><H>You're the only one who gets<R>this much ammo, you know.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#166",
@@ -867,7 +867,7 @@
     {
      "id": "2D/DMPS/D02_00@3f800#172",
      "jp": "配給係：<R>この基地ももう終わりだ。<R>俺、早く逃げたいよ。<W><E>",
-     "en": "Quartermaster:<R>This base is done for. I just<R>want to get out of here.<W><E>"
+     "en": "Quartermaster:<R>This base is done for.<R>I just want to get out of here.<W><E>"
     },
     {
      "id": "2D/DMPS/D02_00@3f800#173",

@@ -58,14 +58,23 @@ def greedy(seg, first_row, three_d=False, cap=99):
 
 
 def wrap(seg, first_row, three_d=False):
-    """Balanced wrap: the narrowest rows that keep greedy's row count, so no row is left with one or two words."""
-    best = greedy(seg, first_row, three_d)
+    """Balanced wrap: of the layouts with greedy's row count (narrower caps, or a row break after a sentence), the
+    one with the most rows ending a sentence, then the narrowest."""
+    alts = [greedy(seg, first_row, three_d)]
     w = lint.width3d if three_d else lint.width
-    for cap in range(max(map(w, best)) - 1, 0, -1):
+    for cap in range(max(map(w, alts[0])) - 1, 0, -1):
         alt = greedy(seg, first_row, three_d, cap)
-        if len(alt) > len(best):
+        if len(alt) > len(alts[0]):
             break
-        best = alt
+        alts.append(alt)
+    ws = words(seg)
+    for k in range(1, len(ws)):
+        if END.search(ws[k - 1]):
+            head = greedy(" ".join(ws[:k]), first_row, three_d)
+            alt = head + greedy(" ".join(ws[k:]), first_row + len(head), three_d)
+            if len(alt) == len(alts[0]):
+                alts.append(alt)
+    best = max(alts, key=lambda a: (sum(bool(END.search(r)) for r in a[:-1]), -max(map(w, a))))
     if len(best) > 1 and " " not in best[-1] and len(words(best[-2])) > 1:  # pull a word down to a lone one
         *head, word = words(best[-2])
         if " " in " ".join(head) and len(greedy(f"{word} {best[-1]}", first_row + len(best) - 1, three_d)) == 1:

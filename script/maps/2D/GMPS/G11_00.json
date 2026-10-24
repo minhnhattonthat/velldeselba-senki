@@ -477,7 +477,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#94",
      "jp": "カフィ中佐：<R>長官！<W><H>ミデーレキサタへ撤退する<R>ようにと、本国からの命令です。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Commander!<W><H>Orders from the homeland: we're<R>to withdraw to Miderekisata.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>Commander!<R>Orders from the homeland:<W><H>we're to withdraw<R>to Miderekisata.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#95",
@@ -527,7 +527,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#104",
      "jp": "ゼクセル大佐：<R>では、<F62>少尉、<W><H>中佐に同行して、<R>ミデーレキサタに向かってくれ。<W><H>特別手当を支給するから、<R>配給部で受け取るがいい。<W><E>",
-     "en": "Colonel Zexel:<R>Then, Lieutenant <F62>,<W><H>accompany the Colonel and<R>head to Miderekisata.<W><H>You'll be granted a<R>special allowance. Collect<R>it at the Supply Office.<W><E>"
+     "en": "Colonel Zexel:<R>Then, Lieutenant <F62>,<W><H>accompany the Colonel and<R>head to Miderekisata.<W><H>You'll be granted a special<R>allowance.<R>Collect it at the Supply Office.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#105",
@@ -577,7 +577,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#114",
      "jp": "<F62>：<R>だめだ。<R>みんな嘆くばかりで……<W><E>",
-     "en": "<F62>:<R>Not good. Everyone's<R>just grieving...<W><E>"
+     "en": "<F62>:<R>Not good.<R>Everyone's just grieving...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#115",
@@ -587,7 +587,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#116",
      "jp": "ハウエズナ：<R>空襲にあったそうですね。<R>なんてひどい……<W><E>",
-     "en": "Hauezna:<R>I heard there was an air<R>raid. How terrible...<W><E>"
+     "en": "Hauezna:<R>I heard there was an air raid.<R>How terrible...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#117",
@@ -602,7 +602,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#119",
      "jp": "マスター：<R>もう店じまいだ。<R>終わりだ……全てが……<W><E>",
-     "en": "Bartender:<R>I'm closing up shop. It's<R>over... all of it...<W><E>"
+     "en": "Bartender:<R>I'm closing up shop.<R>It's over... all of it...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#120",
@@ -662,7 +662,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#131",
      "jp": "女：<R>ゴホゴホ……<R>ああ、気が滅入る……<W><E>",
-     "en": "Woman:<R>Cough, cough... Oh, this<R>is so depressing...<W><E>"
+     "en": "Woman:<R>Cough, cough...<R>Oh, this is so depressing...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#132",
@@ -712,7 +712,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#141",
      "jp": "カフィ中佐：<R>そうなの……<W><H>わかったわ。<R>なんとかしてみる……<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>I see...<W><H>All right. I'll see<R>what I can do...<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>I see...<W><H>All right.<R>I'll see what I can do...<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#142",
@@ -782,7 +782,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#155",
      "jp": "管制員：<R>なにをしてるんだ？<R>はやく出発したらどうだ。<W><E>",
-     "en": "Controller:<R>What are you doing? Why<R>don't you get going already?<W><E>"
+     "en": "Controller:<R>What are you doing?<R>Why don't you get going already?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#156",
@@ -842,7 +842,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#167",
      "jp": "ノイパスク兵：<R>もうわれわれが生き残る道は<R>……ないのでしょうか。<W><E>",
-     "en": "Noipask Soldier:<R>Is there... no way left<R>for us to survive?<W><E>"
+     "en": "Noipask Soldier:<R>Is there...<R>no way left for us to survive?<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#168",
@@ -867,12 +867,12 @@
     {
      "id": "2D/GMPS/G11_00@51800#172",
      "jp": "ゼクセル大佐：<R>何をしている？<R>おまえも向かうのだ、少尉！<W><E>",
-     "en": "Colonel Zexel:<R>What are you doing? You're<R>going too, Lieutenant!<W><E>"
+     "en": "Colonel Zexel:<R>What are you doing?<R>You're going too, Lieutenant!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#173",
      "jp": "ゼクセル大佐：<R>準備はいいか？<W><H>この任務は急を要するのだ。<R>何としても成功させるのだぞ。<W><E>",
-     "en": "Colonel Zexel:<R>Are you ready?<W><H>This mission is urgent. You must<R>succeed, whatever it takes.<W><E>"
+     "en": "Colonel Zexel:<R>Are you ready?<R>This mission is urgent.<W><H>You must succeed,<R>whatever it takes.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#174",
@@ -917,7 +917,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#182",
      "jp": "ノイパスク兵：<R>ギダン軍を確認しました！<R>まっすぐこちらにやってきます！<W><E>",
-     "en": "Noipask Soldier:<R>Gidan forces sighted! They're<R>heading straight for us!<W><E>"
+     "en": "Noipask Soldier:<R>Gidan forces sighted!<R>They're heading straight for us!<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#183",
@@ -932,7 +932,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#185",
      "jp": "配給係：<R>初の実戦はどうだった？<W><H>えーと、はい、<R>これがあんたの給料だよ。<W><H>いいよなぁ、傭兵にしては<R>給料が多くて。<R>うらやましいよ。<W><H>幹部に特別なコネでも<R>あるのかい？<W><H>必要な弾薬類は空港の方に<R>送っておくから。<W><E>",
-     "en": "Quartermaster:<R>How was your first real battle?<W><H>Let's see... here you<R>go, this is your pay.<W><H>Must be nice. For a<R>mercenary, your pay's<R>pretty high. I'm jealous.<W><H>Got some special<R>connection with the brass?<W><H>I'll send the ammo you<R>need over to the airport.<W><E>"
+     "en": "Quartermaster:<R>How was your first real battle?<W><H>Let's see...<R>here you go, this is your pay.<W><H>Must be nice. For a mercenary,<R>your pay's pretty high.<R>I'm jealous.<W><H>Got some special<R>connection with the brass?<W><H>I'll send the ammo you<R>need over to the airport.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#186",
@@ -967,7 +967,7 @@
     {
      "id": "2D/GMPS/G11_00@51800#192",
      "jp": "配給係：<R>中佐、お元気そうで……<R>うれしいです。<W><E>",
-     "en": "Quartermaster:<R>Colonel, you look<R>well... I'm so glad.<W><E>"
+     "en": "Quartermaster:<R>Colonel, you look well...<R>I'm so glad.<W><E>"
     },
     {
      "id": "2D/GMPS/G11_00@51800#193",

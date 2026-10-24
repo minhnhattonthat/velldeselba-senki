@@ -657,12 +657,12 @@
     {
      "id": "2D/HMPS/H01_00@34800#130",
      "jp": "シデル提督：<R>……もうよい！<R>すでに決着はついた！<W><E>",
-     "en": "Admiral Sidel:<R>...Enough! The matter<R>is already settled!<W><E>"
+     "en": "Admiral Sidel:<R>...Enough!<R>The matter is already settled!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#131",
      "jp": "<F62>：<R>シデル！　ここは危険だ！<R>いっしょに来るんだ！<W><H>はやく俺の船に！<W><E>",
-     "en": "<F62>:<R>Sidel! It's dangerous<R>here! Come with us!<W><H>Quick, to my ship!<W><E>"
+     "en": "<F62>:<R>Sidel! It's dangerous here!<R>Come with us!<W><H>Quick, to my ship!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#132",
@@ -757,7 +757,7 @@
     {
      "id": "2D/HMPS/H01_00@34800#150",
      "jp": "シデル提督：<R>それでは繰り返すだけだ<R>……おろかな歴史を！<W><E>",
-     "en": "Admiral Sidel:<R>That way, we will only<R>repeat... our foolish history!<W><E>"
+     "en": "Admiral Sidel:<R>That way, we will only repeat...<R>our foolish history!<W><E>"
     },
     {
      "id": "2D/HMPS/H01_00@34800#151",

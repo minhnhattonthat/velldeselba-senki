@@ -477,7 +477,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#94",
      "jp": "ギダン兵：<R>前線から来たのですか？<R>それはご苦労さまですね。<W><E>",
-     "en": "Gidan Soldier:<R>You came from the front<R>line? Good work out there.<W><E>"
+     "en": "Gidan Soldier:<R>You came from the front line?<R>Good work out there.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#95",
@@ -487,7 +487,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#96",
      "jp": "バムス中佐：<R>おお、大尉。どうかね？<R>グラシアルは。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Ah, Captain. What do<R>you think of Glacial?<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Ah, Captain.<R>What do you think of Glacial?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#97",
@@ -552,7 +552,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#109",
      "jp": "バムス中佐：<R>らしいな。<R>シデル提督の命令だ。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>So it seems. On<R>Admiral Sidel's orders.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>So it seems.<R>On Admiral Sidel's orders.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#110",
@@ -567,7 +567,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#112",
      "jp": "<F62>：<R>攻撃してどうするつもりだ？<R>占領するのか？<W><H>それじゃかつてのパスクと<R>同じことをやってるだけ<R>じゃないのか？<W><E>",
-     "en": "<F62>:<R>And what then? Attack<R>them and occupy them?<W><H>Isn't that just doing the same<R>thing the Pask did back then?<W><E>"
+     "en": "<F62>:<R>And what then?<R>Attack them and occupy them?<W><H>Isn't that just doing the same<R>thing the Pask did back then?<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#113",
@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A01_10@3c800#118",
      "jp": "<F62>：<R>らちがあかないな……<R>会わせてくれ、ギダン王に。<W><E>",
-     "en": "<F62>:<R>This is going nowhere... Let<R>me see the King of Gidan.<W><E>"
+     "en": "<F62>:<R>This is going nowhere...<R>Let me see the King of Gidan.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_10@3c800#119",

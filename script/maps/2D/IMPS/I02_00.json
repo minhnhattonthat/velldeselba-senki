@@ -542,7 +542,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#107",
      "jp": "ギダン国王：<R>この船は……敵なのか？<R>味方なのか？<W><E>",
-     "en": "King of Gidan:<R>This ship... is it<R>friend or foe?<W><E>"
+     "en": "King of Gidan:<R>This ship...<R>is it friend or foe?<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#108",
@@ -562,7 +562,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#111",
      "jp": "ギダン国王：<R>なんということだ……<R>どうしてこんなことに……<W><H>しかし、バムスがシデル側に<R>ついていたとなると、<W><H>あそこでいきなり襲われたのも<R>うなずけるな。<W><E>",
-     "en": "King of Gidan:<R>How can this be... How<R>did it come to this...<W><H>Yet if Bams has<R>sided with Sidel,<W><H>it is no wonder we were attacked<R>so suddenly back there.<W><E>"
+     "en": "King of Gidan:<R>How can this be...<R>How did it come to this...<W><H>Yet if Bams has<R>sided with Sidel,<W><H>it is no wonder we were attacked<R>so suddenly back there.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#112",
@@ -597,12 +597,12 @@
     {
      "id": "2D/IMPS/I02_00@30000#118",
      "jp": "<F62>：<R>俺は<F62>だ。<R>たすけてくれてありがとう。<W><E>",
-     "en": "<F62>:<R>I'm <F62>. Thanks<R>for saving us.<W><E>"
+     "en": "<F62>:<R>I'm <F62>.<R>Thanks for saving us.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#119",
      "jp": "パック：<R>あなたたちは<R>ほんとに運がよかった。<W><H>飛空船はもうめちゃめちゃ、<R>あなたたちが生きているのが<R>不思議なくらいでしたよ。<W><E>",
-     "en": "Pack:<R>You folks were real lucky.<W><H>That airship was a total<R>wreck. It's a wonder<R>you're still alive.<W><E>"
+     "en": "Pack:<R>You folks were real lucky.<W><H>That airship was a total wreck.<R>It's a wonder you're<R>still alive.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#120",
@@ -667,7 +667,7 @@
     {
      "id": "2D/IMPS/I02_00@30000#132",
      "jp": "パック：<R>ああ、だんな。<R>そろそろ町ですよ。<W><E>",
-     "en": "Pack:<R>Ah, boss. We're<R>nearly at the town.<W><E>"
+     "en": "Pack:<R>Ah, boss.<R>We're nearly at the town.<W><E>"
     },
     {
      "id": "2D/IMPS/I02_00@30000#133",

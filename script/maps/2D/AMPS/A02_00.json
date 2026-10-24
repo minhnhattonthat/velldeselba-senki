@@ -462,7 +462,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#91",
      "jp": "写し絵屋：<R>写し絵はいかがかね～？<W><E>",
-     "en": "Portrait Maker:<R>Portraits! Who wants<R>a portraaait?<W><E>"
+     "en": "Portrait Maker:<R>Portraits!<R>Who wants a portraaait?<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#92",
@@ -582,7 +582,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#115",
      "jp": "<F62>：<R>よし、こっちにこい。<R>ダクまで連れてってやる。<W><E>",
-     "en": "<F62>:<R>Okay, this way. I'll<R>take you to Dak.<W><E>"
+     "en": "<F62>:<R>Okay, this way.<R>I'll take you to Dak.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#116",
@@ -622,7 +622,7 @@
     {
      "id": "2D/AMPS/A02_00@3b800#123",
      "jp": "男：<R>だから……君に……いっしょに<R>グラシアルに来てほしいんだ……<W><E>",
-     "en": "Man:<R>So... I want you... to<R>come with me to Glacial...<W><E>"
+     "en": "Man:<R>So... I want you...<R>to come with me to Glacial...<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#124",
@@ -707,12 +707,12 @@
     {
      "id": "2D/AMPS/A02_00@3b800#140",
      "jp": "修理屋：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": "Repairman:<R>Thanks for your<R>business. Come again.<W><E>"
+     "en": "Repairman:<R>Thanks for your business.<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#141",
      "jp": "修理屋：<R>またあんたか。<R>修理してやってもいいぜ。<W><E>",
-     "en": "Repairman:<R>You again? I could do<R>some repairs for you.<W><E>"
+     "en": "Repairman:<R>You again?<R>I could do some repairs for you.<W><E>"
     },
     {
      "id": "2D/AMPS/A02_00@3b800#142",

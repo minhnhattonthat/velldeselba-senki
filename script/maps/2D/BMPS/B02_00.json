@@ -557,7 +557,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#110",
      "jp": "老人：<R>あんた、どこから来なさった？<R>見かけない顔だねえ。<W><E>",
-     "en": "Old Man:<R>Where'd you come from? I<R>don't recognize your face.<W><E>"
+     "en": "Old Man:<R>Where'd you come from?<R>I don't recognize your face.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#111",
@@ -572,7 +572,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#113",
      "jp": "老人：<R>何じゃ……酒のじゃまを<R>せんでくれ。<W><E>",
-     "en": "Old Man:<R>What is it...? Don't<R>interrupt my drinking.<W><E>"
+     "en": "Old Man:<R>What is it...?<R>Don't interrupt my drinking.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#114",
@@ -672,7 +672,7 @@
     {
      "id": "2D/BMPS/B02_00@3c000#133",
      "jp": "<F62>：<R>何だか腹が立つなあ。<W><H>輸送船団でも襲うとするか。<R>せっかく空賊なんだしな。<W><E>",
-     "en": "<F62>:<R>Something about this<R>really ticks me off.<W><H>Maybe I'll go hit a convoy. I<R>am a sky pirate, after all.<W><E>"
+     "en": "<F62>:<R>Something about this<R>really ticks me off.<W><H>Maybe I'll go hit a convoy.<R>I am a sky pirate, after all.<W><E>"
     },
     {
      "id": "2D/BMPS/B02_00@3c000#134",

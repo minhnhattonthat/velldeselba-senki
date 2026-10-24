@@ -467,7 +467,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#92",
      "jp": "チバラガ：<R>ひっく！<R>酒が抜けねえぜ。<W><H>ダナスピに行くんだろ？<R>よろしくな。<W><H>おめえが出発したら俺たちも<R>すぐに出るからな。<W><E>",
-     "en": "Chibaraga:<R>Hic! Can't shake off the booze.<W><H>You're headin' for Danaspi,<R>right? Count on us.<W><H>Once you head out, we'll<R>be right behind ya.<W><E>"
+     "en": "Chibaraga:<R>Hic! Can't shake off the booze.<W><H>You're headin' for Danaspi, right?<R>Count on us.<W><H>Once you head out, we'll<R>be right behind ya.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#93",
@@ -477,7 +477,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#94",
      "jp": "イジロフ：<R>親分からきいたぜ。<W><H>まかせときな。<R>俺とチバラガで援護して<R>やるからな。<W><H>準備ができたら出ようぜ。<W><E>",
-     "en": "Ijirov:<R>Heard it from the boss.<W><H>Leave it to us. Chibaraga<R>and I'll cover you.<W><H>Let's head out<R>once you're ready.<W><E>"
+     "en": "Ijirov:<R>Heard it from the boss.<W><H>Leave it to us.<R>Chibaraga and I'll cover you.<W><H>Let's head out<R>once you're ready.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#95",
@@ -692,7 +692,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#137",
      "jp": "ダ・クダ：<R>礼には及びません。<R>当然のことをしたまでです。<W><E>",
-     "en": "Da Kuda:<R>No thanks are needed. I<R>only did what was right.<W><E>"
+     "en": "Da Kuda:<R>No thanks are needed.<R>I only did what was right.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#138",
@@ -847,7 +847,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#168",
      "jp": "ダ・クダ：<R>がははははは。<R>そうこなくっちゃ。<W><H>よし！<W><H>強力な仲間が増えたんだ、<R>祝い酒といこうじゃないか！<W><E>",
-     "en": "Da Kuda:<R>Gahahahaha! That's<R>what I like to hear.<W><H>Right!<W><H>We've got a strong new<R>comrade, so let's drink to it!<W><E>"
+     "en": "Da Kuda:<R>Gahahahaha!<R>That's what I like to hear.<W><H>Right!<W><H>We've got a strong new<R>comrade, so let's drink to it!<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#169",
@@ -997,7 +997,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#198",
      "jp": "ダ・クダ：<R>これをやろう。<R>空賊のしるしだ。<W><H>これをつけていりゃあ、<R>少しはハクがつくってもんだ。<W><E>",
-     "en": "Da Kuda:<R>Here, take this. It's<R>the Sky Pirate Mark.<W><H>Wear this, and you'll<R>carry a bit more clout.<W><E>"
+     "en": "Da Kuda:<R>Here, take this.<R>It's the Sky Pirate Mark.<W><H>Wear this, and you'll<R>carry a bit more clout.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#199",
@@ -1052,7 +1052,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#209",
      "jp": "ダ・クダ：<R>はっはっは、<R>今はまだ言えねえよ。<W><E>",
-     "en": "Da Kuda:<R>Ha ha ha! Can't<R>tell you just yet.<W><E>"
+     "en": "Da Kuda:<R>Ha ha ha!<R>Can't tell you just yet.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#210",
@@ -1072,7 +1072,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#213",
      "jp": "ダ・クダ：<R>どうだい、空賊も悪くないだろ？<W><E>",
-     "en": "Da Kuda:<R>Well? Sky piracy's<R>not so bad, huh?<W><E>"
+     "en": "Da Kuda:<R>Well?<R>Sky piracy's not so bad, huh?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#214",
@@ -1082,7 +1082,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#215",
      "jp": "<F62>：<R>ニ・デム島……浮遊島か？<W><E>",
-     "en": "<F62>:<R>Ni-Dem Island... A<R>floating island?<W><E>"
+     "en": "<F62>:<R>Ni-Dem Island...<R>A floating island?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#216",
@@ -1157,7 +1157,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#230",
      "jp": "<F62>：<R>ああ。あんたによろしくと<R>いってたよ。<W><H>ノイパスクの連中も<R>うまく逃がせたし……<W><H>これでノイパスクに<R>思い残すことはない。<W><H>思う存分、空賊としてあばれる<R>ことができるぜ。<W><E>",
-     "en": "<F62>:<R>Yeah. He said to give<R>you his regards.<W><H>And we got the Noipask<R>folks away safely too...<W><H>Now I've got nothing left<R>holding me to Noipask.<W><H>I can raise all the hell<R>I want as a sky pirate.<W><E>"
+     "en": "<F62>:<R>Yeah.<R>He said to give you his regards.<W><H>And we got the Noipask<R>folks away safely too...<W><H>Now I've got nothing left<R>holding me to Noipask.<W><H>I can raise all the hell<R>I want as a sky pirate.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#231",
@@ -1172,7 +1172,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#233",
      "jp": "ダ・クダ：<R>まあなんにせよ、オルダナスピの<R>件はこれで一件落着だな。<W><H>そうだ、<R>ちょっと頼みたい用がある。<W><H>ダハという町に「ブアブナム」と<R>いう男がいる。そいつにこれを<R>渡してくれないか。<W><E>",
-     "en": "Da Kuda:<R>Well, whatever the case, that<R>settles the Oldanaspi business.<W><H>Oh yeah, there's a little<R>favor I want to ask.<W><H>In a town called Daha there's<R>a man named \"Buabnam.\" Could<R>you deliver this to him?<W><E>"
+     "en": "Da Kuda:<R>Well, whatever the case, that<R>settles the Oldanaspi business.<W><H>Oh yeah, there's a little<R>favor I want to ask.<W><H>In a town called Daha there's a<R>man named \"Buabnam.\"<R>Could you deliver this to him?<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#234",
@@ -1187,7 +1187,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#236",
      "jp": "ダ・クダ：<R>はるか西だ。途中の町に<R>寄りながら行くといい。<W><E>",
-     "en": "Da Kuda:<R>Way out west. Stop by<R>the towns along the way.<W><E>"
+     "en": "Da Kuda:<R>Way out west.<R>Stop by the towns along the way.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#237",
@@ -1307,7 +1307,7 @@
     {
      "id": "2D/EMPS/E01_00@48000#260",
      "jp": "チャンタケ大尉：<R>国王船とその護衛船を<W><H>バムス艦と２機の親衛隊機で<R>襲う……これが暗殺計画の<R>あらましです。<W><E>",
-     "en": "Captain Chantake:<R>The assassination targets are<R>the royal ship and its escort.<W><H>Bams's ship and two Royal Guard<R>craft will attack them... That<R>is the plan in outline.<W><E>"
+     "en": "Captain Chantake:<R>The assassination targets are<R>the royal ship and its escort.<W><H>Bams's ship and two Royal Guard<R>craft will attack them...<R>That is the plan in outline.<W><E>"
     },
     {
      "id": "2D/EMPS/E01_00@48000#261",

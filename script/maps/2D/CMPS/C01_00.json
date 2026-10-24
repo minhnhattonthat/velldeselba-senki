@@ -447,7 +447,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#88",
      "jp": "ガシザキノ大佐：<R>どうだ、準備は整ったか？<W><H>国王護衛にあたって<R>俺の部下をおまえにたくそう。<W><H>俺も目をかけていた<R>優秀な砲手たちだ。<R>おまえの船に乗せてやってくれ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Well? Are you ready?<W><H>For the King's escort, I'm<R>entrusting my own men to you.<W><H>They're fine gunners<R>I've had my eye on. Take<R>them aboard your ship.<W><E>"
+     "en": "Colonel Gashizakino:<R>Well? Are you ready?<W><H>For the King's escort, I'm<R>entrusting my own men to you.<W><H>They're fine gunners I've had my<R>eye on.<R>Take them aboard your ship.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#89",
@@ -467,12 +467,12 @@
     {
      "id": "2D/CMPS/C01_00@50000#92",
      "jp": "ガシザキノ大佐：<R>よし、出発だ！<R>俺はすぐあとから行く。<W><E>",
-     "en": "Colonel Gashizakino:<R>Right, move out! I'll<R>be right behind you.<W><E>"
+     "en": "Colonel Gashizakino:<R>Right, move out!<R>I'll be right behind you.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#93",
      "jp": "ガシザキノ大佐：<R>出発だ！<R>俺はすぐあとから行く。<W><E>",
-     "en": "Colonel Gashizakino:<R>Move out! I'll be<R>right behind you.<W><E>"
+     "en": "Colonel Gashizakino:<R>Move out!<R>I'll be right behind you.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#94",
@@ -482,7 +482,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#95",
      "jp": "管制員：<R>国王の出発はまだですよ。<R>待機していてください。<W><E>",
-     "en": "Controller:<R>The King hasn't departed<R>yet. Please stand by.<W><E>"
+     "en": "Controller:<R>The King hasn't departed yet.<R>Please stand by.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#96",
@@ -507,7 +507,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#100",
      "jp": "男：<R>それにしても長い戦いだね。<R>疲れてしまうよ、まったく。<W><E>",
-     "en": "Man:<R>Still, what a long war. It<R>wears you out, honestly.<W><E>"
+     "en": "Man:<R>Still, what a long war.<R>It wears you out, honestly.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#101",
@@ -542,7 +542,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#107",
      "jp": "少女：<R>ム連邦軍は逃げちゃったわ。<R>なんて薄情なの……<W><E>",
-     "en": "Girl:<R>The Federation army ran<R>away. How heartless...<W><E>"
+     "en": "Girl:<R>The Federation army ran away.<R>How heartless...<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#108",
@@ -657,7 +657,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#130",
      "jp": "バムス中佐：<R>国王船がスラークを出発した<R>という連絡が入りしだい、<W><H>ガシザキノ中佐……いや、<R>大佐の船と共に向かってくれ。<W><H>それまでは、しばらく待機だ。<R>町で息抜きでもしてこい。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>As soon as word comes that the<R>royal ship has left Slark,<W><H>set out with Lieutenant Colonel<R>Gashizakino's... no,<R>Colonel Gashizakino's ship.<W><H>Until then, stand by. Go into<R>town and take a breather.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>As soon as word comes that the<R>royal ship has left Slark,<W><H>set out with Lieutenant Colonel<R>Gashizakino's...<R>no, Colonel Gashizakino's ship.<W><H>Until then, stand by. Go into<R>town and take a breather.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#131",
@@ -682,7 +682,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#135",
      "jp": "ギダン司令官：<R>我らが制圧したとはいえ、<W><H>どこにム連邦軍が<R>潜伏しているとも限らん。<R>心してかかってくれ。<W><H>国王の御身に何かあっては<R>一大事だからな。<W><E>",
-     "en": "Gidan Commander:<R>We may have taken the city, but<W><H>there's no telling where<R>Federation forces might<R>be hiding. Stay sharp.<W><H>If anything were to<R>happen to His Majesty,<R>it would be a disaster.<W><E>"
+     "en": "Gidan Commander:<R>We may have taken the city, but<W><H>there's no telling where<R>Federation forces might be hiding.<R>Stay sharp.<W><H>If anything were to<R>happen to His Majesty,<R>it would be a disaster.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#136",
@@ -832,7 +832,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#165",
      "jp": "<F62>：<R>え？　カフィの両親って<R>ノイパスク人だろ？<W><E>",
-     "en": "<F62>:<R>Huh? Aren't Kafi's<R>parents Noipask?<W><E>"
+     "en": "<F62>:<R>Huh?<R>Aren't Kafi's parents Noipask?<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#166",
@@ -847,7 +847,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#168",
      "jp": "ガシザキノ大佐：<R>がははは！<R>むさ苦しいはないだろう！<W><E>",
-     "en": "Colonel Gashizakino:<R>Gahahaha! \"Grubby\"<R>is a bit much!<W><E>"
+     "en": "Colonel Gashizakino:<R>Gahahaha!<R>\"Grubby\" is a bit much!<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#169",
@@ -882,7 +882,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#175",
      "jp": "ガシザキノ大佐：<R>今度の作戦は、国王陛下をお守り<R>する名誉ある仕事だ。<W><H>俺も行くことになってるんだ。<R>援護をよろしく頼むぜ。<W><H>まあ、おまえも飲め！<W><E>",
-     "en": "Colonel Gashizakino:<R>The next operation's an honor:<R>guarding His Majesty the King.<W><H>I'm going too. I'm counting<R>on you to cover me.<W><H>Now, have a drink!<W><E>"
+     "en": "Colonel Gashizakino:<R>The next operation's an honor:<R>guarding His Majesty the King.<W><H>I'm going too.<R>I'm counting on you to cover me.<W><H>Now, have a drink!<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#176",
@@ -942,7 +942,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#187",
      "jp": "看護婦：<R>お酒の匂いがするわね……<R>アルコールはひかえめにね。<W><E>",
-     "en": "Nurse:<R>You smell of drink... Go<R>easy on the alcohol.<W><E>"
+     "en": "Nurse:<R>You smell of drink...<R>Go easy on the alcohol.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#188",
@@ -952,7 +952,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#189",
      "jp": "女：<R>まったく、戦争続きで……<R>気が滅入るわね。<W><E>",
-     "en": "Woman:<R>Honestly, one war after<R>another... It's so depressing.<W><E>"
+     "en": "Woman:<R>Honestly, one war after another...<R>It's so depressing.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#190",
@@ -1002,7 +1002,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#199",
      "jp": "ドックの職人：<R>サンキュー！<R>はりきって貼っちゃうぜ。<W><E>",
-     "en": "Shipwright:<R>Thanks! I'll put<R>'em on with gusto.<W><E>"
+     "en": "Shipwright:<R>Thanks!<R>I'll put 'em on with gusto.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#200",
@@ -1077,7 +1077,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#214",
      "jp": "パック：<R>こ、これは！<R>立派な勲章じゃないですか！<W><E>",
-     "en": "Pack:<R>Wh-what's this!? Why,<R>it's a splendid medal!<W><E>"
+     "en": "Pack:<R>Wh-what's this!?<R>Why, it's a splendid medal!<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#215",
@@ -1197,7 +1197,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#238",
      "jp": "<F62>：<R>そうさ。<R>あいつら、しつこくてな。<W><H>カフィやガシザキノはどうした？<W><E>",
-     "en": "<F62>:<R>That's right. Those<R>guys just don't quit.<W><H>What about Kafi and Gashizakino?<W><E>"
+     "en": "<F62>:<R>That's right.<R>Those guys just don't quit.<W><H>What about Kafi and Gashizakino?<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#239",

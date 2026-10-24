@@ -527,7 +527,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#104",
      "jp": "パック：<R>軍人さんたちがドンパチ<R>やっている横を通り抜けて……<W><H>売り物の燃料も使ってしまって、<R>もう、命からがらでしたよ。<W><E>",
-     "en": "Pack:<R>We slipped past the soldiers<R>while they shot it out...<W><H>We even burned the fuel we<R>were supposed to sell. We<R>barely got out alive.<W><E>"
+     "en": "Pack:<R>We slipped past the soldiers<R>while they shot it out...<W><H>We even burned the fuel we were<R>supposed to sell.<R>We barely got out alive.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#105",
@@ -547,7 +547,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#108",
      "jp": "パック：<R>お願いです！　だんなの船に<R>乗せてください！<W><E>",
-     "en": "Pack:<R>Please! Let us ride<R>on your ship, Boss!<W><E>"
+     "en": "Pack:<R>Please!<R>Let us ride on your ship, Boss!<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#109",
@@ -607,7 +607,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#120",
      "jp": "男：<R>わたし、貿易商の<R>ラウエルと申します。<W><H>見たところ、お客さまは<R>この国の方では<R>ないようですが……<W><H>ギダン人にもノイパスク人にも<R>似ていませんな。<W><H>商売柄この星じゅうを<R>旅しているのですが、<W><H>お客さまのような方は<R>見たことがありません。<W><H>実に興味深いですな。<R>どこのご出身ですか？<W><E>",
-     "en": "Man:<R>My name is Rauel. I am a trader.<W><H>By the look of you, sir, you<R>are not from this country...<W><H>You resemble neither the<R>Gidan nor the Noipask.<W><H>My trade has taken me<R>all across this planet,<W><H>yet I have never seen<R>anyone quite like you.<W><H>Truly fascinating. Where<R>do you hail from?<W><E>"
+     "en": "Man:<R>My name is Rauel. I am a trader.<W><H>By the look of you, sir, you<R>are not from this country...<W><H>You resemble neither the<R>Gidan nor the Noipask.<W><H>My trade has taken me<R>all across this planet,<W><H>yet I have never seen<R>anyone quite like you.<W><H>Truly fascinating.<R>Where do you hail from?<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#121",
@@ -837,7 +837,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#166",
      "jp": "ゼシカ大尉：<R>でも……<R>帰ってこなきゃよかったな。<W><E>",
-     "en": "Captain Zeshika:<R>But... I wish I<R>hadn't come home.<W><E>"
+     "en": "Captain Zeshika:<R>But...<R>I wish I hadn't come home.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#167",
@@ -877,7 +877,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#174",
      "jp": "ゼシカ大尉：<R>そろそろ出発するみたいよ。<R>行きましょ。<W><E>",
-     "en": "Captain Zeshika:<R>Looks like we're about<R>to set out. Let's go.<W><E>"
+     "en": "Captain Zeshika:<R>Looks like we're about to set out.<R>Let's go.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#175",
@@ -972,7 +972,7 @@
     {
      "id": "2D/FMPS/F01_00@4d800#193",
      "jp": "少年：<R>おじさん、飛空船乗り？<R>ボクも早く船に乗りたいな。<W><E>",
-     "en": "Boy:<R>Mister, do you fly airships? I<R>wanna ride a ship soon too.<W><E>"
+     "en": "Boy:<R>Mister, do you fly airships?<R>I wanna ride a ship soon too.<W><E>"
     },
     {
      "id": "2D/FMPS/F01_00@4d800#194",

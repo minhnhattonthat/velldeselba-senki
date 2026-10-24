@@ -487,7 +487,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#96",
      "jp": "ペンキ屋：<R>出張ペンキ屋だよ。<R>船のぬりかえかい？<W><E>",
-     "en": "Painter:<R>On-site painter here. Want<R>your ship repainted?<W><E>"
+     "en": "Painter:<R>On-site painter here.<R>Want your ship repainted?<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#97",
@@ -512,7 +512,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#101",
      "jp": "ドックの職人：<R>まいどあり。<R>また来ておくれ。<W><E>",
-     "en": "Shipwright:<R>Thanks for your<R>business. Come again.<W><E>"
+     "en": "Shipwright:<R>Thanks for your business.<R>Come again.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#102",
@@ -542,7 +542,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#107",
      "jp": "コステリフ長官：<R>これは失礼。<R>いや、そうでしたな。<W><H>我々自らの力で、あのシデル<R>親衛部隊からヨウタコンを<R>取り返したんですな……<W><E>",
-     "en": "Commander Kosterif:<R>Pardon me. No, quite<R>right, quite right.<W><H>We took Youtakon back from<R>Sidel's Royal Guard units<R>with our own strength...<W><E>"
+     "en": "Commander Kosterif:<R>Pardon me.<R>No, quite right, quite right.<W><H>We took Youtakon back from<R>Sidel's Royal Guard units<R>with our own strength...<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#108",
@@ -622,7 +622,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#123",
      "jp": "女：<R>ギダン軍に食べ物を取られ<R>ちゃったのよ。ひどいわよね。<W><E>",
-     "en": "Woman:<R>The Gidan army took our<R>food. Isn't that awful?<W><E>"
+     "en": "Woman:<R>The Gidan army took our food.<R>Isn't that awful?<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#124",
@@ -632,7 +632,7 @@
     {
      "id": "2D/FMPS/F08_00@49800#125",
      "jp": "少女：<R>ギダンの兵隊って、いばってる<R>からとてもイヤだったわ。<W><E>",
-     "en": "Girl:<R>The Gidan soldiers were so<R>bossy. I really hated them.<W><E>"
+     "en": "Girl:<R>The Gidan soldiers were so bossy.<R>I really hated them.<W><E>"
     },
     {
      "id": "2D/FMPS/F08_00@49800#126",

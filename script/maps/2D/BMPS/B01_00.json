@@ -642,7 +642,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#127",
      "jp": "ギダン国王：<R><F62>、こんな<R>うまいものがあったとは。<W><H>店主の名はメグロとゆうたかな。<R>記憶にとどめておくぞ。<W><H>フカヒレはメグロにかぎる、<R>とな。<W><E>",
-     "en": "King of Gidan:<R><F62>, to think there was<R>something so delicious!<W><H>The owner's name was<R>Meguro, you said? I shall<R>commit it to memory.<W><H>For shark fin, there is<R>no place like Meguro's!<W><E>"
+     "en": "King of Gidan:<R><F62>, to think there was<R>something so delicious!<W><H>The owner's name was Meguro, you<R>said?<R>I shall commit it to memory.<W><H>For shark fin, there is<R>no place like Meguro's!<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#128",
@@ -697,12 +697,12 @@
     {
      "id": "2D/BMPS/B01_00@49800#138",
      "jp": "ギダン兵：<R>前線に行った友達……<R>だいじょうぶかなあ。<W><E>",
-     "en": "Gidan Soldier:<R>My friend who went to the<R>front... I hope he's all right.<W><E>"
+     "en": "Gidan Soldier:<R>My friend who went to the front...<R>I hope he's all right.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#139",
      "jp": "ギダン兵：<R>真っ黒い船なら、シャッハの方に<R>向かったのを見たぜ。<W><E>",
-     "en": "Gidan Soldier:<R>A pitch-black ship? I saw<R>one heading toward Schach.<W><E>"
+     "en": "Gidan Soldier:<R>A pitch-black ship?<R>I saw one heading toward Schach.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#140",
@@ -762,7 +762,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#151",
      "jp": "老女：<R>「こおろぎのゼリー」は<R>うまかろ？<W><E>",
-     "en": "Old Woman:<R>The \"Cricket<R>Jelly\"... tasty, eh?<W><E>"
+     "en": "Old Woman:<R>The \"Cricket Jelly\"...<R>tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#152",
@@ -777,7 +777,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#154",
      "jp": "老人：<R>「火ネズミの生き肝」は<R>うまかろ？<W><E>",
-     "en": "Old Man:<R>The \"Raw Fire Rat<R>Liver\"... tasty, eh?<W><E>"
+     "en": "Old Man:<R>The \"Raw Fire Rat Liver\"...<R>tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#155",
@@ -802,17 +802,17 @@
     {
      "id": "2D/BMPS/B01_00@49800#159",
      "jp": "老人：<R>人さがしとは、ごくろうさん<R>だねえ。<W><E>",
-     "en": "Old Man:<R>Looking for someone,<R>eh? That's hard work.<W><E>"
+     "en": "Old Man:<R>Looking for someone, eh?<R>That's hard work.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#160",
      "jp": "老人：<R>「ギダンガエルの活き作り」は<R>うまかろ？<W><E>",
-     "en": "Old Man:<R>The \"Live Gidan Frog<R>Sashimi\"... tasty, eh?<W><E>"
+     "en": "Old Man:<R>The \"Live Gidan Frog Sashimi\"...<R>tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#161",
      "jp": "老女：<R>「ダナデウノまんじゅう」は<R>うまかろ？<W><E>",
-     "en": "Old Woman:<R>The \"Danadeuno<R>Buns\"... tasty, eh?<W><E>"
+     "en": "Old Woman:<R>The \"Danadeuno Buns\"...<R>tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#162",
@@ -822,7 +822,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#163",
      "jp": "少女：<R>黒い船なら西に飛んでくのを<R>見たよ。かっこよかったわ。<W><E>",
-     "en": "Girl:<R>I saw a black ship flying<R>west. It looked so cool.<W><E>"
+     "en": "Girl:<R>I saw a black ship flying west.<R>It looked so cool.<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#164",
@@ -847,7 +847,7 @@
     {
      "id": "2D/BMPS/B01_00@49800#168",
      "jp": "女：<R>「海底アルマジロの蒸し煮」は<R>うまかろ？<W><E>",
-     "en": "Woman:<R>The \"Braised Seabed<R>Armadillo\"... tasty, eh?<W><E>"
+     "en": "Woman:<R>The \"Braised Seabed Armadillo\"...<R>tasty, eh?<W><E>"
     },
     {
      "id": "2D/BMPS/B01_00@49800#169",

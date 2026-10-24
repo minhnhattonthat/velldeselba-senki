@@ -552,7 +552,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#109",
      "jp": "ゼシカ大尉：<R>まったく……シデルは<R>何を考えているのかしら……<W><E>",
-     "en": "Captain Zeshika:<R>Honestly... What is<R>Sidel thinking...?<W><E>"
+     "en": "Captain Zeshika:<R>Honestly...<R>What is Sidel thinking...?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#110",
@@ -662,7 +662,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#131",
      "jp": "カフィ：<R>会うって、どこに会いに行くの？<W><H>シデルの所在もつかめないのに。<W><E>",
-     "en": "Kafi:<R>See him? Where are you<R>going to see him?<W><H>We don't even know<R>where Sidel is.<W><E>"
+     "en": "Kafi:<R>See him?<R>Where are you going to see him?<W><H>We don't even know<R>where Sidel is.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#132",
@@ -677,7 +677,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#134",
      "jp": "<F62>：<R>そう、あいつならきっと<R>あそこに行くはずだ。<W><E>",
-     "en": "<F62>:<R>Right. I'm sure that's<R>where he'll go.<W><E>"
+     "en": "<F62>:<R>Right.<R>I'm sure that's where he'll go.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#135",
@@ -867,7 +867,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#172",
      "jp": "ゼシカ大尉：<R>このあいだまでノイパスクで<R>戦っていたと思ったら、<W><H>今は空賊ですものね。その<R>行動力はすごいと思うわ。<W><E>",
-     "en": "Captain Zeshika:<R>Not long ago you were<R>fighting for Noipask,<W><H>and now you're a sky<R>pirate. That kind of drive<R>is impressive, I must say.<W><E>"
+     "en": "Captain Zeshika:<R>Not long ago you were<R>fighting for Noipask,<W><H>and now you're a sky pirate.<R>That kind of drive is<R>impressive, I must say.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#173",
@@ -897,7 +897,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#178",
      "jp": "ゼシカ大尉：<R>ばかね、自分の心配を<R>先になさい。<W><E>",
-     "en": "Captain Zeshika:<R>Silly. Worry about<R>yourself first.<W><E>"
+     "en": "Captain Zeshika:<R>Silly.<R>Worry about yourself first.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#179",
@@ -942,12 +942,12 @@
     {
      "id": "2D/FMPS/F10_00@3b800#187",
      "jp": "ム連兵：<R>ああ、驚いた。<R>夢でも見たのかな、俺。<W><E>",
-     "en": "Federation Soldier:<R>Wow, that startled me. Was<R>I dreaming or something?<W><E>"
+     "en": "Federation Soldier:<R>Wow, that startled me.<R>Was I dreaming or something?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#188",
      "jp": "ム連兵：<R>ゼシカ隊長はきびしいけど……<R>部下思いなんですよ。<W><E>",
-     "en": "Federation Soldier:<R>Captain Zeshika is strict... but<R>she really looks out for us.<W><E>"
+     "en": "Federation Soldier:<R>Captain Zeshika is strict...<R>but she really looks out for us.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#189",
@@ -967,7 +967,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#192",
      "jp": "ジャンク屋：<R>俺は旅のジャンク屋だ。<R>何か買うかい？<W><E>",
-     "en": "Junk Dealer:<R>I'm a traveling junk<R>dealer. Buying anything?<W><E>"
+     "en": "Junk Dealer:<R>I'm a traveling junk dealer.<R>Buying anything?<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#193",
@@ -997,7 +997,7 @@
     {
      "id": "2D/FMPS/F10_00@3b800#198",
      "jp": "修理屋：<R>観光客かい？<R>めずらしいね。<W><E>",
-     "en": "Repairman:<R>A tourist? Don't<R>see many of those.<W><E>"
+     "en": "Repairman:<R>A tourist?<R>Don't see many of those.<W><E>"
     },
     {
      "id": "2D/FMPS/F10_00@3b800#199",

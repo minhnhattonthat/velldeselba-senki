@@ -517,7 +517,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#102",
      "jp": "イジロフ：<R>わかりました。<R>その旨、皆に伝えておきます。<W><E>",
-     "en": "Ijirov:<R>Understood. I'll pass<R>that on to everyone.<W><E>"
+     "en": "Ijirov:<R>Understood.<R>I'll pass that on to everyone.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#103",
@@ -632,7 +632,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#125",
      "jp": "ジャンク屋：<R>らっしゃい、ダンナ、<R>いい掘り出し物がありますよ。<W><H>形は妙だけど、オブジェとしては<R>最高級品の出物だよ。<W><E>",
-     "en": "Junk Dealer:<R>Welcome, boss! I've got<R>a real find for you.<W><H>It's an odd shape, but<R>as an ornament, it's<R>top-quality stuff.<W><E>"
+     "en": "Junk Dealer:<R>Welcome, boss!<R>I've got a real find for you.<W><H>It's an odd shape, but<R>as an ornament, it's<R>top-quality stuff.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#126",
@@ -642,7 +642,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#127",
      "jp": "ジャンク屋：<R>ず～っと北の山の中で<R>掘り出したものらしいよ。<W><H>大きさのわりにえらく硬くて、<R>しかも軽いもんでスクラップにも<R>できずに困ってるってわけよ。<W><H>めずらしいもんだし、<R>話のネタに、お兄さん、<R>ひとつどうだい？<W><H>たったの１００Ｚだ。<W><E>",
-     "en": "Junk Dealer:<R>Word is it was dug up way, way<R>up in the northern mountains.<W><H>Awfully hard for its size,<R>yet light, so I can't even<R>scrap it. I'm stuck with it.<W><H>It's a rare thing, and<R>something to talk about.<R>How about it, young man?<W><H>Only 100Z.<W><E>"
+     "en": "Junk Dealer:<R>Word is it was dug up way, way<R>up in the northern mountains.<W><H>Awfully hard for its size, yet<R>light, so I can't even scrap it.<R>I'm stuck with it.<W><H>It's a rare thing, and<R>something to talk about.<R>How about it, young man?<W><H>Only 100Z.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#128",
@@ -662,7 +662,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#131",
      "jp": "<F62>：<R>そうだな、別に腐るもんじゃなし<R>もらっとこうか。<W><E>",
-     "en": "<F62>:<R>Well, it's not like it'll<R>go bad. I'll take it.<W><E>"
+     "en": "<F62>:<R>Well, it's not like it'll go bad.<R>I'll take it.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#132",
@@ -692,7 +692,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#137",
      "jp": "ジャンク屋：<R>らっしゃい、ダンナ、<R>例のものは買う気になったかい？<W><H>たったの１００Ｚだ。<W><E>",
-     "en": "Junk Dealer:<R>Welcome, boss! Ready<R>to buy that thing yet?<W><H>Only 100Z.<W><E>"
+     "en": "Junk Dealer:<R>Welcome, boss!<R>Ready to buy that thing yet?<W><H>Only 100Z.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#138",
@@ -742,7 +742,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#147",
      "jp": "ジャンク屋：<R>いやあ、ダンナ。<R>また何か買ってくださいよ。<W><E>",
-     "en": "Junk Dealer:<R>Well, boss! Buy something<R>again sometime.<W><E>"
+     "en": "Junk Dealer:<R>Well, boss!<R>Buy something again sometime.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#148",
@@ -817,7 +817,7 @@
     {
      "id": "2D/AMPS/A07_00@46000#162",
      "jp": "女：<R>頭の中に声がひびいたの……<R>恐かったわ。<W><E>",
-     "en": "Woman:<R>A voice echoed inside my<R>head... It was frightening.<W><E>"
+     "en": "Woman:<R>A voice echoed inside my head...<R>It was frightening.<W><E>"
     },
     {
      "id": "2D/AMPS/A07_00@46000#163",

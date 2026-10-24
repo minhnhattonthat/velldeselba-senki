@@ -452,7 +452,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#89",
      "jp": "男：<R>なんだね？　私は忙しいんだ。<R>ここは「ダント」の町だよ。<W><E>",
-     "en": "Man:<R>What is it? I'm busy. This<R>is the town of \"Dant.\"<W><E>"
+     "en": "Man:<R>What is it? I'm busy.<R>This is the town of \"Dant.\"<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#90",
@@ -772,7 +772,7 @@
     {
      "id": "2D/BMPS/B04_00@36800#153",
      "jp": "ドックの職人：<R>ありがとう。<R>応援してるからな。<W><E>",
-     "en": "Shipwright:<R>Thanks. We're all<R>rooting for you.<W><E>"
+     "en": "Shipwright:<R>Thanks.<R>We're all rooting for you.<W><E>"
     },
     {
      "id": "2D/BMPS/B04_00@36800#154",

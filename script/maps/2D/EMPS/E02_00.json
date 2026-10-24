@@ -537,7 +537,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#106",
      "jp": "ブアブナム：<R>そんなことはわかっている。<R>だからおまえに頼むんだ。<W><H>もちろん礼はたっぷりする。<W><E>",
-     "en": "Buabnam:<R>I know that. That's<R>why I'm asking you.<W><H>Of course, I'll pay you plenty.<W><E>"
+     "en": "Buabnam:<R>I know that.<R>That's why I'm asking you.<W><H>Of course, I'll pay you plenty.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#107",
@@ -577,7 +577,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#114",
      "jp": "<F62>：<R>兵舎の裏ね。了解。<W><E>",
-     "en": "<F62>:<R>Behind the barracks,<R>huh. Got it.<W><E>"
+     "en": "<F62>:<R>Behind the barracks, huh.<R>Got it.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#115",
@@ -597,7 +597,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#118",
      "jp": "ブアブナム：<R>ああいいとも、やる気になったら<R>また来てくれ。<W><E>",
-     "en": "Buabnam:<R>Sure, fine. Come back<R>when you're up for it.<W><E>"
+     "en": "Buabnam:<R>Sure, fine.<R>Come back when you're up for it.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#119",
@@ -662,7 +662,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#131",
      "jp": "ブアブナム：<R>おう、<F62>。<R>無事だったか。<W><E>",
-     "en": "Buabnam:<R>Hey, <F62>. You made<R>it back in one piece.<W><E>"
+     "en": "Buabnam:<R>Hey, <F62>.<R>You made it back in one piece.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#132",
@@ -687,17 +687,17 @@
     {
      "id": "2D/EMPS/E02_00@3d000#136",
      "jp": "<F62>：<R>気に入ったぜ、ブアブナム。<R>気前のいいことは良いことだぞ。<W><E>",
-     "en": "<F62>:<R>I like you, Buabnam. Being<R>generous is a fine thing.<W><E>"
+     "en": "<F62>:<R>I like you, Buabnam.<R>Being generous is a fine thing.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#137",
      "jp": "ブアブナム：<R>わはははは。<R>ダ・クダによろしくな。<W><E>",
-     "en": "Buabnam:<R>Wahahahaha. Give my<R>regards to Da Kuda.<W><E>"
+     "en": "Buabnam:<R>Wahahahaha.<R>Give my regards to Da Kuda.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#138",
      "jp": "男：<R>マルダマンじゃないか、<R>よく来たな！<W><H>ダ・クダのおやじは元気かい？<W><E>",
-     "en": "Man:<R>Well, if it isn't<R>Mardaman! Good to see you!<W><H>How's old Da Kuda doing?<W><E>"
+     "en": "Man:<R>Well, if it isn't Mardaman!<R>Good to see you!<W><H>How's old Da Kuda doing?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#139",
@@ -777,7 +777,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#154",
      "jp": "ブアブナム：<R>パナスガルの兵舎の裏だ。<R>わかったな。<W><E>",
-     "en": "Buabnam:<R>Behind the barracks<R>in Panasgal. Got it?<W><E>"
+     "en": "Buabnam:<R>Behind the barracks in Panasgal.<R>Got it?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#155",
@@ -807,7 +807,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#160",
      "jp": "ブアブナム：<R>なんでえ、<R>てめえら知り合いかよ。<W><E>",
-     "en": "Buabnam:<R>What's this? You two<R>know each other?<W><E>"
+     "en": "Buabnam:<R>What's this?<R>You two know each other?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#161",
@@ -817,7 +817,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#162",
      "jp": "<F62>：<R>ほんとにカフィじゃないのか？<W><H>信じられないな、そっくりだよ。<W><E>",
-     "en": "<F62>:<R>You're really not Kafi?<W><H>I can't believe it. You're<R>the spitting image of her.<W><E>"
+     "en": "<F62>:<R>You're really not Kafi?<R>I can't believe it.<W><H>You're the spitting<R>image of her.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#163",
@@ -1012,7 +1012,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#201",
      "jp": "カルフ：<R>でも心配だわ……<W><H>そうだ！<R>わたしをあんたの船に乗せて！<W><H>姉貴のところに<R>つれていってくれない？<W><E>",
-     "en": "Karf:<R>But I'm worried...<W><H>I know! Let me<R>ride on your ship!<W><H>Won't you take me to Sis?<W><E>"
+     "en": "Karf:<R>But I'm worried...<W><H>I know!<R>Let me ride on your ship!<W><H>Won't you take me to Sis?<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#202",
@@ -1022,7 +1022,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#203",
      "jp": "カルフ：<R>だめよ。<W><H>あのとおり酒ばかり飲んでいて、<R>頼りにならないんだから。<W><E>",
-     "en": "Karf:<R>No way.<W><H>He's always drinking like<R>that. He's no help at all.<W><E>"
+     "en": "Karf:<R>No way.<W><H>He's always drinking like that.<R>He's no help at all.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#204",
@@ -1112,7 +1112,7 @@
     {
      "id": "2D/EMPS/E02_00@3d000#221",
      "jp": "女：<R>国境越えをするんだって？<R>度胸があるね。<W><E>",
-     "en": "Woman:<R>Crossing the border, I<R>hear? You've got nerve.<W><E>"
+     "en": "Woman:<R>Crossing the border, I hear?<R>You've got nerve.<W><E>"
     },
     {
      "id": "2D/EMPS/E02_00@3d000#222",

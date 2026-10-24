@@ -467,7 +467,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#92",
      "jp": "ノイパスク兵：<R>おまえ、見た顔だが……<W><H>え？　まさかそんな……<W><H>バ・マッグをたすけてくれた<R>あのときの？<W><E>",
-     "en": "Noipask Soldier:<R>You... I've seen<R>your face before...<W><H>Huh? No, it can't be...<W><H>The one who saved<R>Ba Magg that time?<W><E>"
+     "en": "Noipask Soldier:<R>You...<R>I've seen your face before...<W><H>Huh? No, it can't be...<W><H>The one who saved<R>Ba Magg that time?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#93",
@@ -577,7 +577,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#114",
      "jp": "ノイパスク兵：<R>ゼクセルさまが玉砕されたなんて<R>……信じないぞ！<W><E>",
-     "en": "Noipask Soldier:<R>Zexel-sama died in a last<R>stand? ...I won't believe it!<W><E>"
+     "en": "Noipask Soldier:<R>Zexel-sama died in a last stand?<R>...I won't believe it!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#115",
@@ -627,7 +627,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#124",
      "jp": "ギダン兵：<R>悪いが応急処置しかできない<R>んだ。修理するかい？<W><E>",
-     "en": "Gidan Soldier:<R>Sorry, all I can do is<R>patch jobs. Want a repair?<W><E>"
+     "en": "Gidan Soldier:<R>Sorry, all I can do is patch jobs.<R>Want a repair?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#125",
@@ -692,7 +692,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#137",
      "jp": "ギダン兵：<R>なんだ！　あの霧は！<R>まともに戦えないぜ！<W><E>",
-     "en": "Gidan Soldier:<R>What is that fog!? We can't<R>fight properly in that!<W><E>"
+     "en": "Gidan Soldier:<R>What is that fog!?<R>We can't fight properly in that!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#138",
@@ -817,7 +817,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#162",
      "jp": "<F62>：<R>ちきしょう！<R>まだ戦うつもりか！<W><E>",
-     "en": "<F62>:<R>Damn it! They still<R>want to fight!?<W><E>"
+     "en": "<F62>:<R>Damn it!<R>They still want to fight!?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#163",
@@ -1017,12 +1017,12 @@
     {
      "id": "2D/GMPS/G05_00@42000#202",
      "jp": "ギダン兵：<R>急いでください！<R>出撃命令が出てます。<W><E>",
-     "en": "Gidan Soldier:<R>Please hurry! The order<R>to sortie is out.<W><E>"
+     "en": "Gidan Soldier:<R>Please hurry!<R>The order to sortie is out.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#203",
      "jp": "ギダン兵：<R>グラシアルへ行くんですか？<R>うらやましいですね。<W><E>",
-     "en": "Gidan Soldier:<R>You're going to<R>Glacial? I'm jealous.<W><E>"
+     "en": "Gidan Soldier:<R>You're going to Glacial?<R>I'm jealous.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#204",
@@ -1077,7 +1077,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#214",
      "jp": "ガシザキノ大佐：<R>おお、そうか！<R>で、今どこに？<W><E>",
-     "en": "Colonel Gashizakino:<R>Oh, thank goodness! So<R>where are they now?<W><E>"
+     "en": "Colonel Gashizakino:<R>Oh, thank goodness!<R>So where are they now?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#215",
@@ -1087,7 +1087,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#216",
      "jp": "ガシザキノ大佐：<R>それはいかん！<R>すぐに出発しよう！<W><E>",
-     "en": "Colonel Gashizakino:<R>That won't do! Let's<R>set out at once!<W><E>"
+     "en": "Colonel Gashizakino:<R>That won't do!<R>Let's set out at once!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#217",
@@ -1117,7 +1117,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#222",
      "jp": "ガシザキノ大佐：<R>俺もいっしょに行くぞ！<R>上空で落ち合おう！<W><E>",
-     "en": "Colonel Gashizakino:<R>I'm coming with you! We'll<R>meet up in the sky!<W><E>"
+     "en": "Colonel Gashizakino:<R>I'm coming with you!<R>We'll meet up in the sky!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#223",

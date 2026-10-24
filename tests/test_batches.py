@@ -32,6 +32,11 @@ def test_boxes_break_after_a_sentence():
     assert out == "Zeshika:<R>Lieutenant Colonel Kafi,<R>come with me.<W><E>"
 
 
+def test_wrap_prefers_a_row_ending_a_sentence():
+    assert batches.wrap("General Saro is expecting you. This way, please.<W><E>", 1) == \
+        ["General Saro is expecting you.", "This way, please.<W><E>"]
+    assert batches.wrap("Hey! <F62>! You came to Danaspi!<W><E>", 1) == ["Hey! <F62>!", "You came to Danaspi!<W><E>"]
+
 def test_wrap_pulls_a_word_down_to_a_lone_last_word():
     assert batches.wrap("I mean, Colonel Gashizakino's promotion.<W><E>", 0) == \
         ["I mean,", "Colonel Gashizakino's promotion.<W><E>"]

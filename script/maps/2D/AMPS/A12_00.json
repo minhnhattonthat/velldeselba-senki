@@ -557,7 +557,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#110",
      "jp": "ム連兵：<R>わはははは。<R>ギダン人っておもしろいな。<W><E>",
-     "en": "Federation Soldier:<R>Wahahahaha. Gidan<R>folks are a riot.<W><E>"
+     "en": "Federation Soldier:<R>Wahahahaha.<R>Gidan folks are a riot.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#111",
@@ -572,12 +572,12 @@
     {
      "id": "2D/AMPS/A12_00@42800#113",
      "jp": "ギダン兵：<R>いそげ！<R>もうみんな出撃したぞ。<W><E>",
-     "en": "Gidan Soldier:<R>Hurry! Everyone's<R>already sortied.<W><E>"
+     "en": "Gidan Soldier:<R>Hurry!<R>Everyone's already sortied.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#114",
      "jp": "<F62>：<R>ゼシカ？<R>それに長官たちも……<W><E>",
-     "en": "<F62>:<R>Zeshika? And the<R>commanders too...<W><E>"
+     "en": "<F62>:<R>Zeshika?<R>And the commanders too...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#115",
@@ -592,7 +592,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#117",
      "jp": "ゼシカ大尉：<R>久しぶりね。<R>元気そうでよかった。<W><E>",
-     "en": "Captain Zeshika:<R>It's been a while. I'm<R>glad to see you're well.<W><E>"
+     "en": "Captain Zeshika:<R>It's been a while.<R>I'm glad to see you're well.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#118",
@@ -642,7 +642,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#127",
      "jp": "ゼシカ大尉：<R>ラウエル？<R>彼がここまで来たの……？<W><E>",
-     "en": "Captain Zeshika:<R>Rauel? He came all<R>the way here...?<W><E>"
+     "en": "Captain Zeshika:<R>Rauel?<R>He came all the way here...?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#128",
@@ -867,7 +867,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#172",
      "jp": "<F62>：<R>そうだ、ラウエルだっけ？<R>彼のことは知っているのか？<W><E>",
-     "en": "<F62>:<R>Oh yeah, Rauel, was<R>it? Do you know him?<W><E>"
+     "en": "<F62>:<R>Oh yeah, Rauel, was it?<R>Do you know him?<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#173",
@@ -927,7 +927,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#184",
      "jp": "ム連兵：<R>ホウノム島が落ちたらしい……<R>そんなばかな……<W><E>",
-     "en": "Federation Soldier:<R>They say Hounom Island<R>fell... That can't be...<W><E>"
+     "en": "Federation Soldier:<R>They say Hounom Island fell...<R>That can't be...<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#185",
@@ -1047,7 +1047,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#208",
      "jp": "ラウエル：<R>わたしはゼシカのことが心配で<R>この町までやってきたのだ。<W><H>戦争では、いつ、どこで、<R>どんな危険が待ちかまえて<R>いるかわからない。<W><H>だから、いつもそばで彼女を<R>見守っていたいのだ。<W><H>しかし、わたしは民間人。<R>軍船に乗るなど許される<R>わけがない。<W><H>君のことは風のウワサで<R>聞いている。<W><H>空賊の君なら民間人を<R>乗せることもできよう。<W><H>君しか頼る人がいないのだ！<W><H>お願いだ！<R>乗せてくれ！<W><E>",
-     "en": "Rauel:<R>I came to this town out<R>of worry for Zeshika.<W><H>In war, there is no<R>telling when, where, or<R>what danger lies in wait.<W><H>That is why I wish to be by her<R>side always, watching over her.<W><H>But I am a civilian. I<R>could never be allowed<R>aboard a military ship.<W><H>I have heard of you<R>through the grapevine.<W><H>A sky pirate like you could<R>take a civilian aboard.<W><H>You are the only<R>one I can turn to!<W><H>I beg you! Take me with you!<W><E>"
+     "en": "Rauel:<R>I came to this town out<R>of worry for Zeshika.<W><H>In war, there is no<R>telling when, where, or<R>what danger lies in wait.<W><H>That is why I wish to be by her<R>side always, watching over her.<W><H>But I am a civilian.<R>I could never be allowed aboard a<R>military ship.<W><H>I have heard of you<R>through the grapevine.<W><H>A sky pirate like you could<R>take a civilian aboard.<W><H>You are the only<R>one I can turn to!<W><H>I beg you! Take me with you!<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#209",
@@ -1182,7 +1182,7 @@
     {
      "id": "2D/AMPS/A12_00@42800#235",
      "jp": "ギダン兵：<R>これ、民間人、<R>入っちゃいかんぞ。<W><E>",
-     "en": "Gidan Soldier:<R>Hey, civilian! You<R>can't go in there.<W><E>"
+     "en": "Gidan Soldier:<R>Hey, civilian!<R>You can't go in there.<W><E>"
     },
     {
      "id": "2D/AMPS/A12_00@42800#236",

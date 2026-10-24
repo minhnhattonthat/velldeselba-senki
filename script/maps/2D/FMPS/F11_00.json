@@ -497,7 +497,7 @@
     {
      "id": "2D/FMPS/F11_00@3c800#98",
      "jp": "配給係：<R>知ってますか？<W><H>カチタ中佐の部隊が研究してた、<R>「ホーミング魚雷」が<R>完成したんですよ。<W><H>プロペラ魚雷に有線誘導式の<R>安定翼をつけた誘導弾です。<W><H>ちょっとコントロールが<R>難しいかもしれませんが、<W><H>これがあれば親衛隊の装甲を<R>打ち破れますよ！<R>持ってってください。<W><E>",
-     "en": "Quartermaster:<R>Have you heard?<W><H>The \"homing torpedo\"<R>Lieutenant Colonel Kachita's unit<R>was researching is finished.<W><H>It's a guided shell: a<R>propeller torpedo fitted with<R>wire-guided stabilizer fins.<W><H>It might be a little hard<R>to control, though...<W><H>With these, you can break<R>through the Royal Guard's<R>armor! Take some with you.<W><E>"
+     "en": "Quartermaster:<R>Have you heard?<W><H>The \"homing torpedo\"<R>Lieutenant Colonel Kachita's unit<R>was researching is finished.<W><H>It's a guided shell: a<R>propeller torpedo fitted with<R>wire-guided stabilizer fins.<W><H>It might be a little hard<R>to control, though...<W><H>With these, you can break<R>through the Royal Guard's armor!<R>Take some with you.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#99",
@@ -542,7 +542,7 @@
     {
      "id": "2D/FMPS/F11_00@3c800#107",
      "jp": "次の補給基地はムノギイだな。<R>よし、行くか。<W><E>",
-     "en": "The next supply base is<R>Munogi. All right, let's go.<W><E>"
+     "en": "The next supply base is Munogi.<R>All right, let's go.<W><E>"
     },
     {
      "id": "2D/FMPS/F11_00@3c800#108",

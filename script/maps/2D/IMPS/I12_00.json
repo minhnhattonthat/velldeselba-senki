@@ -477,7 +477,7 @@
     {
      "id": "2D/IMPS/I12_00@38000#94",
      "jp": "チバラガ：<R>もういい！<R>俺はこの船を降りる！<W><E>",
-     "en": "Chibaraga:<R>Enough! I'm getting<R>off this ship!<W><E>"
+     "en": "Chibaraga:<R>Enough!<R>I'm getting off this ship!<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#95",
@@ -527,12 +527,12 @@
     {
      "id": "2D/IMPS/I12_00@38000#104",
      "jp": "<F62>：<R>しょうがないな。<R>しばらく預からせてもらうぜ。<W><E>",
-     "en": "<F62>:<R>Can't be helped. I'll look<R>after him for a while.<W><E>"
+     "en": "<F62>:<R>Can't be helped.<R>I'll look after him for a while.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#105",
      "jp": "アル：<R>すいません、くれぐれも<R>よろしく頼みます。<W><H>留守はこのわたしが責任を持って<R>守って見せますから。<W><E>",
-     "en": "Al:<R>Sorry about this. Please,<R>take good care of him.<W><H>I'll take responsibility and<R>hold the fort while he's away.<W><E>"
+     "en": "Al:<R>Sorry about this.<R>Please, take good care of him.<W><H>I'll take responsibility and<R>hold the fort while he's away.<W><E>"
     },
     {
      "id": "2D/IMPS/I12_00@38000#106",

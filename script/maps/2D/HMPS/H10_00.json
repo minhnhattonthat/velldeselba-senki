@@ -487,7 +487,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#96",
      "jp": "ム連邦大統領：<R>もちろんだ。<W><H>昔は軍隊でならしたこの腕前を<R>全世界の民に見てもらいたいと<R>思ってるよ。<W><H>これで次の大統領選挙も<R>いただきだな、<R>はっはっは……<W><E>",
-     "en": "Federation President:<R>Of course.<W><H>I want the people of the whole<R>world to see the skills I<R>honed in my army days.<W><H>That should clinch the<R>next presidential<R>election, too. Hahaha...<W><E>"
+     "en": "Federation President:<R>Of course.<W><H>I want the people of the whole<R>world to see the skills I<R>honed in my army days.<W><H>That should clinch the next<R>presidential election,<R>too. Hahaha...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#97",
@@ -702,7 +702,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#139",
      "jp": "ミルト少尉：<R>ミサキさんの<R>船って……ハードですね。<W><E>",
-     "en": "Second Lieutenant Milt:<R>Your ship is... pretty<R>rough, Misaki-san.<W><E>"
+     "en": "Second Lieutenant Milt:<R>Your ship is...<R>pretty rough, Misaki-san.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#140",
@@ -722,7 +722,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#143",
      "jp": "ミサキ：<R>いいとも。<R>歓迎するよ。<W><E>",
-     "en": "Misaki:<R>Sure thing. You're<R>welcome aboard.<W><E>"
+     "en": "Misaki:<R>Sure thing.<R>You're welcome aboard.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#144",
@@ -742,7 +742,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#147",
      "jp": "はあ、はあ、<R>重労働だな、これは……<W><H>娘たちもよくやるよ……<W><E>",
-     "en": "Huff, huff... This<R>is hard labor...<W><H>My daughters are<R>really something...<W><E>"
+     "en": "Huff, huff...<R>This is hard labor...<W><H>My daughters are<R>really something...<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#148",
@@ -1072,7 +1072,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#213",
      "jp": "ゼシカ少佐：<R>婚約者？　なんのこと？<W><H>父が勝手にそんなことを<R>言ってるだけだわ。<W><E>",
-     "en": "Major Zeshika:<R>Fiance? What are<R>you talking about?<W><H>That's just something my father<R>keeps saying on his own.<W><E>"
+     "en": "Major Zeshika:<R>Fiance?<R>What are you talking about?<W><H>That's just something my father<R>keeps saying on his own.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#214",
@@ -1277,7 +1277,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#254",
      "jp": "ダ・クダ：<R>おう、ミサキ！<R>元気でやってるか？<W><H>ひっく。<W><E>",
-     "en": "Da Kuda:<R>Hey, Misaki! You<R>doin' all right?<W><H>Hic.<W><E>"
+     "en": "Da Kuda:<R>Hey, Misaki!<R>You doin' all right?<W><H>Hic.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#255",
@@ -1287,7 +1287,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#256",
      "jp": "ダ・クダ：<R>がはははは。<W><H>俺の場合は、酒さえあれば<R>いつでもどこでも<R>しあわせでいられるってもんだ。<W><H>おまえの船に乗るぜ。<R>文句ねえな。<W><E>",
-     "en": "Da Kuda:<R>Gahahahaha.<W><H>Me, long as I got booze, I'm<R>happy anytime, anywhere.<W><H>I'm ridin' on your ship.<R>No complaints, right?<W><E>"
+     "en": "Da Kuda:<R>Gahahahaha. Me,<W><H>long as I got booze, I'm<R>happy anytime, anywhere.<W><H>I'm ridin' on your ship.<R>No complaints, right?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#257",
@@ -1332,7 +1332,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#265",
      "jp": "ミサキ：<R>ん？　元気だっていう<R>話は聞いているけどな。<W><E>",
-     "en": "Misaki:<R>Hm? Last I heard,<R>she's doing fine.<W><E>"
+     "en": "Misaki:<R>Hm?<R>Last I heard, she's doing fine.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#266",
@@ -1357,7 +1357,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#270",
      "jp": "ブアブナム：<R>まったくだ……<R>我ながらあきれるよ。<W><E>",
-     "en": "Buabnam:<R>Ain't that the truth... Even<R>I can't believe myself.<W><E>"
+     "en": "Buabnam:<R>Ain't that the truth...<R>Even I can't believe myself.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#271",
@@ -1467,7 +1467,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#292",
      "jp": "男：<R>……ほれたぜ。<R>やっぱりあんたは英雄だ。<W><E>",
-     "en": "Man:<R>...I'm smitten. You<R>really are a hero.<W><E>"
+     "en": "Man:<R>...I'm smitten.<R>You really are a hero.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#293",
@@ -1477,7 +1477,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#294",
      "jp": "ミサキ：<R>なんだ？<R>船に乗りたいのか？<W><E>",
-     "en": "Misaki:<R>What's up? You want<R>to ride the ship?<W><E>"
+     "en": "Misaki:<R>What's up?<R>You want to ride the ship?<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#295",
@@ -1487,7 +1487,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#296",
      "jp": "ミサキ：<R>船は動物禁止だったっけ？<R>まあいいか。<W><E>",
-     "en": "Misaki:<R>Were animals banned on<R>the ship? Oh, whatever.<W><E>"
+     "en": "Misaki:<R>Were animals banned on the ship?<R>Oh, whatever.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#297",
@@ -1517,7 +1517,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#302",
      "jp": "闇商人：<R>押し売りだなんて、<R>そんな人聞きの悪い。<W><H>話のタネに一度だんなの船に<R>乗せてもらいたいとおもって、<W><H>こうしてわざわざ<R>やってきたんですから。<W><E>",
-     "en": "Black Marketeer:<R>Push something on you? What<R>a dreadful thing to say.<W><H>I simply wanted to ride<R>your ship just once, sir,<R>for a story to tell,<W><H>so I went to the trouble of<R>coming all the way here.<W><E>"
+     "en": "Black Marketeer:<R>Push something on you?<R>What a dreadful thing to say.<W><H>I simply wanted to ride<R>your ship just once, sir,<R>for a story to tell,<W><H>so I went to the trouble of<R>coming all the way here.<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#303",
@@ -1602,7 +1602,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#319",
      "jp": "イヌ：<R>わんわん。<R>（裂弾強化）<W><E>",
-     "en": "Dog:<R>Woof woof. (Burst<R>shells powered up)<W><E>"
+     "en": "Dog:<R>Woof woof.<R>(Burst shells powered up)<W><E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#320",

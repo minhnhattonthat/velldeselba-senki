@@ -462,7 +462,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#91",
      "jp": "商人：<R>まいどあり。<R>また来ておくれ。<W><E>",
-     "en": "Merchant:<R>Thanks for your<R>business. Come again.<W><E>"
+     "en": "Merchant:<R>Thanks for your business.<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#92",
@@ -517,7 +517,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#102",
      "jp": "<F62>：<R>空賊？<R>何を言ってるんだ。<W><E>",
-     "en": "<F62>:<R>Sky pirate? What are<R>you talking about?<W><E>"
+     "en": "<F62>:<R>Sky pirate?<R>What are you talking about?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#103",
@@ -577,7 +577,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#114",
      "jp": "ドックの職人：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": "Shipwright:<R>Thanks for your<R>business. Come again.<W><E>"
+     "en": "Shipwright:<R>Thanks for your business.<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#115",
@@ -587,7 +587,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#116",
      "jp": "酒場の主人：<R>さっき、べろべろの<R>酔っぱらいがいてな、<W><H>連れの男が２人で<R>引きずっていったよ。<W><H>なんでも操縦士らしいんだけど、<R>あのまま空を飛ぶつもり<R>なのかねえ。危ないよ。<W><E>",
-     "en": "Tavern Keeper:<R>A while ago there was a<R>guy in here, dead drunk,<W><H>and the two men with<R>him dragged him off.<W><H>Seems he's a pilot, of all<R>things. Does he plan to fly in<R>that state? That's dangerous.<W><E>"
+     "en": "Tavern Keeper:<R>A while ago there was a<R>guy in here, dead drunk,<W><H>and the two men with<R>him dragged him off.<W><H>Seems he's a pilot, of all things.<R>Does he plan to fly in that state?<R>That's dangerous.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#117",
@@ -622,7 +622,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#123",
      "jp": "この町にならめずらしい武器が<R>売っていると聞いたんだが……<R>いったいどこで売ってるんだ？<W><E>",
-     "en": "I heard you could buy rare<R>weapons in this town... So<R>where on earth are they sold?<W><E>"
+     "en": "I heard you could buy rare weapons<R>in this town...<R>So where on earth are they sold?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#124",
@@ -657,7 +657,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#130",
      "jp": "<F62>：<R>そんな、気を落とすなって。<R>俺が強すぎるだけなんだからな。<W><E>",
-     "en": "<F62>:<R>Hey, don't be so down. I'm<R>just too strong, that's all.<W><E>"
+     "en": "<F62>:<R>Hey, don't be so down.<R>I'm just too strong, that's all.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#131",
@@ -752,7 +752,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#149",
      "jp": "オユ・キクル：<R>ということなの。<R>ごめんなさい……<W><H>わたし、そんなお金<R>持ってないし……<W><E>",
-     "en": "Oyu Kikuru:<R>So that's how it<R>is. I'm sorry...<W><H>I don't have that<R>kind of money...<W><E>"
+     "en": "Oyu Kikuru:<R>So that's how it is.<R>I'm sorry...<W><H>I don't have that<R>kind of money...<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#150",
@@ -902,7 +902,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#179",
      "jp": "空賊ガイシ：<R>よお、<F62>。<R>勝負する気になったか？<W><E>",
-     "en": "Sky Pirate Gaishi:<R>Hey, <F62>. Ready<R>for a match yet?<W><E>"
+     "en": "Sky Pirate Gaishi:<R>Hey, <F62>.<R>Ready for a match yet?<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#180",
@@ -967,7 +967,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#192",
      "jp": "空賊：<R>ガイシは負け知らずだ。<R>勝ち目ないよ。<W><E>",
-     "en": "Sky Pirate:<R>Gaishi's never lost. You<R>don't stand a chance.<W><E>"
+     "en": "Sky Pirate:<R>Gaishi's never lost.<R>You don't stand a chance.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#193",
@@ -992,7 +992,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#197",
      "jp": "空賊：<R>あんたのおかげで大もうけだ！<R>ありがとうよ。<W><E>",
-     "en": "Sky Pirate:<R>Thanks to you, I made a<R>killing! Much obliged.<W><E>"
+     "en": "Sky Pirate:<R>Thanks to you, I made a killing!<R>Much obliged.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#198",
@@ -1047,7 +1047,7 @@
     {
      "id": "2D/AMPS/A05_00@40800#208",
      "jp": "商人：<R>まいどあり。<R>また来てくれよ。<W><E>",
-     "en": "Merchant:<R>Thanks for your<R>business. Come again.<W><E>"
+     "en": "Merchant:<R>Thanks for your business.<R>Come again.<W><E>"
     },
     {
      "id": "2D/AMPS/A05_00@40800#209",

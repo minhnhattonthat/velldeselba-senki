@@ -562,7 +562,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#111",
      "jp": "少女：<R>勲章をもらったの？<R>お兄さん、すごいわね。<W><E>",
-     "en": "Girl:<R>You got a medal? Wow,<R>mister, you're amazing.<W><E>"
+     "en": "Girl:<R>You got a medal?<R>Wow, mister, you're amazing.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#112",
@@ -712,7 +712,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#141",
      "jp": "シデル提督：<R>この私に近寄るな！！<R>下がれ！<W><E>",
-     "en": "Admiral Sidel:<R>Do not come near<R>me!! Stand back!<W><E>"
+     "en": "Admiral Sidel:<R>Do not come near me!!<R>Stand back!<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#142",
@@ -747,7 +747,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#148",
      "jp": "シデル提督：<R>うるさい！<W><H>きさま、何者だ！！<W><H>このわたしに向かって！<R>なんという無礼者だ！！<W><H>下がれ、下がれ！！<W><E>",
-     "en": "Admiral Sidel:<R>Silence!<W><H>Who do you think you are!!<W><H>Speaking to me like<R>that! What insolence!!<W><H>Get out! Get out!!<W><E>"
+     "en": "Admiral Sidel:<R>Silence!<W><H>Who do you think you are!!<W><H>Speaking to me like that!<R>What insolence!!<W><H>Get out! Get out!!<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#149",
@@ -782,7 +782,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#155",
      "jp": "ノイパスクはイ・デム島、<R>ニ・デム島、ミ・デム島の<R>３島だけでなく、<W><H>その奥にワンク島、ツール島など<R>恐ろしい数の浮遊島を<R>持っているのだ。<W><H>これがギダン国内に侵入してきた<R>場合を考えてみろ！<R>わが国はどうなるのだ！？<W><E>",
-     "en": "Noipask has not only the<R>three islands, I-Dem,<R>Ni-Dem and Mi-Dem,<W><H>but beyond them a frightening<R>number of floating islands, Wanku<R>Island, Tool Island and more!<W><H>Imagine if those invaded<R>Gidan! What would become<R>of our nation!?<W><E>"
+     "en": "Noipask has not only the<R>three islands, I-Dem,<R>Ni-Dem and Mi-Dem,<W><H>but beyond them a frightening<R>number of floating islands, Wanku<R>Island, Tool Island and more!<W><H>Imagine if those invaded Gidan!<R>What would become of<R>our nation!?<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#156",
@@ -837,7 +837,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#166",
      "jp": "ガシザキノ大佐：<R>ああ、そうだ。<R>ひどい事件だったよ。<W><H>だが、カフィに聞いたところでは<R>老朽化した反重力エンジンの<R>故障による不運な事故だそうだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Yes, it did. It was<R>a terrible incident.<W><H>But from what Kafi told me, it was<R>an unlucky accident: an aging<R>anti-gravity engine broke down.<W><E>"
+     "en": "Colonel Gashizakino:<R>Yes, it did.<R>It was a terrible incident.<W><H>But from what Kafi told me, it was<R>an unlucky accident: an aging<R>anti-gravity engine broke down.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#167",
@@ -897,7 +897,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#178",
      "jp": "女：<R>ギダンの王様なんて、<R>わたしは興味ないわね。<W><E>",
-     "en": "Woman:<R>The King of Gidan? I'm<R>not interested in him.<W><E>"
+     "en": "Woman:<R>The King of Gidan?<R>I'm not interested in him.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#179",

@@ -482,7 +482,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#95",
      "jp": "老人：<R>お仕事ご苦労さんだねえ。<R>ゆっくりしていくといいよ。<W><E>",
-     "en": "Old Man:<R>Working hard, eh? Stay and<R>take it easy a while.<W><E>"
+     "en": "Old Man:<R>Working hard, eh?<R>Stay and take it easy a while.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#96",
@@ -502,7 +502,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#99",
      "jp": "女の子：<R>しくしく……わたしのブタが兵隊<R>さんに食べられてしまったの。<W><E>",
-     "en": "Girl:<R>Sniff, sniff... The<R>soldiers ate my pig.<W><E>"
+     "en": "Girl:<R>Sniff, sniff...<R>The soldiers ate my pig.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#100",
@@ -537,7 +537,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#106",
      "jp": "ム連兵：<R>ここに残ってくつろぎたいけど<R>……だめだよねぇ。<W><E>",
-     "en": "Federation Soldier:<R>I'd love to stay here and<R>relax... but no chance, huh.<W><E>"
+     "en": "Federation Soldier:<R>I'd love to stay here and relax...<R>but no chance, huh.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#107",
@@ -782,7 +782,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#155",
      "jp": "コステリフ長官：<R>出撃です！<R>われわれはあとから出ます。<W><E>",
-     "en": "Commander Kosterif:<R>Time to sortie! We will<R>set out after you.<W><E>"
+     "en": "Commander Kosterif:<R>Time to sortie!<R>We will set out after you.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#156",
@@ -797,7 +797,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#158",
      "jp": "<F62>：<R>わかった。<W><H>だが……地形を<R>知りつくしている敵の方が<R>有利じゃないか。<W><E>",
-     "en": "<F62>:<R>Got it.<W><H>But... won't the enemy<R>have the edge, knowing<R>the terrain inside out?<W><E>"
+     "en": "<F62>:<R>Got it.<W><H>But...<R>won't the enemy have the edge,<R>knowing the terrain inside out?<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#159",
@@ -837,7 +837,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#166",
      "jp": "ガシザキノ：<R>聞いてくれ。次はダントに向か<R>うんだが……<W><H>時間がない。思い切って<R>マデルス峡谷を抜けようかと<R>思う。<W><E>",
-     "en": "Gashizakino:<R>Listen. Next we head<R>for Dant, but...<W><H>we're out of time. I'm<R>thinking we take the plunge<R>and cut through Madels Gorge.<W><E>"
+     "en": "Gashizakino:<R>Listen.<R>Next we head for Dant, but...<W><H>we're out of time.<R>I'm thinking we take the plunge<R>and cut through Madels Gorge.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#167",
@@ -852,7 +852,7 @@
     {
      "id": "2D/AMPS/A13_00@49800#169",
      "jp": "ダ・クダ：<R>なに、マデルスなら俺たちの<R>庭みたいなもんだ。<W><H>まかせておけ。<R>敵の守備隊を撃破し、<R>血路を開いてみせよう。<W><E>",
-     "en": "Da Kuda:<R>Bah, Madels is practically<R>our own backyard.<W><H>Leave it to us. We'll smash<R>the enemy garrison and carve<R>you a way through.<W><E>"
+     "en": "Da Kuda:<R>Bah, Madels is practically<R>our own backyard.<W><H>Leave it to us.<R>We'll smash the enemy garrison and<R>carve you a way through.<W><E>"
     },
     {
      "id": "2D/AMPS/A13_00@49800#170",
