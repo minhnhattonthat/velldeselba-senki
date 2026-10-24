@@ -1067,7 +1067,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@800241b8",
      "jp": "このデータを読み込みます",
-     "en": "Loading this data."
+     "en": "Load this data?"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800241d4",
@@ -1182,7 +1182,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@800245cc",
      "jp": "　　＜空きブロック＞",
-     "en": "<Empty Block>"
+     "en": "    [Empty Block]"
     },
     {
      "id": "2D/HMPS/H1000.EXE@800245e4",
@@ -1567,7 +1567,7 @@
     {
      "id": "2D/HMPS/H1000.EXE@8007db58",
      "jp": "弾薬：",
-     "en": "Ammo:"
+     "en": "Ammo"
     },
     {
      "id": "2D/HMPS/H1000.EXE@8007db60",
