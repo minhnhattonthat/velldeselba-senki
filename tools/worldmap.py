@@ -1,11 +1,12 @@
-"""worldmap.py: English place names on the Old Sage's map pictures (2D/OTHER/WORLD.MPS, docs/re/graphics.md).
+"""worldmap.py: English text on the 2D/OTHER picture files (docs/re/graphics.md): the Old Sage's maps
+(WORLD.MPS) and the shipyard's ship pictures (SHIP_PIC.MPS, model name in the title bar).
 
-    python -X utf8 tools/worldmap.py OUTDIR    # writes OUTDIR/k.png previews (2x) of the edited pictures
+    python -X utf8 tools/worldmap.py OUTDIR    # writes OUTDIR/<file>_k.png previews (2x) of the edited pictures
 
-WORLD.MPS: 0x800 header (u16 sector offsets of 6 BPE streams from 0x800, u16 sector counts, then 16-colour CLUTs
-at 0x18 + 32k), then the streams. Each stream is a 224 px wide 4bpp picture (112 bytes per row). Labels are erased
-(their colours inside the box are refilled from neighbouring pixels) and redrawn with Spleen (fonts/, BSD-2).
-build.py calls build() and writes the file when it differs from the original.
+Both files: 0x800 header with n u16 sector offsets of the BPE streams (from 0x800), n u16 sector counts at 2n, then
+n 16-colour CLUTs at 4n + 32k; then the streams. Each stream is a 224 px wide 4bpp picture (112 bytes per row).
+Map labels are erased (their colours inside the box are refilled from neighbouring pixels); title bars are refilled
+flat. English is drawn with Spleen (fonts/, BSD-2). build.py writes the files build() returns.
 """
 import struct
 import sys
@@ -18,7 +19,6 @@ import bpe
 import font
 import scan_bpe
 
-REL = "2D/OTHER/WORLD.MPS"
 W = 224
 FONTS = {"small": ROOT / "fonts/spleen-5x8.bdf", "big": ROOT / "fonts/spleen-6x12.bdf"}
 ADV = {"small": 5, "big": 7}  # big: 6 px cells drawn bold (+1 px), so 7 px per letter
@@ -51,6 +51,10 @@ PICTURES = {
                     ((21, 77, 61, 91), ("Denamus", 22, 78, "l")),
                     ((46, 124, 75, 139), ("Dant", 47, 125, "l"))]),
 }
+# SHIP_PIC.MPS: 6 models x 4 colour schemes, in this order
+SHIPS = ["Parnat Pock", "Gazelant", "Garganak", "Sebrentream", "Valgart", "Jitegart"]
+FILES = {"2D/OTHER/WORLD.MPS": PICTURES,
+         "2D/OTHER/SHIP_PIC.MPS": {k: {"bar": SHIPS[k // 4]} for k in range(24)}}
 
 
 def pixels(dec):
@@ -113,48 +117,78 @@ def draw(px, spec, label):
             px[base][a] = spec["fill"]
 
 
+def title_bar(px, clut, text):
+    """Ship picture: refill the title bar's interior with its flat colour and centre text in its brightest colour.
+    The interior: the fill colour at (217, 5), rows where column 217 keeps it, leftwards to the bar's border."""
+    f = px[5][217]
+    y0 = next(y for y in range(30) if px[y][217] == f)
+    y1 = next(y for y in range(y0, 40) if px[y][217] != f)
+    x1 = next(x for x in range(217, W) if px[5][x] != f)
+    x0 = 217
+    while not all(px[r][x0 - i] != f for r in (y0 + 1, y1 - 2) for i in range(3)):
+        x0 -= 1
+    lum = [(c & 31) + (c >> 5 & 31) + (c >> 10 & 31) for c in clut]
+    ink = max({px[y][x] for y in range(y0, y1) for x in range(x0, x1)} - {f}, key=lum.__getitem__)
+    for y in range(y0, y1):
+        for x in range(x0, x1):
+            px[y][x] = f
+    on = text_mask(text, "big")
+    w = max(a for a, _ in on) + 1
+    assert w <= x1 - x0, f"{text}: {w} px > bar {x1 - x0}"
+    for a, b in on:
+        px[y0 + (y1 - y0 - 12) // 2 + b][x0 + (x1 - x0 - w) // 2 + a] = ink
+
+
 def pictures(mps):
     return [(pos, n, dec) for pos, n, dec in scan_bpe.streams(mps)]
 
 
-def edit(mps):
+def edit(mps, specs):
     """(new file bytes, {k: edited pixel rows})."""
     out, edited = bytearray(mps), {}
-    counts = struct.unpack_from("<6H", mps, 12)
-    for k, (pos, n, dec) in enumerate(pictures(mps)):
-        if k not in PICTURES:
+    streams = pictures(mps)
+    n = len(streams)
+    counts = struct.unpack_from(f"<{n}H", mps, 2 * n)
+    for k, (pos, _, dec) in enumerate(streams):
+        if k not in specs:
             continue
-        spec, px = PICTURES[k], pixels(dec)
-        for box, _ in spec["labels"]:
+        spec, px = specs[k], pixels(dec)
+        if "bar" in spec:
+            title_bar(px, struct.unpack_from("<16H", mps, 4 * n + 32 * k), spec["bar"])
+        for box, _ in spec.get("labels", []):
             erase(px, box, spec["erase"])
-        for _, label in spec["labels"]:
+        for _, label in spec.get("labels", []):
             draw(px, spec, label)
         edited[k] = px
         new = bpe.compress(packed(px, dec[len(px) * W // 2:]))
         assert bpe.decompress(new)[0] == packed(px, dec[len(px) * W // 2:])
         if len(new) > counts[k] * 0x800:
-            raise ValueError(f"WORLD.MPS picture {k}: {len(new):#x} bytes > slot {counts[k] * 0x800:#x}")
+            raise ValueError(f"picture {k}: {len(new):#x} bytes > slot {counts[k] * 0x800:#x}")
         out[pos:pos + counts[k] * 0x800] = new.ljust(counts[k] * 0x800, b"\0")
     return bytes(out), edited
 
 
 def build(tree):
-    return edit((tree / REL).read_bytes())[0]
+    """{disc path: edited file bytes}."""
+    return {rel: edit((tree / rel).read_bytes(), specs)[0] for rel, specs in FILES.items()}
 
 
 def main():
     from PIL import Image
     outdir = Path(sys.argv[1])
     outdir.mkdir(parents=True, exist_ok=True)
-    mps = (ROOT / "work/disc/tree" / REL).read_bytes()
-    for k, px in edit(mps)[1].items():
-        c = struct.unpack_from("<16H", mps, 0x18 + 32 * k)
-        pal = [v for x in c for v in ((x & 31) * 8, (x >> 5 & 31) * 8, (x >> 10 & 31) * 8)]
-        img = Image.new("P", (W, len(px)))
-        img.putdata([v for row in px for v in row])
-        img.putpalette(pal)
-        img.convert("RGB").resize((W * 2, len(px) * 2), Image.NEAREST).save(outdir / f"{k}.png")
-        print(outdir / f"{k}.png")
+    for rel, specs in FILES.items():
+        mps = (ROOT / "work/disc/tree" / rel).read_bytes()
+        n = len(pictures(mps))
+        for k, px in edit(mps, specs)[1].items():
+            c = struct.unpack_from("<16H", mps, 4 * n + 32 * k)
+            pal = [v for x in c for v in ((x & 31) * 8, (x >> 5 & 31) * 8, (x >> 10 & 31) * 8)]
+            img = Image.new("P", (W, len(px)))
+            img.putdata([v for row in px for v in row])
+            img.putpalette(pal)
+            out = outdir / f"{Path(rel).stem}_{k}.png"
+            img.convert("RGB").resize((W * 2, len(px) * 2), Image.NEAREST).save(out)
+            print(out)
 
 
 if __name__ == "__main__":
