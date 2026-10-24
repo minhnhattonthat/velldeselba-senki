@@ -517,7 +517,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#102",
      "jp": "カフィ：<R>ガシザキノ大佐の<R>指示に従うのよ。<W><E>",
-     "en": "Kafi:<R>Follow Colonel<R>Gashizakino's orders.<W><E>"
+     "en": "Kafi:<R>Follow Colonel Gashizakino's<R>orders.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#103",
@@ -1237,7 +1237,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#246",
      "jp": "オユ・キクル：<R>カフィ中佐、だいじょうぶ<R>かしら……<W><E>",
-     "en": "Oyu Kikuru:<R>I wonder if Colonel<R>Kafi is all right...<W><E>"
+     "en": "Oyu Kikuru:<R>I wonder if Colonel Kafi<R>is all right...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#247",
@@ -1287,7 +1287,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#256",
      "jp": "オユ・キクル：<R>カフィ中佐が無事で<R>よかった……！<W><E>",
-     "en": "Oyu Kikuru:<R>I'm so glad Colonel<R>Kafi is safe...!<W><E>"
+     "en": "Oyu Kikuru:<R>I'm so glad Colonel Kafi<R>is safe...!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#257",
@@ -1402,7 +1402,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#279",
      "jp": "オユ・キクル：<R>でも少尉……ホントのホントに<R>空賊になっちゃうんですか？<W><H>カフィ中佐、怒るかなあ……<W><E>",
-     "en": "Oyu Kikuru:<R>But Lieutenant... are you really,<R>truly becoming a sky pirate?<W><H>I wonder if Colonel<R>Kafi will be mad...<W><E>"
+     "en": "Oyu Kikuru:<R>But Lieutenant... are you really,<R>truly becoming a sky pirate?<W><H>I wonder if Colonel Kafi<R>will be mad...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#280",
@@ -1442,7 +1442,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#287",
      "jp": "オユ・キクル：<R>カフィ中佐が無事でよかった！<W><E>",
-     "en": "Oyu Kikuru:<R>I'm so glad Colonel<R>Kafi is safe!<W><E>"
+     "en": "Oyu Kikuru:<R>I'm so glad<R>Colonel Kafi is safe!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#288",
@@ -1467,7 +1467,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#292",
      "jp": "オユ・キクル：<R>カフィ中佐がお元気そうで<R>本当によかった！<W><E>",
-     "en": "Oyu Kikuru:<R>I'm so glad Colonel<R>Kafi looks well!<W><E>"
+     "en": "Oyu Kikuru:<R>I'm so glad Colonel Kafi<R>looks well!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#293",
@@ -1477,7 +1477,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#294",
      "jp": "オユ・キクル：<R>いよいよシデルとの決戦ですね。<W><H>わたしは、最後までカフィ中佐と<R>いっしょに戦うわ。<W><E>",
-     "en": "Oyu Kikuru:<R>This is it, the final<R>battle with Sidel.<W><H>I'll fight alongside Colonel<R>Kafi to the very end.<W><E>"
+     "en": "Oyu Kikuru:<R>This is it, the final<R>battle with Sidel.<W><H>I'll fight alongside<R>Colonel Kafi to the very end.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#295",
@@ -1487,7 +1487,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#296",
      "jp": "オユ・キクル：<R>わたしは、最後までカフィ中佐と<R>いっしょに戦うわ。<W><E>",
-     "en": "Oyu Kikuru:<R>I'll fight alongside Colonel<R>Kafi to the very end.<W><E>"
+     "en": "Oyu Kikuru:<R>I'll fight alongside<R>Colonel Kafi to the very end.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#297",
@@ -1652,7 +1652,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#329",
      "jp": "カ・ジャルコ：<R>これがシデル提督との<R>最後の戦いになるんでしょうか。<W><H>わたしには、<R>シデル提督が悪い人とは<R>思えないのですが……<W><E>",
-     "en": "Ka Jarko:<R>Will this be the last<R>battle with Admiral Sidel?<W><H>I just can't believe Admiral<R>Sidel is a bad person...<W><E>"
+     "en": "Ka Jarko:<R>Will this be the last<R>battle with Admiral Sidel?<W><H>I just can't believe<R>Admiral Sidel is a bad person...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#330",
@@ -1927,7 +1927,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#384",
      "jp": "イッヒ：<R>一度は捕虜になりながら、<W><H>こうして船に乗っていられるのは<R><F62>大尉のおかげで<R>あります。<W><H>がんばりますであります。<W><E>",
-     "en": "Ich:<R>Though I was once<R>taken prisoner,<W><H>it is thanks to Captain<R><F62> that I can serve<R>aboard this ship, sir.<W><H>I will do my best, sir, I will!<W><E>"
+     "en": "Ich:<R>Though I was once<R>taken prisoner,<W><H>it is thanks to<R>Captain <F62> that I can<R>serve aboard this ship, sir.<W><H>I will do my best, sir, I will!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#385",
@@ -1992,7 +1992,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#397",
      "jp": "ニッヒ：<R>一度は捕虜になりながら、<W><H>こうして船に乗っていられるのは<R><F62>大尉の<R>おかげであります。<W><H>がんばりますであります。<W><E>",
-     "en": "Nich:<R>Though I was once<R>taken prisoner,<W><H>it is thanks to Captain<R><F62> that I can serve<R>aboard this ship, sir.<W><H>I will do my best, sir, I will!<W><E>"
+     "en": "Nich:<R>Though I was once<R>taken prisoner,<W><H>it is thanks to<R>Captain <F62> that I can<R>serve aboard this ship, sir.<W><H>I will do my best, sir, I will!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#398",
@@ -3782,7 +3782,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#755",
      "jp": "フラグナム：<R>力自慢のカ・ジャルコ軍曹の<R>唯一の弱点といえば……<W><H>機械の扱いがおおざっぱな<R>ところですからね。ふふ。<W><E>",
-     "en": "Fragnum:<R>If our strongwoman Sergeant<R>Ka Jarko has one weakness...<W><H>it's that she handles machinery<R>rather roughly. Hehe.<W><E>"
+     "en": "Fragnum:<R>If our strongwoman Sergeant Ka<R>Jarko has one weakness...<W><H>it's that she handles machinery<R>rather roughly. Hehe.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#756",
@@ -3987,7 +3987,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#796",
      "jp": "ハウエズナ：<R>わたしは反対しませんよ。<W><H>ただ、カフィ中佐たちのことだけが<R>きがかりですが……<W><E>",
-     "en": "Hauezna:<R>I won't object, sir.<W><H>It's just Lieutenant Colonel<R>Kafi and the others that I'm<R>worried about...<W><E>"
+     "en": "Hauezna:<R>I won't object, sir.<W><H>It's just<R>Lieutenant Colonel Kafi and the<R>others that I'm worried about...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#797",

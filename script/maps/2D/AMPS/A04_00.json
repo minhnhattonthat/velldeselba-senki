@@ -697,7 +697,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#138",
      "jp": "ギダン兵：<R>その商人だったら、シデル提督の<R>親衛部隊に追われてたぜ。<W><E>",
-     "en": "Gidan Soldier:<R>That merchant?<W><H>He was being chased by Admiral<R>Sidel's Royal Guard units.<W><E>"
+     "en": "Gidan Soldier:<R>That merchant?<W><H>He was being chased<R>by Admiral Sidel's<R>Royal Guard units.<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#139",
@@ -707,7 +707,7 @@
     {
      "id": "2D/AMPS/A04_00@34800#140",
      "jp": "ギダン兵：<R>なんでも、ノイパスクの浮遊島を<R>つかまえて、<W><H>逆にギダンの戦力にするんだ<R>そうだよ。最近のシデル提督の<R>なさることは……<W><E>",
-     "en": "Gidan Soldier:<R>Word is they're going to capture<R>the Noipask floating islands<W><H>and turn them into Gidan's own<R>forces. The things Admiral<R>Sidel has been doing lately...<W><E>"
+     "en": "Gidan Soldier:<R>Word is they're going to capture<R>the Noipask floating islands<W><H>and turn them into Gidan's own<R>forces. The things Admiral Sidel<R>has been doing lately...<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#141",
@@ -732,12 +732,12 @@
     {
      "id": "2D/AMPS/A04_00@34800#145",
      "jp": "ギダン兵：<R>シデル提督のノイパスク戦略を<R>どう思う？<W><H>あれだけ一方的に攻めていながら<R>降伏勧告もせず、浮遊島から<R>動こうとしない……<W><H>一体何をお考えなのだろう？<W><E>",
-     "en": "Gidan Soldier:<R>What do you make of Admiral<R>Sidel's Noipask strategy?<W><H>For all that<R>one-sided attacking,<W><H>he issues no call to<R>surrender and won't budge<R>from the floating islands...<W><H>What on earth can<R>he be thinking?<W><E>"
+     "en": "Gidan Soldier:<R>What do you make of<W><H>Admiral Sidel's<R>Noipask strategy?<W><H>For all that<R>one-sided attacking,<W><H>he issues no call to<R>surrender and won't budge<R>from the floating islands...<W><H>What on earth can<R>he be thinking?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#146",
      "jp": "ギダン兵：<R>シデル提督は<R>一体何をお考えなのだろう？<W><E>",
-     "en": "Gidan Soldier:<R>What on earth can Admiral<R>Sidel be thinking?<W><E>"
+     "en": "Gidan Soldier:<R>What on earth can<R>Admiral Sidel be thinking?<W><E>"
     },
     {
      "id": "2D/AMPS/A04_00@34800#147",

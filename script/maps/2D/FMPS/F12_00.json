@@ -1147,7 +1147,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#228",
      "jp": "ゼシカ大尉：<R>ふふ。<F62>大尉には<R>負けられないわね。<W><E>",
-     "en": "Captain Zeshika:<R>Heh. I can't let Captain<R><F62> outdo me.<W><E>"
+     "en": "Captain Zeshika:<R>Heh. I can't let<R>Captain <F62> outdo me.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#229",
@@ -1297,7 +1297,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#258",
      "jp": "ム連兵：<R>亡命の話、聞きましたよ。はは、<R>大胆なことをなさいますね。<W><E>",
-     "en": "Federation Soldier:<R>I heard about the defection. Ha<R>ha, that was a bold move, sir.<W><E>"
+     "en": "Federation Soldier:<R>I heard about the defection.<W><H>Ha ha, that was a<R>bold move, sir.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#259",
@@ -1397,7 +1397,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#278",
      "jp": "ム連兵：<R>花束、ゼシカ大尉には<R>きにいってもらえたかな？<W><E>",
-     "en": "Federation Soldier:<R>Do you think Captain<R>Zeshika liked the bouquet?<W><E>"
+     "en": "Federation Soldier:<R>Do you think Captain Zeshika<R>liked the bouquet?<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#279",
@@ -1627,7 +1627,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#324",
      "jp": "ム連兵：<R>ひっく……サロ将軍さえ<R>もどって来れば……<W><E>",
-     "en": "Federation Soldier:<R>Hic... If only General<R>Saro would come back...<W><E>"
+     "en": "Federation Soldier:<R>Hic... If only General Saro<R>would come back...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#325",

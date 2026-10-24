@@ -29,7 +29,13 @@ def test_boxes_break_after_a_sentence():
     out = batches.fit("Man:<R>Are you folks the Federation army? Looks like there's some Gidan folks too...<W><E>", jp)
     assert out == "Man:<R>Are you folks the<R>Federation army?<W><H>Looks like there's some<R>Gidan folks too...<W><E>"
     out = batches.fit("Zeshika:<R>Lieutenant Colonel Kafi, come with me.<W><E>", jp)
-    assert out == "Zeshika:<R>Lieutenant Colonel<R>Kafi, come with me.<W><E>"
+    assert out == "Zeshika:<R>Lieutenant Colonel Kafi,<R>come with me.<W><E>"
+
+
+def test_title_stays_with_name():
+    assert batches.words("Heh. I can't let Captain <F62> outdo me. Ha ha!") == \
+        ["Heh.", "I", "can't", "let", "Captain <F62>", "outdo", "me.", "Ha ha!"]
+    assert batches.words("the Captain, sir") == ["the", "Captain,", "sir"]
 
 
 def test_running_text_refits_to_the_same_rows():

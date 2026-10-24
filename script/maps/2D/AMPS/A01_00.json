@@ -467,7 +467,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#92",
      "jp": "ガークス：<R>それはわかりません。<W><H>シデル提督が無関係だとは<R>思えないのですが……<W><H>いずれにせよ、<R>この話は内密にしてください。<W><E>",
-     "en": "Garks:<R>That I cannot say.<W><H>But I can't believe Admiral<R>Sidel is unconnected to it...<W><H>In any case, please<R>keep this to yourself.<W><E>"
+     "en": "Garks:<R>That I cannot say.<W><H>But I can't believe Admiral Sidel<R>is unconnected to it...<W><H>In any case, please<R>keep this to yourself.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#93",
@@ -582,7 +582,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#115",
      "jp": "ドックの職人：<R>船の買い方をしりたいって？<R>じゃあ、教えてやるよ。<W><H>船を買うとな、<R>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備の見立ては<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくから<R>心配しなくてもいいよ。<W><E>",
-     "en": "Shipwright:<R>Want to know how to buy a<R>ship? Then I'll show you.<W><H>When you buy a ship, your<R>old ship's turrets, engine,<W><H>armor plates and so<R>on all get scrapped.<W><H>Leave picking the new<R>ship's equipment to me.<W><H>Ammo and cargo get moved<R>over to the new ship as they<R>are, so don't you worry.<W><E>"
+     "en": "Shipwright:<R>Want to know how to buy a<R>ship? Then I'll show you.<W><H>When you buy a ship, your<R>old ship's turrets, engine,<R>armor and all get scrapped.<W><H>Leave picking the new<R>ship's equipment to me.<W><H>Ammo and cargo get moved<R>over to the new ship as they<R>are, so don't you worry.<W><E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#116",

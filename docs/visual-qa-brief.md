@@ -35,7 +35,8 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - Map tour (`tour2d/`): the first tile per map is the place-name banner, the second the plain map after it.
   Same in the original (checked in `work/qa/tour_jp/`): m01/m02 show no banner (a close-up of the map); m24 is
   black at both shots; ship interiors (m45-m54) read "Airship Sky" (JP 自機・軍上空, the debug scene name plus
-  the area suffix the game appends).
+  the area suffix the game appends). Other ship banners (Ship, Milt, Gashizaki, Pirates, Chibaraga) are the debug
+  scene names too (`script/exe/2D/AMPS/A0100.EXE.json`).
 - Dialogue: a box may end mid-sentence when the line is longer than the box and has no sentence or clause end
   to break at; flag it only when a nearby `.`/`,` break was clearly possible.
 - The Japanese title logo is kept as original art.

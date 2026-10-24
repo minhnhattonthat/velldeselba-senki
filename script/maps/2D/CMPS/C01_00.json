@@ -657,7 +657,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#130",
      "jp": "バムス中佐：<R>国王船がスラークを出発した<R>という連絡が入りしだい、<W><H>ガシザキノ中佐……いや、<R>大佐の船と共に向かってくれ。<W><H>それまでは、しばらく待機だ。<R>町で息抜きでもしてこい。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>As soon as word comes that the<R>royal ship has left Slark,<W><H>set out with Lieutenant<R>Colonel Gashizakino's... no,<R>Colonel Gashizakino's ship.<W><H>Until then, stand by. Go into<R>town and take a breather.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>As soon as word comes that the<R>royal ship has left Slark,<W><H>set out with Lieutenant Colonel<R>Gashizakino's... no,<R>Colonel Gashizakino's ship.<W><H>Until then, stand by. Go into<R>town and take a breather.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#131",
@@ -702,7 +702,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#139",
      "jp": "ギダン兵：<R>はやくバムス中佐のところに。<W><E>",
-     "en": "Gidan Soldier:<R>Hurry to Lieutenant<R>Colonel Bams.<W><E>"
+     "en": "Gidan Soldier:<R>Hurry to<R>Lieutenant Colonel Bams.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#140",
@@ -812,7 +812,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#161",
      "jp": "カフィ：<R>ガシザキノ中佐……いえ、大佐の<R>昇進をお祝いしていたのよ。<W><E>",
-     "en": "Kafi:<R>We were celebrating Lieutenant<R>Colonel Gashizakino's...<W><H>I mean, Colonel<R>Gashizakino's promotion.<W><E>"
+     "en": "Kafi:<R>We were celebrating<R>Lieutenant Colonel<W><H>Gashizakino's...<W><H>I mean, Colonel Gashizakino's<R>promotion.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#162",

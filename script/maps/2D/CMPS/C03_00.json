@@ -447,7 +447,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#88",
      "jp": "管制員：<R>ム連邦軍ミデーレキサタ基地へ<R>ようこそいらっしゃいました。<W><H>ノイパスク軍のカフィ中佐ですね、<R>お話はうかがっております。<W><H>ご足労（そくろう）ではあります<R>が、司令部までいらしてくだい。<W><E>",
-     "en": "Controller:<R>Welcome to the Federation<R>army's Miderekisata Base.<W><H>You must be Lieutenant Colonel<R>Kafi of the Noipask army. We've<R>been told you were coming.<W><H>I'm sorry to trouble you, but<R>please come to headquarters.<W><E>"
+     "en": "Controller:<R>Welcome to the Federation<R>army's Miderekisata Base.<W><H>You must be<R>Lieutenant Colonel Kafi<R>of the Noipask army.<W><H>We've been told you were coming.<W><H>I'm sorry to trouble you, but<R>please come to headquarters.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#89",
@@ -467,7 +467,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#92",
      "jp": "衛兵：<R>はっ、カフィ中佐殿ですか。<R>お２階へどうぞ。<W><E>",
-     "en": "Guard:<R>Ma'am! Lieutenant Colonel<R>Kafi? Please go upstairs.<W><E>"
+     "en": "Guard:<R>Ma'am! Lieutenant Colonel Kafi?<R>Please go upstairs.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#93",
@@ -592,7 +592,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#117",
      "jp": "タカテリフ長官：<R><F62>少尉は……<R>そうですね、<W><H>ゼシカ大尉に<R>町を案内させましょう。<W><E>",
-     "en": "Commander Takaterif:<R>and as for Lieutenant<R><F62>... let's see,<W><H>we'll have Captain Zeshika<R>show him around town.<W><E>"
+     "en": "Commander Takaterif:<R>and as for<R>Lieutenant <F62>... let's see,<W><H>we'll have Captain Zeshika<R>show him around town.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#118",
@@ -772,7 +772,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#153",
      "jp": "ゼシカ大尉：<R><F62>少尉も<R>すぐに出撃してください。<W><H>カフィ中佐はわたしと<R>いっしょに。<W><E>",
-     "en": "Captain Zeshika:<R>Lieutenant <F62>, please<R>sortie at once as well.<W><H>Lieutenant Colonel<R>Kafi, come with me.<W><E>"
+     "en": "Captain Zeshika:<R>Lieutenant <F62>, please<R>sortie at once as well.<W><H>Lieutenant Colonel Kafi,<R>come with me.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#154",
@@ -922,7 +922,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#183",
      "jp": "タカテリフ長官：<R>ナデス島のゼクセル大佐に<R>渡してください。<W><E>",
-     "en": "Commander Takaterif:<R>Please hand them to Colonel<R>Zexel on Nades Island.<W><E>"
+     "en": "Commander Takaterif:<R>Please hand them to<R>Colonel Zexel on Nades Island.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#184",

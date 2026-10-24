@@ -22,10 +22,27 @@ import lint
 TL = ROOT / "work/tl"
 
 
+TITLE = re.compile(r"(Captain|Lieutenant|Colonel|Commander|Admiral|Major|Sergeant|General|President|Dr\.)$")
+
+
+def words(seg):
+    """Words to wrap; a title stays with the name after it ("Captain <F62>"), and a laugh with itself ("Ha ha")."""
+    out = []
+    for w in seg.split(" "):
+        prev = out[-1] if out else ""
+        glue = (TITLE.search(prev) and re.match(r"[A-Z<]", w)) or (prev.lower() in ("ha", "heh") and
+                                                                   w.lower().startswith(("ha", "heh")))
+        if glue and lint.width(f"{prev} {w}") <= 15:
+            out[-1] = f"{prev} {w}"
+        else:
+            out.append(w)
+    return out
+
+
 def greedy(seg, first_row, three_d=False, cap=99):
     """Greedy word wrap of one hard-break segment; first_row = index of its first row in the page."""
     rows, cur = [], ""
-    for word in seg.split(" "):
+    for word in words(seg):
         cand = f"{cur} {word}" if cur else word
         i = first_row + len(rows)
         if three_d:
@@ -73,14 +90,14 @@ CLAUSE = re.compile(r"[,;:—-][\"')]*(<[^>]*>)*$")
 def page(text, r0):
     """Running text -> boxes (<W><H> between them): the fewest boxes, breaking after a sentence where it can, else
     after a clause; a box ending on a one-word row or a last box of one row costs extra. None if a word won't fit."""
-    words, memo = text.split(" "), {}
+    ws, memo = words(text), {}
 
-    def best(i, r0):  # (boxes, penalty), rows per box, for words[i:] starting at row r0
+    def best(i, r0):  # (boxes, penalty), rows per box, for ws[i:] starting at row r0
         if (i, r0) not in memo:
             memo[i, r0] = None
-            for j in range(i + 1, len(words) + 1):
-                last = j == len(words)
-                rows = wrap(" ".join(words[i:j]) + ("" if last else "<W>"), r0)
+            for j in range(i + 1, len(ws) + 1):
+                last = j == len(ws)
+                rows = wrap(" ".join(ws[i:j]) + ("" if last else "<W>"), r0)
                 if r0 + len(rows) > 3:
                     break
                 pen = 2 * (j - i > 1 or not last) * (" " not in rows[-1])
@@ -91,7 +108,7 @@ def page(text, r0):
                     if rest is None:
                         continue
                     pen += 3 - r0 - len(rows)  # rows left empty in a box that isn't the last
-                    pen += 0 if END.search(words[j - 1]) else 2 if CLAUSE.search(words[j - 1]) else 4
+                    pen += 0 if END.search(ws[j - 1]) else 2 if CLAUSE.search(ws[j - 1]) else 4
                     cand = ((rest[0][0] + 1, rest[0][1] + pen), [rows] + rest[1])
                 if memo[i, r0] is None or cand[0] <= memo[i, r0][0]:  # ties: the fuller earlier box
                     memo[i, r0] = cand

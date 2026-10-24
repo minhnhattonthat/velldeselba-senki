@@ -892,7 +892,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#177",
      "jp": "ガシザキノ大佐：<R><F62>、今、<R>バムス中佐が知らせてくれた。<W><H>ム連邦が動き出したそうだ。<W><E>",
-     "en": "Colonel Gashizakino:<R><F62>, Lieutenant Colonel<R>Bams just informed me.<W><H>The Federation has<R>started to move.<W><E>"
+     "en": "Colonel Gashizakino:<R><F62>, Lieutenant Colonel Bams<R>just informed me.<W><H>The Federation has<R>started to move.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#178",
@@ -1062,17 +1062,17 @@
     {
      "id": "2D/GMPS/G05_00@42000#211",
      "jp": "カ・ジャルコ：<R>はい。<W><H>しかし、途中シデル提督の<R>親衛部隊の待ちぶせに会い、<W><H>わたしたちの乗った飛空船は<R>撃墜されてしまって……<W><E>",
-     "en": "Ka Jarko:<R>Yes.<W><H>But on the way, we ran<R>into an ambush by Admiral<R>Sidel's Royal Guard units,<W><H>and the airship we were<R>on got shot down...<W><E>"
+     "en": "Ka Jarko:<R>Yes.<W><H>But on the way, we ran into<R>an ambush by Admiral Sidel's<R>Royal Guard units,<W><H>and the airship we were<R>on got shot down...<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#212",
      "jp": "ガシザキノ大佐：<R>なにっ、陛下の船が！？<W><H>シデル提督め、なんてことを！<W><H>それで、陛下はご無事か！？<W><E>",
-     "en": "Colonel Gashizakino:<R>What, His Majesty's ship!?<W><H>Damn you, Admiral<R>Sidel, how could you!<W><H>And His Majesty? Is he safe!?<W><E>"
+     "en": "Colonel Gashizakino:<R>What, His Majesty's ship!?<W><H>Damn you, Admiral Sidel,<R>how could you!<W><H>And His Majesty? Is he safe!?<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#213",
      "jp": "カ・ジャルコ：<R>国王と<F62>大尉は<R>ご無事です。<W><E>",
-     "en": "Ka Jarko:<R>The King and Captain<R><F62> are both safe.<W><E>"
+     "en": "Ka Jarko:<R>The King and Captain <F62><R>are both safe.<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#214",
@@ -1107,7 +1107,7 @@
     {
      "id": "2D/GMPS/G05_00@42000#220",
      "jp": "カ・ジャルコ：<R>さすが、フラグナム曹長だわ！<W><E>",
-     "en": "Ka Jarko:<R>That's Sergeant Major<R>Fragnum for you!<W><E>"
+     "en": "Ka Jarko:<R>That's Sergeant Major Fragnum<R>for you!<W><E>"
     },
     {
      "id": "2D/GMPS/G05_00@42000#221",

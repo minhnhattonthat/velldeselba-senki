@@ -822,7 +822,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#163",
      "jp": "ハウエズナ：<R>カフィ中佐の手伝いですよ。<W><H>今のうちに、空襲でめちゃ<R>くちゃになった中佐の部屋を<R>片づけるんだそうです。<W><E>",
-     "en": "Hauezna:<R>Helping Lieutenant<R>Colonel Kafi, sir.<W><H>She says she'll tidy up<R>the Lieutenant Colonel's<R>room while there's time;<W><H>the air raid wrecked it.<W><E>"
+     "en": "Hauezna:<R>Helping<R>Lieutenant Colonel Kafi, sir.<W><H>She says she'll tidy up<R>the Lieutenant Colonel's<R>room while there's time;<W><H>the air raid wrecked it.<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#164",
@@ -847,7 +847,7 @@
     {
      "id": "2D/GMPS/G12_00@54800#168",
      "jp": "配給係：<R>なんだあんた、生きてたのか。<W><H>カフィ中佐はお元気かい？<W><E>",
-     "en": "Quartermaster:<R>What, you're still alive?<W><H>Is Lieutenant Colonel<R>Kafi doing well?<W><E>"
+     "en": "Quartermaster:<R>What, you're still alive?<W><H>Is Lieutenant Colonel Kafi<R>doing well?<W><E>"
     },
     {
      "id": "2D/GMPS/G12_00@54800#169",

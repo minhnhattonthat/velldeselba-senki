@@ -532,7 +532,7 @@
     {
      "id": "2D/IMPS/I09_00@30800#105",
      "jp": "バムス中佐：<R>わたしは王宮か大本営にいる。<W><H>用がある場合は<R>いつでもたずねてきなさい。<W><H>カ・ジャルコ軍曹、<R><F62>大尉の案内は<R>君にまかせよう。<W><E>",
-     "en": "Lieutenant Colonel Bams:<R>I will be at the palace<R>or General Headquarters.<W><H>Should you need anything,<R>call on me any time.<W><H>Sergeant Ka Jarko, I leave Captain<R><F62>'s guidance to you.<W><E>"
+     "en": "Lieutenant Colonel Bams:<R>I will be at the palace<R>or General Headquarters.<W><H>Should you need anything,<R>call on me any time.<W><H>Sergeant Ka Jarko, I<R>leave Captain <F62>'s<R>guidance to you.<W><E>"
     },
     {
      "id": "2D/IMPS/I09_00@30800#106",
