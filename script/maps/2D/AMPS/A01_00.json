@@ -32,12 +32,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#5",
      "jp": "カ・ジャルコ：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人砲手　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>腕力自慢の元気少女。　　　　　　　<R>グラシアルギダン出身。　　　　　　<E>",
-     "en": "Ka Jarko:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan gunner      <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A lively girl proud of her brawn.<R>From Glacial Gidan.               <E>"
+     "en": "Ka Jarko:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan gunner      <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A lively girl proud of her brawn. <R>From Glacial Gidan.               <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#6",
      "jp": "フラグナム：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人整備士　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>飛空船整備の腕前にたける。　　　　<R>上流階級の出身らしい。　　　　　　<E>",
-     "en": "Fragnum:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan mechanic    <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Highly skilled at airship upkeep.<R>Seems to be from the upper class. <E>"
+     "en": "Fragnum:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan mechanic    <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Highly skilled at airship upkeep. <R>Seems to be from the upper class. <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#7",
@@ -52,17 +52,17 @@
     {
      "id": "2D/AMPS/A01_00@56000#9",
      "jp": "カレツ：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>元ガシザキノの部下。　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Karetz:           <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Gashizakino's former subordinate.<R>                                  <E>"
+     "en": "Karetz:           <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Gashizakino's former subordinate. <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#10",
      "jp": "ボイ：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>元ガシザキノの部下。　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Boi:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Gashizakino's former subordinate.<R>                                  <E>"
+     "en": "Boi:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Gashizakino's former subordinate. <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#11",
      "jp": "アグ：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>軍人をやめてダナスピ王に仕えて　　<R>いたが、思う所あり戦場に復帰。　　<E>",
-     "en": "Ag:               <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Served King Danaspi after leaving<R>the army; chose to return to war. <E>"
+     "en": "Ag:               <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Served King Danaspi after leaving <R>the army; chose to return to war. <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#12",
@@ -107,7 +107,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#20",
      "jp": "デファイナ：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>女空賊　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>その魅力でたびたび男を　　　　　　<R>たぶらかしていたらしい。　　　　　<E>",
-     "en": "Defaina:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>She often used her charms to lead<R>men astray, it seems.             <E>"
+     "en": "Defaina:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>She often used her charms to lead <R>men astray, it seems.             <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#21",
@@ -237,7 +237,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#46",
      "jp": "ぶどう弾：　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>散弾よりも、粒の大きな子爆弾を　　<R>まき散らす弾丸。ぶどうの房のような<R>内部構造をしている。　　　　　　　<E>",
-     "en": "Grapeshot:          <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>Scatters bigger bomblets than the<R>scatter shell; inside, it's like<R>a bunch of grapes.                <E>"
+     "en": "Grapeshot:          <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>Scatters bigger bomblets than the <R>scatter shell; inside, it's like<R>a bunch of grapes.                <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#47",
@@ -307,7 +307,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#60",
      "jp": "催涙花粉弾：　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>裂弾の中に、火薬の代わりに刺激性の<R>強い花粉を詰めた弾薬。命中すると　<R>敵が涙にくれて命中率が落ちる。　　<E>",
-     "en": "Tear Pollen Shell:  <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A burst shell filled with irritant<R>pollen instead of powder. Enemies<R>hit weep, and their aim worsens.  <E>"
+     "en": "Tear Pollen Shell:  <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A burst shell filled with irritant<R>pollen instead of powder. Enemies <R>hit weep, and their aim worsens.  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#61",
@@ -397,7 +397,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#78",
      "jp": "鉄鉱石：　　　　　　　　　　<P13><V1,1,4>個<R>鉄を多量に含む岩石。この星の鉱物　<R>資源はパスク人が大量に採取してしま<R>ったため、とても貴重である。　　　<E>",
-     "en": "Iron Ore:                   <P13><V1,1,4><R>Rock rich in iron. The Pask mined<R>away most of this planet's ores,<R>so it's extremely valuable.       <E>"
+     "en": "Iron Ore:                   <P13><V1,1,4><R>Rock rich in iron. The Pask mined <R>away most of this planet's ores,<R>so it's extremely valuable.       <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#79",

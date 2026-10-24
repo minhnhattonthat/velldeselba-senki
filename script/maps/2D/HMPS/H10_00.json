@@ -22,7 +22,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#3",
      "jp": "ガシザキノ将軍：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>数々の活躍を評価され、現在は　　　<R>将軍としてギダン軍を率いている。　<E>",
-     "en": "Gashizakino:      <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Recognized for many feats, he now<R>leads the Gidan army as a general.<E>"
+     "en": "Gashizakino:      <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Recognized for many feats, he now <R>leads the Gidan army as a general.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#4",
@@ -77,7 +77,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#14",
      "jp": "ゼシカ少佐：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>あいかわらずエリート軍人として　　<R>活躍。その人気はおとろえない。　　<E>",
-     "en": "Major Zeshika:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Still active as an elite officer.<R>Her popularity never fades.       <E>"
+     "en": "Major Zeshika:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Still active as an elite officer. <R>Her popularity never fades.       <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#15",
@@ -97,7 +97,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#18",
      "jp": "ブアブナム：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ダハにアジトをかまえる空賊の頭。　<R>ダ・クダとは無二の親友。　　　　　<E>",
-     "en": "Buabnam:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Sky pirate boss, hideout in Daha.<R>Da Kuda's dearest friend.         <E>"
+     "en": "Buabnam:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Sky pirate boss, hideout in Daha. <R>Da Kuda's dearest friend.         <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#19",
