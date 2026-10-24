@@ -52,7 +52,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Next:**
   1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Take-off gate
      found (2026-10-24, docs/re/debug.md): flags 9999+1169 send the ship into the first 3D sortie
-     (`work/states/en_sortie1.sstate`); a playtester is flying it (work/playtest/sortie1).
+     (`work/states/en_sortie1.sstate`, after the intro; pause > RESTART replays it). Playtest 4 (sortie): intro
+     messages OK; 3D option menus (DEMO.EXE/HT.EXE) left old text behind and highlights missed the options: rows
+     padded to the JP width, options moved under the game's fixed highlight cells (1 JP cell = 2 letters; View
+     Y/Throttle now "Invert ...: Off On"), verified work/qa/opt. Open: the ship never moved in 2000 frames of
+     throttle (flag-skip state? check on a sortie reached by play); combat/results text still unseen.
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
      results, route map (neither take-off branch shows it; it must come with later destination choices).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).
