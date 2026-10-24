@@ -27,6 +27,7 @@ import patch_exe
 import scan_bpe
 import staffroll
 import textcodec
+import worldmap
 
 ROM = ROOT / "rom/Velldeselba Senki - Tsubasa no Kunshou (Japan).cue"
 DISC = ROOT / "work/disc"
@@ -254,6 +255,7 @@ def main():
         insert_maps(mode, tm)
         insert_missions(mode, tm)
         insert_dat(mode, tm)
+        write(worldmap.REL, worldmap.build(DISC / "tree"))  # the Old Sage's map pictures
         for rel, p in fmv.built().items():  # subtitled movies (cached by tools/fmv.py)
             (FILES / rel).parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(p, FILES / rel)

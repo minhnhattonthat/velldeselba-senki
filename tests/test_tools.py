@@ -15,6 +15,20 @@ def test_rom_pin():
     check_rom.check()
 
 
+def test_worldmap_edits_only_labelled_pictures():
+    import worldmap
+    src = worldmap.ROOT / "work/disc/tree" / worldmap.REL
+    if not src.is_file():
+        pytest.skip("disc not dumped")
+    mps = src.read_bytes()
+    new, edited = worldmap.edit(mps)
+    assert len(new) == len(mps) and set(edited) == set(worldmap.PICTURES)
+    old, out = worldmap.pictures(mps), worldmap.pictures(new)
+    assert [p for p, _, _ in old] == [p for p, _, _ in out]
+    assert [d for k, (_, _, d) in enumerate(old) if k not in edited] == \
+           [d for k, (_, _, d) in enumerate(out) if k not in edited]
+
+
 def test_fmv_subtitle_lines_balanced():
     import fmv
     from PIL import ImageFont

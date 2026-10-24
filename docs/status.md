@@ -42,9 +42,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     padding: `maptext.build` now stores identical strings once when a table overflows (I03 only; map loads).
     Field menu (triangle) seen in English; Ship/Equip/Cargo need a ship. Savestates from older builds keep the old
     map text in RAM: warp to reload before judging map text.
+  - Playtests 2-3: route to the Old Sage found (brief). His Geography/Balance of Power "freeze" was a stale
+    savestate; fine on a fresh one. Their map pictures (`2D/OTHER/WORLD.MPS`) had Japanese place names: redrawn in
+    English (`tools/worldmap.py`), seen in-game. EXE/DAT strings reviewed (749; fixes in 26bbaf5). FMV subtitles
+    without background box (D10), balanced lines.
 - **Next:**
-  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Playtest 2
-     (Old Sage -> ship -> menus/shop -> first sortie) running in `work/playtest/sortie`.
+  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Story route past
+     the Old Sage (bar scene with Kafi, ship on 3F) not found by playtesters yet, so no ship/shop/sortie states.
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
      results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).

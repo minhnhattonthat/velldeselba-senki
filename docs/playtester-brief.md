@@ -64,10 +64,15 @@ calls as the command that makes it.
   Ship/Equip/Cargo do nothing before you have a ship). Square + d-pad runs. Walking ~4.5 px/frame.
 - Elevators: walk up into the cage, it rides on its own; on arrival hold down ~120 frames (pressing up early rides
   back). Nades HQ: 1F left elevator -> 2F, 2F right elevator -> 3F (commanders behind the beaded rail).
-- Opening route found so far: Zexel and Odenaude on HQ 3F make Misaki a soldier; Kafi on 1F then sends you to "the
-  old man in the house to the east" (the Old Sage), not yet found. Dead ends: plaza and lower walkway east/west ends,
-  far-west building. The ladder south of the bridge (airship) says "can't fly without permission" until later.
-  Unexplored leads: the pipes off the HQ tube junction, the Supply Office's right-hand tube.
+- Opening route: Zexel and Odenaude on HQ 3F make Misaki a soldier (cross the beaded rail at its gap by the yellow
+  stairs); Kafi on 1F then sends you to the Old Sage. 1F east yellow door (open after 3F) -> tube junction -> left
+  tube up to the Supply Office -> its right-hand tube -> carpet room -> east tube along the pipe -> down, east, down,
+  east, then the T-branch north into the Sage's house. States with his topic menu: `work/playtest/sage2/0056`.
+  After the Sage: Kafi's next scene is in the bar, Zexel's ship scene on 3F (neither found yet). Dead ends: plaza
+  and lower walkway ends, far-west building, the "Woman" house east on the pipe, the hospital, the plaza elevator
+  storeroom. The ladder south of the bridge (airship) says "can't fly without permission" until later.
+- A savestate from an older build can hang or show stale text when the game loads data (file positions moved):
+  when something freezes from an old `--state`, say so; it gets retested on a fresh state.
 - 2D towns: walk with the d-pad, talk/examine with circle. Shops (junk dealer, repairman, shipwright, tavern),
   then sortie to 3D flight missions (HT.EXE menus).
 - English is drawn two letters per 16x15 cell, so a blank half cell after a run with an odd letter count (before a
