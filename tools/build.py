@@ -24,6 +24,7 @@ import maptext
 import missiontext
 import namegrid
 import patch_exe
+import routemap
 import scan_bpe
 import staffroll
 import textcodec
@@ -257,6 +258,10 @@ def main():
         insert_dat(mode, tm)
         for rel, data in worldmap.build(DISC / "tree").items():  # Old Sage's maps, ship pictures
             write(rel, data)
+        write(routemap.SHEET, routemap.patch_sheet((DISC / "tree" / routemap.SHEET).read_bytes()))
+        for rel in routemap.EXES:  # route-map name rects, on top of the patched EXEs
+            orig = (DISC / "tree" / rel).read_bytes()
+            write(rel, routemap.patch_exe(((FILES / rel) if (FILES / rel).is_file() else DISC / "tree" / rel).read_bytes(), orig))
         for rel, p in fmv.built().items():  # subtitled movies (cached by tools/fmv.py)
             (FILES / rel).parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(p, FILES / rel)

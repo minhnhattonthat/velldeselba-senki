@@ -120,6 +120,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | クナ / クナシティ / クナ共和国 | Kuna / Kuna City / Kuna Republic | | | |
 | ダク | Dak | | sky pirates' hidden village | Daku |
 | ダハ | Daha | | pirate town | |
+| ズラーク | Zurak | | route-map town (only on the map art) | |
 | ガー | Gar | | pirate black-market town | |
 | シャッハ | Schach | | | Shach |
 | ワザノ | Wazano | | hot-spring resort | |

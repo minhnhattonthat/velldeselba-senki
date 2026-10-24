@@ -46,6 +46,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     savestate; fine on a fresh one. Their map pictures (`2D/OTHER/WORLD.MPS`) had Japanese place names: redrawn in
     English (`tools/worldmap.py`), seen in-game. EXE/DAT strings reviewed (749; fixes in 26bbaf5). FMV subtitles
     without background box (D10), balanced lines.
+  - Ship pictures (SHIP_PIC.MPS, 24) and the airship route map's town names (SHIP_SET.MPS sheet + rect table in
+    I0100..I0700.EXE) in English; both need a ship / take-off flags to see in-game (airship cockpit "Take off"
+    says "not ready to set sail" at game-start flags; state `work/states/en_i01.sstate`).
 - **Next:**
   1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Story route past
      the Old Sage (bar scene with Kafi, ship on 3F) not found by playtesters yet, so no ship/shop/sortie states.

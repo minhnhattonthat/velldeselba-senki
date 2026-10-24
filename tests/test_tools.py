@@ -30,6 +30,16 @@ def test_worldmap_edits_only_labelled_pictures():
                [d for k, (_, _, d) in enumerate(out) if k not in edited]
 
 
+def test_routemap_names_packed_apart():
+    import routemap
+    boxes = [(u, v, u + w, v + h) for u, v, w, h, _ in routemap.pack()]
+    for i, (x0, y0, x1, y1) in enumerate(boxes):
+        assert x1 <= routemap.W and y1 <= routemap.H
+        assert y0 >= routemap.BOTTOM[0] or (x0 >= routemap.SIDE[0] and x1 <= routemap.SIDE[1])  # off map and dots
+        for a0, b0, a1, b1 in boxes[i + 1:]:
+            assert x1 <= a0 or a1 <= x0 or y1 <= b0 or b1 <= y0
+
+
 def test_fmv_subtitle_lines_balanced():
     import fmv
     from PIL import ImageFont
