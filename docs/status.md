@@ -32,9 +32,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `batches.page` picks the fewest boxes, then sentence/clause breaks (429 lines refitted), 137 lines tightened
     (p002a/b). Ship-interior banner "Airship Sky" (original shows the debug name + 上空 too). Non-bugs checked on
     the JP disc are listed in `docs/visual-qa-brief.md`.
+  - Visual QA rounds 2-9: fragment boxes tightened (p003, p004: 89 lines), wrap keeps titles with names
+    ("Captain <F62>", "His Majesty"), pulls a word down to a lone last word, prefers rows ending a sentence.
+    **Gate passes** (`qa_gate.py check work/qa/manifest.tsv work/qa/verdicts`: 27/27 ok, texttour 100 lines +
+    60-map banner tour). Re-run both tours and `init` after any script change (texttour's picks shift with it).
 - **Next:**
-  1. Visual-QA gate round 2: re-run texttour + tour2d, `qa_gate.py init work/qa/manifest.tsv work/qa/texttour`
-     and `... work/qa/tour2d --glob "tour*.png"`, reviewers on the changed sheets, `qa_gate.py check`.
+  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen.
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
      results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).
