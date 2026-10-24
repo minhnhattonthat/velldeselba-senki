@@ -20,6 +20,7 @@ import datnames
 import exetext
 import fmv
 import font
+import logo
 import maptext
 import missiontext
 import namegrid
@@ -257,6 +258,8 @@ def main():
         insert_missions(mode, tm)
         insert_dat(mode, tm)
         for rel, data in worldmap.build(DISC / "tree").items():  # Old Sage's maps, ship pictures
+            write(rel, data)
+        for rel, data in logo.build(DISC / "tree").items():  # title logo: title screen, title menu, loading screen
             write(rel, data)
         write(routemap.SHEET, routemap.patch_sheet((DISC / "tree" / routemap.SHEET).read_bytes()))
         for rel in routemap.EXES:  # route-map name rects, on top of the patched EXEs

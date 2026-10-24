@@ -9,7 +9,7 @@ What is translated
 ------------------
 All dialogue (2D maps and 3D missions), menus, shops, item, ship-part and place names, profiles, the name entry
 grid (English letters), the staff roll, and the 3D battle results. The FMVs have English subtitles burned in.
-The title logo is the original artwork.
+The title logo is redrawn in English from the original artwork.
 
 Base disc (must match)
 ----------------------

@@ -5,8 +5,9 @@ Survey state (2026-10-23). Tools: `tools/tims.py list|render <dir>` (standard TI
 
 | Where | What | Japanese? | Plan |
 |---|---|---|---|
-| `BEL256T.TIM` (8bpp 256x112) | title logo ベルデセルバ戦記 + (c) line | yes, logo | redraw in English (D6) |
-| `OPEN.MPS` +0x65EA0 (8bpp 320x240) | title screen: same logo on blueprint background | yes, logo | redraw, same art as BEL256T |
+| `BEL256T.TIM` (8bpp 256x112) | title logo ベルデセルバ戦記 + (c) line, 3D title screen (fades in) | yes, logo | done: `tools/logo.py`, seen in-game |
+| `OPEN.MPS` +0x65EA0 (8bpp 320x240) | title menu after Push Start: larger logo with drop shadow on the blueprint | yes, logo | done: `logo.py` (old letters inpainted), seen in-game |
+| `BERU_FL2.DAT` +0x7C (4bpp 136x48, CLUT +0xD3C) | loading screen: small logo (x 0-110) + two plane frames (x 112-134) that fly across it | yes, logo | done: `logo.py`, seen in-game; found by VRAM dump (texture at VRAM 0,256) |
 | `OPEN.MPS` +0x5DC80 (4bpp 256x256) | title background piece | no | - |
 | `ROLL.ZAQ` x7 (4bpp 512x185) | staff-roll concept sketches, tiny handwritten notes | notes only, illegible at size | leave (art) |
 | `SCE_LOGO.TIM` | Sony logo | no | - |

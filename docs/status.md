@@ -20,6 +20,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `name_pack` (hook.asm 0x8001F100) to store letter pairs; default name Misaki. Verified: typed "A" stored as
     `cd69 f361 eb69 c17f`, dialogue shows "Misaki".
   - Graphics survey (`docs/re/graphics.md`): only the title logo is Japanese art.
+  - 2026-10-24 (user request): title logo English "VELLDESELBA / SENKI" (`tools/logo.py`, Anton OFL) on all three
+    copies: BEL256T.TIM (3D title), OPEN.MPS (title menu), BERU_FL2.DAT (loading screen, new find). Plane, TM,
+    (c) kept; size/place/palette unchanged, so the title fade and the loading-screen plane fly-over run as before.
+    Verified cold boot work/qa/logo.
   - 2026-10-24 (user report): dialogue wrap now balanced (`batches.wrap`; `boxes` ends a page a row early so no
     box holds a lone row); existing script rewrapped. Name-entry blank slots showed "Su": the pad string `　〆`
     had been translated via the TM; kept Japanese in all 62 EXEs. FMV subtitles: STR1/2/4/5 (`tools/fmv.py`,
@@ -62,8 +66,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).
   4. Staff roll readings checked against MobyGames' credits (mobygames.com/game/59766, credits/playstation):
      Takafumi Yoshikawa, Kanako Mishiro, Hiroshi Teshima, Heiza Niishima, Takafumi Fujisawa. Kept ours where
-     Moby looks wrong (一色緑 Isshiki, 木崎文智 Fumitomo, 鉄羅紀明 Noriaki). Title logo stays original art (D5).
-  5. Ship name stays full-width (one letter per cell); a name_pack-style converter would halve its width.
+     Moby looks wrong (一色緑 Isshiki, 木崎文智 Fumitomo, 鉄羅紀明 Noriaki).  5. Ship name stays full-width (one letter per cell); a name_pack-style converter would halve its width.
   6. Release v1.0 when the user asks (`tools/release.py 1.0`); publishing is the user's call.
   - Staff roll engine notes: STAFF.EXE sends codes > 0x989E to its own kanji table (patched to 0xFFFF,
     patch_exe.STAFF_SPLIT); roles are right-aligned by x in a 16-byte entry table (tools/staffroll.py); English

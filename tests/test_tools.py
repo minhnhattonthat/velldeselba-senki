@@ -30,6 +30,22 @@ def test_worldmap_edits_only_labelled_pictures():
                [d for k, (_, _, d) in enumerate(out) if k not in edited]
 
 
+def test_logo_keeps_art_and_file_layout():
+    import logo
+    for rel, spec in logo.IMAGES.items():
+        src = logo.ROOT / "work/disc/tree" / rel
+        if not src.is_file():
+            pytest.skip("disc not dumped")
+        d = src.read_bytes()
+        new, idx, out, clut = logo.edit(d, spec)
+        _, keep = logo.pieces(idx, clut, spec)
+        _, _, o, bpp = logo.load(d, spec)
+        n = idx.size * bpp // 8
+        assert len(new) == len(d) and new[:o] == d[:o] and new[o + n:] == d[o + n:]
+        assert (out[keep] == idx[keep]).all()  # plane, TM, (c) untouched
+        assert (out != idx).any()
+
+
 def test_routemap_names_packed_apart():
     import routemap
     boxes = [(u, v, u + w, v + h) for u, v, w, h, _ in routemap.pack()]
