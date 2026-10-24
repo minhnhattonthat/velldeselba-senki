@@ -50,10 +50,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     I0100..I0700.EXE) in English; both need a ship / take-off flags to see in-game (airship cockpit "Take off"
     says "not ready to set sail" at game-start flags; state `work/states/en_i01.sstate`).
 - **Next:**
-  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Story route past
-     the Old Sage (bar scene with Kafi, ship on 3F) not found by playtesters yet, so no ship/shop/sortie states.
+  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Take-off gate
+     found (2026-10-24, docs/re/debug.md): flags 9999+1169 send the ship into the first 3D sortie
+     (`work/states/en_sortie1.sstate`); a playtester is flying it (work/playtest/sortie1).
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
-     results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
+     results, route map (neither take-off branch shows it; it must come with later destination choices).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).
   4. Staff roll readings checked against MobyGames' credits (mobygames.com/game/59766, credits/playstation):
      Takafumi Yoshikawa, Kanako Mishiro, Hiroshi Teshima, Heiza Niishima, Takafumi Fujisawa. Kept ours where
