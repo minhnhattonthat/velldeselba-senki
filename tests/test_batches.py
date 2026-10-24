@@ -32,6 +32,11 @@ def test_boxes_break_after_a_sentence():
     assert out == "Zeshika:<R>Lieutenant Colonel Kafi,<R>come with me.<W><E>"
 
 
+def test_wrap_pulls_a_word_down_to_a_lone_last_word():
+    assert batches.wrap("I mean, Colonel Gashizakino's promotion.<W><E>", 0) == \
+        ["I mean,", "Colonel Gashizakino's promotion.<W><E>"]
+
+
 def test_title_stays_with_name():
     assert batches.words("Heh. I can't let Captain <F62> outdo me. Ha ha!") == \
         ["Heh.", "I", "can't", "let", "Captain <F62>", "outdo", "me.", "Ha ha!"]

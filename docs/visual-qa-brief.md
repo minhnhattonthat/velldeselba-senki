@@ -39,6 +39,8 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   scene names too (`script/exe/2D/AMPS/A0100.EXE.json`).
 - Dialogue: a box may end mid-sentence when the line is longer than the box and has no sentence or clause end
   to break at; flag it only when a nearby `.`/`,` break was clearly possible.
+- A row that ends with the page cursor holds 32 letters, not 34, so a 33-34 letter line ("Received the Giant Sea
+  Otter Pelt.") wraps even though other 34-letter rows fit.
 - The Japanese title logo is kept as original art.
 - Name entry: the `〆` end mark at the right of the name field is the original's.
 

@@ -66,6 +66,10 @@ def wrap(seg, first_row, three_d=False):
         if len(alt) > len(best):
             break
         best = alt
+    if len(best) > 1 and " " not in best[-1] and len(words(best[-2])) > 1:  # pull a word down to a lone one
+        *head, word = words(best[-2])
+        if " " in " ".join(head) and len(greedy(f"{word} {best[-1]}", first_row + len(best) - 1, three_d)) == 1:
+            best = best[:-2] + [" ".join(head), f"{word} {best[-1]}"]
     return best
 
 
