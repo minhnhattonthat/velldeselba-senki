@@ -36,8 +36,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
     ("Captain <F62>", "His Majesty"), pulls a word down to a lone last word, prefers rows ending a sentence.
     **Gate passes** (`qa_gate.py check work/qa/manifest.tsv work/qa/verdicts`: 27/27 ok, texttour 100 lines +
     60-map banner tour). Re-run both tours and `init` after any script change (texttour's picks shift with it).
+  - Playtest 1 (story from Nades): two wording fixes (Kafi's "the Commander and Colonel Zexel", Quartermaster's
+    ammo line); got lost before the Old Sage. Profiles: the profile box wraps at 17 cells and ignores `<R>`
+    mid-row, so `pad_box` pads rows to the JP width (79 lines; seen in-game). I03's 64 KB table overflowed from the
+    padding: `maptext.build` now stores identical strings once when a table overflows (I03 only; map loads).
+    Field menu (triangle) seen in English; Ship/Equip/Cargo need a ship. Savestates from older builds keep the old
+    map text in RAM: warp to reload before judging map text.
 - **Next:**
-  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen.
+  1. Visual QA covers 2D dialogue samples and banners only; see item 2 for what is still unseen. Playtest 2
+     (Old Sage -> ship -> menus/shop -> first sortie) running in `work/playtest/sortie`.
   2. Not yet seen in-game: shops, ship parts, options, save screens, DEMO.EXE, HT.EXE 3D menus, 3D trims and
      results (no warp to battle missions; 3D warp unsolved, docs/re/debug.md).
   3. EXE/DAT batches never got a second review (the review agent's report was lost in a context reset).

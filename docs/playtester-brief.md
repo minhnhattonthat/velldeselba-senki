@@ -60,8 +60,14 @@ calls as the command that makes it.
 ## This game
 - ROM `build/velldeselba_en.cue`. Start: `--state work/playtest/p0/0001.sstate` (new game, player "Misaki"
   standing in Nades, the G10 base town, place banner showing). Don't cold-boot: the intro takes ~3,000 frames.
-- Confirm = circle, cancel = cross (Japanese layout). Field menu button: unknown yet, try triangle, then start;
-  write what you find in Notes.
+- Confirm = circle, cancel = cross (Japanese layout). Field menu = triangle (Crew, Ship, Equip, Cargo, Exit;
+  Ship/Equip/Cargo do nothing before you have a ship). Square + d-pad runs. Walking ~4.5 px/frame.
+- Elevators: walk up into the cage, it rides on its own; on arrival hold down ~120 frames (pressing up early rides
+  back). Nades HQ: 1F left elevator -> 2F, 2F right elevator -> 3F (commanders behind the beaded rail).
+- Opening route found so far: Zexel and Odenaude on HQ 3F make Misaki a soldier; Kafi on 1F then sends you to "the
+  old man in the house to the east" (the Old Sage), not yet found. Dead ends: plaza and lower walkway east/west ends,
+  far-west building. The ladder south of the bridge (airship) says "can't fly without permission" until later.
+  Unexplored leads: the pipes off the HQ tube junction, the Supply Office's right-hand tube.
 - 2D towns: walk with the d-pad, talk/examine with circle. Shops (junk dealer, repairman, shipwright, tavern),
   then sortie to 3D flight missions (HT.EXE menus).
 - English is drawn two letters per 16x15 cell, so a blank half cell after a run with an odd letter count (before a
