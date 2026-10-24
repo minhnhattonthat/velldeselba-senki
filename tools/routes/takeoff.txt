@@ -1,0 +1,10 @@
+6 left
+10 -
+6 circle
+90 -
+6 circle
+600 -
+6 circle
+600 -
+6 circle
+1200 -

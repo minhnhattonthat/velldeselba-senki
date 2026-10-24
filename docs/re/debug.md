@@ -24,5 +24,14 @@ G1000.EXE: 0x8005A5CC = NPC talk (caller 0x800344B4 indexes the text table at 0x
 and event boxes (place-name banner opens first on map load). PCSX-Redux crashed once (exit 3221225477) at boot
 with the exec breakpoint set; a rerun was fine.
 
+## Airship take-off gate (I0100.EXE, 2026-10-24)
+Take off at the helm (0x8002C3AC; flag base pointer at 0x800856F0 = 0x80010280) tests bit 9999 (word +0x4E0 bit
+15, ship ready); then bit 1169 (+0x90 b17) set with 1450 (+0xB4 b10) clear sends the ship to 0x5F (first sortie),
+else 1191 (+0x94 b7) set with 1412 (+0xB0 b4) clear sends it to 0x39; otherwise "not ready to set sail yet" (#926).
+First sortie: `emu.py build/velldeselba_en.cue --out work/qa/takeoff --state-in work/states/en_helm.sstate --script
+tools/debug/flags.lua --var "FLAG_SET={9999,1169}" --route tools/routes/takeoff.txt --state-out
+work/states/en_sortie1.sstate` (helm state from a playtester; the 3D sortie starts ~f1000). Found by a write watch on
+the text box pointer 0x8008D344, then the caller's return address.
+
 - Story flags are game-start values, so NPCs say their early lines. Still to do: flags for later chapters, a text
   viewer (force string N of the loaded map) for the tour, 3D mission warps.
