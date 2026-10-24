@@ -577,7 +577,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#114",
      "jp": "カフィ：<R>ホウノム島を落とすなんて、あっ<R>てはならないことが起きたのね。<W><E>",
-     "en": "Kafi:<R>Dropping Hounom Island...<W><H>Something that should<R>never happen has happened.<W><E>"
+     "en": "Kafi:<R>Dropping Hounom Island... the<R>unthinkable has happened.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#115",
@@ -657,7 +657,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#130",
      "jp": "バ・マッグ：<R>われわれが反対したところで<R>決定が覆るとは思えませんが……<W><E>",
-     "en": "Ba Magg:<R>Even if we object,<W><H>I do not think the decision<R>will be overturned...<W><E>"
+     "en": "Ba Magg:<R>Even if we object, I doubt the<R>decision will be overturned...<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#131",
@@ -902,7 +902,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#179",
      "jp": "ハウエズナ：<R>とにかく、今はここを<R>守ることだけ考えましょう。<W><E>",
-     "en": "Hauezna:<R>In any case,<W><H>let's think only about<R>defending this place for now.<W><E>"
+     "en": "Hauezna:<R>In any case, for now let's think<R>only of defending this place.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#180",
@@ -1407,7 +1407,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#280",
      "jp": "オユ・キクル：<R>少尉……ホントのホントに<R>空賊になっちゃうんですか？<W><E>",
-     "en": "Oyu Kikuru:<R>Lieutenant... are you really,<W><H>truly going to<R>become a sky pirate?<W><E>"
+     "en": "Oyu Kikuru:<R>Lieutenant... are you really,<R>truly becoming a sky pirate?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#281",
@@ -1417,7 +1417,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#282",
      "jp": "オユ・キクル：<R>中立国を占拠するなんて……<R>ルール違反ですよね。<W><E>",
-     "en": "Oyu Kikuru:<R>Seizing a neutral country...<W><H>That's against the<R>rules, isn't it?<W><E>"
+     "en": "Oyu Kikuru:<R>Seizing a neutral country...<R>that's against the rules, right?<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#283",
@@ -2137,7 +2137,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#426",
      "jp": "パック：<R>戦場の雰囲気にも、ちょっと<R>ずつ慣れてきましたよ。<W><E>",
-     "en": "Pack:<R>I'm getting used to the<R>feel of the battlefield,<W><H>little by little.<W><E>"
+     "en": "Pack:<R>Bit by bit, I'm getting used to<R>the feel of the battlefield.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#427",
@@ -2562,7 +2562,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#511",
      "jp": "カムチョム：<R>いえね、実は今、ノンフィクショ<R>ン冒険小説を書いているんです。<W><E>",
-     "en": "Kamchom:<R>Well, you see,<W><H>I'm actually writing a nonfiction<R>adventure novel right now.<W><E>"
+     "en": "Kamchom:<R>Well, actually, I'm writing a<R>nonfiction adventure novel now.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#512",
@@ -3737,7 +3737,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#746",
      "jp": "ハウエズナ：<R>せっかくですが、わたしは、<R>船を残しては行けません。<W><E>",
-     "en": "Hauezna:<R>I appreciate the offer,<W><H>but I can't leave the<R>ship behind, sir.<W><E>"
+     "en": "Hauezna:<R>I appreciate it, but I cannot<R>leave the ship behind, sir.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#747",
@@ -4472,7 +4472,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#893",
      "jp": "マルダマン：<R>なんてこった……このへんは<R>俺たちダ・クダ一族の縄張りだ。<W><H>そんな連中をのさばらせるわけ<R>にはいかないぜ。<W><E>",
-     "en": "Mardaman:<R>You don't say...<W><H>These parts are the turf<R>of us, the Da Kuda clan.<W><H>We can't let a gang<R>like that run wild.<W><E>"
+     "en": "Mardaman:<R>You don't say... These parts are<R>our turf, the Da Kuda clan's.<W><H>We can't let a gang<R>like that run wild.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#894",

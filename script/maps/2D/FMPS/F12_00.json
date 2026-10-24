@@ -742,7 +742,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#147",
      "jp": "コステリフ・タカテリフ長官：<R>これで、ギダンとム連邦の和平が<R>一歩近づいたわけだ……<W><E>",
-     "en": "Commanders Kosterif<R>and Takaterif:<W><H>That brings peace between<R>Gidan and the Federation<R>one step closer...<W><E>"
+     "en": "Commanders Kosterif and Takaterif:<R>With this, peace between Gidan and<R>the Federation draws nearer...<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#148",
@@ -1252,7 +1252,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#249",
      "jp": "ム連士官：<R>君も士官なのだから、時々は<R>司令部に顔をだすようにな。<W><E>",
-     "en": "Federation Officer:<R>You're an officer too,<W><H>so show your face at<R>headquarters now and then.<W><E>"
+     "en": "Federation Officer:<R>You're an officer too, so drop<R>by headquarters now and then.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#250",
@@ -1642,7 +1642,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#327",
      "jp": "ドックの職人：<R>わがム連軍が誇る、高性能の<R>中型戦闘機だよ。ほしいかい？<W><H>今までの船の砲台、エンジン、<R>装甲板などは全て処分される。<W><H>新しい船の装備については<R>俺にまかせてくれ。<W><H>弾薬類や積み荷はそのまま<R>新しい船に運んでおくよ。<W><E>",
-     "en": "Shipwright:<R>The pride of our<R>Federation army:<W><H>a high-performance mid-sized<R>fighter. Want it?<W><H>The turrets, engine,<W><H>armor plates and everything<R>else on your current ship<R>will all be scrapped.<W><H>Leave the new ship's<R>equipment to me.<W><H>I'll move your ammo and cargo<R>straight over to the new ship.<W><E>"
+     "en": "Shipwright:<R>A top mid-sized fighter, pride<R>of our Federation army. Want it?<W><H>Your current ship's turrets,<R>engine, armor plates and so<R>on will all be scrapped.<W><H>Leave the new ship's<R>equipment to me.<W><H>I'll move your ammo and cargo<R>straight over to the new ship.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#328",
@@ -1717,7 +1717,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#342",
      "jp": "ドックの職人：<R>おやぁ……？<R>荷物が多すぎるようだね。<W><H>この船の積載量は<R><V10,0,4>個までなんだ。<W><H>お客さんの今の荷物が<R><V11,0,4>個だから……<W><H><V12,0,4>個分オーバーだ。<W><H>セブレンに乗りかえたかったら、<R>ジャンク屋かどこかで<R>荷物を売ってからまたおいで。<W><E>",
-     "en": "Shipwright:<R>Ohh...? Looks like you're<R>carrying too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>If you want to switch<R>to the Sebrentream,<W><H>sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
+     "en": "Shipwright:<R>Ohh...? Looks like you're<R>carrying too much cargo.<W><H>This ship's cargo capacity is <V10,0,4>.<W><H>You've got <V11,0,4> on board<R>right now, so...<W><H>that's <V12,0,4> over the limit.<W><H>To switch to the Sebrentream,<R>sell some cargo at a junk dealer<R>or somewhere, then come back.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#343",
@@ -1827,7 +1827,7 @@
     {
      "id": "2D/FMPS/F12_00@4b800#364",
      "jp": "ジャンク屋：<R>店じまいだからね、売り買いなら<R>急いでくれ。<W><E>",
-     "en": "Junk Dealer:<R>I'm closing up shop,<W><H>so if you're buying or<R>selling, make it quick.<W><E>"
+     "en": "Junk Dealer:<R>Closing time, so if you're buying<R>or selling, make it quick.<W><E>"
     },
     {
      "id": "2D/FMPS/F12_00@4b800#365",

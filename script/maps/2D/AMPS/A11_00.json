@@ -597,7 +597,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#118",
      "jp": "ギダン技術将校：<R>君のその腕で、ちょっと飛空船に<R>乗ってもらいたいんだ。<W><E>",
-     "en": "Gidan Engineer Officer:<R>With skills like yours,<W><H>I'd like you to take<R>an airship up for me.<W><E>"
+     "en": "Gidan Engineer Officer:<R>With skills like yours, I'd like<R>you to fly an airship for me.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#119",
@@ -777,7 +777,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#154",
      "jp": "ギダン技術将校：<R>ここはギダンが誇る飛空船の<R>研究開発所だ。おどろいたかね？<W><E>",
-     "en": "Gidan Engineer Officer:<R>This is Gidan's pride:<W><H>an airship research and<R>development facility. Surprised?<W><E>"
+     "en": "Gidan Engineer Officer:<R>This is Gidan's pride, its airship<R>research facility. Surprised?<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#155",
@@ -847,7 +847,7 @@
     {
      "id": "2D/AMPS/A11_00@39800#168",
      "jp": "ギダン兵：<R>西のデゼはム連邦との国境だから<R>警備がたいへんだよ。<W><E>",
-     "en": "Gidan Soldier:<R>Deze, to the west,<W><H>is on the Federation border,<R>so guarding it is tough.<W><E>"
+     "en": "Gidan Soldier:<R>Deze lies west, on the Federation<R>border. Guarding it is tough.<W><E>"
     },
     {
      "id": "2D/AMPS/A11_00@39800#169",

@@ -447,7 +447,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#88",
      "jp": "ノイパスク兵：<R>おい、何をもたもたしてたんだ。<R>オデナウデ司令長官がお呼びだぜ。<W><H>左にある自動ドアを入れば<R>司令部だ。<W><E>",
-     "en": "Noipask Soldier:<R>Hey, what were you dawdling for?<W><H>Commander-in-Chief<R>Odenaude wants you.<W><H>Go through the automatic<R>door on the left and<R>you'll be at headquarters.<W><E>"
+     "en": "Noipask Soldier:<R>Hey, Commander-in-Chief Odenaude<R>wants you. Why the dawdling?<W><H>Go through the automatic<R>door on the left and<R>you'll be at headquarters.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#89",
@@ -472,7 +472,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#93",
      "jp": "オユ・キクル：<R>少尉、ドックに行けば船の装備を<R>いろいろ変えられますよ。<W><H>そうだ、せっかくご自分の船を<R>持ったんだから、<W><H><P07>船に名前をつけるっていうのは<R>どうですか？<P15><W><H>そうしましょうよ。<W><E>",
-     "en": "Oyu Kikuru:<R>Lieutenant, if you<R>go to the dock,<W><H>you can change all sorts<R>of equipment on your ship.<W><H>Oh, I know! Now that you've<R>got a ship of your very own,<W><H><P07>how about giving it a name?<P15><W><H>Let's do it!<W><E>"
+     "en": "Oyu Kikuru:<R>Lieutenant, at the dock you can<R>change lots of your ship's gear.<W><H>Oh, I know! Now that you've<R>got a ship of your very own,<W><H><P07>how about giving it a name?<P15><W><H>Let's do it!<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#94",
@@ -1027,7 +1027,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#204",
      "jp": "そして星のほぼ中央には<R>ベルデセルバのへそ、<R>「オルダナスピ国」がある。<W><E>",
-     "en": "And at nearly the very<R>center of the planet is<R>the navel of Velldeselba,<W><H>the nation of \"Oldanaspi.\"<W><E>"
+     "en": "And near the planet's center<R>lies Velldeselba's navel,<R>the nation of \"Oldanaspi.\"<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#205",
@@ -1037,7 +1037,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#206",
      "jp": "物知りじいさん：<R>この星ではム連邦、ギダン、<R>ノイパスクの三大国が、<W><H>長年、領土をめぐって<R>争ってきた。<W><H>現在、クナ共和国はム連邦の<R>属国だが、<W><H>オルダナスピ国は、<R>永世中立国として<R>どの勢力にも属さずにいる。<W><H>今、わが国にとって一番の脅威が<R>強力な力を持つギダン王国じゃ。<W><H>彼らの侵略から国を守るため、<R>わがノイパスクは最近、ム連邦と<R>同盟を結んだばかりじゃ。<W><E>",
-     "en": "Old Sage:<R>On this planet,<W><H>the three great powers--the<R>Federation, Gidan and Noipask--<W><H>have fought over territory<R>for many long years.<W><H>Today the Kuna Republic is a<R>vassal of the Federation,<W><H>but Oldanaspi, as a<R>permanently neutral nation,<R>belongs to no faction at all.<W><H>Right now the greatest<R>threat to our nation is the<R>mighty Kingdom of Gidan.<W><H>To defend ourselves from their<R>invasion, our Noipask has only<R>just allied with the Federation.<W><E>"
+     "en": "Old Sage:<R>On this planet, the big three--the<R>Federation, Gidan and Noipask--<W><H>have fought over territory<R>for many long years.<W><H>Today the Kuna Republic is a<R>vassal of the Federation,<W><H>but Oldanaspi, as a<R>permanently neutral nation,<R>belongs to no faction at all.<W><H>Right now the greatest<R>threat to our nation is the<R>mighty Kingdom of Gidan.<W><H>To defend ourselves from their<R>invasion, our Noipask has only<R>just allied with the Federation.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#207",
@@ -1172,7 +1172,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#233",
      "jp": "ノイパスク兵：<R>ふっ、おまえもとんだところに<R>落ちてきちまったな。<W><H>ナデス島は今、本国と分断され<R>敵国ギダンの領内を漂っている<R>文字どおりの浮遊島さ……<W><H>こんなところにいたって、<R>望みなんかありはしないさ。<W><E>",
-     "en": "Noipask Soldier:<R>Heh, you sure fell<R>into a bad spot.<W><H>Nades Island's cut off from<R>the homeland, drifting through<R>enemy Gidan's territory.<W><H>A floating island, literally...<W><H>There's no hope for anyone<R>stuck in a place like this.<W><E>"
+     "en": "Noipask Soldier:<R>Heh, you sure fell<R>into a bad spot.<W><H>Nades Island's cut off from home,<R>adrift in enemy Gidan's skies. A<R>floating island, literally...<W><H>There's no hope for anyone<R>stuck in a place like this.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#234",

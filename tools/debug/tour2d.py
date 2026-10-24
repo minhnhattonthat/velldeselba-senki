@@ -37,9 +37,11 @@ def main():
         shots = [d / f"f{s:06d}.png" for s in SHOTS]
         ok = r.returncode == 0 and all(p.is_file() for p in shots)
         index.append(f"m{m:02d} {names[m]} {'ok' if ok else f'FAIL exit {r.returncode}'}")
-        tiles += [str(p) for p in shots if p.is_file()]
         print(index[-1], flush=True)
+    old = (out / "index.txt").read_text(encoding="utf-8").splitlines() if a.maps and (out / "index.txt").is_file() else []
+    index = sorted({l[:3]: l for l in old + index}.values())  # a rerun of some maps keeps the others' lines
     (out / "index.txt").write_text("\n".join(index) + "\n", encoding="utf-8")
+    tiles = [str(p) for m in range(60) for s in SHOTS if (p := out / f"m{m:02d}" / f"f{s:06d}.png").is_file()]
     subprocess.run([sys.executable, "-X", "utf8", str(Path(SCRIPTS) / "sheet.py"), *tiles, "--cols", "4",
                     "--max", "16", "--out", str(out / "tour.png")])
 

@@ -672,7 +672,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#133",
      "jp": "コステリフ長官：<R>とにかく、ムノギイのム連邦軍<R>本部に援軍を要請はしましたが、<W><H>到着までには時間がかかります。<W><E>",
-     "en": "Commander Kosterif:<R>At any rate,<W><H>we have requested<R>reinforcements from Federation<R>army headquarters in Munogi,<W><H>but it will take time<R>for them to arrive.<W><E>"
+     "en": "Commander Kosterif:<R>In any case, we have requested<R>reinforcements from Munogi,<W><H>but it will take time<R>for them to arrive.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#134",
@@ -1062,7 +1062,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#211",
      "jp": "<F62>：<R>そういえば、カフィがナデス島の<R>医者と何か話してたっけな……<W><H>もらおうか。<W><E>",
-     "en": "<F62>:<R>Come to think of it,<W><H>Kafi was talking to the doctor on<R>Nades Island about something...<W><H>I'll take it.<W><E>"
+     "en": "<F62>:<R>Come to think of it, Kafi and the<R>Nades Island doctor talked...<W><H>I'll take it.<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#212",
@@ -1412,7 +1412,7 @@
     {
      "id": "2D/CMPS/C03_00@55800#281",
      "jp": "ノイパスク兵：<R>聞こえたぞ、俺たちといっしょじゃ<R>酒がまずいっていうのか？<W><H>おい、はっきりいってみろよ！<W><E>",
-     "en": "Noipask Soldier:<R>I heard that.<W><H>You saying drinking with us<R>makes the booze taste bad?<W><H>Hey, say it to my face!<W><E>"
+     "en": "Noipask Soldier:<R>I heard that. Drinking with us<R>makes the booze taste bad, huh?<W><H>Hey, say it to my face!<W><E>"
     },
     {
      "id": "2D/CMPS/C03_00@55800#282",

@@ -457,7 +457,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#90",
      "jp": "カズシタカ参謀長：<R>ガシザキノ中佐、ダナスピ国王の<R>安否はつかめたのか？<W><E>",
-     "en": "Chief of Staff Kazushitaka:<R>Lieutenant Colonel Gashizakino,<W><H>have you learned whether the<R>King of Danaspi is safe?<W><E>"
+     "en": "Chief of Staff Kazushitaka:<R>Lieutenant Colonel Gashizakino,<R>any word on the King of Danaspi?<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#91",
@@ -1222,7 +1222,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#243",
      "jp": "ガシザキノ中佐：<R>ヒマがあったら弾の補給と船の<R>整備を忘れずにやっておけ。<W><E>",
-     "en": "Lieutenant Colonel Gashizakino:<R>If you have time,<W><H>don't forget to restock ammo<R>and service your ship.<W><E>"
+     "en": "Lieutenant Colonel Gashizakino:<R>Got time? Don't forget to restock<R>ammo and service your ship.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#244",
@@ -1262,7 +1262,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#251",
      "jp": "老女：<R>オルダナスピが解放されたという<R>のに、孫は帰らない……<W><E>",
-     "en": "Old Woman:<R>Oldanaspi's been liberated,<W><H>and yet my grandson<R>hasn't come home...<W><E>"
+     "en": "Old Woman:<R>Oldanaspi's been liberated, yet<R>my grandson hasn't come home...<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#252",
@@ -1387,7 +1387,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#276",
      "jp": "市長：<R>われわれの願いはもちろん、<R>クナ共和国としての独立ですが、<W><H>それもかなわない今、<R>どちらの属国になろうが<R>ちがいはありません。<W><H>ただ、戦乱の日がはやく<R>過ぎ去ってほしいと<R>願うだけです。<W><E>",
-     "en": "Mayor:<R>Our wish, of course,<W><H>is independence as<R>the Kuna Republic,<W><H>but as that cannot be,<R>it makes no difference<R>whose vassal we become.<W><H>I only pray that these days<R>of war will pass quickly.<W><E>"
+     "en": "Mayor:<R>Of course, we wish for the<R>Kuna Republic's independence,<W><H>but as that cannot be,<R>it makes no difference<R>whose vassal we become.<W><H>I only pray that these days<R>of war will pass quickly.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#277",
@@ -1407,7 +1407,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#280",
      "jp": "市長：<R>クナ共和国は何度も大国の属国に<R>されてきました。<W><E>",
-     "en": "Mayor:<R>Time and again,<W><H>the Kuna Republic has been made<R>a vassal of the great powers.<W><E>"
+     "en": "Mayor:<R>Time and again, the Kuna Republic<R>has been a great power's vassal.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#281",
@@ -1492,7 +1492,7 @@
     {
      "id": "2D/CMPS/C02_00@4e000#297",
      "jp": "市長：<R>われわれの願いはもちろん、<R>クナ共和国としての独立ですが、<W><H>それもかなわない今、<R>どちらの属国になろうが<R>ちがいはありません。<W><H>ただ、戦乱の日がはやく過ぎ去って<R>ほしいと願うだけです。<W><E>",
-     "en": "Mayor:<R>Our wish, of course,<W><H>is independence as<R>the Kuna Republic,<W><H>but as that cannot be,<R>it makes no difference<R>whose vassal we become.<W><H>I only pray that these days<R>of war will pass quickly.<W><E>"
+     "en": "Mayor:<R>Of course, we wish for the<R>Kuna Republic's independence,<W><H>but as that cannot be,<R>it makes no difference<R>whose vassal we become.<W><H>I only pray that these days<R>of war will pass quickly.<W><E>"
     },
     {
      "id": "2D/CMPS/C02_00@4e000#298",
