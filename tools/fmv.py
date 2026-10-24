@@ -4,8 +4,7 @@
 
 script/fmv/STRn.tsv: start<TAB>end<TAB>jp<TAB>en per line, seconds from the movie start (faster-whisper timings,
 VAD off). Frames are decoded once to PNG, the English is drawn on every frame it spans (DejaVu Sans Bold, black
-outline, bottom centre), and jPSXdec -replaceframes (partial-replace: only changed macroblocks inside the subtitle
-band) re-encodes them into a copy of the STR. Cached by a hash of the .tsv and this file; build.py takes the
+outline, bottom centre, no background box), and jPSXdec -replaceframes re-encodes them into a copy of the STR. Cached by a hash of the .tsv and this file; build.py takes the
 outputs. Needs Java and tools/jpsxdec (jPSXdec v2.0).
 """
 import hashlib
@@ -24,7 +23,7 @@ OUT = WORK / "out"
 JAR = ROOT / "tools/jpsxdec/jpsxdec_v2.0/jpsxdec.jar"
 FONT = ROOT / "fonts/DejaVuSans-Bold.ttf"
 FPS = 150 / 10.01  # 2x CD speed, 10.01 sectors per frame
-SIZE, BAND = 11, 32  # font px; subtitle band: the bottom 2 macroblock rows (the only area re-encoded)
+SIZE = 11  # font px
 
 
 def jpsxdec(*args):
@@ -44,27 +43,21 @@ def subs(n):
 
 
 def lines(en, font, width):
-    """Word-wrap to the frame width, at most 2 lines."""
-    words, out = en.split(), [""]
-    for w in words:
-        cand = f"{out[-1]} {w}".strip()
-        if font.getlength(cand) <= width or not out[-1]:
-            out[-1] = cand
-        else:
-            out.append(w)
-    assert len(out) <= 2, f"subtitle too long for 2 lines: {en}"
-    return out
+    """One line if it fits, else the 2-line split with the narrower wider line (no lone word left over)."""
+    if font.getlength(en) <= width:
+        return [en]
+    words = en.split()
+    splits = [[" ".join(words[:i]), " ".join(words[i:])] for i in range(1, len(words))]
+    splits = [s for s in splits if max(map(font.getlength, s)) <= width]
+    assert splits, f"subtitle too long for 2 lines: {en}"
+    return min(splits, key=lambda s: max(map(font.getlength, s)))
 
 
 def burn(img, en, font):
-    """Text on a black box snapped to 16x16 macroblocks: flat blocks cost almost no bits, so the re-encoded frame
-    (same sector budget) keeps the letters sharp; over busy video they washed out."""
+    """Outlined text straight on the video: no background box (user ruling D10)."""
     d = ImageDraw.Draw(img)
     rows = lines(en, font, img.width - 12)
     y = img.height - 4 - SIZE * len(rows) - 2 * (len(rows) - 1)
-    w = max(font.getlength(r) for r in rows)
-    x0, x1 = (img.width - w) / 2 - 3, (img.width + w) / 2 + 3
-    d.rectangle((int(x0) // 16 * 16, img.height - BAND, -(-int(x1) // 16) * 16 - 1, img.height - 1), fill="black")
     for r in rows:
         x = (img.width - font.getlength(r)) / 2
         d.text((x, y), r, font=font, fill="white", stroke_width=1, stroke_fill="black")

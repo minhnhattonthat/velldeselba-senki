@@ -10,8 +10,8 @@
   0-based frame index; `format=` only takes bs/mdec (PNG is the default, don't pass it).
 - Use full `replace`, not `partial-replace`: v2 frames have one quantization scale per frame, so partial replace
   encodes the text at the original (often coarse) scale and it washed out on dark, static frames.
-- `tools/fmv.py`: subtitles from `script/fmv/STRn.tsv` (start, end, jp, en; seconds), white DejaVu Sans Bold on a
-  black box snapped to 16x16 macroblocks in the bottom 32 px, re-encoded into `work/fmv/out/STR/STRn.STR` (cached);
+- `tools/fmv.py`: subtitles from `script/fmv/STRn.tsv` (start, end, jp, en; seconds), white DejaVu Sans Bold with a
+  black outline straight on the video (no background box, D10), re-encoded into `work/fmv/out/STR/STRn.STR` (cached);
   build.py copies them into the disc. File sizes and sectors stay the same. Verified in-game on STR1 (work/qa/fmv2).
 - Transcripts: faster-whisper large-v3 on CPU (cublas missing), Japanese, VAD off, word timestamps
   (`work/fmv/STRn.ja2.tsv`), then checked clip by clip: Whisper invents lines over music ("ご視聴ありがとう
