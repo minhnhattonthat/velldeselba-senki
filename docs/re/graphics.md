@@ -20,5 +20,7 @@ Survey state (2026-10-23). Tools: `tools/tims.py list|render <dir>` (standard TI
 **verified:** 2D tour, 60/60 maps (m59 I1200 failed once in the batch run, ok on retry: flaky, not a map bug).
 How WORLD.MPS was found (2026-10-24): VRAM dump on the map screen (emu.py `L.dump_ppu`), the picture rows
 searched in every decompressed stream. The marker-build tour missed it: it is only loaded by a Sage topic.
-**open:** `SHIP_SET.MPS` streams 0-5 (ship top views with turret slots: no text seen), `SHIPnn_m.MPS`; 3D HUD (only seen in the G44 tutorial: no Japanese), name-entry screen arrows/labels, non-TIM image
+Checked, no text: `SHIP_SET.MPS` streams 0-5 (ship top views with turret slots), `SHIPnn_m.MPS` (0x40-byte CLUT +
+256-wide 4bpp airship interior tiles).
+**open:** 3D HUD (only seen in the G44 tutorial: no Japanese), name-entry screen arrows/labels, non-TIM image
 formats inside BPE streams (`work/jp_sweep.txt` hits there looked like graphic noise, not checked visually).
