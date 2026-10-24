@@ -1762,7 +1762,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#351",
      "jp": "フラグナム：<R>わたくしの祖父は陛下の<R>学友ですの。<W><H>その縁もあって、宮殿の社交<R>パーティーで何度か<R>お目にかかりましたわ。<W><E>",
-     "en": "Fragnum:<R>My grandfather was His<R>Majesty's schoolmate.<W><H>Through that connection, I met him<R>several times at palace balls.<W><E>"
+     "en": "Fragnum:<R>My grandfather was<R>His Majesty's schoolmate.<W><H>Through that connection, I met him<R>several times at palace balls.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#352",
@@ -2972,7 +2972,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#593",
      "jp": "オユ・キクル：<R>もう少し仲間が増えれば<R>楽になるんですけどね。<W><H>そうだ<F62>少尉、<R>次の飛行に備えて、忘れずに配給を<R>受けてきてくださいね。<W><E>",
-     "en": "Oyu Kikuru:<R>Things would be easier if we<R>had a few more crew, though.<W><H>Oh, that's right,<R>Lieutenant <F62>,<W><H>don't forget to pick up your<R>supplies before the next flight!<W><E>"
+     "en": "Oyu Kikuru:<R>Things would be easier if we<R>had a few more crew, though.<W><H>Oh, right, Lieutenant <F62>,<R>don't forget to pick up your<R>supplies before the next flight!<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#594",
@@ -3877,7 +3877,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#774",
      "jp": "ガシザキノ大佐：<R>決まった。<R>ギダンを脱出する！<W><H><F62>、陛下は親衛隊<R>の裏をかき、この船に乗せよう。<W><H>俺の船を護衛するふりをしながら<R>ム連邦に亡命するんだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>It's decided. We<R>escape from Gidan!<W><H><F62>, we'll outwit the<R>Royal Guard and get His<R>Majesty aboard this ship.<W><H>We'll pretend to escort my ship<R>while we flee to the Federation.<W><E>"
+     "en": "Colonel Gashizakino:<R>It's decided. We<R>escape from Gidan!<W><H><F62>, we'll outwit the<R>Royal Guard and get<R>His Majesty aboard this ship.<W><H>We'll pretend to escort my ship<R>while we flee to the Federation.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#775",
@@ -4057,7 +4057,7 @@
     {
      "id": "2D/IMPS/I01_00@3c800#810",
      "jp": "ガークス：<R>ええ……<W><H>陛下が誘拐されたと<R>知れ渡ったら、<W><H>国中が大騒ぎに<R>なってしまいますので……<W><H>だますようなことに<R>なってしまいまして、<R>もうしわけありません。<W><E>",
-     "en": "Garks:<R>Yes...<W><H>If word got out that His<R>Majesty had been kidnapped,<W><H>the whole country would be<R>thrown into an uproar...<W><H>I am terribly sorry we<R>ended up deceiving you.<W><E>"
+     "en": "Garks:<R>Yes...<W><H>If word got out that His Majesty<R>had been kidnapped,<W><H>the whole country would be<R>thrown into an uproar...<W><H>I am terribly sorry we<R>ended up deceiving you.<W><E>"
     },
     {
      "id": "2D/IMPS/I01_00@3c800#811",

@@ -36,6 +36,7 @@ def test_title_stays_with_name():
     assert batches.words("Heh. I can't let Captain <F62> outdo me. Ha ha!") == \
         ["Heh.", "I", "can't", "let", "Captain <F62>", "outdo", "me.", "Ha ha!"]
     assert batches.words("the Captain, sir") == ["the", "Captain,", "sir"]
+    assert batches.words("rescue His Majesty's ship") == ["rescue", "His Majesty's", "ship"]
 
 
 def test_running_text_refits_to_the_same_rows():

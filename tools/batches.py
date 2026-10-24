@@ -30,8 +30,8 @@ def words(seg):
     out = []
     for w in seg.split(" "):
         prev = out[-1] if out else ""
-        glue = (TITLE.search(prev) and re.match(r"[A-Z<]", w)) or (prev.lower() in ("ha", "heh") and
-                                                                   w.lower().startswith(("ha", "heh")))
+        glue = ((TITLE.search(prev) and re.match(r"[A-Z<]", w)) or (prev in ("His", "Her", "Your") and
+                w.startswith("Majesty")) or (prev.lower() in ("ha", "heh") and w.lower().startswith(("ha", "heh"))))
         if glue and lint.width(f"{prev} {w}") <= 15:
             out[-1] = f"{prev} {w}"
         else:

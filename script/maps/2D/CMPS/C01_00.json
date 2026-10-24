@@ -637,7 +637,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#126",
      "jp": "バムス中佐：<R>ご苦労。<W><H>じつはな、ギダン国王が、<R>この作戦で活躍した兵士たちの<R>苦労をねぎらうために、<W><H>シデル提督とともに、クナシティ<R>にいらっしゃるそうだ。<W><H>首都グラシアルを出発し、<R>長旅を経て、今、隣のスラーク<R>におられるそうだ。<W><H><P07>スラークからここクナシティ<R>までの道中、君に国王陛下の船を<R>護衛してもらいたいのだ。<P15><W><E>",
-     "en": "Lieutenant Colonel Bams:<R>Good work.<W><H>As it happens, the King of Gidan<R>wishes to reward the soldiers who<R>served well in this operation,<W><H>and so he is coming to Kuna City<R>together with Admiral Sidel.<W><H>He left the capital, Glacial,<R>and after a long journey is<R>now in neighboring Slark.<W><H><P07>I want you to escort His<R>Majesty's ship on the way<R>from Slark to Kuna City.<P15><W><E>"
+     "en": "Lieutenant Colonel Bams:<R>Good work.<W><H>As it happens, the King of Gidan<R>wishes to reward the soldiers who<R>served well in this operation,<W><H>and so he is coming to Kuna City<R>together with Admiral Sidel.<W><H>He left the capital, Glacial,<R>and after a long journey is<R>now in neighboring Slark.<W><H><P07>I want you to escort<R>His Majesty's ship on the<R>way from Slark to Kuna City.<P15><W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#127",
@@ -682,7 +682,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#135",
      "jp": "ギダン司令官：<R>我らが制圧したとはいえ、<W><H>どこにム連邦軍が<R>潜伏しているとも限らん。<R>心してかかってくれ。<W><H>国王の御身に何かあっては<R>一大事だからな。<W><E>",
-     "en": "Gidan Commander:<R>We may have taken the city, but<W><H>there's no telling where<R>Federation forces might<R>be hiding. Stay sharp.<W><H>If anything were to happen to His<R>Majesty, it would be a disaster.<W><E>"
+     "en": "Gidan Commander:<R>We may have taken the city, but<W><H>there's no telling where<R>Federation forces might<R>be hiding. Stay sharp.<W><H>If anything were to<R>happen to His Majesty,<R>it would be a disaster.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#136",
@@ -812,7 +812,7 @@
     {
      "id": "2D/CMPS/C01_00@50000#161",
      "jp": "カフィ：<R>ガシザキノ中佐……いえ、大佐の<R>昇進をお祝いしていたのよ。<W><E>",
-     "en": "Kafi:<R>We were celebrating<R>Lieutenant Colonel<W><H>Gashizakino's...<W><H>I mean, Colonel Gashizakino's<R>promotion.<W><E>"
+     "en": "Kafi:<R>We were toasting<R>Lieutenant Colonel...<W><H>I mean, Colonel Gashizakino's<R>promotion.<W><E>"
     },
     {
      "id": "2D/CMPS/C01_00@50000#162",

@@ -467,7 +467,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#92",
      "jp": "ガシザキノ大佐：<R><F62>少尉。<W><H>陛下護衛中の君の活躍に対して、<R>陛下がじきじきに勲章を授け<R>てくださるそうだ。<W><E>",
-     "en": "Colonel Gashizakino:<R>Lieutenant <F62>.<W><H>For your deeds while guarding His<R>Majesty, His Majesty will present<R>you with a medal personally.<W><E>"
+     "en": "Colonel Gashizakino:<R>Lieutenant <F62>.<W><H>For your deeds while<R>guarding His Majesty,<W><H>His Majesty will present you<R>with a medal personally.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#93",
@@ -532,7 +532,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#105",
      "jp": "管制員：<R>飛空港は国王陛下が離陸される<R>まで使えませんよ。<W><E>",
-     "en": "Controller:<R>The airport's closed until His<R>Majesty the King takes off.<W><E>"
+     "en": "Controller:<R>The airport's closed until<R>His Majesty the King takes off.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#106",
@@ -567,7 +567,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#112",
      "jp": "ギダン兵：<R>国王陛下を直接<R>拝見できるなんて！<W><E>",
-     "en": "Gidan Soldier:<R>To think I got to see His<R>Majesty the King in person!<W><E>"
+     "en": "Gidan Soldier:<R>To think I got to see<R>His Majesty the King in person!<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#113",
@@ -617,7 +617,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#122",
      "jp": "ギダン兵：<R>国王陛下にお目にかかれず<R>残念です。……しくしく。<W><E>",
-     "en": "Gidan Soldier:<R>Too bad I couldn't see His<R>Majesty the King. ...Sob, sob.<W><E>"
+     "en": "Gidan Soldier:<R>Too bad I couldn't see His Majesty<R>the King. ...Sob, sob.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#123",
@@ -872,7 +872,7 @@
     {
      "id": "2D/CMPS/C04_00@4d800#173",
      "jp": "配給係：<R>国王陛下をお守りしたんだって？<R>やるじゃないか。<W><E>",
-     "en": "Quartermaster:<R>I hear you protected His<R>Majesty the King? Not bad.<W><E>"
+     "en": "Quartermaster:<R>I hear you protected<R>His Majesty the King? Not bad.<W><E>"
     },
     {
      "id": "2D/CMPS/C04_00@4d800#174",
