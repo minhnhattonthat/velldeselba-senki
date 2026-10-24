@@ -36,14 +36,22 @@ def _end(dec, a):
     return z if z > a else None
 
 
-def build(dec, strings):
-    """Expanded stream with the string table replaced; raises when the text overflows the region."""
+def build(dec, strings, share=False):
+    """Expanded stream with the string table replaced; raises when the text overflows the region.
+    A table that overflows is retried with identical strings stored once (offsets then repeat)."""
     body = bytearray()
     offs = []
+    seen = {}
     for s in strings:
+        if share and s in seen:
+            offs.append(seen[s])
+            continue
+        seen[s] = len(body)
         offs.append(len(body))
         body += s
-    if TABLE + len(body) > REGION or offs[-1] > 0xFFFF:
+    if TABLE + len(body) > REGION or max(offs) > 0xFFFF:
+        if not share:
+            return build(dec, strings, True)
         raise ValueError(f"text {len(body):#x} bytes > {REGION - TABLE:#x}")
     region = struct.pack(f"<{len(offs)}H", *offs).ljust(TABLE, b"\0") + bytes(body)
     return region.ljust(REGION, b"\0") + dec[REGION:]

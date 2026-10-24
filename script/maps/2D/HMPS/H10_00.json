@@ -17,7 +17,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#2",
      "jp": "ム連邦大統領：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>名をオタワという。元軍人。　　　　<R>次期大統領選にそなえて準備中。　　<E>",
-     "en": "President Otawa:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>His name is Otawa. Ex-soldier.<R>Preparing for the next election.  <E>"
+     "en": "President Otawa:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>His name is Otawa. Ex-soldier.    <R>Preparing for the next election.  <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#3",
@@ -27,7 +27,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#4",
      "jp": "デ・サロ将軍：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ム連邦軍の将軍にしてゼシカの父。　<R>次期大統領選への立候補を噂される。<E>",
-     "en": "General De Saro:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Federation general and Zeshika's<R>father. Rumored presidential bid.<E>"
+     "en": "General De Saro:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Federation general and Zeshika's  <R>father. Rumored presidential bid.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#5",
@@ -42,17 +42,17 @@
     {
      "id": "2D/HMPS/H10_00@49000#7",
      "jp": "カフィの父：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>元ノイパスク軍人だったが、今は　　<R>ヤズサの郊外で静かに暮らしている。<E>",
-     "en": "Kafi's Father:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Once a Noipask soldier, he now<R>lives quietly outside Yazusa.<E>"
+     "en": "Kafi's Father:    <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Once a Noipask soldier, he now    <R>lives quietly outside Yazusa.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#8",
      "jp": "ガークス：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>勤勉にして誠実なる　　　　　　　　<R>ギダン国王の付き人。　　　　　　　<E>",
-     "en": "Garks:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Diligent and devoted attendant<R>to the King of Gidan.             <E>"
+     "en": "Garks:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Diligent and devoted attendant    <R>to the King of Gidan.             <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#9",
      "jp": "ミユキ：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>出身星不明　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>シデル亡き今はギダン王の　　　　　<R>孫としてかわいがられている。　　　<E>",
-     "en": "Miyuki:           <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>With Sidel gone, she is doted on<R>as the King of Gidan's grandchild.<E>"
+     "en": "Miyuki:           <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>With Sidel gone, she is doted on  <R>as the King of Gidan's grandchild.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#10",
@@ -72,7 +72,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#13",
      "jp": "ダナスピ４世：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>オルダナスピ人　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ベルデセルバ星の英雄の子孫にして　<R>平和の象徴たるオルダナスピの国王。<E>",
-     "en": "Danaspi IV:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Oldanaspi         <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Heir to Velldeselba's hero; king<R>of Oldanaspi, the symbol of peace.<E>"
+     "en": "Danaspi IV:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Oldanaspi         <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Heir to Velldeselba's hero; king  <R>of Oldanaspi, the symbol of peace.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#14",
@@ -92,7 +92,7 @@
     {
      "id": "2D/HMPS/H10_00@49000#17",
      "jp": "ダ・クダ：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ダクにアジトをかまえる空賊の頭。　<R>最近は表舞台に出る機会も増えた。　<E>",
-     "en": "Da Kuda:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Sky pirate boss, hideout in Dak.<R>Lately seen more in the limelight.<E>"
+     "en": "Da Kuda:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Sky pirate boss, hideout in Dak.  <R>Lately seen more in the limelight.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#18",
@@ -107,22 +107,22 @@
     {
      "id": "2D/HMPS/H10_00@49000#20",
      "jp": "男：　　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ギダンの温泉、ワザノ出身。　　　　<R>いつでもどこでも海パン姿らしい。　<E>",
-     "en": "Man:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>From Wazano, Gidan's spa town.<R>Reportedly always in swim trunks. <E>"
+     "en": "Man:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>From Wazano, Gidan's spa town.    <R>Reportedly always in swim trunks. <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#21",
      "jp": "イヌ：　　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>イヌ科ベルセン種　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ベルデセルバ星に昔からいた狼を　　<R>品種改良し、家畜化したもの。　　　<E>",
-     "en": "Dog:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Velsen breed canid<P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Velldeselba's native wolves,<R>selectively bred and domesticated.<E>"
+     "en": "Dog:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Velsen breed canid<P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Velldeselba's native wolves,      <R>selectively bred and domesticated.<E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#22",
      "jp": "闇商人：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>いつもは怪しい物品を扱う　　　　　<R>裏世界の商人なのだが……　　　　　<E>",
-     "en": "Black Marketeer:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Normally an underworld merchant<R>dealing in shady goods, but...    <E>"
+     "en": "Black Marketeer:  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Normally an underworld merchant   <R>dealing in shady goods, but...    <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#23",
      "jp": "・・・・：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>　　　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>あぁ～らぶらぶらぶらぶ　　　　　　<R>らぶあんどぴ～すぅ！　　　　　　　<E>",
-     "en": "...:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>                  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Ahh, love-love-love-love<R>love and peeeace!                 <E>"
+     "en": "...:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>                  <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Ahh, love-love-love-love          <R>love and peeeace!                 <E>"
     },
     {
      "id": "2D/HMPS/H10_00@49000#24",

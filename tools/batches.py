@@ -149,13 +149,16 @@ def fit3d(en):
 
 def pad_box(en, jp):
     """Profiles/items: a text run the JP padded with 　 before a code (icons drawn at the cursor) is padded with
-    spaces to the same cells, so the icons stay in their columns."""
-    jrows, rows = jp.split("<R>"), []
-    for k, row in enumerate(en.split("<R>")):
+    spaces to the same cells, so the icons stay in their columns. A row the JP pads to the box width before <R> is
+    padded too: the profile box wraps at 17 cells and doesn't break on a <R> mid-row (playtest: "andfelE")."""
+    jrows, erows, rows = jp.split("<R>"), en.split("<R>"), []
+    for k, row in enumerate(erows):
         toks, jtoks = re.split(r"(<[^>]*>)", row), re.split(r"(<[^>]*>)", jrows[min(k, len(jrows) - 1)])
         for i in range(0, min(len(toks), len(jtoks)) - 1, 2):  # text runs followed by a code
             if jtoks[i].endswith("　"):
                 toks[i] = toks[i].ljust(2 * lint.textcodec.cells(jtoks[i]))
+        if k < len(erows) - 1 and k < len(jrows) - 1 and jtoks[-1].endswith("　"):
+            toks[-1] = toks[-1].ljust(2 * lint.textcodec.cells(jtoks[-1]))
         rows.append("".join(toks))
     return "<R>".join(rows)
 

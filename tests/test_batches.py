@@ -61,6 +61,9 @@ def test_box_keeps_icon_columns():
     jp = "名前：　　<G88>　<G90><R>説明。<E>"
     out = batches.fit("Name:<G88><G90><R>About.<E>", jp)
     assert out == "Name:     <G88>  <G90><R>About.<E>"
+    jp = "名：<R>宇宙を航行中に遭難し、この星に　　<R>落ちてきた。<E>"
+    assert batches.fit("Name:<R>Met with disaster in space and<R>fell here.<E>", jp).split("<R>")[1] == \
+        "Met with disaster in space and    "
 
 
 def test_fit3d_wraps_messages_and_keeps_waits():

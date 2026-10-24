@@ -1,4 +1,5 @@
 import json
+import struct
 import sys
 from pathlib import Path
 
@@ -74,3 +75,11 @@ def test_text_section_grows():
     counts = [int.from_bytes(out[o:o + 2], "little") for o in maptext.SECTIONS]
     assert len(out) > len(mps) and 0x1000 + sum(counts) * 0x800 == len(out)
     assert {p: d for p, _, d in scan_bpe.streams(out)}[pos] == big
+
+
+def test_overflow_shares_identical_strings():
+    dec = bytes(maptext.REGION)
+    s = b"A" * 0x9000 + b"E"
+    out = maptext.build(dec, [s, b"BE", s])  # two copies don't fit in 0x10000; one does
+    offs = struct.unpack_from("<3H", out)
+    assert offs == (0, len(s), 0) and out[maptext.TABLE:maptext.TABLE + len(s) + 2] == s + b"BE"

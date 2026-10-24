@@ -507,7 +507,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#100",
      "jp": "カフィ中佐：<R>オデナウデ長官とゼクセル大佐が<R>３階でお待ちかねよ。<W><H>はやくそこのエレベータに<R>お乗りなさい。<W><H><P07>歩くときに□ボタンを押せば、<R>はやく歩けるわ。<P15>いそいで。<W><E>",
-     "en": "Lieutenant Colonel Kafi:<R>Odenaude and Colonel Zexel are<R>waiting on the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button while<R>walking to move faster.<P15><R>Go on, quickly.<W><E>"
+     "en": "Lieutenant Colonel Kafi:<R>The Commander and Colonel Zexel<R>are waiting on the third floor.<W><H>Hurry up and take that elevator.<W><H><P07>Hold the Square button while<R>walking to move faster.<P15><R>Go on, quickly.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#101",
@@ -962,7 +962,7 @@
     {
      "id": "2D/GMPS/G10_00@52800#191",
      "jp": "配給係：<R>何だ、<R><F62>じゃないか。<W><H>ここは配給部だよ。<W><H>戦闘に必要な弾薬類や報奨金は<R>ここで配給されるから、<W><H>戦闘で戦果をあげたら、俺に<R>飛行記録を提出してくれよ。<W><E>",
-     "en": "Quartermaster:<R>Well, if it isn't <F62>.<W><H>This is the Supply Office.<W><H>Ammo and the rewards you need<R>for battle are handed out here,<W><H>so when you score in battle, turn<R>in your flight record to me.<W><E>"
+     "en": "Quartermaster:<R>Well, if it isn't <F62>.<W><H>This is the Supply Office.<W><H>The ammo you need for<R>battle and your rewards<R>are handed out here,<W><H>so when you score in battle, turn<R>in your flight record to me.<W><E>"
     },
     {
      "id": "2D/GMPS/G10_00@52800#192",

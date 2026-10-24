@@ -7,12 +7,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#0",
      "jp": "<F61>　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>出身星不明　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>宇宙を航行中に遭難し、この星に　　<R>落ちてきた。主人公。　　　　　　　<E>",
-     "en": "<F61>  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Met with disaster in space and<R>fell to this planet. Our hero.    <E>"
+     "en": "<F61>  <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Homeworld unknown <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Met with disaster in space and    <R>fell to this planet. Our hero.    <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#1",
      "jp": "アハデ・カフィ：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ベルデセルバの平和のために、　　　<R>日々全力をつくしている。　　　　　<E>",
-     "en": "Ahade Kafi:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Works her hardest every day for<R>the sake of peace on Velldeselba. <E>"
+     "en": "Ahade Kafi:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Works her hardest every day for   <R>the sake of peace on Velldeselba. <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#2",
@@ -22,7 +22,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#3",
      "jp": "オユ・キクル：　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>明るく自由奔放な性格。　　　　　　<R>カフィを誰よりも尊敬している。　　<E>",
-     "en": "Oyu Kikuru:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Cheerful and free-spirited.<R>Respects Kafi more than anyone.   <E>"
+     "en": "Oyu Kikuru:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Cheerful and free-spirited.       <R>Respects Kafi more than anyone.   <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#4",
@@ -42,7 +42,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#7",
      "jp": "イッヒ：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ノイパスク人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>バ・マッグの友達である。　　　　　<R>元ノイパスク兵。　　　　　　　　　<E>",
-     "en": "Ich:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A friend of Ba Magg.<R>Former Noipask soldier.           <E>"
+     "en": "Ich:              <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Noipask           <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A friend of Ba Magg.              <R>Former Noipask soldier.           <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#8",
@@ -67,7 +67,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#12",
      "jp": "パック：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦の商人　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>気のいい商人。　　　　　　　　　　<R>いつもグールドといっしょ。　　　　<E>",
-     "en": "Pack:             <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation trader <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A good-natured merchant.<R>Always together with Gould.       <E>"
+     "en": "Pack:             <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation trader <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A good-natured merchant.          <R>Always together with Gould.       <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#13",
@@ -77,32 +77,32 @@
     {
      "id": "2D/AMPS/A01_00@56000#14",
      "jp": "マルダマン：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>いろいろな助けとなってくれる、　　<R>たのもしい相棒。　　　　　　　　　<E>",
-     "en": "Mardaman:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A dependable partner who helps<R>out in all sorts of ways.         <E>"
+     "en": "Mardaman:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A dependable partner who helps    <R>out in all sorts of ways.         <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#15",
      "jp": "マキロフ：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ム連邦人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>真面目な元ム連邦兵。　　　　　　　<R>ゼシカのファンであるらしい。　　　<E>",
-     "en": "Makirov:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A serious ex-Federation soldier.<R>Apparently a fan of Zeshika.      <E>"
+     "en": "Makirov:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Federation        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A serious ex-Federation soldier.  <R>Apparently a fan of Zeshika.      <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#16",
      "jp": "アハデ・カルフ：　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>カフィの双子の妹。踊り子で　　　　<R>ありながら戦闘力にも優れる。　　　<E>",
-     "en": "Ahade Karf:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Kafi's younger twin sister. A<R>dancer, yet also strong in combat.<E>"
+     "en": "Ahade Karf:       <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Kafi's younger twin sister. A     <R>dancer, yet also strong in combat.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#17",
      "jp": "カムチョム：　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>空賊に協力する民間人。　　　　　　<R>実は小説家でもあるらしい。　　　　<E>",
-     "en": "Kamchom:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A civilian who aids the pirates.<R>Secretly a novelist, apparently.  <E>"
+     "en": "Kamchom:          <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>A civilian who aids the pirates.  <R>Secretly a novelist, apparently.  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#18",
      "jp": "ケンリ：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>カムチョムのひとり息子。　　　　　<R>冒険に心おどらせる元気な少年。　　<E>",
-     "en": "Kenri:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Kamchom's only son.<R>A lively boy eager for adventure. <E>"
+     "en": "Kenri:            <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan             <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Kamchom's only son.               <R>A lively boy eager for adventure. <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#19",
      "jp": "イルミナ：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>女空賊　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>女空賊の中ではリーダー格。　　　　<R>戦闘の腕前は確か。　　　　　　　　<E>",
-     "en": "Illumina:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Leader among the women pirates.<R>Her combat skill is solid.        <E>"
+     "en": "Illumina:         <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Female sky pirate <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Leader among the women pirates.   <R>Her combat skill is solid.        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#20",
@@ -117,122 +117,122 @@
     {
      "id": "2D/AMPS/A01_00@56000#22",
      "jp": "メーア：　　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>ギダン人看護婦　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>ハウエズナの新妻。　　　　　　　　<R>けが人の世話をしてくれる。　　　　<E>",
-     "en": "Meer:             <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan nurse       <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Hauezna's new bride.<R>Takes care of the wounded.        <E>"
+     "en": "Meer:             <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Gidan nurse       <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Hauezna's new bride.              <R>Takes care of the wounded.        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#23",
      "jp": "チバラガ：　　　　<P13><G88><V0,0,3>　<G90><V2,1,4><P15><R>空賊　　　　　　　<P13><G89><V1,1,6>　<G91><V3,1,4><P15><R>いつも酔っているが、　　　　　　　<R>大砲の腕前は確からしい。　　　　　<E>",
-     "en": "Chibaraga:        <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Always drunk, but apparently<R>a fine hand with a cannon.        <E>"
+     "en": "Chibaraga:        <P13><G88><V0,0,3>  <G90><V2,1,4><P15><R>Sky pirate        <P13><G89><V1,1,6>  <G91><V3,1,4><P15><R>Always drunk, but apparently      <R>a fine hand with a cannon.        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#24",
      "jp": "紅蓮（ぐれん）の勲章：　　　　　　<R>ギダン国王からもらった勲章。　　　<R>燃える炎をイメージさせるデザイン。<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Crimson Medal:<R>A medal from the King of Gidan.<R>Its design evokes a blazing flame.<R>                                  <E>"
+     "en": "Crimson Medal:                    <R>A medal from the King of Gidan.   <R>Its design evokes a blazing flame.<R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#25",
      "jp": "ダミー　　　　　　　　　　　　　　<R>ダミー　　　　　　　　　　　　　　<R>ダミー　　　　　　　　　　　　　　<R>ダミー　　　　　　　　　　　　　　<E>",
-     "en": "Dummy<R>Dummy<R>Dummy<R>Dummy                             <E>"
+     "en": "Dummy                             <R>Dummy                             <R>Dummy                             <R>Dummy                             <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#26",
      "jp": "天狼星（シリウス）の勲章：　　　　<R>ギダン国王からもらった勲章。　　　<R>薄い青色の宝石がちりばめられている<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Sirius Medal:<R>A medal from the King of Gidan.<R>Studded with pale blue gemstones.<R>                                  <E>"
+     "en": "Sirius Medal:                     <R>A medal from the King of Gidan.   <R>Studded with pale blue gemstones.<R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#27",
      "jp": "紺碧（こんぺき）の勲章：　　　　　<R>ギダン国王からもらった勲章。　　　<R>紺色の大きな宝石が輝いている。　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Azure Medal:<R>A medal from the King of Gidan.<R>Its large navy-blue gem gleams.<R>                                  <E>"
+     "en": "Azure Medal:                      <R>A medal from the King of Gidan.   <R>Its large navy-blue gem gleams.   <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#28",
      "jp": "変なもの：　　　　　　　　　　　　<R>怪しげな金属のかたまりが　　　　　<R>多数、融合している。　　　　　　　<R>軽い上にとても硬い。　　　　　　　<E>",
-     "en": "Strange Object:<R>Many lumps of odd-looking metal<R>fused together.<R>Light, yet extremely hard.        <E>"
+     "en": "Strange Object:                   <R>Many lumps of odd-looking metal   <R>fused together.                   <R>Light, yet extremely hard.        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#29",
      "jp": "カギ束：　　　　　　　　　　　　　<R>宝石で飾られた立派なカギが　　　　<R>多数束ねられている。　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Bunch of Keys:<R>Many fine keys adorned with<R>jewels, bound together.<R>                                  <E>"
+     "en": "Bunch of Keys:                    <R>Many fine keys adorned with       <R>jewels, bound together.           <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#30",
      "jp": "紫のバラの花束：　　　　　　　　　<R>若い兵士から渡された　　　　　　　<R>ゼシカへのプレゼント。　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Purple Rose Bouquet:<R>Handed over by a young soldier,<R>a present for Zeshika.<R>                                  <E>"
+     "en": "Purple Rose Bouquet:              <R>Handed over by a young soldier,   <R>a present for Zeshika.            <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#31",
      "jp": "ファンレター：　　　　　　　　　　<R>若い兵士から渡された　　　　　　　<R>ゼシカへの手紙。　　　　　　　　　<R>多分、熱き思いがこめられている。　<E>",
-     "en": "Fan Letter:<R>Handed over by a young soldier,<R>a letter for Zeshika.<R>Probably full of burning passion. <E>"
+     "en": "Fan Letter:                       <R>Handed over by a young soldier,   <R>a letter for Zeshika.             <R>Probably full of burning passion. <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#32",
      "jp": "チェリーの砂糖漬：　　　　　　　　<R>若い兵士から渡された　　　　　　　<R>ゼシカへのプレゼント。　　　　　　<R>つまみぐいしたくなるほどおいしそう<E>",
-     "en": "Candied Cherries:<R>Handed over by a young soldier,<R>a present for Zeshika.<R>Tempting enough to sneak a bite.<E>"
+     "en": "Candied Cherries:                 <R>Handed over by a young soldier,   <R>a present for Zeshika.            <R>Tempting enough to sneak a bite.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#33",
      "jp": "ヘビ酒：　　　　　　　　　　　　　<R>滋養強壮に効果が高い毒蛇を　　　　<R>３年以上漬け込んだ強いお酒。　　　<R>ぴりっとする味だがクセになる。　　<E>",
-     "en": "Snake Wine:<R>Hard liquor with a venomous snake,<R>good for vigor, steeped 3+ years.<R>A sharp bite, but habit-forming.  <E>"
+     "en": "Snake Wine:                       <R>Hard liquor with a venomous snake,<R>good for vigor, steeped 3+ years. <R>A sharp bite, but habit-forming.  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#34",
      "jp": "木箱：　　　　　　　　　　　　　　<R>ブアブナムから預かった重い箱。　　<R>パナスガルで待つム連邦の軍人に　　<R>渡さなければならない。　　　　　　<E>",
-     "en": "Wooden Crate:<R>Heavy crate entrusted by Buabnam.<R>Must be delivered to a Federation<R>soldier waiting in Panasgal.      <E>"
+     "en": "Wooden Crate:                     <R>Heavy crate entrusted by Buabnam. <R>Must be delivered to a Federation <R>soldier waiting in Panasgal.      <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#35",
      "jp": "密書：　　　　　　　　　　　　　　<R>ブアブナムから預かった、厳重に封　<R>された封筒。パナスガルで待つム連邦<R>の軍人に渡さなければならない。　　<E>",
-     "en": "Secret Letter:<R>A tightly sealed envelope from<R>Buabnam. Must go to a Federation<R>soldier waiting in Panasgal.      <E>"
+     "en": "Secret Letter:                    <R>A tightly sealed envelope from    <R>Buabnam. Must go to a Federation<R>soldier waiting in Panasgal.      <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#36",
      "jp": "ＳＨＧオイル：　　　　　　　　　　<R>スペシャルハイグレードオイル。　　<R>エンジンパワーが５％アップする　　<R>という潤滑油。　　　　　　　　　　<E>",
-     "en": "SHG Oil:<R>Special High-Grade Oil.<R>A lubricant said to raise engine<R>power by 5%.                      <E>"
+     "en": "SHG Oil:                          <R>Special High-Grade Oil.           <R>A lubricant said to raise engine  <R>power by 5%.                      <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#37",
      "jp": "空賊のしるし：　　　　　　　　　　<R>空賊ダ・クダにもらった、　　　　　<R>空賊の仲間である証の品。　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Sky Pirate Mark:<R>A token from sky pirate Da Kuda,<R>proof you're one of the pirates.<R>                                  <E>"
+     "en": "Sky Pirate Mark:                  <R>A token from sky pirate Da Kuda,  <R>proof you're one of the pirates.  <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#38",
      "jp": "ダ・クダの手紙：　　　　　　　　　<R>ダ・クダにたくされた手紙。　　　　<R>「ダハ」にいるブアブナムという男に<R>渡さなければいけない。　　　　　　<E>",
-     "en": "Da Kuda's Letter:<R>A letter Da Kuda entrusted to you.<R>Deliver it to a man named Buabnam<R>in \"Daha\".                        <E>"
+     "en": "Da Kuda's Letter:                 <R>A letter Da Kuda entrusted to you.<R>Deliver it to a man named Buabnam<R>in \"Daha\".                        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#39",
      "jp": "装甲板の材料：　　　　　　　　　　<R>資材置き場で拾った装甲板の材料。　<R>フラグナムに頼めば、臨時用の　　　<R>装甲板を作ってくれるかも。　　　　<E>",
-     "en": "Armor Plate Materials:<R>Armor material found at the depot.<R>Ask Fragnum and she may make you<R>some makeshift armor plates.      <E>"
+     "en": "Armor Plate Materials:            <R>Armor material found at the depot.<R>Ask Fragnum and she may make you  <R>some makeshift armor plates.      <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#40",
      "jp": "医療品セット：　　　　　　　　　　<R>薬が不足して困っている　　　　　　<R>ナデス島のドクターに渡せば、　　　<R>とても喜んでもらえるはず。　　　　<E>",
-     "en": "Medical Kit:<R>Give this to the Doctor on Nades<R>Island, who's short on medicine,<R>and it'll surely be very welcome. <E>"
+     "en": "Medical Kit:                      <R>Give this to the Doctor on Nades  <R>Island, who's short on medicine,  <R>and it'll surely be very welcome. <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#41",
      "jp": "記念写真：　　　　　　　　　　　　<R>アザミグで撮った記念写真。　　　　<R>うしろにギダンの軍人チャンタケが　<R>写っている。　　　　　　　　　　　<E>",
-     "en": "Souvenir Photo:<R>A souvenir photo taken in Azamig.<R>Chantake, a Gidan soldier, is in<R>the background.                   <E>"
+     "en": "Souvenir Photo:                   <R>A souvenir photo taken in Azamig. <R>Chantake, a Gidan soldier, is in  <R>the background.                   <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#42",
      "jp": "裂弾：　　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>命中すると、中の弾体が破裂し　　　<R>威力を増す弾丸。　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Burst Shell:        <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round whose inner core bursts on<R>impact for extra power.<R>                                  <E>"
+     "en": "Burst Shell:        <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round whose inner core bursts on<R>impact for extra power.           <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#43",
      "jp": "散弾：　　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>発射から一定時間で内部の子爆弾を　<R>まき散らし、広範囲に爆発効果を　　<R>発生させる弾丸。　　　　　　　　　<E>",
-     "en": "Scatter Shell:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round that scatters bomblets a<R>set time after firing, blasting<R>a wide area.                      <E>"
+     "en": "Scatter Shell:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round that scatters bomblets a  <R>set time after firing, blasting   <R>a wide area.                      <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#44",
      "jp": "徹甲弾：　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>弾頭の先に鋭い硬質金属の笠を　　　<R>かぶせた弾丸。　　　　　　　　　　<R>装甲を貫く力が高い。　　　　　　　<E>",
-     "en": "Armor Piercer:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round whose tip is capped with<R>sharp, hard metal.<R>High armor-piercing power.        <E>"
+     "en": "Armor Piercer:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round whose tip is capped with  <R>sharp, hard metal.                <R>High armor-piercing power.        <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#45",
      "jp": "焼夷弾：　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>命中すると、中の火薬が爆発し火災を<R>発生させる弾丸。　　　　　　　　　<R>裂弾の強化版。　　　　　　　　　　<E>",
-     "en": "Incendiary Shell:   <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round whose powder explodes on<R>impact and starts fires.<R>An upgraded burst shell.          <E>"
+     "en": "Incendiary Shell:   <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round whose powder explodes on<R>impact and starts fires.          <R>An upgraded burst shell.          <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#46",
@@ -242,12 +242,12 @@
     {
      "id": "2D/AMPS/A01_00@56000#47",
      "jp": "ねじり徹甲弾：　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>弾丸の側面にらせん状のみぞが　　　<R>彫られた徹甲弾。回転しながら命中　<R>するので、貫通力が高い。　　　　　<E>",
-     "en": "Spiral Piercer:     <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>An armor piercer with spiral<R>grooves cut in its sides. It spins<R>as it hits for greater penetration<E>"
+     "en": "Spiral Piercer:     <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>An armor piercer with spiral      <R>grooves cut in its sides. It spins<R>as it hits for greater penetration<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#48",
      "jp": "ロケット弾：　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>火薬を弾丸内部にもち、ロケット噴射<R>で高速に飛んでいく弾丸。　　　　　<R>破壊力が大きい。　　　　　　　　　<E>",
-     "en": "Rocket:             <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round carrying its own powder,<R>flying fast on rocket thrust.<R>Great destructive power.          <E>"
+     "en": "Rocket:             <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round carrying its own powder,<R>flying fast on rocket thrust.     <R>Great destructive power.          <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#49",
@@ -257,47 +257,47 @@
     {
      "id": "2D/AMPS/A01_00@56000#50",
      "jp": "強化裂弾：　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>裂弾の内部の火薬を倍増したもの。　<R>　　　　　　　　　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Heavy Burst Shell:  <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A burst shell packed with twice<R>the gunpowder.<R>                                  <E>"
+     "en": "Heavy Burst Shell:  <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A burst shell packed with twice   <R>the gunpowder.                    <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#51",
      "jp": "三式弾：　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>ぶどう弾よりさらに大きな子爆弾を　<R>内蔵した散弾。　　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Type 3 Shell:       <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A scatter shell with bomblets<R>even bigger than grapeshot's.<R>                                  <E>"
+     "en": "Type 3 Shell:       <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A scatter shell with bomblets     <R>even bigger than grapeshot's.     <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#52",
      "jp": "メタル徹甲弾：　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>徹甲弾の笠を硬い金属ミスリルで　　<R>おおった弾丸。　　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Metal Piercer:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>An armor piercer with its cap<R>clad in mithril, a hard metal.<R>                                  <E>"
+     "en": "Metal Piercer:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>An armor piercer with its cap     <R>clad in mithril, a hard metal.    <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#53",
      "jp": "風船爆弾：　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>ふわふわとただよう風船の下に、　　<R>接触すると爆発する爆薬を　　　　　<R>つけたもの。　　　　　　　　　　　<E>",
-     "en": "Balloon Bomb:       <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A balloon drifting lazily along,<R>with explosives hung beneath it<R>that blow up on contact.          <E>"
+     "en": "Balloon Bomb:       <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A balloon drifting lazily along,  <R>with explosives hung beneath it   <R>that blow up on contact.          <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#54",
      "jp": "浮遊機雷：　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>空中に設置しておけば、　　　　　　<R>接触した敵機がダメージを受ける。　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Floating Mine:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>Placed in midair, it damages any<R>enemy craft that touches it.<R>                                  <E>"
+     "en": "Floating Mine:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>Placed in midair, it damages any  <R>enemy craft that touches it.      <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#55",
      "jp": "誘導ロケット弾：　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>ロケット弾に有線誘導式の安定翼を　<R>つけた誘導弾。　　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Guided Rocket:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A rocket fitted with wire-guided<R>stabilizer fins. A guided round.<R>                                  <E>"
+     "en": "Guided Rocket:      <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A rocket fitted with wire-guided  <R>stabilizer fins. A guided round.  <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#56",
      "jp": "ホーミング魚雷：　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>プロペラ魚雷に有線誘導式の安定翼を<R>つけた誘導弾。　　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Homing Torpedo:     <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A propeller torpedo fitted with<R>wire-guided stabilizer fins.<R>A guided round.                   <E>"
+     "en": "Homing Torpedo:     <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A propeller torpedo fitted with<R>wire-guided stabilizer fins.      <R>A guided round.                   <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#57",
      "jp": "パスク弾：　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>火薬の代わりに電磁気の作用で高速に<R>発射される弾丸。　　　　　　　　　<R>当たるとかなりのダメージを受ける。<E>",
-     "en": "Pask Rounds:        <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round fired at high speed by<R>electromagnetism, not gunpowder.<R>A hit does heavy damage.<E>"
+     "en": "Pask Rounds:        <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round fired at high speed by<R>electromagnetism, not gunpowder.  <R>A hit does heavy damage.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#58",
      "jp": "ガード：　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>回りの弾丸を誘爆させる効果の弾薬。<R>自分の船の撃った弾も　　　　　　　<R>消滅してしまうので注意。　　　　　<E>",
-     "en": "Guard:              <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>Ammo that detonates nearby rounds.<R>Careful: it also wipes out shots<R>fired by your own ship.           <E>"
+     "en": "Guard:              <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>Ammo that detonates nearby rounds.<R>Careful: it also wipes out shots  <R>fired by your own ship.           <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#59",
@@ -317,7 +317,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#62",
      "jp": "絶命弾：　　　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>一発で致命的なダメージを与えること<R>のできる弾。　　　　　　　　　　　<R>命中率は低い。　　　　　　　　　　<E>",
-     "en": "Deathblow Shell:    <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round that can deal fatal damage<R>in a single shot.<R>Low accuracy.                     <E>"
+     "en": "Deathblow Shell:    <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A round that can deal fatal damage<R>in a single shot.                 <R>Low accuracy.                     <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#63",
@@ -392,7 +392,7 @@
     {
      "id": "2D/AMPS/A01_00@56000#77",
      "jp": "修理キット：　　　　<P13><G87><V1,1,4>　<G86><V0,1,4><P15><R>修理道具がワンセットつまった　　　<R>工具箱。　　　　　　　　　　　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Repair Kit:         <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A toolbox holding a full set of<R>repair tools.<R>                                  <E>"
+     "en": "Repair Kit:         <P13><G87><V1,1,4>  <G86><V0,1,4><P15><R>A toolbox holding a full set of   <R>repair tools.                     <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#78",
@@ -402,27 +402,27 @@
     {
      "id": "2D/AMPS/A01_00@56000#79",
      "jp": "金：　　　　　　　　　　　　<P13><V1,1,4>個<R>貴金属。どんな薬品にも侵されない。<R>金はいつの時代も、安定した価値を　<R>たもっている。　　　　　　　　　　<E>",
-     "en": "Gold:                       <P13><V1,1,4><R>A precious metal untouched by any<R>chemical. Gold has held a steady<R>value through every age.          <E>"
+     "en": "Gold:                       <P13><V1,1,4><R>A precious metal untouched by any<R>chemical. Gold has held a steady  <R>value through every age.          <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#80",
      "jp": "ミスリル：　　　　　　　　　<P13><V1,1,4>個<R>軽く、硬い金属。　　　　　　　　　<R>精錬することが非常に難しい。　　　<R>　　　　　　　　　　　　　　　　　<E>",
-     "en": "Mithril:                    <P13><V1,1,4><R>A light, hard metal.<R>Extremely difficult to refine.<R>                                  <E>"
+     "en": "Mithril:                    <P13><V1,1,4><R>A light, hard metal.              <R>Extremely difficult to refine.    <R>                                  <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#81",
      "jp": "黄色ターメリック：　　　　　<P13><V1,1,4>個<R>ギダンの料理には欠かせないスパイス<R>で、鮮やかな黄色と素朴なかおりが　<R>特徴。染料としても用いられている。<E>",
-     "en": "Yellow Turmeric:            <P13><V1,1,4><R>A spice vital to Gidan cooking,<R>known for its vivid yellow and<R>earthy aroma. Also used as a dye.<E>"
+     "en": "Yellow Turmeric:            <P13><V1,1,4><R>A spice vital to Gidan cooking,<R>known for its vivid yellow and    <R>earthy aroma. Also used as a dye.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#82",
      "jp": "サメハダワサビ：　　　　　　<P13><V1,1,4>個<R>緑色をしたペースト状スパイス。　　<R>殺菌効果も高く、様々な料理に　　　<R>珍重される。　　　　　　　　　　　<E>",
-     "en": "Sharkskin Wasabi:           <P13><V1,1,4><R>A green, paste-like spice.<R>Strongly antibacterial and prized<R>in all kinds of dishes.           <E>"
+     "en": "Sharkskin Wasabi:           <P13><V1,1,4><R>A green, paste-like spice.        <R>Strongly antibacterial and prized <R>in all kinds of dishes.           <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#83",
      "jp": "昇天フカヒレ：　　　　　　　<P13><V1,1,4>個<R>深海に住む大型サメのヒレを　　　　<R>乾燥させたもの。　　　　　　　　　<R>この食感は一度食べたら忘れられない<E>",
-     "en": "Heavenly Shark Fin:         <P13><V1,1,4><R>Dried fin of a large shark from<R>the deep sea.<R>A texture you'll never forget.<E>"
+     "en": "Heavenly Shark Fin:         <P13><V1,1,4><R>Dried fin of a large shark from   <R>the deep sea.                     <R>A texture you'll never forget.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#84",
@@ -432,17 +432,17 @@
     {
      "id": "2D/AMPS/A01_00@56000#85",
      "jp": "ダナまんじゅう：　　　　　　<P13><V1,1,4>個<R>サクサクとした皮にもちもちと　　　<R>したあんこが入っている。　　　　　<R>ダナスピ名物として有名。　　　　　<E>",
-     "en": "Dana Buns:                  <P13><V1,1,4><R>A crisp crust filled with chewy<R>sweet bean paste.<R>A famous specialty of Danaspi.    <E>"
+     "en": "Dana Buns:                  <P13><V1,1,4><R>A crisp crust filled with chewy   <R>sweet bean paste.                 <R>A famous specialty of Danaspi.    <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#86",
      "jp": "ドラゴンの薫製（くんせい）：<P13><V1,1,4>個<R>１００年から１０００年の寿命を持つ<R>と言われる大型は虫類の干物。　　　<R>不老長寿の妙薬・・・？！　　　　　<E>",
-     "en": "Smoked Dragon:<P13><V1,1,4><R>Dried meat of a big reptile said<R>to live from 100 to 1000 years.<R>An elixir of eternal youth...?!   <E>"
+     "en": "Smoked Dragon:<P13><V1,1,4><R>Dried meat of a big reptile said<R>to live from 100 to 1000 years.   <R>An elixir of eternal youth...?!   <E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#87",
      "jp": "大ラッコの毛皮：　　　　　　<P13><V1,1,4>個<R>身のたけ５メートルはある極地に生息<R>する大型の水棲肉食ほ乳類の毛皮。　<R>とても美しい毛並みと保温性をもつ。<E>",
-     "en": "Giant Sea Otter Pelt:       <P13><V1,1,4><R>Pelt of a huge carnivorous aquatic<R>polar mammal, 5 meters or more.<R>Its fur is lovely and very warm.<E>"
+     "en": "Giant Sea Otter Pelt:       <P13><V1,1,4><R>Pelt of a huge carnivorous aquatic<R>polar mammal, 5 meters or more.   <R>Its fur is lovely and very warm.<E>"
     },
     {
      "id": "2D/AMPS/A01_00@56000#88",
