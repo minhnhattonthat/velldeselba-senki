@@ -17,3 +17,4 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D9 | 2026-10-23 | Sound effects in text | translate; romaji; drop | Translate to English onomatopoeia (e.g. ドーン -> "Boom!") |
 | D10 | 2026-10-24 | FMV subtitle background (user request) | black box behind the text; none | No background fill: outlined white text straight on the video |
 | D11 | 2026-10-24 | Publishing v1.0 (user request) | make repo public; keep private | Public repo minhnhattonthat/velldeselba-senki, release v1.0 on GitHub |
+| D12 | 2026-10-29 | Publishing v1.1 (user request) | - | Release v1.1 (font fix for issue #1) on GitHub, minhnhattonthat |
