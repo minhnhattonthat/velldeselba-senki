@@ -15,6 +15,18 @@ def test_rom_pin():
     check_rom.check()
 
 
+def test_font_bolds_back_to_spleen():
+    import font
+    src = font._bdf()
+    for c, rows in font.glyphs().items():
+        if c != "\x7f":
+            orig = src[ord(c)][font.SKIP_TOP:font.SKIP_TOP + font.ROWS]
+            for r, o in zip(rows, orig):
+                drawn = r | r >> 1  # the game ORs each pixel one to the right
+                lone = o & ~(o << 1) & ~(o >> 1)
+                assert drawn & o == o and drawn & ~o == lone >> 1, c  # only a lone pixel comes out 1 px wider
+
+
 def test_worldmap_edits_only_labelled_pictures():
     import worldmap
     for rel, specs in worldmap.FILES.items():

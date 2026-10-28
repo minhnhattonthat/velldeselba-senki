@@ -1,6 +1,7 @@
 """font.py: the 8x15 half-width font for English (docs/fonts.md), from fonts/spleen-8x16.bdf.
 
-glyphs() -> {char: 15 row bytes, MSB = leftmost pixel}, for ASCII 0x20-0x7F (0x7F = a blank pad glyph).
+glyphs() -> {char: 15 row bytes, MSB = leftmost pixel}, for ASCII 0x20-0x7F (0x7F = a blank pad glyph),
+pre-thinned for the game's horizontal emboldening.
 blob() -> 96 * 15 bytes in code order, the table the hook (tools/asm/hook.asm) indexes.
 """
 from pathlib import Path
@@ -26,13 +27,19 @@ def _bdf(path=BDF):
     return out
 
 
+def thin(row):
+    """Drop the last pixel of each horizontal run (keep lone pixels): the game's glyph converter ORs every pixel
+    one to the right, so the drawn letter comes out as Spleen's own shape instead of 1 px bolder (issue #1)."""
+    return row & ((row << 1) | ~(row >> 1)) & 0xFF
+
+
 def glyphs():
     src = _bdf()
     g = {}
     for code in range(0x20, 0x7F):
         rows = src[code]
         assert len(rows) == 16, (chr(code), len(rows))
-        g[chr(code)] = rows[SKIP_TOP:SKIP_TOP + ROWS]
+        g[chr(code)] = bytes(thin(r) for r in rows[SKIP_TOP:SKIP_TOP + ROWS])
     g["\x7f"] = bytes(ROWS)
     return g
 

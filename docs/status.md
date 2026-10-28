@@ -72,6 +72,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Staff roll engine notes: STAFF.EXE sends codes > 0x989E to its own kanji table (patched to 0xFFFF,
     patch_exe.STAFF_SPLIT); roles are right-aligned by x in a 16-byte entry table (tools/staffroll.py); English
     only fits when packed (exetext repack mode).
+- **Issue #1 (font hard to read), fixed 2026-10-29:** the game's glyph converter ORs each pixel one to the right,
+  so Spleen's 2 px stems drew 3 px and letters touched. `font.thin` drops the last pixel of each run; drawn
+  text is now Spleen's own shape (seen in dialogue, work/qa/font1). Not yet re-seen: field/3D menus, name entry,
+  staff roll (if any renderer doesn't bold, its text is 1 px thin there). Re-run texttour + banner tour and
+  `qa_gate.py init` before release 1.1 (sheets changed).
 - **Open bugs:** none.
 - **Waiting on the user:** nothing.
 - **States:** `work/states/en_intro_fmv.sstate` (built disc incl. name entry, f30000 of New Game; regenerate after
