@@ -75,8 +75,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Issue #1 (font hard to read), fixed 2026-10-29:** the game's glyph converter ORs each pixel one to the right,
   so Spleen's 2 px stems drew 3 px and letters touched. `font.thin` drops the last pixel of each run; drawn
   text is now Spleen's own shape (seen in dialogue, work/qa/font1). Not yet re-seen: field/3D menus, name entry,
-  staff roll (if any renderer doesn't bold, its text is 1 px thin there). Re-run texttour + banner tour and
-  `qa_gate.py init` before release 1.1 (sheets changed).
+  staff roll (if any renderer doesn't bold, its text is 1 px thin there).
+- **v1.1 released 2026-10-29** (user request): font fix only. Tours re-run, 27/27 sheets ok (v1.0 verdicts moved
+  to work/qa/verdicts_v1.0: a re-created manifest gives new rows changed=0, so old verdicts would count). Patch
+  SHA-1 12339e24f992d32b6afbdd077571c09a1ee3fef7, patched .bin d36c6943f793b53f0bbe51491d9e3d5a63b00add.
+  tour2d m23 failed once (emulator exit -1), fine on a rerun.
 - **Open bugs:** none.
 - **Waiting on the user:** nothing.
 - **States:** `work/states/en_intro_fmv.sstate` (built disc incl. name entry, f30000 of New Game; regenerate after
