@@ -9,6 +9,21 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story | Translated |
+| Menus, items, profiles, system messages | Translated |
+| FMV cutscenes | Translated (English subtitles added) |
+| Title logo and graphics with text | Translated (title logo, world maps, ship pictures, airship route map) |
+| Name entry | Translated (English letter grid) |
+| Staff roll | Translated |
+| 3D sortie menus and messages | Translated (combat results not yet checked in play) |
+
+Known issues: none known. Not yet seen in play: shops, save screens, 3D combat results.
+[Report one](../../issues/new/choose).
+
 ## What's here
 
 | Path | What it is |
